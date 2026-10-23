@@ -174,6 +174,70 @@ document.addEventListener("visibilitychange", () => {
   waiting.clear();
 });
 
+// ---- Markets ----
+
+// CNBC's quote service allows browser requests, so quotes update live with no workflow. Outside regular
+// hours it returns the last session's close and change, which is what the tile shows (Rudy's choice).
+// Its `curmktstatus` can't say whether the market is open: the indexes still read REG_MKT at 7:30 PM, so
+// the clock decides instead.
+const QUOTES_URL = `https://quote.cnbc.com/quote-html-webservice/restQuote/symbolType/symbol?${new URLSearchParams({
+  symbols: ".SPX|.IXIC", requestMethod: "itv", noform: "1", partnerId: "2", fund: "1", exthrs: "1", output: "json", events: "1",
+})}`;
+const INDEXES = [[".SPX", "S&P 500"], [".IXIC", "Nasdaq"]]; // Nasdaq = the Composite, as in the news
+const CLOSED_MS = 10 * 60 * 1000;
+
+// Weekdays 9:30 AM–4 PM Eastern. Holidays aren't listed: on one, the newest quote is from an earlier day,
+// so the tile still says Closed (it just polls every minute until 4).
+function inMarketHours(now = new Date()) {
+  const parts = Object.fromEntries(new Intl.DateTimeFormat("en-US", {
+    timeZone: "America/New_York", weekday: "short", hour: "numeric", minute: "numeric", hourCycle: "h23",
+  }).formatToParts(now).map((p) => [p.type, p.value]));
+  const mins = Number(parts.hour) * 60 + Number(parts.minute);
+  return !["Sat", "Sun"].includes(parts.weekday) && mins >= 9 * 60 + 30 && mins < 16 * 60;
+}
+
+// CNBC sends strings with up to 3 decimals ("25,955.162"); show 2, with a real minus sign.
+const num2 = (s) => Number(String(s).replace(/,/g, "")).toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const signed2 = (s) => { const n = Number(String(s).replace(/,/g, "")); return `${n < 0 ? "−" : n > 0 ? "+" : ""}${num2(Math.abs(n))}`; };
+
+let quotesShown = false;
+async function refreshMarkets() {
+  clearTimeout(timers.markets);
+  const hours = inMarketHours();
+  try {
+    const res = await fetch(QUOTES_URL);
+    if (!res.ok) throw new Error(`quotes: HTTP ${res.status}`);
+    const quotes = (await res.json()).FormattedQuoteResult.FormattedQuote;
+    const bySymbol = Object.fromEntries(quotes.map((q) => [q.symbol, q]));
+    const rows = INDEXES.map(([symbol, name]) => ({ name, q: bySymbol[symbol] }));
+    if (rows.some((r) => !r.q?.change_pct)) throw new Error("quotes: an index is missing");
+    const cells = rows.map(({ name, q }) => {
+      const dir = q.changetype === "UP" ? "up" : q.changetype === "DOWN" ? "down" : "flat";
+      const arrow = { up: "▲", down: "▼", flat: "" }[dir];
+      return `<div class="index ${dir}">
+        <p class="ix-name">${esc(name)}</p>
+        <p class="ix-pct"><span aria-hidden="true">${arrow}</span> ${esc(q.change_pct.replace(/^[+-]/, ""))}<span class="visually-hidden"> ${dir}</span></p>
+        <p class="ix-sub">${esc(signed2(q.change))} · ${esc(num2(q.last))}</p>
+      </div>`;
+    }).join("");
+    const asOf = rows[0].q.last_time;
+    const session = etDate(new Date(asOf));
+    const open = hours && session === todayET();
+    const closeLabel = session === todayET() ? "Today's close" : `${dayOf(session).toLocaleDateString(undefined, { weekday: "long" })}'s close`;
+    fill("markets", {
+      tag: open ? "Live" : "Closed",
+      hot: open,
+      body: `<div class="indexes">${cells}</div>`,
+      when: open ? `As of ${esc(fmtTime(asOf))} · updates every minute` : closeLabel,
+    });
+    quotesShown = true;
+  } catch (e) {
+    if (!quotesShown) failTile("markets", e, "Couldn't load market quotes.");
+    else console.warn("[daily] markets refresh failed; showing the last quotes:", e);
+  }
+  timers.markets = setTimeout(() => whenVisible(refreshMarkets), hours ? LIVE_MS : CLOSED_MS);
+}
+
 // ---- Upsets ----
 
 async function renderUpsets() {
@@ -249,6 +313,7 @@ async function renderYoutube() {
 
 function renderDaily() {
   document.getElementById("subline").textContent = new Date().toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" });
+  refreshMarkets();
   renderNews();
   renderUpsets();
   renderYoutube();
