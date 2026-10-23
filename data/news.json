@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T03:54:56.194Z",
+  "updated": "2026-10-23T09:25:33.770Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-          "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-23T01:38:44.000Z"
-        },
-        {
-          "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
-          "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-22T23:16:20.000Z"
-        },
-        {
-          "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
-          "link": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead",
+          "title": "With jet fuel prices near a record, holiday airfares soar higher",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
           "source": "NPR",
-          "published": "2026-10-22T20:12:52.000Z"
+          "published": "2026-10-23T09:00:00.000Z"
+        },
+        {
+          "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
+          "source": "NPR",
+          "published": "2026-10-23T09:00:00.000Z"
+        },
+        {
+          "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+          "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-23T08:45:58.000Z"
         }
       ]
     },
