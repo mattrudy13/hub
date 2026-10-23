@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T09:25:35.541Z",
+  "updated": "2026-10-23T15:12:13.950Z",
   "failed": [],
   "channels": [
     {
@@ -52,6 +52,13 @@
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_kuXNVNDCc9eo0GH_AXQcDfAGPJuph3Mny_EcLfsUHzCkc=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "JZRzmyfO2A0",
+          "title": "Sticky Ricky Starts a New Business in GTA RP",
+          "published": "2026-10-23T15:00:23Z",
+          "thumb": "https://i.ytimg.com/vi/JZRzmyfO2A0/mqdefault.jpg",
+          "seen": "2026-10-23T15:12:12.357Z"
+        },
+        {
           "id": "dIJzbIwvBXc",
           "title": "The Neighbors Final Fight in GTA RP",
           "published": "2026-10-16T15:00:02Z",
@@ -78,13 +85,6 @@
           "published": "2026-09-27T15:00:25Z",
           "thumb": "https://i.ytimg.com/vi/AAMhuJnrLck/mqdefault.jpg",
           "seen": "2026-09-27T15:00:25Z"
-        },
-        {
-          "id": "PFpXmNuPZRI",
-          "title": "We were Just Trying To Visit in GTA RP",
-          "published": "2026-09-25T15:00:19Z",
-          "thumb": "https://i.ytimg.com/vi/PFpXmNuPZRI/mqdefault.jpg",
-          "seen": "2026-09-25T15:00:19Z"
         }
       ]
     },

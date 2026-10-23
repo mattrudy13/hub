@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T09:25:33.770Z",
+  "updated": "2026-10-23T15:12:11.951Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "With jet fuel prices near a record, holiday airfares soar higher",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
-          "source": "NPR",
-          "published": "2026-10-23T09:00:00.000Z"
-        },
-        {
-          "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
-          "source": "NPR",
-          "published": "2026-10-23T09:00:00.000Z"
-        },
-        {
-          "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-          "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+          "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-23T08:45:58.000Z"
+          "published": "2026-10-23T15:06:27.000Z"
+        },
+        {
+          "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-23T15:00:27.000Z"
+        },
+        {
+          "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
+          "source": "NPR",
+          "published": "2026-10-23T14:16:10.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Young Americans are giving up their cars. It can be a path to financial freedom.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1767a25e-50c4-43ae-8096-315c9f49c862&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-22T23:25:29.000Z"
-        },
-        {
-          "title": "Stock market is fracturing into two camps, leaving investors with whiplash",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=48b6fd83-9fae-477b-8730-05d86dfa66cb&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-22T22:28:05.000Z"
-        },
-        {
-          "title": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
-          "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+          "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+          "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
           "source": "CNBC",
-          "published": "2026-10-22T21:52:02.000Z"
+          "published": "2026-10-23T15:04:33.000Z"
+        },
+        {
+          "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+          "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+          "source": "CNBC",
+          "published": "2026-10-23T14:55:36.000Z"
+        },
+        {
+          "title": "Economic calendar: Factory and services data due, plus consumer mood",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=01f3894e-0239-4b3e-ba75-cbc76453e960&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-23T11:44:25.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Etsy is cracking down on AI slop listings",
-          "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+          "title": "Meta delays new business terms after publisher pushback on AI scraping",
+          "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
           "source": "The Verge",
-          "published": "2026-10-23T00:09:58.000Z"
+          "published": "2026-10-23T14:47:41.000Z"
         },
         {
-          "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
-          "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+          "title": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
+          "link": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
           "source": "The Verge",
-          "published": "2026-10-22T23:02:43.000Z"
+          "published": "2026-10-23T14:42:46.000Z"
         },
         {
-          "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
-          "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+          "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
+          "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
           "source": "Ars Technica",
-          "published": "2026-10-22T22:25:33.000Z"
+          "published": "2026-10-23T13:43:21.000Z"
         }
       ]
     }
