@@ -19,6 +19,7 @@ no link to the portfolio at the root (that site is recruiter-facing and separate
 - `daily.html` + `daily.js`: the Daily page (see below).
 - `scripts/news.mjs`, `scripts/upsets.mjs`, `scripts/youtube.mjs`: write `data/*.json` for the Daily page, run
   hourly by `.github/workflows/update-daily.yml`.
+- `worker/`: the Cloudflare cron Worker that starts the workflow hourly (see Daily page).
 - `channels.txt`: the YouTube channels on the Daily page, one URL or @handle per line.
 
 ## Data sources per tile (paths under https://mattrudy13.github.io/)
@@ -64,12 +65,13 @@ doesn't move and scrolls by hand instead.
 
 ## Daily page (`daily.html`, added 2026-10-22, v0.2)
 
-Rudy's "what happened today" page: headlines, college scores, upsets and new YouTube videos. Theme toggle
+Rudy's "what happened today" page: markets, headlines, college scores, upsets and new YouTube videos. Theme toggle
 only, no Arcade mode (Rudy's choice: double wording isn't worth it for headlines). Linked from the hub
 masthead ("Daily →") and back ("← Hub").
 
 | Tile | Source | Rules |
 |---|---|---|
+| Markets | CNBC quote service, live in the browser | S&P 500 (`.SPX`) and Nasdaq Composite (`.IXIC`): % change big, points and level small (2 decimals). Top of the page on every width (first on a phone). Live = weekdays 9:30 AM–4 PM ET and the newest quote is from today, polled every 60 s; otherwise Closed, showing the last session's change ("Thursday's close"), rechecked every 10 min. CNBC's `curmktstatus` is useless for this (still `REG_MKT` at 7:30 PM). No holiday list: a holiday's newest quote is from an earlier day, so it reads Closed. CNBC's CDN returns Access Denied without a browser User-Agent, so test with `curl -A "Mozilla/5.0 …"`. |
 | Headlines | `data/news.json` (`news.mjs`) | US & World (NPR, BBC World), Business (CNBC top news, MarketWatch bulletins), Tech (The Verge, Ars Technica). 3 per section (Rudy cut it from 5), newest first, max 2 per source so both feeds show. A failed feed keeps its last headlines. |
 | College Football / Basketball | ESPN scoreboard, live in the browser | Yesterday + today (ET). Shown: any Top 25 team, UVA (team id 258) or ACC (conferenceId 1 in football, 2 in basketball). Basketball = default board + `groups=2` (the full D-I board is ~1.7 MB). First 10 games, then "Show N more". Polls every 60 s while a game is live or due, every 10 min if games are later today, never in a hidden tab. |
 | Upsets | `data/upsets.json` (`upsets.mjs`) | Underdog of 7+ points (DraftKings line via ESPN) won outright, any FBS or D-I men's game, yesterday + today. |
@@ -86,6 +88,12 @@ masthead ("Daily →") and back ("← Hub").
 - **YouTube API key:** repo secret `YOUTUBE_API_KEY` (YouTube Data API v3). Without it the step skips. Each
   channel costs 2 quota units per run (10,000/day free). Public channel RSS feeds were returning 404/500 in
   Oct 2026, which is why the API is used.
+- **Cron Worker (`worker/`):** GitHub's schedule ran only 3 of ~10 hourly jobs on 2026-10-23, so the Cloudflare
+  Worker `hub-daily-cron` (same account as h2h's proxy) starts the workflow with `workflow_dispatch` at the same
+  times. It has no URL (`workers_dev = false`) and only a `scheduled` handler. Secret `GITHUB_TOKEN`: a
+  fine-grained token for `mattrudy13/hub` only, Actions read/write. Deploy with `cd worker && npx wrangler deploy`
+  (pushing doesn't deploy it). The workflow's own cron stays as a fallback; a doubled run commits nothing new.
+  If runs stop: Cloudflare dashboard → Workers → hub-daily-cron → Logs, or an expired token.
 - **Workflow:** hourly at :20 from 10:20 to 04:20 UTC (6 AM–midnight EDT). Each step runs even if another
   fails; changed files are committed as `chore(data): refresh daily data …` (ignoring `updated`), then the
   run fails if any step did, so GitHub emails. "Running late" shows when a file is over 8 h old.
