@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-23T03:40:58.531Z",
+  "minLine": 7,
+  "days": [
+    "2026-10-21",
+    "2026-10-22"
+  ],
+  "upsets": [
+    {
+      "league": "cfb",
+      "date": "2026-10-22",
+      "id": "401869845",
+      "line": 12.5,
+      "details": "JMU -12.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401869845/james-madison-app-state",
+      "winner": {
+        "id": "2026",
+        "name": "App State",
+        "abbr": "APP",
+        "rank": null,
+        "score": 34
+      },
+      "loser": {
+        "id": "256",
+        "name": "James Madison",
+        "abbr": "JMU",
+        "rank": null,
+        "score": 31
+      }
+    }
+  ],
+  "lines": {
+    "cfb:401871070": {
+      "date": "2026-10-21",
+      "fav": "166",
+      "line": 3,
+      "details": "NMSU -3"
+    },
+    "cfb:401862807": {
+      "date": "2026-10-22",
+      "fav": "235",
+      "line": 10.5,
+      "details": "MEM -10.5"
+    },
+    "cfb:401869845": {
+      "date": "2026-10-22",
+      "fav": "256",
+      "line": 12.5,
+      "details": "JMU -12.5"
+    },
+    "cfb:401871056": {
+      "date": "2026-10-22",
+      "fav": "2335",
+      "line": 8.5,
+      "details": "LIB -8.5"
+    }
+  }
+}
