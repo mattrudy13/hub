@@ -1,0 +1,12 @@
+name = "hub-daily-cron"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+# Cron only: no workers.dev URL, so the Worker can't be called from outside.
+workers_dev = false
+
+[triggers]
+# Same times as the workflow's own schedule (UTC): hourly at :20, 6 AM–midnight EDT.
+crons = ["20 0-4,10-23 * * *"]
+
+# The GitHub token is a secret, not a var. Set it with:
+#   npx wrangler secret put GITHUB_TOKEN

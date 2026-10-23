@@ -3,7 +3,8 @@ name: Update daily data
 on:
   schedule:
     # Hourly from 6 AM to midnight Eastern in daylight time (10:20–04:20 UTC); 5 AM to 11 PM in winter.
-    # GitHub can start scheduled runs late, so the page shows when each file was last updated.
+    # GitHub skips many of these, so the hub-daily-cron Worker (worker/) also dispatches the workflow at
+    # the same times; this schedule stays as a fallback. The page shows when each file was last updated.
     - cron: "20 0-4,10-23 * * *"
   workflow_dispatch:
 
