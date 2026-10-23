@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rudy's Daily</title>
+  <meta name="description" content="Top headlines, college scores, upsets and new videos, in one page.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="style.css">
+  <script>
+    // Apply a saved theme before the page paints (shared with the hub page).
+    try { const t = localStorage.getItem("hub:theme"); if (t) document.documentElement.dataset.theme = t; } catch {}
+  </script>
+</head>
+<body>
+  <div class="wrap">
+    <header class="masthead">
+      <div>
+        <h1>Rudy's Daily</h1>
+        <p id="subline">&nbsp;</p>
+      </div>
+      <div class="controls">
+        <a class="link-btn" href="./">← Hub</a>
+        <button type="button" class="icon-btn" id="theme" aria-label="Switch theme">
+          <svg class="moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"></path></svg>
+          <svg class="sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true" hidden><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path></svg>
+        </button>
+      </div>
+    </header>
+
+    <main class="tiles daily">
+      <article class="tile full" id="news" aria-busy="true">
+        <header class="tile-head"><h2>Headlines</h2><span class="tag"></span></header>
+        <div class="tile-body"><p class="sub">Loading…</p></div>
+        <footer class="tile-foot"><span class="when"></span><span>NPR · BBC · CNBC · MarketWatch · The Verge · Ars Technica</span></footer>
+      </article>
+
+      <article class="tile" id="scores-cfb" aria-busy="true">
+        <header class="tile-head"><h2>College Football</h2><span class="tag"></span></header>
+        <div class="tile-body"><p class="sub">Loading…</p></div>
+        <footer class="tile-foot"><span class="when"></span><a href="https://www.espn.com/college-football/scoreboard" target="_blank" rel="noopener" aria-label="Open the ESPN college football scoreboard in a new tab">ESPN →</a></footer>
+      </article>
+
+      <article class="tile" id="scores-cbb" aria-busy="true">
+        <header class="tile-head"><h2>College Basketball</h2><span class="tag"></span></header>
+        <div class="tile-body"><p class="sub">Loading…</p></div>
+        <footer class="tile-foot"><span class="when"></span><a href="https://www.espn.com/mens-college-basketball/scoreboard" target="_blank" rel="noopener" aria-label="Open the ESPN men's college basketball scoreboard in a new tab">ESPN →</a></footer>
+      </article>
+
+      <article class="tile" id="upsets" aria-busy="true">
+        <header class="tile-head"><h2>Upsets</h2><span class="tag"></span></header>
+        <div class="tile-body"><p class="sub">Loading…</p></div>
+        <footer class="tile-foot"><span class="when"></span></footer>
+      </article>
+
+      <article class="tile full" id="youtube" aria-busy="true" hidden>
+        <header class="tile-head"><h2>YouTube</h2><span class="tag"></span></header>
+        <div class="tile-body"></div>
+        <footer class="tile-foot"><span class="when"></span></footer>
+      </article>
+    </main>
+
+    <footer class="foot">Headlines, upsets and videos update hourly. Scores come live from ESPN.</footer>
+  </div>
+
+  <script src="common.js"></script>
+  <script src="daily.js"></script>
+  <script>
+    setupToggles();
+    renderDaily();
+  </script>
+</body>
+</html>

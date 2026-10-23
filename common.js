@@ -80,6 +80,8 @@ function setupToggles() {
   matchMedia("(prefers-color-scheme: dark)").addEventListener("change", labelTheme);
   labelTheme();
 
+  // The Daily page has no Arcade mode.
+  if (!arcadeBtn) return;
   // Arcade mode is deliberately not saved: every visit opens on the Scoreboard.
   let fontsLoaded = false;
   arcadeBtn.addEventListener("click", () => {
