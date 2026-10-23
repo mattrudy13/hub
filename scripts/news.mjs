@@ -19,9 +19,9 @@ const SECTIONS = [
     ["Ars Technica", "https://feeds.arstechnica.com/arstechnica/index"],
   ] },
 ];
-const PER_SECTION = 5;
+const PER_SECTION = 3;
 // Newest first would let a busy feed (BBC posts ~3× as often as NPR) fill a whole section.
-const PER_SOURCE = 3;
+const PER_SOURCE = 2;
 
 const ENTITIES = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: " " };
 const decode = (s) => s.replace(/&(#x[0-9a-f]+|#\d+|\w+);/gi, (m, e) =>

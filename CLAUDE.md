@@ -70,7 +70,7 @@ masthead ("Daily →") and back ("← Hub").
 
 | Tile | Source | Rules |
 |---|---|---|
-| Headlines | `data/news.json` (`news.mjs`) | US & World (NPR, BBC World), Business (CNBC top news, MarketWatch bulletins), Tech (The Verge, Ars Technica). 5 per section, newest first, max 3 per source. A failed feed keeps its last headlines. |
+| Headlines | `data/news.json` (`news.mjs`) | US & World (NPR, BBC World), Business (CNBC top news, MarketWatch bulletins), Tech (The Verge, Ars Technica). 3 per section (Rudy cut it from 5), newest first, max 2 per source so both feeds show. A failed feed keeps its last headlines. |
 | College Football / Basketball | ESPN scoreboard, live in the browser | Yesterday + today (ET). Shown: any Top 25 team, UVA (team id 258) or ACC (conferenceId 1 in football, 2 in basketball). Basketball = default board + `groups=2` (the full D-I board is ~1.7 MB). First 10 games, then "Show N more". Polls every 60 s while a game is live or due, every 10 min if games are later today, never in a hidden tab. |
 | Upsets | `data/upsets.json` (`upsets.mjs`) | Underdog of 7+ points (DraftKings line via ESPN) won outright, any FBS or D-I men's game, yesterday + today. |
 | YouTube | `data/youtube.json` (`youtube.mjs`) | Newest full-length upload per channel (the `UULF…` playlist: no Shorts or live streams). Hidden until the file exists. |
