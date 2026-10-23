@@ -16,7 +16,12 @@ updating by hand. A ticker shows recent changes across the repos. There's a ligh
 | Apartments | [apartments](https://mattrudy13.github.io/apartments/): the cheapest unit that fits the budget |
 | Head to Head | [h2h](https://mattrudy13.github.io/h2h/): look up any two teams' all-time series |
 
-Plain HTML, CSS and JavaScript. No build step and no backend.
+**Daily** (https://mattrudy13.github.io/hub/daily.html) is a second page with today's headlines, live
+college football and basketball scores (Top 25, UVA and ACC), upsets by 7+ point underdogs, and the newest
+videos from a few YouTube channels (`channels.txt`). A GitHub Action refreshes the headlines, upsets and
+videos hourly; scores come live from ESPN.
+
+Plain HTML, CSS and JavaScript. No build step and no server: the Action is the only backend.
 
 ## Run locally
 

@@ -15,7 +15,11 @@ no link to the portfolio at the root (that site is recruiter-facing and separate
   A thrown error makes the tile fall back to its name and link (the console says why): that's how a format
   change in an app shows up.
 - `feed.js`: the commit ticker.
-- `style.css`: tokens for 2 skins × 2 themes, plus the Arcade overrides.
+- `style.css`: tokens for 2 skins × 2 themes, plus the Arcade overrides and the Daily page's styles.
+- `daily.html` + `daily.js`: the Daily page (see below).
+- `scripts/news.mjs`, `scripts/upsets.mjs`, `scripts/youtube.mjs`: write `data/*.json` for the Daily page, run
+  hourly by `.github/workflows/update-daily.yml`.
+- `channels.txt`: the YouTube channels on the Daily page, one URL or @handle per line.
 
 ## Data sources per tile (paths under https://mattrudy13.github.io/)
 
@@ -57,6 +61,34 @@ doesn't move and scrolls by hand instead.
 - Light/dark tokens for both skins live in `style.css`. Arcade blocks come after the Scoreboard ones so they win
   at equal specificity.
 - The design came from 4 mockups (Scoreboard, Home screen, Bento, Arcade): https://claude.ai/artifact/WSNMV5PhLrt7AETzqQUThM
+
+## Daily page (`daily.html`, added 2026-10-22, v0.2)
+
+Rudy's "what happened today" page: headlines, college scores, upsets and new YouTube videos. Theme toggle
+only, no Arcade mode (Rudy's choice: double wording isn't worth it for headlines). Linked from the hub
+masthead ("Daily →") and back ("← Hub").
+
+| Tile | Source | Rules |
+|---|---|---|
+| Headlines | `data/news.json` (`news.mjs`) | US & World (NPR, BBC World), Business (CNBC top news, MarketWatch bulletins), Tech (The Verge, Ars Technica). 5 per section, newest first, max 3 per source. A failed feed keeps its last headlines. |
+| College Football / Basketball | ESPN scoreboard, live in the browser | Yesterday + today (ET). Shown: any Top 25 team, UVA (team id 258) or ACC (conferenceId 1 in football, 2 in basketball). Basketball = default board + `groups=2` (the full D-I board is ~1.7 MB). First 10 games, then "Show N more". Polls every 60 s while a game is live or due, every 10 min if games are later today, never in a hidden tab. |
+| Upsets | `data/upsets.json` (`upsets.mjs`) | Underdog of 7+ points (DraftKings line via ESPN) won outright, any FBS or D-I men's game, yesterday + today. |
+| YouTube | `data/youtube.json` (`youtube.mjs`) | Newest full-length upload per channel (the `UULF…` playlist: no Shorts or live streams). Hidden until the file exists. |
+
+- **Upset lines:** ESPN's scoreboard drops `odds` once a game is final, but the game's `summary`
+  (`pickcenter`) keeps them. `upsets.mjs` saves each pre-game line every run (`lines` in the file, keyed
+  `<league>:<event id>`, pruned to the 2-day window) and reads `summary` only for finals it never saw before
+  kickoff. `node scripts/upsets.mjs --date 2026-10-18 --out /tmp/x.json` tests a past day (Oct 17 had 6).
+- **NEW badge:** compares each video's `seen` (when the workflow first saw it, kept across runs) with the
+  last visit, not the upload time, because a video reaches the file up to an hour after it's posted. A visit
+  ends after 30 minutes away (`hub:daily:visit` in localStorage, per device); the first visit counts the last
+  24 h as new.
+- **YouTube API key:** repo secret `YOUTUBE_API_KEY` (YouTube Data API v3). Without it the step skips. Each
+  channel costs 2 quota units per run (10,000/day free). Public channel RSS feeds were returning 404/500 in
+  Oct 2026, which is why the API is used.
+- **Workflow:** hourly at :20 from 10:20 to 04:20 UTC (6 AM–midnight EDT). Each step runs even if another
+  fails; changed files are committed as `chore(data): refresh daily data …` (ignoring `updated`), then the
+  run fails if any step did, so GitHub emails. "Running late" shows when a file is over 8 h old.
 
 ## Dev notes
 
