@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T15:12:11.951Z",
+  "updated": "2026-10-23T19:21:03.395Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+          "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+          "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-23T15:06:27.000Z"
+          "published": "2026-10-23T19:20:41.000Z"
         },
         {
-          "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+          "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-23T15:00:27.000Z"
+          "published": "2026-10-23T18:52:17.000Z"
         },
         {
-          "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
+          "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
           "source": "NPR",
-          "published": "2026-10-23T14:16:10.000Z"
+          "published": "2026-10-23T18:30:00.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Dow falling sharply in final hour; Nasdaq down after giving up gains",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7ed78694-d829-4535-b577-41822353f008&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-23T19:06:50.000Z"
+        },
+        {
           "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
           "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
           "source": "CNBC",
-          "published": "2026-10-23T15:04:33.000Z"
+          "published": "2026-10-23T18:57:48.000Z"
         },
         {
-          "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-          "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
-          "source": "CNBC",
-          "published": "2026-10-23T14:55:36.000Z"
-        },
-        {
-          "title": "Economic calendar: Factory and services data due, plus consumer mood",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=01f3894e-0239-4b3e-ba75-cbc76453e960&mod=mw_rss_bulletins",
+          "title": "Oil markets are on edge as midterms near and fresh U.S. strikes on Iran loom",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=80326527-9e86-42d1-b226-48ffb3bfbe86&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-10-23T11:44:25.000Z"
+          "published": "2026-10-23T18:38:50.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Meta delays new business terms after publisher pushback on AI scraping",
-          "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+          "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+          "link": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
           "source": "The Verge",
-          "published": "2026-10-23T14:47:41.000Z"
+          "published": "2026-10-23T18:43:30.000Z"
         },
         {
-          "title": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
-          "link": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
+          "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
+          "link": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
           "source": "The Verge",
-          "published": "2026-10-23T14:42:46.000Z"
+          "published": "2026-10-23T17:55:03.000Z"
         },
         {
-          "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
-          "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
+          "title": "Crows can evaluate visual info twice as fast as mammals",
+          "link": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
           "source": "Ars Technica",
-          "published": "2026-10-23T13:43:21.000Z"
+          "published": "2026-10-23T17:32:58.000Z"
         }
       ]
     }
