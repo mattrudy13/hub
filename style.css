@@ -124,7 +124,7 @@ button { font: inherit; color: inherit; }
   display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; flex-wrap: wrap;
   border-bottom: 3px solid var(--ink); padding-bottom: 12px; margin-bottom: 24px;
 }
-.masthead h1 { margin: 0; font-family: var(--font-display); font-weight: 700; font-size: 56px; line-height: 1; letter-spacing: .02em; }
+.masthead h1 { margin: 0; font-family: var(--font-display); font-weight: 700; font-size: 56px; line-height: 1; letter-spacing: .02em; text-transform: uppercase; }
 .masthead p { margin: 4px 0 0; color: var(--muted); font-weight: 500; }
 .controls { display: flex; gap: 10px; align-items: center; }
 .icon-btn, .arcade-btn {
