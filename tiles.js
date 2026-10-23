@@ -283,7 +283,7 @@ function tileShell(t) {
   return `<article class="tile${t.wide ? " wide" : ""}${t.h2h ? " h2h-tile" : ""}" id="tile-${t.key}" data-accent="${t.accent}" aria-busy="true">
     <header class="tile-head"><h2>${dual(esc(t.name), esc(t.arcadeName))}</h2><span class="tag"></span></header>
     <div class="tile-body"><p class="sub">${dual("Loading…", "LOADING…")}</p></div>
-    <footer class="tile-foot"><span class="when"></span><a href="${appUrl(t.path)}" aria-label="Open ${esc(t.name)}">${dual("Open →", "▶ PLAY")}</a></footer>
+    <footer class="tile-foot"><span class="when"></span><a href="${appUrl(t.path)}" target="_blank" rel="noopener" aria-label="Open ${esc(t.name)} in a new tab">${dual("Open →", "▶ PLAY")}</a></footer>
   </article>`;
 }
 
