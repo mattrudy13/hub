@@ -256,7 +256,9 @@ async function refreshMarkets() {
       </div>`;
     }).join("");
     const asOf = rows[0].q.last_time;
-    const session = etDate(new Date(asOf));
+    // After the close CNBC sends just the date ("2026-10-23"), which Date reads as UTC midnight, the evening
+    // before in Eastern time, so a bare date is used as it is.
+    const session = /^\d{4}-\d{2}-\d{2}$/.test(asOf) ? asOf : etDate(new Date(asOf));
     const open = hours && session === todayET();
     const closeLabel = session === todayET() ? "Today's close" : `${dayOf(session).toLocaleDateString(undefined, { weekday: "long" })}'s close`;
     fill("markets", {
