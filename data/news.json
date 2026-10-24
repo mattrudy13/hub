@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T11:21:05.584Z",
+  "updated": "2026-10-24T12:21:02.808Z",
   "failed": [],
   "sections": [
     {
@@ -10,19 +10,19 @@
           "title": "Ukraine says Starlink connection 'now stable' after network limits",
           "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-24T11:17:35.000Z"
+          "published": "2026-10-24T12:12:40.000Z"
         },
         {
-          "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-          "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-24T10:22:34.000Z"
-        },
-        {
-          "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
-          "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+          "title": "Perspective: The next James Bond",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
           "source": "NPR",
-          "published": "2026-10-24T10:00:00.000Z"
+          "published": "2026-10-24T12:00:00.000Z"
+        },
+        {
+          "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+          "source": "NPR",
+          "published": "2026-10-24T11:59:08.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Why popular airplanes are getting scrapped years early",
+          "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+          "source": "CNBC",
+          "published": "2026-10-24T12:20:22.000Z"
+        },
         {
           "title": "Will Anthropic pull off a November IPO? Time is running out.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=65d001e5-c598-4d0b-bad7-39050021ad5c&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=09564c35-41ed-4d9b-a2e0-bd28986f0869&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-23T21:52:26.000Z"
-        },
-        {
-          "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-          "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-          "source": "CNBC",
-          "published": "2026-10-23T18:57:48.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Laika has spent 20 years building up to Wildwood",
+          "link": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+          "source": "The Verge",
+          "published": "2026-10-24T12:00:00.000Z"
+        },
+        {
+          "title": "It’s time to find a new browser",
+          "link": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+          "source": "The Verge",
+          "published": "2026-10-24T12:00:00.000Z"
+        },
+        {
           "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
           "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
           "source": "Ars Technica",
           "published": "2026-10-23T22:48:25.000Z"
-        },
-        {
-          "title": "Xbox’s first chief operating officer is out after just a few months",
-          "link": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-          "source": "The Verge",
-          "published": "2026-10-23T21:39:26.000Z"
-        },
-        {
-          "title": "OpenAI now trains its frontier AI models with no internet access",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-          "source": "The Verge",
-          "published": "2026-10-23T21:11:07.000Z"
         }
       ]
     }
