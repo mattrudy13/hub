@@ -105,6 +105,7 @@ const boards = {}; // `${league}:${day}` → games
 function gameOf(ev, lg) {
   const comp = ev.competitions[0];
   const teams = ["away", "home"].map((side) => comp.competitors.find((c) => c.homeAway === side)).map((c) => ({
+    side: c.homeAway,
     id: c.team.id,
     name: c.team.shortDisplayName ?? c.team.displayName,
     rank: c.curatedRank?.current <= 25 ? c.curatedRank.current : null,
@@ -120,6 +121,10 @@ function gameOf(ev, lg) {
     state: st.state, // pre, in or post (post covers final, postponed and canceled)
     detail: st.shortDetail,
     link: ev.links?.find((x) => x.rel?.includes("summary"))?.href ?? ev.links?.[0]?.href ?? null,
+    // The first network is the main one ("ESPN" from ["ESPN", "Disney+"]).
+    tv: comp.broadcasts?.[0]?.names?.[0] ?? null,
+    // DraftKings' line as ESPN words it ("MIA -20.5"); ESPN drops it once the game is final.
+    line: comp.odds?.[0]?.details ? minus(comp.odds[0].details.replace(" -", " −")) : null,
     teams,
     uva: teams.some((t) => t.id === UVA),
     shown: teams.some((t) => t.id === UVA || t.rank || t.acc),
@@ -142,8 +147,11 @@ function gameRow(g) {
   const status = g.state === "pre" ? (g.timeValid ? fmtTime(g.start) : "TBD") : g.detail;
   const team = (t) => `<span class="t${t.winner ? " w" : ""}${g.state === "post" && !t.winner && g.teams.some((x) => x.winner) ? " l" : ""}">${t.rank ? `<span class="rk">${t.rank}</span>` : ""}${esc(t.name)}</span>
     <span class="pts${t.winner ? " w" : ""}">${g.state === "pre" ? "" : esc(t.score)}</span>`;
-  const inner = `${team(g.teams[0])}${team(g.teams[1])}<span class="st">${g.state === "in" ? `<span class="dot" aria-hidden="true"></span>` : ""}${esc(status)}</span>`;
-  const label = `${g.teams.map((t) => `${t.rank ? `#${t.rank} ` : ""}${t.name}${g.state === "pre" ? "" : ` ${t.score}`}`).join(" at ")}, ${status}`;
+  // Where to watch and the line before kickoff; just the network while it's on; nothing once it's over.
+  const info = g.state === "pre" ? [g.tv, g.line].filter(Boolean) : g.state === "in" && g.tv ? [g.tv] : [];
+  const inner = `${team(g.teams[0])}${team(g.teams[1])}<span class="st">${g.state === "in" ? `<span class="dot" aria-hidden="true"></span>` : ""}${esc(status)}</span>${info.length
+    ? `<span class="info">${info.map(esc).join(" · ")}</span>` : ""}`;
+  const label = `${g.teams.map((t) => `${t.rank ? `#${t.rank} ` : ""}${t.name}${g.state === "pre" ? "" : ` ${t.score}`}`).join(" at ")}, ${status}${info.length ? `, ${info.join(", ")}` : ""}`;
   return `<li class="game ${g.state}${g.uva ? " uva" : ""}">${g.link
     ? `<a href="${esc(g.link)}" target="_blank" rel="noopener" aria-label="${esc(label)} (ESPN, new tab)">${inner}</a>`
     : `<div>${inner}</div>`}</li>`;
