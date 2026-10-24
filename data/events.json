@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-24T20:58:27.823Z",
-  "from": "2026-10-24T20:58:27Z",
-  "to": "2026-11-07T20:58:27Z",
+  "updated": "2026-10-24T21:21:04.224Z",
+  "from": "2026-10-24T21:21:03Z",
+  "to": "2026-11-07T21:21:03Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -521,6 +521,20 @@
       "url": "https://www.ticketmaster.com/monster-jam-hampton-virginia-11-07-2026/event/010064989C07F7A1",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/648/bee96ceb-7d32-4b5d-bb15-6a8615501648_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv177Z_fGkMzeGV9",
+      "name": " Culture Clash: Crowd Karaoke (Ages 21 & Up)",
+      "date": "2026-11-07",
+      "time": "16:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Reggae",
+      "venue": "Elevation 27",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/culture-clash-crowd-karaoke-ages-21-virginia-beach-virginia-11-07-2026/event/0100654DF808CD17",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/d16/8d22430f-858e-4577-97e4-02af97615d16_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
