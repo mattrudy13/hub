@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-24T00:21:03.078Z",
+  "updated": "2026-10-24T01:21:02.039Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+          "source": "NPR",
+          "published": "2026-10-24T00:40:42.000Z"
+        },
         {
           "title": "Argentina drops investigation into President Milei over crypto fraud",
           "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-23T20:18:13.000Z"
-        },
-        {
-          "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
-          "source": "NPR",
-          "published": "2026-10-23T19:31:15.000Z"
         }
       ]
     },
