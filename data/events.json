@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-24T16:21:05.429Z",
-  "from": "2026-10-24T16:21:05Z",
-  "to": "2026-11-07T16:21:05Z",
+  "updated": "2026-10-24T17:21:04.973Z",
+  "from": "2026-10-24T17:21:04Z",
+  "to": "2026-11-07T17:21:04Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -535,6 +535,20 @@
       "url": "https://www.ticketmaster.com/corrosion-of-conformity-the-sword-virginia-beach-virginia-11-06-2026/event/01006513A072E5B5",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/e/564/8dc0156f-906f-40c1-b9e9-eb9508337564_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1A8v0JaGAGvTr-",
+      "name": "Monster Jam",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Motorsports/Racing",
+      "venue": "Hampton Coliseum",
+      "city": "Hampton",
+      "url": "https://www.ticketmaster.com/monster-jam-hampton-virginia-11-07-2026/event/010064989C07F7A1",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/648/bee96ceb-7d32-4b5d-bb15-6a8615501648_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
