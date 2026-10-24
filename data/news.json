@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T10:21:01.317Z",
+  "updated": "2026-10-24T11:21:05.584Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Ukraine says Starlink connection 'now stable' after network limits",
+          "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-24T11:17:35.000Z"
+        },
+        {
+          "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+          "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-24T10:22:34.000Z"
+        },
+        {
           "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
           "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
           "source": "NPR",
           "published": "2026-10-24T10:00:00.000Z"
-        },
-        {
-          "title": "U.S. birth rate drops to record low, but older women are having more babies",
-          "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
-          "source": "NPR",
-          "published": "2026-10-24T10:00:00.000Z"
-        },
-        {
-          "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-24T09:46:53.000Z"
         }
       ]
     },
