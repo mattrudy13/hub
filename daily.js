@@ -116,6 +116,7 @@ function gameOf(ev, lg) {
   const st = comp.status.type;
   return {
     id: ev.id,
+    league: lg.key,
     start: ev.date,
     timeValid: comp.timeValid !== false,
     state: st.state, // pre, in or post (post covers final, postponed and canceled)
@@ -139,8 +140,46 @@ async function loadBoard(lg, day) {
   }));
   const byId = new Map(results.flatMap((r) => r.events ?? []).map((ev) => [ev.id, ev]));
   const order = { in: 0, pre: 1, post: 2 };
-  return [...byId.values()].map((ev) => gameOf(ev, lg)).filter((g) => g.shown)
+  return [...byId.values()].map((ev) => gameOf(ev, lg))
     .sort((a, b) => order[a.state] - order[b.state] || b.uva - a.uva || a.start.localeCompare(b.start));
+}
+
+// Boards keep every game; the tiles show Top 25, UVA and ACC games plus any game cfb-picks has a pick on.
+// That's decided at render time because the picks can arrive after the scores.
+const visible = (games = []) => games.filter((g) => g.shown || (g.league === "cfb" && cfbPicks.has(g.id)));
+
+// ---- cfb-picks badges ----
+
+// The current model's official spread picks, by ESPN event id (cfb-picks' gameId). Same rule as the hub's
+// cfb tile (tiles.js): the current model is the newest pick's.
+const cfbPicks = new Map();
+async function loadPicks() {
+  try {
+    const { data } = await getSeason((y) => `cfb-picks/data/picks-${y}.json`);
+    const all = Object.values(data.weeks ?? {}).flatMap((w) => w.picks);
+    const model = [...all].sort((a, b) => b.takenAt.localeCompare(a.takenAt))[0]?.model ?? "v2";
+    for (const p of all) if ((p.model ?? "v2") === model && !p.shadow && p.cat === "spread") cfbPicks.set(String(p.gameId), p);
+  } catch (e) {
+    console.warn("[daily] cfb picks didn't load; scores show without them:", e);
+  }
+}
+
+const fmtLine = (x) => x === 0 ? "PK" : `${x < 0 ? "−" : "+"}${Math.abs(x)}`;
+
+// "Model: Oregon −7.5", then covering or not while it's on, and the result once it's final.
+function pickBadge(g) {
+  const p = g.league === "cfb" && cfbPicks.get(g.id);
+  if (!p) return null;
+  const mine = g.teams.find((t) => t.side === p.side), theirs = g.teams.find((t) => t.side !== p.side);
+  const margin = Number(mine?.score) + p.line - Number(theirs?.score);
+  let note = "", tone = "";
+  if (g.state === "in") [note, tone] = margin > 0 ? ["covering", "good"] : margin < 0 ? ["not covering", "bad"] : ["push", ""];
+  else if (g.state === "post" && g.teams.some((t) => t.winner)) {
+    // The graded result wins; until cfb-picks grades it, the final score decides.
+    const r = p.result ?? (margin > 0 ? "W" : margin < 0 ? "L" : "P");
+    [note, tone] = { W: ["won", "good"], L: ["lost", "bad"], P: ["push", ""] }[r] ?? ["", ""];
+  }
+  return { text: `Model: ${p.team} ${fmtLine(p.line)}${note ? ` · ${note}` : ""}`, tone };
 }
 
 function gameRow(g) {
@@ -149,9 +188,10 @@ function gameRow(g) {
     <span class="pts${t.winner ? " w" : ""}">${g.state === "pre" ? "" : esc(t.score)}</span>`;
   // Where to watch and the line before kickoff; just the network while it's on; nothing once it's over.
   const info = g.state === "pre" ? [g.tv, g.line].filter(Boolean) : g.state === "in" && g.tv ? [g.tv] : [];
+  const pick = pickBadge(g);
   const inner = `${team(g.teams[0])}${team(g.teams[1])}<span class="st">${g.state === "in" ? `<span class="dot" aria-hidden="true"></span>` : ""}${esc(status)}</span>${info.length
-    ? `<span class="info">${info.map(esc).join(" · ")}</span>` : ""}`;
-  const label = `${g.teams.map((t) => `${t.rank ? `#${t.rank} ` : ""}${t.name}${g.state === "pre" ? "" : ` ${t.score}`}`).join(" at ")}, ${status}${info.length ? `, ${info.join(", ")}` : ""}`;
+    ? `<span class="info">${info.map(esc).join(" · ")}</span>` : ""}${pick ? `<span class="pick ${pick.tone}">${esc(pick.text)}</span>` : ""}`;
+  const label = `${g.teams.map((t) => `${t.rank ? `#${t.rank} ` : ""}${t.name}${g.state === "pre" ? "" : ` ${t.score}`}`).join(" at ")}, ${status}${info.length ? `, ${info.join(", ")}` : ""}${pick ? `, ${pick.text.replace(" · ", ", ")}` : ""}`;
   return `<li class="game ${g.state}${g.uva ? " uva" : ""}">${g.link
     ? `<a href="${esc(g.link)}" target="_blank" rel="noopener" aria-label="${esc(label)} (ESPN, new tab)">${inner}</a>`
     : `<div>${inner}</div>`}</li>`;
@@ -159,7 +199,7 @@ function gameRow(g) {
 
 function renderLeague(lg) {
   const [yesterday, today] = dayWindow();
-  const t = boards[`${lg.key}:${today}`] ?? [], y = boards[`${lg.key}:${yesterday}`] ?? [];
+  const t = visible(boards[`${lg.key}:${today}`]), y = visible(boards[`${lg.key}:${yesterday}`]);
   // A Saturday has 20+ games, so the rest of a long day folds away (live games sort first, so they show).
   const list = (games, name) => `<ul class="games">${games.slice(0, MAX_GAMES).map(gameRow).join("")}</ul>${games.length > MAX_GAMES
     ? `<details class="more" data-name="${name}-more"><summary>Show ${games.length - MAX_GAMES} more</summary><ul class="games">${games.slice(MAX_GAMES).map(gameRow).join("")}</ul></details>` : ""}`;
@@ -178,7 +218,7 @@ function renderLeague(lg) {
     tag: live ? `${live} live` : t.length ? `${t.length} today` : "",
     hot: live > 0,
     body,
-    when: `Top 25, UVA and ACC${live ? " · updates every minute" : ""}`,
+    when: `Top 25, UVA and ACC${lg.key === "cfb" && cfbPicks.size ? ", plus model picks" : ""}${live ? " · updates every minute" : ""}`,
   });
   for (const d of tileEl.querySelectorAll("details")) if (opened.includes(d.dataset.name)) d.open = true;
 }
@@ -191,14 +231,14 @@ async function refreshLeague(lg) {
     // A day is fetched again until every game on it is over.
     await Promise.all(days.map(async (day) => {
       const k = `${lg.key}:${day}`;
-      if (!boards[k] || boards[k].some((g) => g.state !== "post")) boards[k] = await loadBoard(lg, day);
+      if (!boards[k] || visible(boards[k]).some((g) => g.state !== "post")) boards[k] = await loadBoard(lg, day);
     }));
     renderLeague(lg);
   } catch (e) {
     if (!days.some((d) => boards[`${lg.key}:${d}`])) return failTile(`scores-${lg.key}`, e, "Couldn't reach ESPN for scores.");
     console.warn(`[daily] ${lg.key} refresh failed; showing the last scores:`, e);
   }
-  const games = days.flatMap((d) => boards[`${lg.key}:${d}`] ?? []);
+  const games = days.flatMap((d) => visible(boards[`${lg.key}:${d}`]));
   const now = Date.now();
   const due = games.some((g) => g.state === "in" || (g.state === "pre" && new Date(g.start) <= now));
   const later = games.some((g) => g.state === "pre");
@@ -392,4 +432,9 @@ function renderDaily() {
   renderUpsets();
   renderYoutube();
   LEAGUES.forEach(refreshLeague);
+  // Picks only add badges, so football doesn't wait for them: once they're in, redraw it if it has drawn.
+  loadPicks().then(() => {
+    const cfb = LEAGUES.find((lg) => lg.key === "cfb");
+    if (cfbPicks.size && dayWindow().some((d) => boards[`cfb:${d}`])) renderLeague(cfb);
+  });
 }
