@@ -239,8 +239,21 @@ button { font: inherit; color: inherit; }
   margin: 0; font-family: var(--font-display); font-weight: 700; font-size: 16px; letter-spacing: .06em;
   text-transform: uppercase; color: var(--muted);
 }
-.news section + section { margin-top: 12px; }
-@media (min-width: 900px) { .news section + section { margin-top: 0; } }
+/* Below 900 px the sections are tabs, one at a time (Rudy's choice: 9 stacked headlines pushed the scores
+   2 screens down). The tab names stand in for the section headings, which stay for screen readers. */
+.news-tabs { display: flex; gap: 6px; margin-bottom: 4px; }
+.news-tabs button {
+  flex: 1; min-height: 44px; padding: 0 6px; cursor: pointer;
+  border: var(--border); border-radius: var(--radius); background: var(--bg); color: var(--muted);
+  font-family: var(--font-display); font-weight: 700; font-size: 15px; letter-spacing: .06em; text-transform: uppercase;
+}
+.news-tabs button[aria-selected="true"] { background: var(--strip); border-color: var(--strip); color: var(--strip-ink); }
+.news section.off { display: none; }
+@media (max-width: 899px) { .news h3 { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; } }
+@media (min-width: 900px) {
+  .news-tabs { display: none; }
+  .news section.off { display: block; }
+}
 .headlines, .games, .upset-list, .channels { list-style: none; margin: 0; padding: 0; }
 .headlines li, .upset-list li { padding: 9px 0; border-bottom: 1px solid var(--line); }
 .headlines li:last-child, .upset-list li:last-child { border-bottom: 0; }
@@ -271,15 +284,14 @@ h3.day { margin-bottom: 2px; }
 .upset-list b { font-weight: 700; }
 .line { font-family: var(--font-display); font-weight: 700; background: var(--hot); color: var(--hot-ink); padding: 0 5px; border-radius: 3px; }
 
-.channels { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 18px; }
-.channel a { display: flex; flex-direction: column; gap: 4px; }
-.channel img, .no-thumb { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-radius: calc(var(--radius) - 2px); background: var(--line); margin-bottom: 4px; }
-/* Desktop: two columns of thumbnail-left cards, so the thumbnails are about 2/3 the size and the tile is shorter. */
+/* Thumbnail-left cards: a list on a phone, two columns wider. Small thumbnails keep the tile short (Rudy's choice). */
+.channels { display: grid; grid-template-columns: minmax(0, 1fr); gap: 14px; }
+/* The spare 4th row takes the thumbnail's extra height, so the text stays packed at the top. */
+.channel a { display: grid; grid-template-columns: 128px minmax(0, 1fr); grid-template-rows: auto auto auto 1fr; column-gap: 12px; row-gap: 2px; }
+.channel img, .no-thumb { grid-row: 1 / -1; display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-radius: calc(var(--radius) - 2px); background: var(--line); }
 @media (min-width: 700px) {
-  .channels { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  /* The spare 4th row takes the thumbnail's extra height, so the text stays packed at the top. */
-  .channel a { display: grid; grid-template-columns: 176px minmax(0, 1fr); grid-template-rows: auto auto auto 1fr; column-gap: 14px; row-gap: 2px; }
-  .channel img, .no-thumb { grid-row: 1 / -1; margin-bottom: 0; }
+  .channels { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+  .channel a { grid-template-columns: 176px minmax(0, 1fr); column-gap: 14px; }
 }
 .channel.fresh img { outline: 3px solid var(--hot); outline-offset: -3px; }
 .channel .ch { color: var(--muted); font-size: 14px; font-weight: 600; display: flex; align-items: center; gap: 6px; }
@@ -314,6 +326,10 @@ h3.day { margin-bottom: 2px; }
 
 @media (max-width: 480px) {
   .masthead h1 { font-size: 44px; }
+  /* Daily: keep the Hub and theme buttons beside the title instead of on a row of their own. */
+  .daily-head { flex-wrap: nowrap; align-items: center; }
+  .daily-head h1 { font-size: 38px; }
+  .daily-head .link-btn { padding: 0 10px; }
   .big { font-size: 56px; }
   .headline { font-size: 32px; }
 }

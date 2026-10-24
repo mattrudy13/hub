@@ -49,21 +49,54 @@ function failTile(id, e, message) {
 
 // ---- Headlines ----
 
+// On a phone the sections are tabs; the last one picked is remembered on this device.
+const TAB_KEY = "hub:daily:newsTab";
+function pickTab(key) {
+  for (const b of document.querySelectorAll("#news [role=tab]")) {
+    const on = b.dataset.key === key;
+    b.setAttribute("aria-selected", on);
+    b.tabIndex = on ? 0 : -1;
+    document.getElementById(b.getAttribute("aria-controls")).classList.toggle("off", !on);
+  }
+  try { localStorage.setItem(TAB_KEY, key); } catch {}
+}
+
 async function renderNews() {
   try {
     const d = await ownJson("data/news.json");
-    const sections = d.sections.map((s) => `<section>
+    let tab = null;
+    try { tab = localStorage.getItem(TAB_KEY); } catch {}
+    if (!d.sections.some((s) => s.key === tab)) tab = d.sections[0]?.key;
+    const tabs = `<div class="news-tabs" role="tablist" aria-label="Headline sections">${d.sections.map((s) =>
+      `<button type="button" role="tab" id="tab-${esc(s.key)}" aria-controls="panel-${esc(s.key)}" data-key="${esc(s.key)}">${esc(s.name)}</button>`).join("")}</div>`;
+    const sections = d.sections.map((s) => `<section id="panel-${esc(s.key)}" role="tabpanel" aria-labelledby="tab-${esc(s.key)}">
       <h3>${esc(s.name)}</h3>
       <ol class="headlines">${s.items.map((x) => `<li>
         <a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.title)}</a>
         <span class="meta">${esc(x.source)} · ${esc(ago(x.published))}</span></li>`).join("")}</ol>
     </section>`).join("");
     const failed = d.failed?.length ? `<p class="sub">${esc(d.failed.join(" and "))} didn't load on the last check, so ${d.failed.length === 1 ? "its" : "their"} headlines are from earlier.</p>` : "";
-    fill("news", { body: `<div class="news">${sections}</div>${failed}`, when: `Updated ${esc(ago(d.updated))}${late(d.updated)}` });
+    fill("news", { body: `${tabs}<div class="news">${sections}</div>${failed}`, when: `Updated ${esc(ago(d.updated))}${late(d.updated)}` });
+    pickTab(tab);
   } catch (e) {
     failTile("news", e, "Couldn't load the headlines.");
   }
 }
+
+document.getElementById("news").addEventListener("click", (e) => {
+  const b = e.target.closest("[role=tab]");
+  if (b) pickTab(b.dataset.key);
+});
+// Arrow keys move between tabs (the standard tabs pattern).
+document.getElementById("news").addEventListener("keydown", (e) => {
+  if (!e.target.matches("[role=tab]") || !["ArrowLeft", "ArrowRight", "Home", "End"].includes(e.key)) return;
+  const all = [...document.querySelectorAll("#news [role=tab]")];
+  const i = all.indexOf(e.target);
+  const next = all[{ ArrowLeft: (i - 1 + all.length) % all.length, ArrowRight: (i + 1) % all.length, Home: 0, End: all.length - 1 }[e.key]];
+  e.preventDefault();
+  pickTab(next.dataset.key);
+  next.focus();
+});
 
 // ---- Scores ----
 
