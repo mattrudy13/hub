@@ -69,7 +69,7 @@ doesn't move and scrolls by hand instead.
 Rudy's "what happened today" page: markets, weather, what's coming up, headlines, college scores, upsets, the AP
 Top 25, new YouTube videos and whether the apps' data jobs are running. Theme toggle only, no Arcade mode (Rudy's
 choice: double wording isn't worth it for headlines). Linked from the hub masthead ("Daily →") and back ("← Hub").
-Weather, Coming Up, the Top 25, the TV/spread lines, the pick badges and Data Jobs were added 2026-10-24 (8 of 10
+Weather, Coming Up, the Top 25, the TV/spread lines, the pick badges and Data Jobs were added 2026-10-24 in v0.4 (8 of 10
 ideas Rudy picked).
 
 Order: Markets, then Weather + Coming Up as a short row, Headlines, then Football, Basketball, Upsets and Top 25
