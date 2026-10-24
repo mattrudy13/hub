@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Rudy's Daily</title>
-  <meta name="description" content="Top headlines, college scores, upsets and new videos, in one page.">
+  <meta name="description" content="Markets, weather, headlines, college scores, upsets, the Top 25, new videos and app health, in one page.">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -38,28 +38,45 @@
         <footer class="tile-foot"><span class="when"></span><a href="https://www.cnbc.com/us-markets/" target="_blank" rel="noopener" aria-label="Open CNBC US markets in a new tab">CNBC →</a></footer>
       </article>
 
+      <article class="tile weather" id="weather" aria-busy="true">
+        <header class="tile-head"><h2>Weather</h2><span class="tag"></span></header>
+        <div class="tile-body"><p class="sub">Loading…</p></div>
+        <footer class="tile-foot"><span class="when"></span><a href="https://forecast.weather.gov/MapClick.php?lat=36.85&amp;lon=-75.98" target="_blank" rel="noopener" aria-label="Open the National Weather Service forecast in a new tab">NWS →</a></footer>
+      </article>
+
+      <article class="tile" id="countdowns" aria-busy="true">
+        <header class="tile-head"><h2>Coming Up</h2><span class="tag"></span></header>
+        <div class="tile-body"><p class="sub">Loading…</p></div>
+      </article>
+
       <article class="tile full" id="news" aria-busy="true">
         <header class="tile-head"><h2>Headlines</h2><span class="tag"></span></header>
         <div class="tile-body"><p class="sub">Loading…</p></div>
         <footer class="tile-foot"><span class="when"></span><span>NPR · BBC · CNBC · MarketWatch · The Verge · Ars Technica</span></footer>
       </article>
 
-      <article class="tile scores" id="scores-cfb" aria-busy="true">
+      <article class="tile scores row-tile" id="scores-cfb" aria-busy="true">
         <header class="tile-head"><h2>College Football</h2><span class="tag"></span></header>
         <div class="tile-body"><p class="sub">Loading…</p></div>
         <footer class="tile-foot"><span class="when"></span><a href="https://www.espn.com/college-football/scoreboard" target="_blank" rel="noopener" aria-label="Open the ESPN college football scoreboard in a new tab">ESPN →</a></footer>
       </article>
 
-      <article class="tile scores" id="scores-cbb" aria-busy="true">
+      <article class="tile scores row-tile" id="scores-cbb" aria-busy="true">
         <header class="tile-head"><h2>College Basketball</h2><span class="tag"></span></header>
         <div class="tile-body"><p class="sub">Loading…</p></div>
         <footer class="tile-foot"><span class="when"></span><a href="https://www.espn.com/mens-college-basketball/scoreboard" target="_blank" rel="noopener" aria-label="Open the ESPN men's college basketball scoreboard in a new tab">ESPN →</a></footer>
       </article>
 
-      <article class="tile" id="upsets" aria-busy="true">
+      <article class="tile row-tile" id="upsets" aria-busy="true">
         <header class="tile-head"><h2>Upsets</h2><span class="tag"></span></header>
         <div class="tile-body"><p class="sub">Loading…</p></div>
         <footer class="tile-foot"><span class="when"></span></footer>
+      </article>
+
+      <article class="tile row-tile" id="top25" aria-busy="true" hidden>
+        <header class="tile-head"><h2>AP Top 25</h2><span class="tag"></span></header>
+        <div class="tile-body"></div>
+        <footer class="tile-foot"><span class="when"></span><a href="https://www.espn.com/college-football/rankings" target="_blank" rel="noopener" aria-label="Open ESPN's rankings in a new tab">ESPN →</a></footer>
       </article>
 
       <article class="tile full" id="youtube" aria-busy="true" hidden>
@@ -67,9 +84,15 @@
         <div class="tile-body"></div>
         <footer class="tile-foot"><span class="when"></span></footer>
       </article>
+      <article class="tile full" id="health" aria-busy="true">
+        <header class="tile-head"><h2>Data Jobs</h2><span class="tag"></span></header>
+        <div class="tile-body"><p class="sub">Checking…</p></div>
+        <footer class="tile-foot"><span class="when"></span><span>GitHub Actions</span></footer>
+      </article>
     </main>
 
-    <footer class="foot">Headlines, upsets and videos update hourly. Markets come live from CNBC, scores from ESPN.</footer>
+    <footer class="foot">Headlines, upsets and videos update hourly. Markets come live from CNBC, scores and polls from ESPN,
+      weather from Open-Meteo and the job checks from GitHub.</footer>
   </div>
 
   <script src="common.js"></script>

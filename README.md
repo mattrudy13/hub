@@ -16,10 +16,12 @@ updating by hand. A ticker shows recent changes across the repos. There's a ligh
 | Apartments | [apartments](https://mattrudy13.github.io/apartments/): the cheapest unit that fits the budget |
 | Head to Head | [h2h](https://mattrudy13.github.io/h2h/): look up any two teams' all-time series |
 
-**Daily** (https://mattrudy13.github.io/hub/daily.html) is a second page with today's headlines, live
-college football and basketball scores (Top 25, UVA and ACC), upsets by 7+ point underdogs, and the newest
-videos from a few YouTube channels (`channels.txt`). A GitHub Action refreshes the headlines, upsets and
-videos hourly; scores come live from ESPN.
+**Daily** (https://mattrudy13.github.io/hub/daily.html) is a second page with the markets (indexes, Treasury
+yields, the VIX and overnight futures), Virginia Beach weather, UVA's next games and a few dated reminders
+(`data/countdowns.json`), today's headlines, live college football and basketball scores (Top 25, UVA and
+ACC, with TV, the line and cfb-picks' picks), upsets by 7+ point underdogs, the AP Top 25, the newest videos
+from a few YouTube channels (`channels.txt`) and a check that the apps' data jobs are running. A GitHub Action
+refreshes the headlines, upsets and videos hourly; the rest comes live from CNBC, Open-Meteo, ESPN and GitHub.
 
 **Home Base** (https://mattrudy13.github.io/hub/homebase.html) covers Virginia Beach: concerts, sports and
 shows around Hampton Roads for the next two weeks (Ticketmaster), the apartment tracker's cheapest viable
