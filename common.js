@@ -7,6 +7,9 @@ const BASE = location.hostname === "mattrudy13.github.io" ? "" : "https://mattru
 const appUrl = (path) => `https://mattrudy13.github.io/${path}`;
 
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
+// Links from outside data (ESPN, Ticketmaster, feeds): esc() stops HTML injection but not a javascript: URL,
+// so anything that isn't http(s) becomes null and renders as plain text.
+const safeUrl = (u) => (/^https?:\/\//i.test(String(u ?? "")) ? String(u) : null);
 
 async function getJson(path) {
   const res = await fetch(`${BASE}/${path}`, { cache: "no-cache" });

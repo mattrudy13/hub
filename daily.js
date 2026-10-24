@@ -103,7 +103,7 @@ async function renderNews() {
     const sections = d.sections.map((s) => `<section id="panel-${esc(s.key)}" role="tabpanel" aria-labelledby="tab-${esc(s.key)}">
       <h3>${esc(s.name)}</h3>
       <ol class="headlines">${s.items.map((x) => `<li>
-        <a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.title)}</a>
+        <a href="${esc(safeUrl(x.link) ?? "#")}" target="_blank" rel="noopener">${esc(x.title)}</a>
         <span class="meta">${esc(x.source)} · ${esc(ago(x.published))}</span></li>`).join("")}</ol>
     </section>`).join("");
     const failed = d.failed?.length ? `<p class="sub">${esc(d.failed.join(" and "))} didn't load on the last check, so ${d.failed.length === 1 ? "its" : "their"} headlines are from earlier.</p>` : "";
@@ -208,8 +208,8 @@ function gameRow(g) {
   const inner = `${team(g.teams[0])}${team(g.teams[1])}<span class="st">${g.state === "in" ? `<span class="dot" aria-hidden="true"></span>` : ""}${esc(status)}</span>${info.length
     ? `<span class="info">${info.map(esc).join(" · ")}</span>` : ""}${pick ? `<span class="pick ${pick.tone}">${esc(pick.text)}</span>` : ""}`;
   const label = `${g.teams.map((t) => `${t.rank ? `#${t.rank} ` : ""}${t.name}${g.state === "pre" ? "" : ` ${t.score}`}`).join(" at ")}, ${status}${info.length ? `, ${info.join(", ")}` : ""}${pick ? `, ${pick.text.replace(" · ", ", ")}` : ""}`;
-  return `<li class="game ${g.state}${g.uva ? " uva" : ""}">${g.link
-    ? `<a href="${esc(g.link)}" target="_blank" rel="noopener" aria-label="${esc(label)} (ESPN, new tab)">${inner}</a>`
+  return `<li class="game ${g.state}${g.uva ? " uva" : ""}">${safeUrl(g.link)
+    ? `<a href="${esc(safeUrl(g.link))}" target="_blank" rel="noopener" aria-label="${esc(label)} (ESPN, new tab)">${inner}</a>`
     : `<div>${inner}</div>`}</li>`;
 }
 
@@ -460,7 +460,7 @@ async function renderCountdowns() {
   if (!items.length && games.every((g) => g.status === "rejected")) return failTile("countdowns", games[0].reason, "Couldn't load what's coming up.");
   const row = (x) => {
     const inner = `<span class="cd-when">${untilText(daysUntil(x.date))}</span><span class="cd-what">${esc(x.what)}</span>${x.meta ? `<span class="meta">${esc(x.meta)}</span>` : ""}`;
-    return `<li>${x.link ? `<a href="${esc(x.link)}" target="_blank" rel="noopener">${inner}</a>` : inner}</li>`;
+    return `<li>${safeUrl(x.link) ? `<a href="${esc(safeUrl(x.link))}" target="_blank" rel="noopener">${inner}</a>` : inner}</li>`;
   };
   fill("countdowns", {
     body: items.length ? `<ol class="countdowns">${items.map(row).join("")}</ol>` : `<p class="label">Nothing coming up.</p>`,
@@ -479,7 +479,7 @@ async function renderUpsets() {
     const who = (s) => `${s.rank ? `#${s.rank} ` : ""}${esc(s.name)}`;
     const list = rows.length
       ? `<ol class="upset-list">${rows.map((u) => `<li>
-          <a href="${esc(u.link ?? "#")}" target="_blank" rel="noopener"><b>${who(u.winner)}</b> <span class="line">+${u.line}</span> beat ${who(u.loser)}, ${u.winner.score}–${u.loser.score}</a>
+          <a href="${esc(safeUrl(u.link) ?? "#")}" target="_blank" rel="noopener"><b>${who(u.winner)}</b> <span class="line">+${u.line}</span> beat ${who(u.loser)}, ${u.winner.score}–${u.loser.score}</a>
           <span class="meta">${esc(leagueName[u.league])} · ${esc(dayLabel(u.date))}</span></li>`).join("")}</ol>`
       : `<p class="label">No ${d.minLine}+ point underdog has won yesterday or today.</p>`;
     fill("upsets", {
@@ -674,7 +674,7 @@ function renderHealth(check, note = "") {
     const when = run ? `last run ${ago(run.created_at)}${by}` : "no runs yet";
     const inner = `<span class="jdot" aria-hidden="true"></span><span class="jn">${esc(j.app)} · ${esc(j.name)}</span>
       <span class="js"><b>${JOB_WORDS[j.status]}</b> · ${esc(when)}</span>`;
-    return `<li class="job is-${j.status}">${run?.html_url ? `<a href="${esc(run.html_url)}" target="_blank" rel="noopener">${inner}</a>` : inner}</li>`;
+    return `<li class="job is-${j.status}">${safeUrl(run?.html_url) ? `<a href="${esc(safeUrl(run.html_url))}" target="_blank" rel="noopener">${inner}</a>` : inner}</li>`;
   };
   const list = `<ul class="jobs">${[...jobs].sort((a, b) => order[a.status] - order[b.status]).map(row).join("")}</ul>`;
   const failed = broken.filter((j) => j.status === "failed").length, late = broken.length - failed;

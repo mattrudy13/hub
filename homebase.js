@@ -84,7 +84,8 @@ try { kind = localStorage.getItem(KIND_KEY) || "All"; } catch {}
 function eventRow(e) {
   const meta = [e.venue, e.city, e.genre ?? (e.kind === "Other" ? null : e.kind)].filter(Boolean).map(esc).join(" · ");
   const flag = { postponed: "Postponed", rescheduled: "Rescheduled", offsale: "Off sale" }[e.status];
-  const name = e.url ? `<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.name)}</a>` : esc(e.name);
+  const url = safeUrl(e.url);
+  const name = url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(e.name)}</a>` : esc(e.name);
   return `<li class="ev">
     <span class="ev-time">${e.time ? clock(e.time) : "Time TBA"}</span>
     <span class="ev-what">${name}${flag ? ` <span class="ev-flag">${flag}</span>` : ""}<span class="meta">${meta}</span></span>
