@@ -129,6 +129,8 @@ function renderLeague(lg) {
     ? `<details class="older" data-name="yesterday"><summary class="day">Yesterday · ${plural(y.length, "game")}</summary>${list(y, "yesterday")}</details>` : ""}`;
   // Keep anything opened open across live refreshes.
   const tileEl = document.getElementById(`scores-${lg.key}`);
+  // An empty tile (basketball before November, quiet days) hides, and the others widen (Rudy's choice).
+  tileEl.hidden = !t.length && !y.length;
   const opened = [...tileEl.querySelectorAll("details[open]")].map((d) => d.dataset.name);
   const live = [...t, ...y].filter((g) => g.state === "in").length;
   fill(`scores-${lg.key}`, {
