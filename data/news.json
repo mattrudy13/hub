@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-24T18:21:01.295Z",
+  "updated": "2026-10-24T19:21:01.536Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-24T19:12:51.000Z"
+        },
         {
           "title": "Ukraine says Starlink is back to normal after disruptions",
           "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-24T17:25:46.000Z"
-        },
-        {
-          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-24T17:21:42.000Z"
         }
       ]
     },
@@ -55,14 +55,14 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-          "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+          "title": "Pennsylvania will require labels on AI-generated ads",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
           "source": "The Verge",
-          "published": "2026-10-24T15:00:00.000Z"
+          "published": "2026-10-24T18:32:21.000Z"
         },
         {
-          "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
-          "link": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+          "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+          "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
           "source": "The Verge",
           "published": "2026-10-24T15:00:00.000Z"
         },

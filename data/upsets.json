@@ -1,11 +1,33 @@
 {
-  "updated": "2026-10-24T18:21:01.627Z",
+  "updated": "2026-10-24T19:21:02.085Z",
   "minLine": 7,
   "days": [
     "2026-10-23",
     "2026-10-24"
   ],
   "upsets": [
+    {
+      "league": "cfb",
+      "date": "2026-10-24",
+      "id": "401856841",
+      "line": 10,
+      "details": "TCU -10",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856841/west-virginia-tcu",
+      "winner": {
+        "id": "277",
+        "name": "West Virginia",
+        "abbr": "WVU",
+        "rank": null,
+        "score": 24
+      },
+      "loser": {
+        "id": "2628",
+        "name": "TCU",
+        "abbr": "TCU",
+        "rank": null,
+        "score": 20
+      }
+    },
     {
       "league": "cfb",
       "date": "2026-10-23",
@@ -213,8 +235,8 @@
     "cfb:401866449": {
       "date": "2026-10-24",
       "fav": "195",
-      "line": 10.5,
-      "details": "OHIO -10.5"
+      "line": 11.5,
+      "details": "OHIO -11.5"
     },
     "cfb:401871094": {
       "date": "2026-10-24",
@@ -303,8 +325,8 @@
     "cfb:401860906": {
       "date": "2026-10-24",
       "fav": "326",
-      "line": 13.5,
-      "details": "TXST -13.5"
+      "line": 14,
+      "details": "TXST -14"
     },
     "cfb:401862811": {
       "date": "2026-10-24",
