@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T22:21:04.429Z",
+  "updated": "2026-10-24T23:21:03.631Z",
   "minLine": 7,
   "days": [
     "2026-10-23",
@@ -69,6 +69,28 @@
         "name": "Oregon",
         "abbr": "ORE",
         "rank": null,
+        "score": 10
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-10-24",
+      "id": "401858497",
+      "line": 7.5,
+      "details": "IOWA -7.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858497/iowa-minnesota",
+      "winner": {
+        "id": "135",
+        "name": "Minnesota",
+        "abbr": "MINN",
+        "rank": null,
+        "score": 13
+      },
+      "loser": {
+        "id": "2294",
+        "name": "Iowa",
+        "abbr": "IOWA",
+        "rank": 15,
         "score": 10
       }
     },
@@ -345,8 +367,8 @@
     "cfb:401856729": {
       "date": "2026-10-24",
       "fav": "96",
-      "line": 10.5,
-      "details": "UK -10.5"
+      "line": 10,
+      "details": "UK -10"
     },
     "cfb:401858500": {
       "date": "2026-10-24",
@@ -363,14 +385,14 @@
     "cfb:401858275": {
       "date": "2026-10-24",
       "fav": "153",
-      "line": 9.5,
-      "details": "UNC -9.5"
+      "line": 8.5,
+      "details": "UNC -8.5"
     },
     "cfb:401860906": {
       "date": "2026-10-24",
       "fav": "326",
-      "line": 13.5,
-      "details": "TXST -13.5"
+      "line": 14.5,
+      "details": "TXST -14.5"
     },
     "cfb:401862811": {
       "date": "2026-10-24",

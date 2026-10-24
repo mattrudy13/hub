@@ -1,51 +1,9 @@
 {
-  "updated": "2026-10-24T22:21:06.519Z",
-  "from": "2026-10-24T22:21:05Z",
-  "to": "2026-11-07T22:21:05Z",
+  "updated": "2026-10-24T23:21:05.918Z",
+  "from": "2026-10-24T23:21:05Z",
+  "to": "2026-11-07T23:21:05Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv177Z_6GknE0SdT",
-      "name": "Swan Lake - Symphony of Lights",
-      "date": "2026-10-24",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Arts",
-      "genre": "Classical",
-      "venue": "Sandler Center For The Performing Arts",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/swan-lake-symphony-of-lights-virginia-beach-virginia-10-24-2026/event/0100647AA79330FF",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/e/97f/80eeb4d1-5e7b-4f08-93a9-a56cdb67797f_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "Z7r9jZ1AA7d8S",
-      "name": "Old Dominion Monarchs Mens Basketball vs. Virginia State Trojan Mens Basketball",
-      "date": "2026-10-24",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Basketball",
-      "venue": "Chartway Arena at Ted Constant Convocation Center",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7d8S",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "vv1AvZkfAGkdp1bNd",
-      "name": "Norfolk Admirals vs. Trois-Rivières Lions",
-      "date": "2026-10-24",
-      "time": "19:05",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Hockey",
-      "venue": "Scope Arena",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/norfolk-admirals-vs-troisrivieres-lions-norfolk-virginia-10-24-2026/event/01006505D62988C3",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/a82/1bbe9229-3e86-41b2-89a6-3f9ee9488a82_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv168vPvybsZ7G72F",
       "name": "Virginia Arts Festival - Dani Assis",
@@ -549,6 +507,20 @@
       "url": "https://www.ticketmaster.com/brains-on-live-your-brain-is-norfolk-virginia-11-07-2026/event/010064F8962CE9BB",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/266/1acf68b4-180f-4e23-87fa-b7762f953266_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZk39Gkd1TzFK",
+      "name": "Monster Jam",
+      "date": "2026-11-07",
+      "time": "18:00",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Motorsports/Racing",
+      "venue": "Hampton Coliseum",
+      "city": "Hampton",
+      "url": "https://www.ticketmaster.com/monster-jam-hampton-virginia-11-07-2026/event/01006497CAFF8213",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/648/bee96ceb-7d32-4b5d-bb15-6a8615501648_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }

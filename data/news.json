@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T22:21:03.842Z",
+  "updated": "2026-10-24T23:21:03.248Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+          "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-24T23:02:06.000Z"
+        },
+        {
+          "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
+          "source": "NPR",
+          "published": "2026-10-24T22:47:58.000Z"
+        },
+        {
           "title": "Who are the candidates in Brazil's presidential election?",
           "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-24T22:08:47.000Z"
-        },
-        {
-          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-          "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-24T21:09:27.000Z"
-        },
-        {
-          "title": "Ukraine says Starlink is back to normal after disruptions",
-          "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
-          "source": "NPR",
-          "published": "2026-10-24T17:54:25.000Z"
         }
       ]
     },
