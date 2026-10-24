@@ -37,7 +37,8 @@ function fill(id, { tag = "", hot = false, body, when = "" }) {
   el.querySelector(".tag").innerHTML = tag;
   el.querySelector(".tag").classList.toggle("hot", hot);
   if (body != null) el.querySelector(".tile-body").innerHTML = body;
-  el.querySelector(".when").innerHTML = when;
+  const foot = el.querySelector(".when"); // Coming Up has no footer
+  if (foot) foot.innerHTML = when;
   el.removeAttribute("aria-busy");
 }
 
@@ -368,6 +369,104 @@ async function refreshMarkets() {
   timers.markets = setTimeout(() => whenVisible(refreshMarkets), hours ? LIVE_MS : CLOSED_MS);
 }
 
+// ---- Weather ----
+
+// Open-Meteo needs no key and allows browser requests. Times come back as Eastern clock times ("2026-10-24T16:00").
+const WX_PLACE = { name: "Virginia Beach", lat: 36.85, lon: -75.98 };
+const WX_URL = `https://api.open-meteo.com/v1/forecast?${new URLSearchParams({
+  latitude: WX_PLACE.lat, longitude: WX_PLACE.lon, current: "temperature_2m,weather_code", hourly: "precipitation_probability",
+  daily: "temperature_2m_max,temperature_2m_min,sunset", temperature_unit: "fahrenheit", timezone: "America/New_York", forecast_days: "1",
+})}`;
+const WX_MS = 30 * 60 * 1000;
+const RAIN_SHOWN = 20; // below this, "Rain unlikely"
+// WMO weather codes, grouped into plain words.
+const WX_WORDS = [
+  [[0], "Clear"], [[1], "Mostly clear"], [[2], "Partly cloudy"], [[3], "Cloudy"], [[45, 48], "Fog"],
+  [[51, 53, 55], "Drizzle"], [[56, 57, 66, 67], "Freezing rain"], [[61], "Light rain"], [[63], "Rain"], [[65], "Heavy rain"],
+  [[71, 77], "Light snow"], [[73], "Snow"], [[75], "Heavy snow"], [[80, 81], "Showers"], [[82], "Heavy showers"],
+  [[85, 86], "Snow showers"], [[95], "Thunderstorms"], [[96, 99], "Thunderstorms with hail"],
+];
+const wxWords = (code) => WX_WORDS.find(([codes]) => codes.includes(code))?.[1] ?? "";
+// "2026-10-24T16:00" → "4 PM", "…T18:15" → "6:15 PM" (already Eastern, so no Date conversion).
+const clock = (t) => { const h = Number(t.slice(11, 13)), m = t.slice(14, 16); return `${h % 12 || 12}${m === "00" ? "" : `:${m}`} ${h < 12 ? "AM" : "PM"}`; };
+
+let wxShown = false;
+async function refreshWeather() {
+  clearTimeout(timers.weather);
+  try {
+    const res = await fetch(WX_URL);
+    if (!res.ok) throw new Error(`weather: HTTP ${res.status}`);
+    const d = await res.json();
+    const now = d.current.time.slice(0, 13);
+    // The rest of today's hours: the peak chance and the hour it comes.
+    const left = d.hourly.time.map((t, i) => [t, d.hourly.precipitation_probability[i]]).filter(([t, p]) => t.slice(0, 13) >= now && p != null);
+    const [peakAt, peak] = left.reduce((a, b) => (b[1] > a[1] ? b : a), ["", -1]);
+    const rain = peak >= RAIN_SHOWN ? `Rain ${peak}% around ${clock(peakAt)}` : "Rain unlikely";
+    const deg = (x) => `${Math.round(x)}°`;
+    fill("weather", {
+      body: `<p class="wx-now"><span class="wx-temp">${deg(d.current.temperature_2m)}</span> <span class="wx-cond">${esc(wxWords(d.current.weather_code))}</span></p>
+        <p class="sub">H ${deg(d.daily.temperature_2m_max[0])} · L ${deg(d.daily.temperature_2m_min[0])} · ${esc(rain)} · Sunset ${esc(clock(d.daily.sunset[0]))}</p>`,
+      when: `${esc(WX_PLACE.name)} · as of ${esc(clock(d.current.time))}`,
+    });
+    wxShown = true;
+  } catch (e) {
+    if (!wxShown) failTile("weather", e, "Couldn't load the weather.");
+    else console.warn("[daily] weather refresh failed; showing the last forecast:", e);
+  }
+  timers.weather = setTimeout(() => whenVisible(refreshWeather), WX_MS);
+}
+
+// ---- Countdowns ----
+
+// UVA's next football and men's basketball games (ESPN's team schedule: regular season and postseason), plus
+// the dated reminders in data/countdowns.json, which Rudy edits by hand.
+const COUNTDOWN_SPORTS = [["Football", "football/college-football"], ["Basketball", "basketball/mens-college-basketball"]];
+const COUNTDOWNS_SHOWN = 3; // the row sits above the scores, so it stays short
+const daysUntil = (key) => Math.round((dayOf(key) - dayOf(todayET())) / 864e5);
+const untilText = (n) => n === 0 ? "Today" : n === 1 ? "Tomorrow" : `In ${n} days`;
+
+async function nextUva([sport, path]) {
+  const lists = await Promise.all([2, 3].map(async (type) => {
+    const res = await fetch(`${ESPN}/${path}/teams/${UVA}/schedule?seasontype=${type}`);
+    if (!res.ok) throw new Error(`countdowns ${sport}: HTTP ${res.status}`);
+    return (await res.json()).events ?? [];
+  }));
+  const ev = lists.flat().filter((e) => e.competitions?.[0]?.status?.type?.state === "pre").sort((a, b) => a.date.localeCompare(b.date))[0];
+  if (!ev) return null;
+  const comp = ev.competitions[0];
+  const me = comp.competitors.find((c) => c.id === UVA), opp = comp.competitors.find((c) => c.id !== UVA);
+  const where = comp.neutralSite || me?.homeAway === "home" ? "vs" : "at";
+  // A kickoff ESPN hasn't set yet comes as midnight Eastern with timeValid false.
+  const when = comp.timeValid === false ? `${fmtDay(etDate(new Date(ev.date)))} · time TBA` : fmtKick(ev.date);
+  const tv = comp.broadcasts?.[0]?.media?.shortName;
+  return {
+    date: etDate(new Date(ev.date)),
+    what: `UVA ${where} ${opp?.team?.shortDisplayName ?? opp?.team?.displayName ?? "TBA"}`,
+    meta: [sport, when, tv].filter(Boolean).join(" · "),
+    link: ev.links?.[0]?.href ?? null,
+  };
+}
+
+async function renderCountdowns() {
+  const [games, mine] = await Promise.all([
+    Promise.allSettled(COUNTDOWN_SPORTS.map(nextUva)),
+    ownJson("data/countdowns.json").then((d) => d.items ?? []).catch((e) => { console.warn("[daily] countdowns.json:", e); return []; }),
+  ]);
+  for (const g of games) if (g.status === "rejected") console.warn("[daily] UVA schedule:", g.reason);
+  const items = [
+    ...games.map((g) => g.value).filter(Boolean),
+    ...mine.map((x) => ({ date: x.date, what: x.label, meta: x.note ?? "" })),
+  ].filter((x) => daysUntil(x.date) >= 0).sort((a, b) => a.date.localeCompare(b.date)).slice(0, COUNTDOWNS_SHOWN);
+  if (!items.length && games.every((g) => g.status === "rejected")) return failTile("countdowns", games[0].reason, "Couldn't load what's coming up.");
+  const row = (x) => {
+    const inner = `<span class="cd-when">${untilText(daysUntil(x.date))}</span><span class="cd-what">${esc(x.what)}</span>${x.meta ? `<span class="meta">${esc(x.meta)}</span>` : ""}`;
+    return `<li>${x.link ? `<a href="${esc(x.link)}" target="_blank" rel="noopener">${inner}</a>` : inner}</li>`;
+  };
+  fill("countdowns", {
+    body: items.length ? `<ol class="countdowns">${items.map(row).join("")}</ol>` : `<p class="label">Nothing coming up.</p>`,
+  });
+}
+
 // ---- Upsets ----
 
 async function renderUpsets() {
@@ -522,6 +621,8 @@ function renderDaily() {
   document.getElementById("subline").textContent = new Date().toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" });
   arrangeRow();
   refreshMarkets();
+  refreshWeather();
+  renderCountdowns();
   renderNews();
   renderUpsets();
   renderTop25();
