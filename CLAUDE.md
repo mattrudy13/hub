@@ -94,7 +94,8 @@ masthead ("Daily →") and back ("← Hub").
   fine-grained token for `mattrudy13/hub` only, Actions read/write, set 2026-10-23 and **expiring 2027-01-21** (GitHub
   only allowed 90 days). Deploy with `cd worker && npx wrangler deploy`
   (pushing doesn't deploy it). The workflow's own cron stays as a fallback; a doubled run commits nothing new.
-  If runs stop: Cloudflare dashboard → Workers → hub-daily-cron → Logs, or an expired token.
+  If runs stop: Cloudflare dashboard → Workers → hub-daily-cron → Logs (kept 3 days; `[observability]` in
+  `wrangler.toml`) shows GitHub's error, e.g. 401 for an expired token.
 - **Workflow:** hourly at :20 from 10:20 to 04:20 UTC (6 AM–midnight EDT). Each step runs even if another
   fails; changed files are committed as `chore(data): refresh daily data …` (ignoring `updated`), then the
   run fails if any step did, so GitHub emails. "Running late" shows when a file is over 8 h old.

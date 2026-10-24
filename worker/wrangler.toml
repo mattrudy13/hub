@@ -10,3 +10,7 @@ crons = ["20 0-4,10-23 * * *"]
 
 # The GitHub token is a secret, not a var. Set it with:
 #   npx wrangler secret put GITHUB_TOKEN
+
+# Keep each run's logs (3 days on the free plan), so a failed dispatch shows GitHub's error in the dashboard.
+[observability]
+enabled = true
