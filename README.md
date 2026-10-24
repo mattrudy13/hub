@@ -21,6 +21,10 @@ college football and basketball scores (Top 25, UVA and ACC), upsets by 7+ point
 videos from a few YouTube channels (`channels.txt`). A GitHub Action refreshes the headlines, upsets and
 videos hourly; scores come live from ESPN.
 
+**Home Base** (https://mattrudy13.github.io/hub/homebase.html) covers Virginia Beach: concerts, sports and
+shows around Hampton Roads for the next two weeks (Ticketmaster), the apartment tracker's cheapest viable
+unit, and Virginia Beach rent and home values (Zillow), mortgage rates (Freddie Mac) and gas prices (EIA).
+
 Plain HTML, CSS and JavaScript. No build step and no server: the Action is the only backend.
 
 ## Run locally
