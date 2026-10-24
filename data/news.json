@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T12:21:02.808Z",
+  "updated": "2026-10-24T13:21:09.652Z",
   "failed": [],
   "sections": [
     {
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6bdb0d14-3084-40cf-b20e-075bd0b29ed3&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-24T13:17:24.000Z"
+        },
+        {
           "title": "Why popular airplanes are getting scrapped years early",
           "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
           "source": "CNBC",
-          "published": "2026-10-24T12:20:22.000Z"
+          "published": "2026-10-24T12:59:59.000Z"
         },
         {
           "title": "Will Anthropic pull off a November IPO? Time is running out.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=65d001e5-c598-4d0b-bad7-39050021ad5c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-23T22:21:56.000Z"
-        },
-        {
-          "title": "Investors piled a record sum into a leveraged semiconductor ETF. It didn't work",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=09564c35-41ed-4d9b-a2e0-bd28986f0869&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-23T21:52:26.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Lee Chang Dong ponders the ethics of the camera",
+          "link": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
+          "source": "The Verge",
+          "published": "2026-10-24T12:30:00.000Z"
+        },
+        {
           "title": "Laika has spent 20 years building up to Wildwood",
           "link": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
           "source": "The Verge",
           "published": "2026-10-24T12:00:00.000Z"
         },
         {
-          "title": "It’s time to find a new browser",
-          "link": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
-          "source": "The Verge",
-          "published": "2026-10-24T12:00:00.000Z"
-        },
-        {
-          "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-          "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+          "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+          "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
           "source": "Ars Technica",
-          "published": "2026-10-23T22:48:25.000Z"
+          "published": "2026-10-24T11:50:28.000Z"
         }
       ]
     }
