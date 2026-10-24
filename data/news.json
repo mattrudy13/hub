@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-24T01:21:02.039Z",
+  "updated": "2026-10-24T04:21:01.576Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+          "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-24T03:51:25.000Z"
+        },
         {
           "title": "Severe flooding hits Four Corners region, more expected through the weekend",
           "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-23T20:59:39.000Z"
-        },
-        {
-          "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-          "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-23T20:18:13.000Z"
         }
       ]
     },
