@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T14:21:01.254Z",
+  "updated": "2026-10-24T15:21:02.698Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-24T14:45:30.000Z"
+        },
+        {
           "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
           "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-24T14:16:05.000Z"
-        },
-        {
-          "title": "Ukraine says Starlink connection 'now stable' after network limits",
-          "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-24T12:12:40.000Z"
         },
         {
           "title": "Perspective: The next James Bond",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Why popular airplanes are getting scrapped years early",
+          "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+          "source": "CNBC",
+          "published": "2026-10-24T15:18:30.000Z"
+        },
+        {
+          "title": "Do machines have feelings? AI has many rethinking consciousness.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5bc0659f-05be-4c5b-879e-bf49b98915d3&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-24T14:39:30.000Z"
+        },
+        {
           "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for next big hit",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c2646188-9e32-4b72-bd7a-f00bf6b670fc&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-24T13:54:45.000Z"
-        },
-        {
-          "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6bdb0d14-3084-40cf-b20e-075bd0b29ed3&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-24T13:17:24.000Z"
-        },
-        {
-          "title": "Why popular airplanes are getting scrapped years early",
-          "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-          "source": "CNBC",
-          "published": "2026-10-24T12:59:59.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "What to expect from Apple’s ‘Pro and tell’ event",
-          "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+          "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+          "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
           "source": "The Verge",
-          "published": "2026-10-24T14:15:00.000Z"
+          "published": "2026-10-24T15:00:00.000Z"
         },
         {
-          "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-          "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+          "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+          "link": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
           "source": "The Verge",
-          "published": "2026-10-24T14:00:00.000Z"
+          "published": "2026-10-24T15:00:00.000Z"
         },
         {
           "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
