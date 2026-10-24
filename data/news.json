@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T21:21:02.582Z",
+  "updated": "2026-10-24T22:21:03.842Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Who are the candidates in Brazil's presidential election?",
+          "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-24T22:08:47.000Z"
+        },
+        {
           "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
           "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-24T21:09:27.000Z"
-        },
-        {
-          "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-          "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-24T19:37:35.000Z"
         },
         {
           "title": "Ukraine says Starlink is back to normal after disruptions",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Blue Planet III is keeping the rough edges in the age of AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+          "source": "The Verge",
+          "published": "2026-10-24T21:29:12.000Z"
+        },
+        {
           "title": "Pennsylvania will require labels on AI-generated ads",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
           "source": "The Verge",
           "published": "2026-10-24T18:32:21.000Z"
-        },
-        {
-          "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-          "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-          "source": "The Verge",
-          "published": "2026-10-24T15:00:00.000Z"
         },
         {
           "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",

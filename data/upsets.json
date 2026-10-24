@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T21:21:02.933Z",
+  "updated": "2026-10-24T22:21:04.429Z",
   "minLine": 7,
   "days": [
     "2026-10-23",
@@ -48,6 +48,28 @@
         "abbr": "TCU",
         "rank": null,
         "score": 20
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-10-24",
+      "id": "401858495",
+      "line": 10,
+      "details": "ORE -10",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858495/oregon-illinois",
+      "winner": {
+        "id": "356",
+        "name": "Illinois",
+        "abbr": "ILL",
+        "rank": null,
+        "score": 21
+      },
+      "loser": {
+        "id": "2483",
+        "name": "Oregon",
+        "abbr": "ORE",
+        "rank": null,
+        "score": 10
       }
     },
     {
@@ -292,9 +314,9 @@
     },
     "cfb:401860905": {
       "date": "2026-10-24",
-      "fav": "21",
+      "fav": "36",
       "line": 1.5,
-      "details": "SDSU -1.5"
+      "details": "CSU -1.5"
     },
     "cfb:401856836": {
       "date": "2026-10-24",
@@ -347,8 +369,8 @@
     "cfb:401860906": {
       "date": "2026-10-24",
       "fav": "326",
-      "line": 14,
-      "details": "TXST -14"
+      "line": 13.5,
+      "details": "TXST -13.5"
     },
     "cfb:401862811": {
       "date": "2026-10-24",

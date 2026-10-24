@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-24T21:21:04.224Z",
-  "from": "2026-10-24T21:21:03Z",
-  "to": "2026-11-07T21:21:03Z",
+  "updated": "2026-10-24T22:21:06.519Z",
+  "from": "2026-10-24T22:21:05Z",
+  "to": "2026-11-07T22:21:05Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -535,6 +535,20 @@
       "url": "https://www.ticketmaster.com/culture-clash-crowd-karaoke-ages-21-virginia-beach-virginia-11-07-2026/event/0100654DF808CD17",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/e/d16/8d22430f-858e-4577-97e4-02af97615d16_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vvG17Z_2xp5CJD",
+      "name": "Brains On! LIVE: Your Brain is Magic!",
+      "date": "2026-11-07",
+      "time": "17:00",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": "Theatre",
+      "venue": "Attucks Theatre",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/brains-on-live-your-brain-is-norfolk-virginia-11-07-2026/event/010064F8962CE9BB",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/266/1acf68b4-180f-4e23-87fa-b7762f953266_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
