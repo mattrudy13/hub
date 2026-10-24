@@ -215,11 +215,24 @@ document.addEventListener("visibilitychange", () => {
 // hours it returns the last session's close and change, which is what the tile shows (Rudy's choice).
 // Its `curmktstatus` can't say whether the market is open: the indexes still read REG_MKT at 7:30 PM, so
 // the clock decides instead.
+// Each index pairs with its front-month future, shown while the market is closed. There's no Composite
+// future, so Nasdaq's is the Nasdaq 100's (the footer says so).
+const INDEXES = [[".SPX", "S&P 500", "@SP.1"], [".IXIC", "Nasdaq", "@ND.1"]]; // Nasdaq = the Composite, as in the news
+// Yields move in basis points; CNBC's change_pct for them is unreliable (it read −0.09% on a +5 bp day).
+const RATES = [["US2Y", "2-yr", "bp"], ["US10Y", "10-yr", "bp"], [".VIX", "VIX", "pct"]];
 const QUOTES_URL = `https://quote.cnbc.com/quote-html-webservice/restQuote/symbolType/symbol?${new URLSearchParams({
-  symbols: ".SPX|.IXIC", requestMethod: "itv", noform: "1", partnerId: "2", fund: "1", exthrs: "1", output: "json", events: "1",
+  symbols: [...INDEXES.flatMap(([ix, , fut]) => [ix, fut]), ...RATES.map(([s]) => s)].join("|"),
+  requestMethod: "itv", noform: "1", partnerId: "2", fund: "1", exthrs: "1", output: "json", events: "1",
 })}`;
-const INDEXES = [[".SPX", "S&P 500"], [".IXIC", "Nasdaq"]]; // Nasdaq = the Composite, as in the news
 const CLOSED_MS = 10 * 60 * 1000;
+// Futures settle at 4 PM, pause 5–6 PM and reopen at 6 PM (Sunday 6 PM after a weekend). CNBC's change is
+// measured from previous_day_closing, which only becomes the newest settle (settlePrice) once the evening
+// session opens. Before that the change is just the day's move again, so the line waits for them to match.
+// last_time can't be used: CNBC stamps futures with the next trade date (Saturday 6:01 PM, read on Saturday at midnight).
+function overnightFutures(f, session) {
+  const num = (s) => Number(String(s ?? "").replace(/,/g, ""));
+  return Boolean(f?.change_pct && f.settleDate >= session && num(f.settlePrice) > 0 && num(f.previous_day_closing) === num(f.settlePrice));
+}
 
 // Weekdays 9:30 AM–4 PM Eastern. Holidays aren't listed: on one, the newest quote is from an earlier day,
 // so the tile still says Closed (it just polls every minute until 4).
@@ -234,6 +247,17 @@ function inMarketHours(now = new Date()) {
 // CNBC sends strings with up to 3 decimals ("25,955.162"); show 2, with a real minus sign.
 const num2 = (s) => Number(String(s).replace(/,/g, "")).toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
 const signed2 = (s) => { const n = Number(String(s).replace(/,/g, "")); return `${n < 0 ? "−" : n > 0 ? "+" : ""}${num2(Math.abs(n))}`; };
+const minus = (s) => String(s).replace(/^-/, "−");
+const dirOf = (q) => q.changetype === "UP" ? "up" : q.changetype === "DOWN" ? "down" : "flat";
+const ARROW = { up: "▲", down: "▼", flat: "" };
+
+// "4.999%" with "+0.046" → "+4.6 bp"; the VIX keeps CNBC's percent change.
+function rateCell(q, name, unit) {
+  const chg = unit === "bp"
+    ? (() => { const bp = Number(q.change) * 100; return `${bp < 0 ? "−" : bp > 0 ? "+" : ""}${Math.abs(bp).toFixed(1)} bp`; })()
+    : minus(q.change_pct);
+  return `<li><span class="r-name">${esc(name)}</span><span class="r-val">${esc(q.last)}</span><span class="r-chg">${esc(chg)}</span></li>`;
+}
 
 let quotesShown = false;
 async function refreshMarkets() {
@@ -244,28 +268,33 @@ async function refreshMarkets() {
     if (!res.ok) throw new Error(`quotes: HTTP ${res.status}`);
     const quotes = (await res.json()).FormattedQuoteResult.FormattedQuote;
     const bySymbol = Object.fromEntries(quotes.map((q) => [q.symbol, q]));
-    const rows = INDEXES.map(([symbol, name]) => ({ name, q: bySymbol[symbol] }));
+    const rows = INDEXES.map(([symbol, name, fut]) => ({ name, q: bySymbol[symbol], fut: bySymbol[fut] }));
     if (rows.some((r) => !r.q?.change_pct)) throw new Error("quotes: an index is missing");
-    const cells = rows.map(({ name, q }) => {
-      const dir = q.changetype === "UP" ? "up" : q.changetype === "DOWN" ? "down" : "flat";
-      const arrow = { up: "▲", down: "▼", flat: "" }[dir];
-      return `<div class="index ${dir}">
-        <p class="ix-name">${esc(name)}</p>
-        <p class="ix-pct"><span aria-hidden="true">${arrow}</span> ${esc(q.change_pct.replace(/^[+-]/, ""))}<span class="visually-hidden"> ${dir}</span></p>
-        <p class="ix-sub">${esc(signed2(q.change))} · ${esc(num2(q.last))}</p>
-      </div>`;
-    }).join("");
     const asOf = rows[0].q.last_time;
     // After the close CNBC sends just the date ("2026-10-23"), which Date reads as UTC midnight, the evening
     // before in Eastern time, so a bare date is used as it is.
     const session = /^\d{4}-\d{2}-\d{2}$/.test(asOf) ? asOf : etDate(new Date(asOf));
     const open = hours && session === todayET();
+    const futuresOn = (f) => !open && overnightFutures(f, session);
+    const cells = rows.map(({ name, q, fut }) => {
+      const dir = dirOf(q);
+      const futDir = futuresOn(fut) ? dirOf(fut) : null;
+      return `<div class="index ${dir}">
+        <p class="ix-name">${esc(name)}</p>
+        <p class="ix-pct"><span aria-hidden="true">${ARROW[dir]}</span> ${esc(q.change_pct.replace(/^[+-]/, ""))}<span class="visually-hidden"> ${dir}</span></p>
+        <p class="ix-sub">${esc(signed2(q.change))} · ${esc(num2(q.last))}</p>
+        ${futDir ? `<p class="ix-fut ${futDir}">Futures <span aria-hidden="true">${ARROW[futDir]}</span> ${esc(fut.change_pct.replace(/^[+-]/, ""))}<span class="visually-hidden"> ${futDir}</span></p>` : ""}
+      </div>`;
+    }).join("");
+    // Rates are extras: a missing one is left out rather than failing the tile.
+    const rates = RATES.filter(([s]) => bySymbol[s]?.last).map(([s, name, unit]) => rateCell(bySymbol[s], name, unit)).join("");
     const closeLabel = session === todayET() ? "Today's close" : `${dayOf(session).toLocaleDateString(undefined, { weekday: "long" })}'s close`;
+    const futNote = rows.some((r) => futuresOn(r.fut)) ? `<span>Nasdaq&nbsp;futures: Nasdaq&nbsp;100</span>` : "";
     fill("markets", {
       tag: open ? "Live" : "Closed",
       hot: open,
-      body: `<div class="indexes">${cells}</div>`,
-      when: open ? `As of ${esc(fmtTime(asOf))} · updates every minute` : closeLabel,
+      body: `<div class="indexes">${cells}</div>${rates ? `<ul class="rates" aria-label="Treasury yields and the VIX">${rates}</ul>` : ""}`,
+      when: open ? `As of ${esc(fmtTime(asOf))} · updates every minute` : `<span>${closeLabel}</span>${futNote}`,
     });
     quotesShown = true;
   } catch (e) {
