@@ -307,6 +307,21 @@ h3.day { margin-bottom: 2px; }
   .countdowns .meta { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 }
 
+/* Data Jobs: folded to one line when everything's fine; red and moved up under Markets when not. */
+.jobs { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: minmax(0, 1fr); column-gap: 28px; }
+@media (min-width: 900px) { .jobs { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.job { border-bottom: 1px solid var(--line); }
+.job > a, .job:not(:has(a)) { display: grid; grid-template-columns: 14px minmax(0, 1fr); column-gap: 8px; padding: 6px 0; }
+.job > a:hover .jn { text-decoration: underline; }
+.jdot { grid-row: 1 / span 2; width: 9px; height: 9px; border-radius: 50%; margin-top: 6px; background: var(--up); }
+.job.is-failed .jdot, .job.is-late .jdot { background: var(--late); }
+.job.is-running .jdot { background: var(--hot); }
+.job.is-off .jdot, .job.is-starting .jdot { background: var(--line); }
+.jn { font-weight: 600; }
+.js { color: var(--muted); font-size: 14px; }
+.job.is-failed .js b, .job.is-late .js b { color: var(--late); }
+#health.bad .tag { background: var(--late); border-color: var(--late); color: #fff; }
+
 /* AP Top 25: rank, team and record, then the move since last week. */
 .poll { list-style: none; margin: 0; padding: 0; }
 .poll li { display: grid; grid-template-columns: 28px minmax(0, 1fr) auto; column-gap: 8px; align-items: baseline; padding: 6px 0; border-bottom: 1px solid var(--line); }

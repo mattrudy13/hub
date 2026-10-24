@@ -570,6 +570,131 @@ async function renderTop25() {
   }
 }
 
+// ---- Health ----
+
+// The scheduled jobs that keep the apps' data fresh, checked live from GitHub so the tile still works when the
+// hub's own job is broken. lateHours = the longest gap in the job's cron schedule (UTC) plus slack, because
+// GitHub starts scheduled runs hours late and skips some. months = the months its cron runs in.
+const JOBS = [
+  // Every 3 h Thu–Mon and Tue 10:00: Tue 10:00 → Thu 00:00 is 38 h.
+  { app: "NFL Tight End TDs", repo: "te-tracker", file: "update-data.yml", name: "Update data", months: [9, 10, 11, 12, 1, 2], lateHours: 50 },
+  // Thu 15:00 and Sun 08:00: Sun → Thu is 103 h.
+  { app: "NFL Tight End TDs", repo: "te-tracker", file: "snapshot-odds.yml", name: "Snapshot odds", months: [9, 10, 11, 12, 1, 2], lateHours: 115 },
+  // Saturday into Sunday every 3 h, then Mon and Wed mornings: Wed → Sat is 78 h.
+  { app: "College Football Picks", repo: "cfb-picks", file: "update-data.yml", name: "Update data", months: [8, 9, 10, 11, 12], lateHours: 90 },
+  // Mon 01:00, Tue and Fri 14:00, Sat 13:00: Tue → Fri is 72 h.
+  { app: "College Football Picks", repo: "cfb-picks", file: "snapshot-odds.yml", name: "Snapshot odds", months: [8, 9, 10, 11, 12], lateHours: 84 },
+  // Every 2 h.
+  { app: "King of the Court", repo: "kotc-tracker", file: "update-data.yml", name: "Update data", months: [10, 11, 12, 1, 2, 3, 4], lateHours: 10 },
+  // 08:15, 14:15, 17:15 and 21:15: overnight is 11 h.
+  { app: "NBA First Minute", repo: "nba-first-minute", file: "update-data.yml", name: "Update data", months: [10, 11, 12, 1, 2, 3, 4], lateHours: 24 },
+  // Daily at 09:00.
+  { app: "UVA Records", repo: "uva-records", file: "refresh.yml", name: "Refresh data", months: null, lateHours: 36 },
+  // Hourly 10:20–04:20 (the cron Worker plus GitHub's schedule): overnight is 6 h.
+  { app: "Hub Daily", repo: "hub", file: "update-daily.yml", name: "Update daily data", months: null, lateHours: 9 },
+];
+const HEALTH_KEY = "hub:daily:health:v1";
+// 8 calls per check against GitHub's 60 an hour per network, which the hub page's commit ticker shares.
+const HEALTH_MS = 20 * 60 * 1000;
+const BAD_CONCLUSIONS = ["failure", "timed_out", "startup_failure"];
+const JOB_WORDS = { failed: "Failed", late: "Late", running: "Running", ok: "OK", off: "Off season", starting: "Season starting" };
+
+// When the job's current run of cron months began (UTC), so a job isn't late before its first run of the season.
+function seasonStart(months, now = new Date()) {
+  const d = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), 1));
+  for (let i = 0; i < 12 && months.includes(((d.getUTCMonth() + 11) % 12) + 1); i++) d.setUTCMonth(d.getUTCMonth() - 1);
+  return d;
+}
+
+function jobStatus(job, runs, now = Date.now()) {
+  const newest = runs[0];
+  // Cancelled and skipped runs say nothing about whether the job works.
+  const done = runs.find((r) => r.status === "completed" && !["cancelled", "skipped"].includes(r.conclusion));
+  const inSeason = !job.months || job.months.includes(new Date(now).getUTCMonth() + 1);
+  if (!inSeason) return "off";
+  if (done && BAD_CONCLUSIONS.includes(done.conclusion)) return "failed";
+  if (newest && newest.status !== "completed") return "running";
+  const lateMs = job.lateHours * 3600e3;
+  if (!newest || now - new Date(newest.created_at) > lateMs) {
+    if (job.months && now - seasonStart(job.months) < lateMs) return "starting";
+    return "late";
+  }
+  return "ok";
+}
+
+async function fetchRuns() {
+  const out = {};
+  await Promise.all(JOBS.map(async (job) => {
+    const res = await fetch(`https://api.github.com/repos/mattrudy13/${job.repo}/actions/workflows/${job.file}/runs?per_page=5&exclude_pull_requests=true`);
+    if (res.status === 403 || res.status === 429) throw Object.assign(new Error(`health: GitHub rate limit (${res.status})`), { rateLimited: true });
+    if (!res.ok) throw new Error(`health ${job.repo}/${job.file}: HTTP ${res.status}`);
+    out[`${job.repo}/${job.file}`] = ((await res.json()).workflow_runs ?? []).map((r) => ({
+      status: r.status, conclusion: r.conclusion, created_at: r.created_at, html_url: r.html_url, event: r.event,
+    }));
+  }));
+  return out;
+}
+
+async function refreshHealth() {
+  clearTimeout(timers.health);
+  let cached = null;
+  try { cached = JSON.parse(localStorage.getItem(HEALTH_KEY)); } catch {}
+  let check = cached && Date.now() - cached.at < HEALTH_MS ? cached : null, note = "";
+  if (!check) {
+    try {
+      check = { at: Date.now(), runs: await fetchRuns() };
+      try { localStorage.setItem(HEALTH_KEY, JSON.stringify(check)); } catch {}
+    } catch (e) {
+      console.warn("[daily] health check failed:", e);
+      if (!cached) {
+        failTile("health", e, e.rateLimited ? "GitHub's hourly limit for this network is used up; try again later." : "Couldn't reach GitHub to check the jobs.");
+        timers.health = setTimeout(() => whenVisible(refreshHealth), HEALTH_MS);
+        return;
+      }
+      check = cached;
+      note = e.rateLimited ? "GitHub's hourly limit is used up; showing the last check." : "Couldn't reach GitHub; showing the last check.";
+    }
+  }
+  renderHealth(check, note);
+  timers.health = setTimeout(() => whenVisible(refreshHealth), HEALTH_MS);
+}
+
+function renderHealth(check, note = "") {
+  const el = document.getElementById("health");
+  const jobs = JOBS.map((job) => {
+    const runs = check.runs[`${job.repo}/${job.file}`] ?? [];
+    return { ...job, runs, status: jobStatus(job, runs, check.at) };
+  });
+  const broken = jobs.filter((j) => j.status === "failed" || j.status === "late");
+  const order = { failed: 0, late: 1, running: 2, ok: 3, starting: 4, off: 5 };
+  const row = (j) => {
+    const run = j.status === "failed" ? j.runs.find((r) => BAD_CONCLUSIONS.includes(r.conclusion)) : j.runs[0];
+    // The hub's job is started by the cron Worker (workflow_dispatch) or, as a fallback, GitHub's own schedule.
+    const by = j.repo === "hub" && run ? (run.event === "workflow_dispatch" ? " · started by the Worker" : run.event === "schedule" ? " · started by GitHub's schedule" : "") : "";
+    const when = run ? `last run ${ago(run.created_at)}${by}` : "no runs yet";
+    const inner = `<span class="jdot" aria-hidden="true"></span><span class="jn">${esc(j.app)} · ${esc(j.name)}</span>
+      <span class="js"><b>${JOB_WORDS[j.status]}</b> · ${esc(when)}</span>`;
+    return `<li class="job is-${j.status}">${run?.html_url ? `<a href="${esc(run.html_url)}" target="_blank" rel="noopener">${inner}</a>` : inner}</li>`;
+  };
+  const list = `<ul class="jobs">${[...jobs].sort((a, b) => order[a.status] - order[b.status]).map(row).join("")}</ul>`;
+  const failed = broken.filter((j) => j.status === "failed").length, late = broken.length - failed;
+  const summary = broken.length
+    ? [failed && `${failed} failed`, late && `${late} late`].filter(Boolean).join(" · ")
+    : `All ${jobs.filter((j) => j.status !== "off").length} jobs in season are OK`;
+  fill("health", {
+    tag: broken.length ? summary : "All OK",
+    body: broken.length
+      ? list
+      :`<details class="older" data-name="jobs"><summary class="day">${esc(summary)}</summary>${list}</details>`,
+    when: `Checked ${esc(ago(new Date(check.at).toISOString()))}${note ? ` · ${esc(note)}` : ""}`,
+  });
+  el.classList.toggle("bad", broken.length > 0);
+  // Something broken moves up under Markets (a DOM move, so screen readers meet it there too); else it sits last.
+  const main = el.parentElement;
+  if (broken.length) document.getElementById("markets").after(el);
+  else main.append(el);
+}
+
 // ---- YouTube ----
 
 // When the previous visit ended (on this device). The first visit counts the last day as new.
@@ -627,6 +752,7 @@ function renderDaily() {
   renderUpsets();
   renderTop25();
   renderYoutube();
+  refreshHealth();
   LEAGUES.forEach(refreshLeague);
   // Picks only add badges, so football doesn't wait for them: once they're in, redraw it if it has drawn.
   loadPicks().then(() => {
