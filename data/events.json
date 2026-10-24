@@ -1,23 +1,9 @@
 {
-  "updated": "2026-10-24T17:29:56.044Z",
-  "from": "2026-10-24T17:29:55Z",
-  "to": "2026-11-07T17:29:55Z",
+  "updated": "2026-10-24T18:21:03.468Z",
+  "from": "2026-10-24T18:21:03Z",
+  "to": "2026-11-07T18:21:03Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1A7O816",
-      "name": "Hampton Pirates Football vs. Monmouth University Hawks Football",
-      "date": "2026-10-24",
-      "time": "14:00",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Football",
-      "venue": "Armstrong Stadium Hampton University",
-      "city": "Hampton",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7O816",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/db5/5acfb9a3-4315-40c6-824f-e0fd31bd5db5_723691_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "Z7r9jZ1AAevZp",
       "name": "Adult Access: Halloween Edition - Ages 21+",

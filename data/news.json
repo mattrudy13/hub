@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T17:29:53.468Z",
+  "updated": "2026-10-24T18:21:01.295Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Ukraine says Starlink is back to normal after disruptions",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+          "source": "NPR",
+          "published": "2026-10-24T17:54:25.000Z"
+        },
+        {
           "title": "Two rescued after Nairobi building collapse with five still missing",
           "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-24T17:25:46.000Z"
         },
         {
-          "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-          "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-24T17:11:56.000Z"
-        },
-        {
-          "title": "Perspective: The next James Bond",
-          "link": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
-          "source": "NPR",
-          "published": "2026-10-24T12:00:00.000Z"
+          "published": "2026-10-24T17:21:42.000Z"
         }
       ]
     },
