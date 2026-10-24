@@ -41,6 +41,14 @@ function fill(id, { tag = "", hot = false, body, when = "" }) {
   el.removeAttribute("aria-busy");
 }
 
+// The shared row's widths depend on how many of its tiles are showing (see .row-tile in style.css).
+function arrangeRow() {
+  const main = document.querySelector("main.daily");
+  const shown = [...main.querySelectorAll(".row-tile")].filter((t) => !t.hidden);
+  main.dataset.row = shown.length;
+  shown.forEach((t, i) => t.classList.toggle("row-last-odd", shown.length % 2 === 1 && i === shown.length - 1));
+}
+
 function failTile(id, e, message) {
   console.warn(`[daily] ${id}:`, e);
   document.getElementById(id).classList.add("failed");
@@ -49,23 +57,45 @@ function failTile(id, e, message) {
 
 // ---- Headlines ----
 
-// On a phone the sections are tabs; the last one picked is remembered on this device.
-const TAB_KEY = "hub:daily:newsTab";
-function pickTab(key) {
-  for (const b of document.querySelectorAll("#news [role=tab]")) {
-    const on = b.dataset.key === key;
-    b.setAttribute("aria-selected", on);
-    b.tabIndex = on ? 0 : -1;
-    document.getElementById(b.getAttribute("aria-controls")).classList.toggle("off", !on);
-  }
-  try { localStorage.setItem(TAB_KEY, key); } catch {}
+// Tabs (headlines on a phone, and the Top 25's sports): the last one picked is remembered on this device.
+// Returns pick(key), which shows that tab's panel; onPick runs after, for anything else that follows the tab.
+function makeTabs(id, storeKey, onPick) {
+  const root = document.getElementById(id);
+  const pick = (key) => {
+    for (const b of root.querySelectorAll("[role=tab]")) {
+      const on = b.dataset.key === key;
+      b.setAttribute("aria-selected", on);
+      b.tabIndex = on ? 0 : -1;
+      document.getElementById(b.getAttribute("aria-controls")).classList.toggle("off", !on);
+    }
+    try { localStorage.setItem(storeKey, key); } catch {}
+    onPick?.(key);
+  };
+  root.addEventListener("click", (e) => {
+    const b = e.target.closest("[role=tab]");
+    if (b) pick(b.dataset.key);
+  });
+  // Arrow keys move between tabs (the standard tabs pattern).
+  root.addEventListener("keydown", (e) => {
+    if (!e.target.matches("[role=tab]") || !["ArrowLeft", "ArrowRight", "Home", "End"].includes(e.key)) return;
+    const all = [...root.querySelectorAll("[role=tab]")];
+    const i = all.indexOf(e.target);
+    const next = all[{ ArrowLeft: (i - 1 + all.length) % all.length, ArrowRight: (i + 1) % all.length, Home: 0, End: all.length - 1 }[e.key]];
+    e.preventDefault();
+    pick(next.dataset.key);
+    next.focus();
+  });
+  return pick;
 }
+const savedTab = (storeKey) => { try { return localStorage.getItem(storeKey); } catch { return null; } };
+
+const TAB_KEY = "hub:daily:newsTab";
+const pickTab = makeTabs("news", TAB_KEY);
 
 async function renderNews() {
   try {
     const d = await ownJson("data/news.json");
-    let tab = null;
-    try { tab = localStorage.getItem(TAB_KEY); } catch {}
+    let tab = savedTab(TAB_KEY);
     if (!d.sections.some((s) => s.key === tab)) tab = d.sections[0]?.key;
     const tabs = `<div class="news-tabs" role="tablist" aria-label="Headline sections">${d.sections.map((s) =>
       `<button type="button" role="tab" id="tab-${esc(s.key)}" aria-controls="panel-${esc(s.key)}" data-key="${esc(s.key)}">${esc(s.name)}</button>`).join("")}</div>`;
@@ -82,21 +112,6 @@ async function renderNews() {
     failTile("news", e, "Couldn't load the headlines.");
   }
 }
-
-document.getElementById("news").addEventListener("click", (e) => {
-  const b = e.target.closest("[role=tab]");
-  if (b) pickTab(b.dataset.key);
-});
-// Arrow keys move between tabs (the standard tabs pattern).
-document.getElementById("news").addEventListener("keydown", (e) => {
-  if (!e.target.matches("[role=tab]") || !["ArrowLeft", "ArrowRight", "Home", "End"].includes(e.key)) return;
-  const all = [...document.querySelectorAll("#news [role=tab]")];
-  const i = all.indexOf(e.target);
-  const next = all[{ ArrowLeft: (i - 1 + all.length) % all.length, ArrowRight: (i + 1) % all.length, Home: 0, End: all.length - 1 }[e.key]];
-  e.preventDefault();
-  pickTab(next.dataset.key);
-  next.focus();
-});
 
 // ---- Scores ----
 
@@ -212,6 +227,7 @@ function renderLeague(lg) {
   const tileEl = document.getElementById(`scores-${lg.key}`);
   // An empty tile (basketball before November, quiet days) hides, and the others widen (Rudy's choice).
   tileEl.hidden = !t.length && !y.length;
+  arrangeRow();
   const opened = [...tileEl.querySelectorAll("details[open]")].map((d) => d.dataset.name);
   const live = [...t, ...y].filter((g) => g.state === "in").length;
   fill(`scores-${lg.key}`, {
@@ -378,6 +394,83 @@ async function renderUpsets() {
   }
 }
 
+// ---- AP Top 25 ----
+
+// Each sport's poll shows in its own window (month and day, wrapping the new year): football from August
+// through the title game, basketball from the preseason poll through the Final Four. Both in Oct–Jan, as tabs.
+const POLLS = [
+  { key: "cfb", name: "Football", path: "football/college-football", from: "08-15", to: "01-20", espn: "college-football" },
+  { key: "cbb", name: "Basketball", path: "basketball/mens-college-basketball", from: "10-01", to: "04-15", espn: "mens-college-basketball" },
+];
+const POLL_SHOWN = 10;
+const POLL_TAB_KEY = "hub:daily:top25Tab";
+const inWindow = ({ from, to }, md = todayET().slice(5)) => from <= to ? md >= from && md <= to : md >= from || md <= to;
+
+function pollRow(r, preseason) {
+  const moved = r.previous ? r.previous - r.current : null;
+  // Preseason polls have no previous week, so movement would say New for everyone.
+  const [mv, said, dir] = preseason ? ["", "", ""]
+    : moved == null ? ["New", "new this week", "new"]
+    : moved > 0 ? [`▲${moved}`, `up ${moved}`, "up"]
+    : moved < 0 ? [`▼${-moved}`, `down ${-moved}`, "down"] : ["–", "same as last week", ""];
+  const name = r.team.nickname ?? r.team.location ?? r.team.name;
+  return `<li class="${r.team.id === UVA ? "uva" : ""}"><span class="pr">${r.current}</span>
+    <span class="pt">${esc(name)}${r.recordSummary && r.recordSummary !== "0-0" ?` <span class="rec">${esc(r.recordSummary.replace("-", "–"))}</span>` : ""}</span>
+    <span class="mv ${dir}"><span aria-hidden="true">${mv}</span>${said ? `<span class="visually-hidden">${said}</span>` : ""}</span></li>`;
+}
+
+async function renderTop25() {
+  const el = document.getElementById("top25");
+  const live = POLLS.filter((p) => inWindow(p));
+  if (!live.length) return; // summer: the tile stays hidden
+  try {
+    const polls = (await Promise.all(live.map(async (p) => {
+      const res = await fetch(`${ESPN}/${p.path}/rankings`);
+      if (!res.ok) throw new Error(`top25 ${p.key}: HTTP ${res.status}`);
+      const ap = (await res.json()).rankings?.find((r) => r.type === "ap");
+      return ap?.ranks?.length ? { ...p, ap } : null;
+    }))).filter(Boolean);
+    if (!polls.length) throw new Error("top25: no AP poll");
+    el.hidden = false;
+    arrangeRow();
+    const many = polls.length > 1;
+    const tabs = many ? `<div class="poll-tabs" role="tablist" aria-label="Sport">${polls.map((p) =>
+      `<button type="button" role="tab" id="poll-tab-${p.key}" aria-controls="poll-${p.key}" data-key="${p.key}">${p.name}</button>`).join("")}</div>` : "";
+    const panels = polls.map((p) => {
+      const preseason = /preseason/i.test(p.ap.occurrence?.displayValue ?? "");
+      const ranks = [...p.ap.ranks].sort((a, b) => a.current - b.current);
+      return `<section id="poll-${p.key}" class="poll-panel"${many ? ` role="tabpanel" aria-labelledby="poll-tab-${p.key}"` : ""}>
+        ${many ? "" : `<h3 class="visually-hidden">${p.name}</h3>`}
+        <ol class="poll">${ranks.slice(0, POLL_SHOWN).map((r) => pollRow(r, preseason)).join("")}</ol>
+        <details class="more" data-name="poll-${p.key}"><summary>Show ${POLL_SHOWN + 1}–${ranks.length}</summary>
+          <ol class="poll" start="${POLL_SHOWN + 1}">${ranks.slice(POLL_SHOWN).map((r) => pollRow(r, preseason)).join("")}</ol></details>
+      </section>`;
+    }).join("");
+    // The tag, footer and ESPN link follow the sport on show.
+    const show = (key) => {
+      const p = polls.find((x) => x.key === key) ?? polls[0];
+      const uva = p.ap.ranks.find((r) => r.team.id === UVA);
+      fill("top25", {
+        tag: uva ? `UVA #${uva.current}` : "",
+        when: `AP poll · ${esc(p.ap.occurrence?.displayValue ?? "")}${p.ap.date ? ` · ${esc(fmtShortDay(etDate(new Date(p.ap.date))))}` : ""}`,
+      });
+      const link = el.querySelector(".tile-foot a");
+      link.href = `https://www.espn.com/${p.espn}/rankings`;
+      link.setAttribute("aria-label", `Open ESPN's ${p.name.toLowerCase()} rankings in a new tab`);
+    };
+    fill("top25", { body: `${tabs}${panels}` });
+    // The sport picked last is remembered; a first visit starts on football while its poll is out.
+    let tab = savedTab(POLL_TAB_KEY);
+    if (!polls.some((p) => p.key === tab)) tab = polls[0].key;
+    if (many) makeTabs("top25", POLL_TAB_KEY, show)(tab);
+    else show(tab);
+  } catch (e) {
+    el.hidden = false;
+    arrangeRow();
+    failTile("top25", e, "Couldn't load the AP Top 25.");
+  }
+}
+
 // ---- YouTube ----
 
 // When the previous visit ended (on this device). The first visit counts the last day as new.
@@ -427,9 +520,11 @@ async function renderYoutube() {
 
 function renderDaily() {
   document.getElementById("subline").textContent = new Date().toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" });
+  arrangeRow();
   refreshMarkets();
   renderNews();
   renderUpsets();
+  renderTop25();
   renderYoutube();
   LEAGUES.forEach(refreshLeague);
   // Picks only add badges, so football doesn't wait for them: once they're in, redraw it if it has drawn.

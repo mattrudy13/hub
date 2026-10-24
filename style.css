@@ -217,17 +217,17 @@ button { font: inherit; color: inherit; }
 .link-btn:hover { border-color: var(--ink); }
 @media (min-width: 700px) { .tile.full { grid-column: 1 / -1; } }
 .daily .tile-foot { flex-wrap: wrap; }
-/* The score and upset tiles share rows. A score tile with no games is hidden (daily.js), and the tiles left
-   widen to fill the row: Football, Basketball and Upsets take thirds; with one hidden, halves; alone, all of it. */
+/* Football, Basketball, Upsets and Top 25 (.row-tile) share rows, and any but Upsets can be hidden (no games,
+   or no poll in summer). arrangeRow() in daily.js counts the ones showing into data-row and marks an odd last
+   one: 4 or 2 take halves, 3 take thirds, 1 takes the whole row. Weather and Countdowns take halves. */
 @media (min-width: 700px) and (max-width: 1039px) {
-  .daily #upsets { grid-column: 1 / -1; }
-  .daily:has(.scores:not([hidden])):has(.scores[hidden]) #upsets { grid-column: auto; }
+  .daily .row-last-odd { grid-column: 1 / -1; }
 }
 @media (min-width: 1040px) {
   .tiles.daily { grid-template-columns: repeat(6, minmax(0, 1fr)); }
-  .daily > .tile:not(.full) { grid-column: span 2; }
-  .daily:has(.scores[hidden]) > .tile:not(.full) { grid-column: span 3; }
-  .daily:not(:has(.scores:not([hidden]))) > #upsets { grid-column: 1 / -1; }
+  .daily > .tile:not(.full) { grid-column: span 3; }
+  .daily[data-row="3"] > .row-tile { grid-column: span 2; }
+  .daily[data-row="1"] > .row-tile { grid-column: 1 / -1; }
 }
 .meta { display: block; color: var(--muted); font-size: 14px; margin-top: 2px; font-weight: 400; }
 .daily a { text-decoration: none; }
@@ -241,14 +241,14 @@ button { font: inherit; color: inherit; }
 }
 /* Below 900 px the sections are tabs, one at a time (Rudy's choice: 9 stacked headlines pushed the scores
    2 screens down). The tab names stand in for the section headings, which stay for screen readers. */
-.news-tabs { display: flex; gap: 6px; margin-bottom: 4px; }
-.news-tabs button {
+.news-tabs, .poll-tabs { display: flex; gap: 6px; margin-bottom: 4px; }
+.news-tabs button, .poll-tabs button {
   flex: 1; min-height: 44px; padding: 0 6px; cursor: pointer;
   border: var(--border); border-radius: var(--radius); background: var(--bg); color: var(--muted);
   font-family: var(--font-display); font-weight: 700; font-size: 15px; letter-spacing: .06em; text-transform: uppercase;
 }
-.news-tabs button[aria-selected="true"] { background: var(--strip); border-color: var(--strip); color: var(--strip-ink); }
-.news section.off { display: none; }
+.news-tabs button[aria-selected="true"], .poll-tabs button[aria-selected="true"] { background: var(--strip); border-color: var(--strip); color: var(--strip-ink); }
+.news section.off, .poll-panel.off { display: none; }
 @media (max-width: 899px) { .news h3 { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; } }
 @media (min-width: 900px) {
   .news-tabs { display: none; }
@@ -284,6 +284,18 @@ h3.day { margin-bottom: 2px; }
 .game.uva > a, .game.uva > div { box-shadow: inset 3px 0 0 var(--hot); padding-left: 10px; }
 .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--late); margin-right: 6px; vertical-align: 1px; }
 
+/* AP Top 25: rank, team and record, then the move since last week. */
+.poll { list-style: none; margin: 0; padding: 0; }
+.poll li { display: grid; grid-template-columns: 28px minmax(0, 1fr) auto; column-gap: 8px; align-items: baseline; padding: 6px 0; border-bottom: 1px solid var(--line); }
+.poll li:last-child { border-bottom: 0; }
+.poll li.uva { box-shadow: inset 3px 0 0 var(--hot); padding-left: 10px; }
+.poll .pr { font-family: var(--font-display); font-weight: 700; font-size: 18px; text-align: right; font-variant-numeric: tabular-nums; }
+.poll .pt { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.poll .rec { color: var(--muted); font-weight: 400; font-size: 14px; margin-left: 4px; }
+.poll .mv { color: var(--muted); font-size: 14px; font-weight: 600; font-variant-numeric: tabular-nums; }
+.poll .mv.up { color: var(--up); }
+.poll .mv.down { color: var(--down); }
+.poll-panel .more { margin-top: 0; }
 .upset-list a { font-weight: 500; }
 .upset-list b { font-weight: 700; }
 .line { font-family: var(--font-display); font-weight: 700; background: var(--hot); color: var(--hot-ink); padding: 0 5px; border-radius: 3px; }
