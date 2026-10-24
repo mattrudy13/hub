@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T01:21:04.235Z",
+  "updated": "2026-10-24T15:46:53.384Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "z57g9cZO4x0",
+          "title": "I'm in LOVE with Terraria (Squeex's First Terraria Playthrough)",
+          "published": "2026-10-24T14:14:12Z",
+          "thumb": "https://i.ytimg.com/vi/z57g9cZO4x0/mqdefault.jpg",
+          "seen": "2026-10-24T14:21:01.718Z"
+        },
         {
           "id": "nbAuL1nF4qA",
           "title": "This can't be real... (Streamer Awards 2026 Voting)",
@@ -35,13 +42,6 @@
           "published": "2026-10-15T08:33:29Z",
           "thumb": "https://i.ytimg.com/vi/E7Iic0L9Ixc/mqdefault.jpg",
           "seen": "2026-10-15T08:33:29Z"
-        },
-        {
-          "id": "jPw8JAJWw7U",
-          "title": "Is Terraria still good in 2026? (Squeex's FIRST Terraria Playthrough)",
-          "published": "2026-10-14T23:23:12Z",
-          "thumb": "https://i.ytimg.com/vi/jPw8JAJWw7U/mqdefault.jpg",
-          "seen": "2026-10-14T23:23:12Z"
         }
       ]
     },

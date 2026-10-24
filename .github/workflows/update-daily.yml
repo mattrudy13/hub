@@ -43,6 +43,17 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: node scripts/youtube.mjs
+      # Home Base page. Housing skips itself unless its file is 20+ hours old (the numbers move weekly/monthly).
+      - name: Events
+        id: events
+        continue-on-error: true
+        env:
+          TICKETMASTER_KEY: ${{ secrets.TICKETMASTER_KEY }}
+        run: node scripts/events.mjs
+      - name: Housing
+        id: housing
+        continue-on-error: true
+        run: node scripts/housing.mjs
       - name: Commit if changed
         run: |
           # `updated` changes on every run, so ignore it when deciding whether anything changed.
@@ -69,7 +80,7 @@ jobs:
           git push
       # Fail the run (GitHub emails) after pushing whatever did work.
       - name: Report failures
-        if: steps.news.outcome == 'failure' || steps.upsets.outcome == 'failure' || steps.youtube.outcome == 'failure'
+        if: steps.news.outcome == 'failure' || steps.upsets.outcome == 'failure' || steps.youtube.outcome == 'failure' || steps.events.outcome == 'failure' || steps.housing.outcome == 'failure'
         run: |
-          echo "news=${{ steps.news.outcome }} upsets=${{ steps.upsets.outcome }} youtube=${{ steps.youtube.outcome }}"
+          echo "news=${{ steps.news.outcome }} upsets=${{ steps.upsets.outcome }} youtube=${{ steps.youtube.outcome }} events=${{ steps.events.outcome }} housing=${{ steps.housing.outcome }}"
           exit 1

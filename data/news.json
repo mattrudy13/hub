@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T01:21:02.039Z",
+  "updated": "2026-10-24T15:46:51.686Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Severe flooding hits Four Corners region, more expected through the weekend",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+          "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+          "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-24T15:21:44.000Z"
+        },
+        {
+          "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-24T14:45:30.000Z"
+        },
+        {
+          "title": "Perspective: The next James Bond",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
           "source": "NPR",
-          "published": "2026-10-24T00:40:42.000Z"
-        },
-        {
-          "title": "Argentina drops investigation into President Milei over crypto fraud",
-          "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-23T20:59:39.000Z"
-        },
-        {
-          "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-          "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-23T20:18:13.000Z"
+          "published": "2026-10-24T12:00:00.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Will Anthropic pull off a November IPO? Time is running out.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=65d001e5-c598-4d0b-bad7-39050021ad5c&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-23T22:21:56.000Z"
-        },
-        {
-          "title": "Investors piled a record sum into a leveraged semiconductor ETF. It didn't work",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=09564c35-41ed-4d9b-a2e0-bd28986f0869&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-23T21:52:26.000Z"
-        },
-        {
-          "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-          "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+          "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+          "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
           "source": "CNBC",
-          "published": "2026-10-23T18:57:48.000Z"
+          "published": "2026-10-24T15:46:12.000Z"
+        },
+        {
+          "title": "Why popular airplanes are getting scrapped years early",
+          "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+          "source": "CNBC",
+          "published": "2026-10-24T15:18:30.000Z"
+        },
+        {
+          "title": "Do machines have feelings? AI has many rethinking consciousness.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5bc0659f-05be-4c5b-879e-bf49b98915d3&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-24T14:39:30.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-          "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+          "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+          "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+          "source": "The Verge",
+          "published": "2026-10-24T15:00:00.000Z"
+        },
+        {
+          "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+          "link": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+          "source": "The Verge",
+          "published": "2026-10-24T15:00:00.000Z"
+        },
+        {
+          "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+          "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
           "source": "Ars Technica",
-          "published": "2026-10-23T22:48:25.000Z"
-        },
-        {
-          "title": "Xbox’s first chief operating officer is out after just a few months",
-          "link": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-          "source": "The Verge",
-          "published": "2026-10-23T21:39:26.000Z"
-        },
-        {
-          "title": "OpenAI now trains its frontier AI models with no internet access",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-          "source": "The Verge",
-          "published": "2026-10-23T21:11:07.000Z"
+          "published": "2026-10-24T11:50:28.000Z"
         }
       ]
     }

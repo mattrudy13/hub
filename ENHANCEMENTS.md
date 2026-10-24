@@ -10,3 +10,13 @@
    already saved in `data/upsets.json`. Could also show finished upsets before the hourly run.
 7. **Mark videos watched (Daily).** Let a NEW badge be dismissed per video instead of clearing on the next visit.
 8. **More leagues (Daily).** NFL/NBA scores and upsets if wanted later (Rudy picked college only for v0.2).
+9. **Weather or local news (Home Base).** Offered 2026-10-24 and not picked. Weather: NWS `api.weather.gov`
+   (CORS allowed) for the forecast and alerts (coastal flooding on Shore Drive, tropical storms). News: WAVY,
+   13NewsNow, WTKR or the Virginian-Pilot RSS through the hourly job, like `news.mjs`.
+10. **Traffic (Home Base).** HRBT and bridge-tunnel delays need a free VDOT SmarterRoads data account and key;
+    skipped for v0.3.
+11. **Beach conditions (Home Base).** Dropped because Rudy doesn't do beach activities. If wanted later: NOAA tide
+    predictions for Lynnhaven Inlet (station 8638888), wind at CBBT Chesapeake Channel (8638901), ocean wave height
+    and water temperature from NDBC buoy 44099 (Cape Henry), EPA UV by ZIP 23451. All free, checked 2026-10-24.
+12. **Event prices (Home Base).** Ticketmaster rarely sends prices for local venues; SeatGeek's API (free
+    client id) has "lowest price" and could fill the gap.

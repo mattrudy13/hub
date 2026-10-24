@@ -15,10 +15,11 @@ no link to the portfolio at the root (that site is recruiter-facing and separate
   A thrown error makes the tile fall back to its name and link (the console says why): that's how a format
   change in an app shows up.
 - `feed.js`: the commit ticker.
-- `style.css`: tokens for 2 skins × 2 themes, plus the Arcade overrides and the Daily page's styles.
+- `style.css`: tokens for 2 skins × 2 themes, plus the Arcade overrides and the Daily and Home Base pages' styles.
 - `daily.html` + `daily.js`: the Daily page (see below).
-- `scripts/news.mjs`, `scripts/upsets.mjs`, `scripts/youtube.mjs`: write `data/*.json` for the Daily page, run
-  hourly by `.github/workflows/update-daily.yml`.
+- `homebase.html` + `homebase.js`: the Home Base page (see below).
+- `scripts/news.mjs`, `scripts/upsets.mjs`, `scripts/youtube.mjs`: write `data/*.json` for the Daily page;
+  `scripts/events.mjs`, `scripts/housing.mjs` for Home Base. All run hourly by `.github/workflows/update-daily.yml`.
 - `worker/`: the Cloudflare cron Worker that starts the workflow hourly (see Daily page).
 - `channels.txt`: the YouTube channels on the Daily page, one URL or @handle per line.
 
@@ -114,6 +115,34 @@ counts the ones showing into `data-row` on `<main>`: 4 or 2 take halves, 3 third
 - **Workflow:** hourly at :20 from 10:20 to 04:20 UTC (6 AM–midnight EDT). Each step runs even if another
   fails; changed files are committed as `chore(data): refresh daily data …` (ignoring `updated`), then the
   run fails if any step did, so GitHub emails. "Running late" shows when a file is over 8 h old.
+
+## Home Base page (`homebase.html`, added 2026-10-24, v0.3)
+
+Rudy lives in Virginia Beach (Chic's Beach / Shore Drive). He wanted an information page, not betting, built
+around **things to do** and **money & housing**. Beach conditions (tides, waves, rip currents) were dropped:
+he said he doesn't do those activities. Weather and local news weren't picked either. Linked from the hub
+masthead ("Home Base →") and back ("← Hub"); theme toggle only.
+
+| Tile | Source | Rules |
+|---|---|---|
+| Things to do | `data/events.json` (`events.mjs`, Ticketmaster Discovery API) | All of Hampton Roads (Rudy's choice): 25 miles from 36.86,−76.15, next 14 days. Parking passes, upgrades and add-ons are dropped, duplicates (one listing per ticket type) merged, cancelled shows left out; postponed/rescheduled/off sale flagged. Kinds: Music, Sports, Comedy (a genre under Arts & Theatre), Arts, Family, Other, as filter chips (remembered in `hub:home:kind`). Grouped by day, Fri–Sun marked "Weekend", first 12 then "Show N more". Until `TICKETMASTER_KEY` is set, the step skips and the tile says so. |
+| Your apartments | the tracker's `apartments/data/viable.json` + `summary.json` | Big number = lowest `monthly` in viable.json (same as the hub tile, site and digest). Trend = viable units at the end of each week, each complex's latest `history` count on or before that day. |
+| Mortgage rates | `data/housing.json` ← Freddie Mac `PMMS_history.csv` | 30-year (big) and 15-year, week-over-week change, a year ago. 53 weeks kept. |
+| Rent / Home values | `data/housing.json` ← Zillow city CSVs (ZORI rent index; ZHVI mid-tier home value) | Virginia Beach, VA row, last 25 months, change vs the same month a year earlier. The ZHVI file is ~94 MB, so the script streams it and stops at Virginia Beach's row (sorted by size, near the top). |
+| Gas | `data/housing.json` ← EIA's weekly table page (`pet_pri_gnd_dcus_r1z_w.htm`) | Regular, Lower Atlantic (PADD 1C): EIA doesn't publish Virginia alone, and its API needs a key. The newest week's cell is class `Current2`, the rest `DataB`. |
+
+- Changes are written as words ("Up 0.05 pts from last week"), not red/green: a rise isn't good or bad for
+  every number. Sparklines have no axis or tooltip (values are in the text); the end dot is a round-capped
+  zero-length line so the stretched SVG doesn't turn it into an oval.
+- `housing.mjs` runs inside the hourly job but skips itself unless `data/housing.json` is 20+ hours old
+  (`--force` overrides). A failed source keeps its last numbers and the tile says so. "Running late" after 48 h.
+- **Ticketmaster key:** repo secret `TICKETMASTER_KEY`, set 2026-10-24 (the **Consumer Key** from
+  developer.ticketmaster.com → My Apps; the first value saved got HTTP 401, fixed by copying the Consumer Key
+  again). Free tier 5,000 calls/day; this uses 1–3 a run. First run: 38 events through 11/7 (15 music, 13 sports,
+  5 arts, 3 comedy), mostly ODU, Admirals, The NorVa, The Dome, Elevation 27, Sandler Center, Chartway Arena.
+  Ticketmaster rarely includes `priceRanges` for these venues, so "From $X" is usually blank.
+- This machine's network couldn't reach FRED (`fred.stlouisfed.org`, connection failed) on 2026-10-24, which
+  is why mortgage rates come from Freddie Mac directly.
 
 ## Dev notes
 

@@ -23,6 +23,10 @@ ACC, with TV, the line and cfb-picks' picks), upsets by 7+ point underdogs, the 
 from a few YouTube channels (`channels.txt`) and a check that the apps' data jobs are running. A GitHub Action
 refreshes the headlines, upsets and videos hourly; the rest comes live from CNBC, Open-Meteo, ESPN and GitHub.
 
+**Home Base** (https://mattrudy13.github.io/hub/homebase.html) covers Virginia Beach: concerts, sports and
+shows around Hampton Roads for the next two weeks (Ticketmaster), the apartment tracker's cheapest viable
+unit, and Virginia Beach rent and home values (Zillow), mortgage rates (Freddie Mac) and gas prices (EIA).
+
 Plain HTML, CSS and JavaScript. No build step and no server: the Action is the only backend.
 
 ## Run locally
