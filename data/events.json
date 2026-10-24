@@ -1,23 +1,9 @@
 {
-  "updated": "2026-10-24T19:21:04.783Z",
-  "from": "2026-10-24T19:21:04Z",
-  "to": "2026-11-07T19:21:04Z",
+  "updated": "2026-10-24T20:21:16.242Z",
+  "from": "2026-10-24T20:21:15Z",
+  "to": "2026-11-07T20:21:15Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1AAevZp",
-      "name": "Adult Access: Halloween Edition - Ages 21+",
-      "date": "2026-10-24",
-      "time": "16:00",
-      "status": "onsale",
-      "kind": "Other",
-      "genre": null,
-      "venue": "The Shack",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAevZp",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv177Z_6GknE0SdT",
       "name": "Swan Lake - Symphony of Lights",

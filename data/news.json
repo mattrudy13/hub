@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-24T19:21:01.536Z",
+  "updated": "2026-10-24T20:21:12.624Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+          "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-24T19:37:35.000Z"
+        },
         {
           "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
           "source": "NPR",
           "published": "2026-10-24T17:54:25.000Z"
-        },
-        {
-          "title": "Two rescued after Nairobi building collapse with five still missing",
-          "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-24T17:25:46.000Z"
         }
       ]
     },
