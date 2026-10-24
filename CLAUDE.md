@@ -15,7 +15,7 @@ no link to the portfolio at the root (that site is recruiter-facing and separate
   A thrown error makes the tile fall back to its name and link (the console says why): that's how a format
   change in an app shows up.
 - `feed.js`: the commit ticker.
-- `style.css`: tokens for 2 skins × 2 themes, plus the Arcade overrides and the Daily page's styles.
+- `style.css`: tokens for 2 skins × 2 themes, plus the Arcade overrides and the Daily and Home Base pages' styles.
 - `daily.html` + `daily.js`: the Daily page (see below).
 - `homebase.html` + `homebase.js`: the Home Base page (see below).
 - `scripts/news.mjs`, `scripts/upsets.mjs`, `scripts/youtube.mjs`: write `data/*.json` for the Daily page;
@@ -121,8 +121,11 @@ masthead ("Home Base →") and back ("← Hub"); theme toggle only.
   zero-length line so the stretched SVG doesn't turn it into an oval.
 - `housing.mjs` runs inside the hourly job but skips itself unless `data/housing.json` is 20+ hours old
   (`--force` overrides). A failed source keeps its last numbers and the tile says so. "Running late" after 48 h.
-- **Ticketmaster key:** repo secret `TICKETMASTER_KEY` (Consumer Key from developer.ticketmaster.com, free tier
-  5,000 calls/day; this uses 1–3 a run).
+- **Ticketmaster key:** repo secret `TICKETMASTER_KEY`, set 2026-10-24 (the **Consumer Key** from
+  developer.ticketmaster.com → My Apps; the first value saved got HTTP 401, fixed by copying the Consumer Key
+  again). Free tier 5,000 calls/day; this uses 1–3 a run. First run: 38 events through 11/7 (15 music, 13 sports,
+  5 arts, 3 comedy), mostly ODU, Admirals, The NorVa, The Dome, Elevation 27, Sandler Center, Chartway Arena.
+  Ticketmaster rarely includes `priceRanges` for these venues, so "From $X" is usually blank.
 - This machine's network couldn't reach FRED (`fred.stlouisfed.org`, connection failed) on 2026-10-24, which
   is why mortgage rates come from Freddie Mac directly.
 
