@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T13:21:09.652Z",
+  "updated": "2026-10-24T14:02:54.075Z",
   "failed": [],
   "sections": [
     {
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for next big hit",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c2646188-9e32-4b72-bd7a-f00bf6b670fc&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-24T13:54:45.000Z"
+        },
+        {
           "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6bdb0d14-3084-40cf-b20e-075bd0b29ed3&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
           "source": "CNBC",
           "published": "2026-10-24T12:59:59.000Z"
-        },
-        {
-          "title": "Will Anthropic pull off a November IPO? Time is running out.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=65d001e5-c598-4d0b-bad7-39050021ad5c&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-23T22:21:56.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+          "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+          "source": "The Verge",
+          "published": "2026-10-24T14:00:00.000Z"
+        },
+        {
           "title": "Lee Chang Dong ponders the ethics of the camera",
           "link": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
           "source": "The Verge",
           "published": "2026-10-24T12:30:00.000Z"
-        },
-        {
-          "title": "Laika has spent 20 years building up to Wildwood",
-          "link": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
-          "source": "The Verge",
-          "published": "2026-10-24T12:00:00.000Z"
         },
         {
           "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
