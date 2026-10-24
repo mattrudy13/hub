@@ -128,7 +128,8 @@ button { font: inherit; color: inherit; }
 }
 .masthead h1 { margin: 0; font-family: var(--font-display); font-weight: 700; font-size: 56px; line-height: 1; letter-spacing: .02em; text-transform: uppercase; }
 .masthead p { margin: 4px 0 0; color: var(--muted); font-weight: 500; }
-.controls { display: flex; gap: 10px; align-items: center; }
+.controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.controls > * { white-space: nowrap; }
 .icon-btn, .arcade-btn {
   height: 44px; border-radius: var(--radius); border: var(--border); background: var(--panel); cursor: pointer;
 }
@@ -324,12 +325,51 @@ h3.day { margin-bottom: 2px; }
 
 .badge { background: var(--hot); color: var(--hot-ink); font-size: 12px; font-weight: 700; padding: 1px 6px; border-radius: 3px; text-transform: uppercase; letter-spacing: .04em; }
 
+/* ---- Home Base page (homebase.html): events across the top, then the money and housing tiles. ---- */
+.section-head {
+  grid-column: 1 / -1; margin: 12px 0 -4px; font-family: var(--font-display); font-weight: 700; font-size: 22px;
+  letter-spacing: .06em; text-transform: uppercase; color: var(--muted);
+}
+.home .big { font-size: 56px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
+.chip-btn {
+  min-height: 36px; padding: 0 12px; display: inline-flex; align-items: center; gap: 6px; cursor: pointer;
+  border: var(--border); border-radius: 999px; background: var(--bg); color: var(--muted); font-weight: 600; font-size: 14px;
+}
+.chip-btn span { font-variant-numeric: tabular-nums; font-weight: 500; opacity: .8; }
+.chip-btn[aria-pressed="true"] { background: var(--strip); border-color: var(--strip); color: var(--strip-ink); }
+.evs { list-style: none; margin: 0 0 6px; padding: 0; }
+.ev { display: grid; grid-template-columns: 76px minmax(0, 1fr) auto; column-gap: 12px; align-items: baseline; padding: 8px 0; border-bottom: 1px solid var(--line); }
+.ev:last-child { border-bottom: 0; }
+.ev-time { color: var(--muted); font-size: 14px; font-variant-numeric: tabular-nums; }
+.ev-what a { font-weight: 600; }
+.ev-what a:hover { text-decoration: underline; }
+.ev-price { color: var(--muted); font-size: 14px; white-space: nowrap; }
+.ev-flag { background: var(--late); color: #fff; font-size: 12px; font-weight: 600; padding: 0 6px; border-radius: 3px; }
+.wk { font-size: 12px; letter-spacing: .04em; background: var(--hot); color: var(--hot-ink); padding: 0 6px; border-radius: 3px; vertical-align: 2px; }
+#events h3.day { margin-top: 10px; }
+@media (max-width: 520px) {
+  /* Phones: time above the name, price after the venue line. */
+  .ev { grid-template-columns: minmax(0, 1fr) auto; }
+  .ev-time { grid-column: 1 / -1; font-size: 13px; }
+}
+.spark { display: block; width: 100%; height: 48px; margin-top: 12px; }
+.split-fig { display: flex; flex-wrap: wrap; gap: 16px 32px; align-items: flex-start; }
+.split-fig > div { flex: 1 1 260px; min-width: 0; }
+.trend-label { margin: 0; color: var(--muted); font-size: 14px; font-weight: 600; }
+.trend .spark { margin-top: 6px; }
+.wkpt { margin-right: 12px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.wkpt b { color: var(--ink); }
+
 @media (max-width: 480px) {
   .masthead h1 { font-size: 44px; }
   /* Daily: keep the Hub and theme buttons beside the title instead of on a row of their own. */
   .daily-head { flex-wrap: nowrap; align-items: center; }
   .daily-head h1 { font-size: 38px; }
   .daily-head .link-btn { padding: 0 10px; }
+  /* Hub: four buttons fit one row once the arrows and "mode" drop. */
+  .controls .arr { display: none; }
+  .controls .link-btn, .controls .arcade-btn { padding: 0 10px; font-size: 16px; }
   .big { font-size: 56px; }
   .headline { font-size: 32px; }
 }
