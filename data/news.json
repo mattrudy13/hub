@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T15:43:56.902Z",
+  "updated": "2026-10-24T15:46:51.686Z",
   "failed": [],
   "sections": [
     {
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+          "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+          "source": "CNBC",
+          "published": "2026-10-24T15:46:12.000Z"
+        },
+        {
           "title": "Why popular airplanes are getting scrapped years early",
           "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
           "source": "CNBC",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5bc0659f-05be-4c5b-879e-bf49b98915d3&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-24T14:39:30.000Z"
-        },
-        {
-          "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for next big hit",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c2646188-9e32-4b72-bd7a-f00bf6b670fc&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-24T13:54:45.000Z"
         }
       ]
     },
