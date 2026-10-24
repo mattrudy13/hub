@@ -1,0 +1,7 @@
+{
+  "about": "Dated reminders for the Daily page's Coming Up tile, edited by hand. Each item: date (YYYY-MM-DD, Eastern), label, optional note. Past dates drop off on their own. Anyone who opens the page sees these.",
+  "items": [
+    { "date": "2026-11-01", "label": "te-tracker: check the Odds API credits reset", "note": "~120 left at the end of October" },
+    { "date": "2027-01-14", "label": "Regenerate the hub cron token", "note": "Expires Jan 21; then wrangler secret put GITHUB_TOKEN" }
+  ]
+}
