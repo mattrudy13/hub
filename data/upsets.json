@@ -1,11 +1,33 @@
 {
-  "updated": "2026-10-24T23:21:03.631Z",
+  "updated": "2026-10-24T23:23:03.492Z",
   "minLine": 7,
   "days": [
     "2026-10-23",
     "2026-10-24"
   ],
   "upsets": [
+    {
+      "league": "cfb",
+      "date": "2026-10-24",
+      "id": "401871094",
+      "line": 13.5,
+      "details": "TROY -13.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401871094/ul-monroe-troy",
+      "winner": {
+        "id": "2433",
+        "name": "UL Monroe",
+        "abbr": "ULM",
+        "rank": null,
+        "score": 21
+      },
+      "loser": {
+        "id": "2653",
+        "name": "Troy",
+        "abbr": "TROY",
+        "rank": null,
+        "score": 14
+      }
+    },
     {
       "league": "cfb",
       "date": "2026-10-24",
