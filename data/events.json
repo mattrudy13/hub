@@ -1,51 +1,9 @@
 {
-  "updated": "2026-10-24T23:23:04.878Z",
-  "from": "2026-10-24T23:23:04Z",
-  "to": "2026-11-07T23:23:04Z",
+  "updated": "2026-10-25T00:21:03.624Z",
+  "from": "2026-10-25T00:21:03Z",
+  "to": "2026-11-08T00:21:03Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv168vPvybsZ7G72F",
-      "name": "Virginia Arts Festival - Dani Assis",
-      "date": "2026-10-24",
-      "time": "19:30",
-      "status": "onsale",
-      "kind": "Arts",
-      "genre": "Cultural",
-      "venue": "Attucks Theatre",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/virginia-arts-festival-dani-assis-norfolk-virginia-10-24-2026/event/010065079631B3E7",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/e/d24/73d0f8eb-f229-48ac-a783-b1ca3a1d0d24_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "vv1AvZkf7GkeXpJwd",
-      "name": "Live Wire: The Ultimate AC/DC Tribute",
-      "date": "2026-10-24",
-      "time": "20:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": null,
-      "venue": "Elevation 27",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/live-wire-the-ultimate-acdc-tribute-virginia-beach-virginia-10-24-2026/event/01006504BE5A6C83",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/e/1c6/0bd9f32e-a948-44c8-a548-19f21b9f11c6_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "Z7r9jZ1A7J34S",
-      "name": "Kai Wachi",
-      "date": "2026-10-24",
-      "time": "20:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": null,
-      "venue": "The Norva",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J34S",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/177/56e15b71-9430-4d72-a344-8e760e025177_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vvG17Z_29owwTG",
       "name": "PBJ: Sounds of Adventure",
@@ -521,6 +479,48 @@
       "url": "https://www.ticketmaster.com/monster-jam-hampton-virginia-11-07-2026/event/01006497CAFF8213",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/648/bee96ceb-7d32-4b5d-bb15-6a8615501648_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv177Z_oGkRb4T2O",
+      "name": "Indiana Jones: DOUBLE FEATURE - Temple of Doom 7pm/Last Crusade 9:30pm",
+      "date": "2026-11-07",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Other",
+      "genre": "Action/Adventure",
+      "venue": "American Theatre",
+      "city": "Hampton",
+      "url": "https://www.ticketmaster.com/indiana-jones-double-feature-temple-of-hampton-virginia-11-07-2026/event/0100651BD857F3E0",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/47e/b14daa26-1991-4856-acb6-f7d020b4747e_106331_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkfAGkdpuI0J",
+      "name": "Norfolk Admirals vs. Trenton Ironhawks",
+      "date": "2026-11-07",
+      "time": "19:05",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Hockey",
+      "venue": "Scope Arena",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/norfolk-admirals-vs-trenton-ironhawks-norfolk-virginia-11-07-2026/event/01006505D6368926",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/a82/1bbe9229-3e86-41b2-89a6-3f9ee9488a82_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1A7x8J6",
+      "name": "Norfolk State Spartans Football vs. North Carolina Central Eagles Football",
+      "date": "2026-11-07",
+      "time": null,
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Miscellaneous",
+      "venue": "William Price Stadium",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x8J6",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/db5/5acfb9a3-4315-40c6-824f-e0fd31bd5db5_723691_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }

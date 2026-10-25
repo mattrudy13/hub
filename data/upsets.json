@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T23:23:03.492Z",
+  "updated": "2026-10-25T00:21:01.872Z",
   "minLine": 7,
   "days": [
     "2026-10-23",
@@ -92,6 +92,28 @@
         "abbr": "ORE",
         "rank": null,
         "score": 10
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-10-24",
+      "id": "401856835",
+      "line": 7.5,
+      "details": "BYU -7.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856835/byu-ucf",
+      "winner": {
+        "id": "2116",
+        "name": "UCF",
+        "abbr": "UCF",
+        "rank": null,
+        "score": 39
+      },
+      "loser": {
+        "id": "252",
+        "name": "BYU",
+        "abbr": "BYU",
+        "rank": 2,
+        "score": 31
       }
     },
     {
