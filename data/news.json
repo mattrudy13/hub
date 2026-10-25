@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T10:21:05.671Z",
+  "updated": "2026-10-25T11:21:02.382Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+          "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-25T11:00:26.000Z"
+        },
+        {
+          "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-25T10:55:33.000Z"
+        },
+        {
           "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
           "link": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
           "source": "NPR",
           "published": "2026-10-25T10:00:00.000Z"
-        },
-        {
-          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-          "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-25T09:32:59.000Z"
-        },
-        {
-          "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
-          "source": "NPR",
-          "published": "2026-10-25T09:00:00.000Z"
         }
       ]
     },
