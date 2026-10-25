@@ -1,6 +1,6 @@
 # Hub: project notes
 
-A personal portal for Rudy's 7 apps at https://mattrudy13.github.io/hub/ (repo `mattrudy13/hub`, Pages from
+A personal portal for Rudy's apps (7 at the start, plus Beat the Model on 2026-10-24) at https://mattrudy13.github.io/hub/ (repo `mattrudy13/hub`, Pages from
 `main` at the root). It's for Rudy's daily check and for friends, **not recruiters**: no bio, no skills, and
 no link to the portfolio at the root (that site is recruiter-facing and separate). Started 2026-10-22, v0.1.
 
@@ -33,6 +33,7 @@ no link to the portfolio at the root (that site is recruiter-facing and separate
 | te | `te-tracker/data/picks-<season>.json` | official = `!shadow`; record per category (likely, value, longshot, due, first, fade), Rudy's choice over one combined number |
 | uva | `uva-records/site-data/sports.json`, `seasons.json`, `games/<slug>.json` | featured sport by month (football Jul–Dec, men's basketball Jan–Mar, baseball Apr–Jun); "teams with games left" = current season with a `next` date |
 | apts | `apartments/data/viable.json`, `summary.json` | cheapest viable unit by `monthly` (same number as the site and digest); last pull = newest complex `date` |
+| btm | `https://beat-the-model.mattrudy13.workers.dev/api/summary` (a Worker, not Pages) | `summary()` in beat-the-model's `lib/rules.js`, the same function as its race summary: you vs the Model on your picks, rank, this week's open games |
 | h2h | none | form opens `h2h/<cfb|cbb>-h2h.html?t1=&t2=` |
 
 Season = the year the season starts (Aug–Dec: this year; Jan–Jul: last year).
@@ -41,7 +42,7 @@ Season = the year the season starts (Aug–Dec: this year; Jan–Jul: last year)
 
 Only in season. kotc and fm: 30 h after `updated` (Oct–Jun). cfb: 60 h (Sep–Dec; snapshots are Sun/Tue/Fri/Sat).
 te: 100 h after the newer of `updated` and `graded` (Sep–Jan). uva: `built` older than 2.5 days.
-apartments: last pull older than 9 days (weekly Monday scrape). Adjust in `TILES` if an app's schedule changes.
+apartments: last pull older than 9 days (weekly Monday scrape). btm: 3 h after the Worker's last hourly sync (Sep–Dec). Adjust in `TILES` if an app's schedule changes.
 
 ## Feed
 

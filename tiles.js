@@ -143,6 +143,35 @@ const TILES = [
     },
   },
 
+  // beat-the-model: the Worker's /api/summary, built by summary() in the app's lib/rules.js (same as its
+  // race summary). Everyone is graded on Rudy's picks, so "vs the Model" is a head-to-head.
+  {
+    key: "btm", name: "Beat the Model", arcadeName: "BEAT THE MODEL", path: "beat-the-model/", accent: "yellow",
+    staleHours: 3, inSeason: inMonths(9, 10, 11, 12),
+    async load() {
+      const res = await fetch("https://beat-the-model.mattrudy13.workers.dev/api/summary", { cache: "no-cache" });
+      if (!res.ok) throw new Error(`btm: HTTP ${res.status}`);
+      const s = await res.json();
+      const diff = s.you.w - s.model.w;
+      const lead = !s.graded ? "No graded picks yet" : diff === 0 ? "Even with the Model" : diff > 0 ? `${diff} up on the Model` : `${-diff} behind the Model`;
+      const arLead = !s.graded ? "PRESS START" : diff === 0 ? "TIED WITH THE MODEL" : diff > 0 ? `${diff} AHEAD OF THE MODEL` : `${-diff} BEHIND THE MODEL`;
+      const week = s.open
+        ? `Week ${s.week}: ${s.pickedOpen} of ${s.open} open games picked${s.nextLock ? ` · next lock ${esc(fmtKick(s.nextLock))}` : ""}`
+        : `Week ${s.week}: no open games`;
+      const arWeek = s.open ? `${s.pickedOpen}/${s.open} PICKED${s.nextLock ? ` · LOCK ${esc(upper(fmtKick(s.nextLock)))}` : ""}` : "NO GAMES OPEN";
+      const today = !!s.nextLock && etDate(new Date(s.nextLock)) === todayET();
+      return {
+        live: today,
+        hot: today,
+        updated: s.syncedAt,
+        tag: dual(`Week ${s.week}`, `LEVEL: WEEK ${s.week}`),
+        body: dual(
+          stat({ big: wl(s.you.w, s.you.l, s.you.p), label: s.graded ? `${lead} (Model ${wl(s.model.w, s.model.l, s.model.p)} on my games) · rank ${s.rank} of ${s.players}` : `${lead} · vs the Model and 6 bots`, subs: [week] }),
+          stat({ big: wl(s.you.w, s.you.l, s.you.p), label: `${arLead} · RANK ${s.rank}/${s.players}`, subs: [arWeek] }), "div"),
+      };
+    },
+  },
+
   // te-tracker index.html renderRecord(): official = graded && !shadow, one line per category; fades apart
   // because a fade "wins" (no TD) most of the time with no skill.
   {
