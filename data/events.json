@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-25T01:21:04.867Z",
-  "from": "2026-10-25T01:21:04Z",
-  "to": "2026-11-08T01:21:04Z",
+  "updated": "2026-10-25T02:21:09.419Z",
+  "from": "2026-10-25T02:21:09Z",
+  "to": "2026-11-08T02:21:09Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -549,6 +549,20 @@
       "url": "https://www.ticketmaster.com/chief-keef-virginia-beach-virginia-11-07-2026/event/010064E1A1F6B5AB",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/113/a6487484-f2b3-4bca-a28b-32f016487113_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv117Z_Kj40Mro",
+      "name": "Drake & Future Night Virginia Beach: All-Night Dance Party (21+)",
+      "date": "2026-11-07",
+      "time": "21:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Hip-Hop/Rap",
+      "venue": "Elevation 27",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/drake-future-night-virginia-beach-allnight-virginia-beach-virginia-11-07-2026/event/0100653715937791",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/d65/efe6713e-dfec-4004-bc64-78ecb3201d65_RETINA_PORTRAIT_16_9.jpg"
     },
     {
       "id": "Z7r9jZ1A7x8J6",
