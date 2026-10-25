@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T15:21:01.754Z",
+  "updated": "2026-10-25T16:21:04.521Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
+          "title": "Early reports suggest record high turnout in Serbia elections",
+          "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-25T16:05:15.000Z"
+        },
+        {
+          "title": "Israelis have changed. Will they change their leadership?",
+          "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
           "source": "NPR",
-          "published": "2026-10-25T15:03:17.000Z"
+          "published": "2026-10-25T16:00:00.000Z"
         },
         {
-          "title": "Gabon says access to social media restored after eight-month ban",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+          "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+          "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-25T14:39:47.000Z"
-        },
-        {
-          "title": "Russia to host first Olympic federation world event since Ukraine invasion",
-          "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-25T14:34:33.000Z"
+          "published": "2026-10-25T15:32:51.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Now you can watch Instagram Reels on your Apple TV",
+          "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+          "source": "The Verge",
+          "published": "2026-10-25T16:20:17.000Z"
+        },
+        {
           "title": "r/opensource just banned AI, non-English speakers, and more",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
           "source": "The Verge",
           "published": "2026-10-25T13:25:32.000Z"
-        },
-        {
-          "title": "Google’s AI search changes upended online publishing",
-          "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-          "source": "The Verge",
-          "published": "2026-10-25T12:00:00.000Z"
         },
         {
           "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
