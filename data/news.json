@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T11:21:02.382Z",
+  "updated": "2026-10-25T12:21:02.618Z",
   "failed": [],
   "sections": [
     {
@@ -10,19 +10,19 @@
           "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
           "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-25T11:00:26.000Z"
+          "published": "2026-10-25T11:54:16.000Z"
+        },
+        {
+          "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+          "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
+          "source": "NPR",
+          "published": "2026-10-25T11:24:58.000Z"
         },
         {
           "title": "El Salvador president says bodies found in Haiti are not those of hostages",
           "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-25T10:55:33.000Z"
-        },
-        {
-          "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
-          "source": "NPR",
-          "published": "2026-10-25T10:00:00.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
+          "link": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+          "source": "CNBC",
+          "published": "2026-10-25T12:00:01.000Z"
+        },
+        {
           "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
           "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
           "source": "CNBC",
           "published": "2026-10-24T15:53:30.000Z"
-        },
-        {
-          "title": "Why popular airplanes are getting scrapped years early",
-          "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-          "source": "CNBC",
-          "published": "2026-10-24T15:18:30.000Z"
         },
         {
           "title": "Do machines have feelings? AI has many rethinking consciousness.",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Google’s AI search changes upended online publishing",
+          "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+          "source": "The Verge",
+          "published": "2026-10-25T12:00:00.000Z"
+        },
+        {
           "title": "Blue Planet III is keeping the rough edges in the age of AI",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
           "source": "The Verge",
           "published": "2026-10-24T21:29:12.000Z"
-        },
-        {
-          "title": "Pennsylvania will require labels on AI-generated ads",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-          "source": "The Verge",
-          "published": "2026-10-24T18:32:21.000Z"
         },
         {
           "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
