@@ -1,37 +1,9 @@
 {
-  "updated": "2026-10-25T18:27:27.862Z",
-  "from": "2026-10-25T18:27:27Z",
-  "to": "2026-11-08T18:27:27Z",
+  "updated": "2026-10-25T19:21:04.467Z",
+  "from": "2026-10-25T19:21:04Z",
+  "to": "2026-11-08T19:21:04Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vvG17Z_29owwTG",
-      "name": "PBJ: Sounds of Adventure",
-      "date": "2026-10-25",
-      "time": "15:00",
-      "status": "onsale",
-      "kind": "Arts",
-      "genre": "Classical",
-      "venue": "Sandler Center For The Performing Arts",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/pbj-sounds-of-adventure-virginia-beach-virginia-10-25-2026/event/010064F5D1CB2FCC",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/e/72f/c2fe05b4-e3df-4823-9afb-10740a44f72f_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "vv1AvZkfAGkdp5FN_",
-      "name": "Norfolk Admirals vs. Trois-Rivières Lions",
-      "date": "2026-10-25",
-      "time": "15:05",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Hockey",
-      "venue": "Scope Arena",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/norfolk-admirals-vs-troisrivieres-lions-norfolk-virginia-10-25-2026/event/01006505D62C88D9",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/a82/1bbe9229-3e86-41b2-89a6-3f9ee9488a82_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vvG17Z_29xNDUl",
       "name": "Virginia Symphony: John Williams & Spielberg",
@@ -591,6 +563,20 @@
       "url": "https://www.ticketmaster.com/monster-jam-hampton-virginia-11-08-2026/event/010064989C0DF7BA",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/648/bee96ceb-7d32-4b5d-bb15-6a8615501648_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1AA7-1k",
+      "name": "Old Dominion Monarchs Womens Basketball vs. Tennessee State Lady Tigers Womens Basketball",
+      "date": "2026-11-08",
+      "time": "14:00",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Miscellaneous",
+      "venue": "Chartway Arena at Ted Constant Convocation Center",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7-1k",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/093/c74cfd95-af21-4e64-9f85-47677b951093_105651_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
