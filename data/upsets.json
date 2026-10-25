@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-25T03:21:02.626Z",
+  "updated": "2026-10-25T04:21:02.534Z",
   "minLine": 7,
   "days": [
-    "2026-10-23",
-    "2026-10-24"
+    "2026-10-24",
+    "2026-10-25"
   ],
   "upsets": [
     {
@@ -181,61 +181,9 @@
         "rank": 15,
         "score": 10
       }
-    },
-    {
-      "league": "cfb",
-      "date": "2026-10-23",
-      "id": "401858272",
-      "line": 7.5,
-      "details": "NCSU -7.5",
-      "link": "https://www.espn.com/college-football/game/_/gameId/401858272/nc-state-stanford",
-      "winner": {
-        "id": "24",
-        "name": "Stanford",
-        "abbr": "STAN",
-        "rank": null,
-        "score": 31
-      },
-      "loser": {
-        "id": "152",
-        "name": "NC State",
-        "abbr": "NCSU",
-        "rank": null,
-        "score": 28
-      }
     }
   ],
   "lines": {
-    "cfb:401858271": {
-      "date": "2026-10-23",
-      "fav": "258",
-      "line": 2.5,
-      "details": "UVA -2.5"
-    },
-    "cfb:401861965": {
-      "date": "2026-10-23",
-      "fav": "41",
-      "line": 12.5,
-      "details": "CONN -12.5"
-    },
-    "cfb:401862808": {
-      "date": "2026-10-23",
-      "fav": "349",
-      "line": 1.5,
-      "details": "ARMY -1.5"
-    },
-    "cfb:401864525": {
-      "date": "2026-10-23",
-      "fav": "2005",
-      "line": 6,
-      "details": "AF -6"
-    },
-    "cfb:401858272": {
-      "date": "2026-10-23",
-      "fav": "152",
-      "line": 7.5,
-      "details": "NCSU -7.5"
-    },
     "cfb:401858274": {
       "date": "2026-10-24",
       "fav": "2390",

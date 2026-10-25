@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T03:21:02.091Z",
+  "updated": "2026-10-25T04:21:01.855Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+          "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-25T04:16:52.000Z"
+        },
+        {
+          "title": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
+          "source": "NPR",
+          "published": "2026-10-25T04:01:00.000Z"
+        },
+        {
           "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
           "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-24T23:02:06.000Z"
-        },
-        {
-          "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
-          "link": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
-          "source": "NPR",
-          "published": "2026-10-24T22:47:58.000Z"
-        },
-        {
-          "title": "Who are the candidates in Brazil's presidential election?",
-          "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-24T22:08:47.000Z"
         }
       ]
     },
