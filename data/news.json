@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T21:53:48.164Z",
+  "updated": "2026-10-25T22:21:03.232Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
+          "title": "Deeply divided Israel braces for pivotal election",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-25T22:11:13.000Z"
+        },
+        {
+          "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
           "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-25T21:25:04.000Z"
+          "published": "2026-10-25T22:06:26.000Z"
         },
         {
           "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
           "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
           "source": "NPR",
           "published": "2026-10-25T20:35:35.000Z"
-        },
-        {
-          "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-          "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-25T19:14:27.000Z"
         }
       ]
     },
