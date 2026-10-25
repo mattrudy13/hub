@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T13:21:03.586Z",
+  "updated": "2026-10-25T14:21:04.223Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "zLqeoBY1KxA",
+          "title": "It's going really bad (Squeex plays CS2 with fuslie, rae, chiblee, and hjune)",
+          "published": "2026-10-25T14:13:12Z",
+          "thumb": "https://i.ytimg.com/vi/zLqeoBY1KxA/mqdefault.jpg",
+          "seen": "2026-10-25T14:21:02.855Z"
+        },
         {
           "id": "z57g9cZO4x0",
           "title": "I'm in LOVE with Terraria (Squeex's First Terraria Playthrough)",
@@ -35,13 +42,6 @@
           "published": "2026-10-17T07:35:35Z",
           "thumb": "https://i.ytimg.com/vi/s6zac1u5i8Q/mqdefault.jpg",
           "seen": "2026-10-17T07:35:35Z"
-        },
-        {
-          "id": "E7Iic0L9Ixc",
-          "title": "Terraria is blowing my MIND... (Squeex Full Terraria Playthrough)",
-          "published": "2026-10-15T08:33:29Z",
-          "thumb": "https://i.ytimg.com/vi/E7Iic0L9Ixc/mqdefault.jpg",
-          "seen": "2026-10-15T08:33:29Z"
         }
       ]
     },

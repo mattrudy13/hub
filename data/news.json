@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T13:21:01.785Z",
+  "updated": "2026-10-25T14:21:02.515Z",
   "failed": [],
   "sections": [
     {
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Thirty-six percent of the S&P 500 scheduled to report earnings this week",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=416473b1-dc8f-4264-b4fe-8a9248da7386&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-25T14:12:32.000Z"
+        },
+        {
+          "title": "Look for stock-market relief after the midterms — no matter who wins",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a0659e58-16bd-4b48-a1f7-6af0774251e7&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-25T13:31:48.000Z"
+        },
+        {
           "title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
           "link": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
           "source": "CNBC",
           "published": "2026-10-25T12:00:01.000Z"
-        },
-        {
-          "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-          "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
-          "source": "CNBC",
-          "published": "2026-10-24T15:53:30.000Z"
-        },
-        {
-          "title": "Do machines have feelings? AI has many rethinking consciousness.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5bc0659f-05be-4c5b-879e-bf49b98915d3&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-24T14:39:30.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "r/opensource just banned AI, non-English speakers, and more",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "published": "2026-10-25T13:25:32.000Z"
+        },
+        {
           "title": "Google’s AI search changes upended online publishing",
           "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
           "source": "The Verge",
           "published": "2026-10-25T12:00:00.000Z"
-        },
-        {
-          "title": "Blue Planet III is keeping the rough edges in the age of AI",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-          "source": "The Verge",
-          "published": "2026-10-24T21:29:12.000Z"
         },
         {
           "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
