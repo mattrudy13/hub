@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-25T17:21:02.468Z",
+  "updated": "2026-10-25T18:21:01.162Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+          "source": "NPR",
+          "published": "2026-10-25T17:50:35.000Z"
+        },
         {
           "title": "Venezuelan opposition leader María Machado returns after months in exile",
           "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
           "source": "NPR",
           "published": "2026-10-25T16:18:41.000Z"
-        },
-        {
-          "title": "Early reports suggest record high turnout in Serbia elections",
-          "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-25T16:05:15.000Z"
         }
       ]
     },

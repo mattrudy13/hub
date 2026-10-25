@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-25T17:21:05.060Z",
-  "from": "2026-10-25T17:21:04Z",
-  "to": "2026-11-08T17:21:04Z",
+  "updated": "2026-10-25T18:21:04.876Z",
+  "from": "2026-10-25T18:21:04Z",
+  "to": "2026-11-08T18:21:04Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -577,6 +577,20 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x8J6",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/c/db5/5acfb9a3-4315-40c6-824f-e0fd31bd5db5_723691_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1A8v0JaGAGdLrB",
+      "name": "Monster Jam",
+      "date": "2026-11-08",
+      "time": "13:00",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Motorsports/Racing",
+      "venue": "Hampton Coliseum",
+      "city": "Hampton",
+      "url": "https://www.ticketmaster.com/monster-jam-hampton-virginia-11-08-2026/event/010064989C0DF7BA",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/648/bee96ceb-7d32-4b5d-bb15-6a8615501648_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
