@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T02:21:06.419Z",
+  "updated": "2026-10-25T03:21:02.626Z",
   "minLine": 7,
   "days": [
     "2026-10-23",
@@ -114,6 +114,28 @@
         "abbr": "ORE",
         "rank": null,
         "score": 10
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-10-24",
+      "id": "401858275",
+      "line": 8.5,
+      "details": "UNC -8.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858275/syracuse-north-carolina",
+      "winner": {
+        "id": "183",
+        "name": "Syracuse",
+        "abbr": "SYR",
+        "rank": null,
+        "score": 31
+      },
+      "loser": {
+        "id": "153",
+        "name": "North Carolina",
+        "abbr": "UNC",
+        "rank": null,
+        "score": 30
       }
     },
     {
