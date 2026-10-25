@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T19:21:02.087Z",
+  "updated": "2026-10-25T20:21:03.456Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Early reports suggest record high turnout in Serbia elections",
+          "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-25T19:55:15.000Z"
+        },
+        {
           "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
           "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-25T19:14:27.000Z"
-        },
-        {
-          "title": "Venezuelan opposition leader María Machado returns after months in exile",
-          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-25T18:29:00.000Z"
         },
         {
           "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
-          "link": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+          "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+          "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
           "source": "The Verge",
-          "published": "2026-10-25T17:00:00.000Z"
+          "published": "2026-10-25T20:16:19.000Z"
         },
         {
-          "title": "Now you can watch Instagram Reels on your Apple TV",
-          "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+          "title": "Zen Browser is the Arc replacement I was looking for",
+          "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
           "source": "The Verge",
-          "published": "2026-10-25T16:20:17.000Z"
+          "published": "2026-10-25T19:24:50.000Z"
         },
         {
           "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",

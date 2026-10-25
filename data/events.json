@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-25T19:21:04.467Z",
-  "from": "2026-10-25T19:21:04Z",
-  "to": "2026-11-08T19:21:04Z",
+  "updated": "2026-10-25T20:21:06.355Z",
+  "from": "2026-10-25T20:21:05Z",
+  "to": "2026-11-08T20:21:05Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -577,6 +577,20 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7-1k",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/c/093/c74cfd95-af21-4e64-9f85-47677b951093_105651_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkfAGkdpCF0S",
+      "name": "Norfolk Admirals vs. Trenton Ironhawks",
+      "date": "2026-11-08",
+      "time": "15:05",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Hockey",
+      "venue": "Scope Arena",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/norfolk-admirals-vs-trenton-ironhawks-norfolk-virginia-11-08-2026/event/01006505D6388933",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/a82/1bbe9229-3e86-41b2-89a6-3f9ee9488a82_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
