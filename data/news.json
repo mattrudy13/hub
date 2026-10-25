@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T16:21:04.521Z",
+  "updated": "2026-10-25T17:21:02.468Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-25T16:21:40.000Z"
+        },
+        {
+          "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+          "source": "NPR",
+          "published": "2026-10-25T16:18:41.000Z"
+        },
+        {
           "title": "Early reports suggest record high turnout in Serbia elections",
           "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-25T16:05:15.000Z"
-        },
-        {
-          "title": "Israelis have changed. Will they change their leadership?",
-          "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
-          "source": "NPR",
-          "published": "2026-10-25T16:00:00.000Z"
-        },
-        {
-          "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-          "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-25T15:32:51.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+          "link": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+          "source": "The Verge",
+          "published": "2026-10-25T17:00:00.000Z"
+        },
+        {
           "title": "Now you can watch Instagram Reels on your Apple TV",
           "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
           "source": "The Verge",
           "published": "2026-10-25T16:20:17.000Z"
-        },
-        {
-          "title": "r/opensource just banned AI, non-English speakers, and more",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-          "source": "The Verge",
-          "published": "2026-10-25T13:25:32.000Z"
         },
         {
           "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
