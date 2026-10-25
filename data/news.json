@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T20:21:03.456Z",
+  "updated": "2026-10-25T21:21:02.327Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Early reports suggest record high turnout in Serbia elections",
-          "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+          "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-25T19:55:15.000Z"
+          "published": "2026-10-25T21:10:47.000Z"
+        },
+        {
+          "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
+          "source": "NPR",
+          "published": "2026-10-25T20:35:35.000Z"
         },
         {
           "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
           "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-25T19:14:27.000Z"
-        },
-        {
-          "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
-          "source": "NPR",
-          "published": "2026-10-25T17:50:35.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Scott Walker’s The Drift will get under your skin",
+          "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+          "source": "The Verge",
+          "published": "2026-10-25T21:08:09.000Z"
+        },
+        {
           "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
           "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
           "source": "The Verge",
           "published": "2026-10-25T20:16:19.000Z"
-        },
-        {
-          "title": "Zen Browser is the Arc replacement I was looking for",
-          "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
-          "source": "The Verge",
-          "published": "2026-10-25T19:24:50.000Z"
         },
         {
           "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
