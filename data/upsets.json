@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T00:21:01.872Z",
+  "updated": "2026-10-25T01:21:02.294Z",
   "minLine": 7,
   "days": [
     "2026-10-23",
@@ -26,6 +26,28 @@
         "abbr": "TROY",
         "rank": null,
         "score": 14
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-10-24",
+      "id": "401869967",
+      "line": 11.5,
+      "details": "UL -11.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401869967/louisiana-southern-miss",
+      "winner": {
+        "id": "2572",
+        "name": "Southern Miss",
+        "abbr": "USM",
+        "rank": null,
+        "score": 35
+      },
+      "loser": {
+        "id": "309",
+        "name": "Louisiana",
+        "abbr": "UL",
+        "rank": null,
+        "score": 31
       }
     },
     {

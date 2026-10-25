@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-25T00:21:03.624Z",
-  "from": "2026-10-25T00:21:03Z",
-  "to": "2026-11-08T00:21:03Z",
+  "updated": "2026-10-25T01:21:04.867Z",
+  "from": "2026-10-25T01:21:04Z",
+  "to": "2026-11-08T01:21:04Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -507,6 +507,48 @@
       "url": "https://www.ticketmaster.com/norfolk-admirals-vs-trenton-ironhawks-norfolk-virginia-11-07-2026/event/01006505D6368926",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/a82/1bbe9229-3e86-41b2-89a6-3f9ee9488a82_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vvG17Z_2myRJ5l",
+      "name": "The ABBA REUNION Tribute Show",
+      "date": "2026-11-07",
+      "time": "19:30",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Pop",
+      "venue": "Sandler Center For The Performing Arts",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/the-abba-reunion-tribute-show-virginia-beach-virginia-11-07-2026/event/010064FBB9BE62EB",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/7e7/3d180fd9-30fa-466f-b50b-dcd4f847a7e7_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1A703Cf",
+      "name": "Clutch w/ Slomosa",
+      "date": "2026-11-07",
+      "time": "20:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Rock",
+      "venue": "The Norva",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A703Cf",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/dd5/2fc9a874-77f9-44ab-a7bd-f9b105605dd5_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vvG17Z_Ck-Wlpl",
+      "name": "CHIEF KEEF",
+      "date": "2026-11-07",
+      "time": "20:00",
+      "status": "rescheduled",
+      "kind": "Music",
+      "genre": "Hip-Hop/Rap",
+      "venue": "The Dome by Rutter Mills",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/chief-keef-virginia-beach-virginia-11-07-2026/event/010064E1A1F6B5AB",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/113/a6487484-f2b3-4bca-a28b-32f016487113_RETINA_PORTRAIT_16_9.jpg"
     },
     {
       "id": "Z7r9jZ1A7x8J6",
