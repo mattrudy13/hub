@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T14:21:18.484Z",
+  "updated": "2026-10-26T15:21:04.559Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+          "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-26T14:41:45.000Z"
+        },
+        {
+          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-26T14:34:52.000Z"
+        },
+        {
           "title": "AI giant Anthropic files for an IPO that could break records",
           "link": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
           "source": "NPR",
           "published": "2026-10-26T14:16:23.000Z"
-        },
-        {
-          "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-          "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-26T14:16:09.000Z"
-        },
-        {
-          "title": "Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing",
-          "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-26T14:15:01.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Dow, S&P and Nasdaq climb in morning trading as Anthropic files for IPO",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=59624406-7ef1-42be-9453-cca85e755eed&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-26T14:31:44.000Z"
+        },
         {
           "title": "Anthropic just filed for its IPO. Follow the latest developments here.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1e6d74fb-b44b-4141-ac12-1ee60b2c61ca&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
           "source": "CNBC",
           "published": "2026-10-26T12:49:14.000Z"
-        },
-        {
-          "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of a $35 billion offering",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e86375d6-85ee-4800-b4b2-b1dc516f27d9&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-26T12:30:27.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-          "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-          "source": "The Verge",
-          "published": "2026-10-26T14:00:00.000Z"
-        },
-        {
-          "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-          "source": "The Verge",
-          "published": "2026-10-26T13:32:49.000Z"
-        },
-        {
-          "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
-          "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
+          "title": "F1 in Texas: The American race that fans love to attend",
+          "link": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
           "source": "Ars Technica",
-          "published": "2026-10-26T11:00:15.000Z"
+          "published": "2026-10-26T14:48:24.000Z"
+        },
+        {
+          "title": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
+          "link": "https://www.theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale",
+          "source": "The Verge",
+          "published": "2026-10-26T14:41:43.000Z"
+        },
+        {
+          "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
+          "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+          "source": "Ars Technica",
+          "published": "2026-10-26T14:30:27.000Z"
         }
       ]
     }
