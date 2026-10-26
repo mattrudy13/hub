@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-26T02:21:01.943Z",
+  "updated": "2026-10-26T03:21:01.057Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-26T03:05:22.000Z"
+        },
         {
           "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
           "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
           "source": "NPR",
           "published": "2026-10-26T00:35:00.000Z"
-        },
-        {
-          "title": "Venezuelan opposition leader María Machado returns after months in exile",
-          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-25T23:33:14.000Z"
         }
       ]
     },
