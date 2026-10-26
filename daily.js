@@ -591,7 +591,7 @@ const JOBS = [
   // Daily at 09:00.
   { app: "UVA Records", repo: "uva-records", file: "refresh.yml", name: "Refresh data", months: null, lateHours: 36 },
   // Hourly 10:20–04:20 (the cron Worker plus GitHub's schedule): overnight is 6 h.
-  { app: "Hub Daily", repo: "hub", file: "update-daily.yml", name: "Update daily data", months: null, lateHours: 9 },
+  { app: "Rudy's Daily", repo: "hub", file: "update-daily.yml", name: "Update daily data", months: null, lateHours: 9 },
 ];
 const HEALTH_KEY = "hub:daily:health:v1";
 // 8 calls per check against GitHub's 60 an hour per network, which the hub page's commit ticker shares.
