@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T06:25:01.269Z",
+  "updated": "2026-10-26T10:21:01.887Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Venezuelan opposition leader María Machado returns after months in exile",
-          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "title": "Crowds welcome Venezuela's María Machado after months in exile",
+          "link": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-26T05:20:19.000Z"
+          "published": "2026-10-26T09:31:12.000Z"
         },
         {
-          "title": "Australian murderer loses bid to eat Vegemite in prison",
-          "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-26T04:05:28.000Z"
-        },
-        {
-          "title": "Brazil's left-wing President Lula elected for fourth term",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+          "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+          "link": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
           "source": "NPR",
-          "published": "2026-10-26T00:35:00.000Z"
+          "published": "2026-10-26T09:22:36.000Z"
+        },
+        {
+          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-26T09:04:47.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "The city that fought Flock",
+          "link": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
+          "source": "The Verge",
+          "published": "2026-10-26T10:00:00.000Z"
+        },
+        {
           "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
           "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
           "source": "The Verge",
           "published": "2026-10-25T21:40:27.000Z"
-        },
-        {
-          "title": "Scott Walker’s The Drift will get under your skin",
-          "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
-          "source": "The Verge",
-          "published": "2026-10-25T21:08:09.000Z"
         },
         {
           "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
