@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T18:21:09.108Z",
+  "updated": "2026-10-26T19:21:05.888Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-          "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+          "title": "'Maxxing' selected as Dictionary.com word of the year",
+          "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-26T17:00:09.000Z"
+          "published": "2026-10-26T19:16:28.000Z"
         },
         {
-          "title": "Lula wins fourth term in dramatic Brazil election comeback",
-          "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-26T16:49:14.000Z"
-        },
-        {
-          "title": "AI giant Anthropic files for an IPO that could break records",
-          "link": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
+          "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
+          "link": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
           "source": "NPR",
-          "published": "2026-10-26T14:16:23.000Z"
+          "published": "2026-10-26T18:41:43.000Z"
+        },
+        {
+          "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
+          "link": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
+          "source": "NPR",
+          "published": "2026-10-26T18:38:01.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Nasdaq leading stocks higher as Wall Street reacts to Anthropic’s public filing",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9c8b91f0-a3af-471d-acf7-923c590a2d1b&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-26T19:01:04.000Z"
+        },
+        {
+          "title": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
+          "link": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
+          "source": "CNBC",
+          "published": "2026-10-26T18:37:01.000Z"
+        },
+        {
           "title": "The issues in the midterm elections that will impact your wallet",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0e28d798-e052-41b3-b961-e49c7ee2d365&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-26T15:42:57.000Z"
-        },
-        {
-          "title": "Dow, S&P and Nasdaq climb in morning trading as Anthropic files for IPO",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=59624406-7ef1-42be-9453-cca85e755eed&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-26T14:31:44.000Z"
-        },
-        {
-          "title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-          "link": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
-          "source": "CNBC",
-          "published": "2026-10-26T12:49:14.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The RealReal won’t let AI agents hog designer clothing",
-          "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+          "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+          "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
           "source": "The Verge",
-          "published": "2026-10-26T17:30:55.000Z"
+          "published": "2026-10-26T18:51:06.000Z"
         },
         {
-          "title": "Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens",
-          "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
-          "source": "The Verge",
-          "published": "2026-10-26T17:28:07.000Z"
-        },
-        {
-          "title": "F1 in Texas: The American race that fans love to attend",
-          "link": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
+          "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
+          "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
           "source": "Ars Technica",
-          "published": "2026-10-26T14:48:24.000Z"
+          "published": "2026-10-26T18:50:41.000Z"
+        },
+        {
+          "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+          "link": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "source": "The Verge",
+          "published": "2026-10-26T18:22:06.000Z"
         }
       ]
     }
