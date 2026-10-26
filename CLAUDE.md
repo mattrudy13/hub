@@ -4,6 +4,9 @@ A personal portal for Rudy's apps (7 at the start, plus Beat the Model on 2026-1
 `main` at the root). It's for Rudy's daily check and for friends, **not recruiters**: no bio, no skills, and
 no link to the portfolio at the root (that site is recruiter-facing and separate). Started 2026-10-22, v0.1.
 
+On the page it's **Rudy's Board** (title, heading, "← Board" back links), renamed 2026-10-25 because Rudy
+didn't want "Hub" on the site. "Hub" is still the project name: repo, URL path, `hub:` storage keys, Worker.
+
 ## Files
 
 - `index.html`: the ticker, masthead (Arcade mode and theme buttons) and the tile grid. Scripts load in order:
@@ -69,7 +72,7 @@ doesn't move and scrolls by hand instead.
 
 Rudy's "what happened today" page: markets, weather, what's coming up, headlines, college scores, upsets, the AP
 Top 25, new YouTube videos and whether the apps' data jobs are running. Theme toggle only, no Arcade mode (Rudy's
-choice: double wording isn't worth it for headlines). Linked from the hub masthead ("Daily →") and back ("← Hub").
+choice: double wording isn't worth it for headlines). Linked from the hub masthead ("Daily →") and back ("← Board").
 Weather, Coming Up, the Top 25, the TV/spread lines, the pick badges and Data Jobs were added 2026-10-24 in v0.4 (8 of 10
 ideas Rudy picked).
 
@@ -122,7 +125,7 @@ counts the ones showing into `data-row` on `<main>`: 4 or 2 take halves, 3 third
 Rudy lives in Virginia Beach (Chic's Beach / Shore Drive). He wanted an information page, not betting, built
 around **things to do** and **money & housing**. Beach conditions (tides, waves, rip currents) were dropped:
 he said he doesn't do those activities. Weather and local news weren't picked either. Linked from the hub
-masthead ("Home Base →") and back ("← Hub"); theme toggle only.
+masthead ("Home Base →") and back ("← Board"); theme toggle only.
 
 | Tile | Source | Rules |
 |---|---|---|
