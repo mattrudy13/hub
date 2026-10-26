@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T19:21:05.888Z",
+  "updated": "2026-10-26T20:21:04.573Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "'Maxxing' selected as Dictionary.com word of the year",
-          "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+          "title": "Lula wins fourth term in dramatic Brazil election comeback",
+          "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-26T19:16:28.000Z"
+          "published": "2026-10-26T20:00:30.000Z"
+        },
+        {
+          "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+          "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-26T19:27:21.000Z"
         },
         {
           "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
           "link": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
           "source": "NPR",
           "published": "2026-10-26T18:41:43.000Z"
-        },
-        {
-          "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
-          "link": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
-          "source": "NPR",
-          "published": "2026-10-26T18:38:01.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Nasdaq leading stocks higher as Wall Street reacts to Anthropic’s public filing",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9c8b91f0-a3af-471d-acf7-923c590a2d1b&mod=mw_rss_bulletins",
+          "title": "Stocks close on broad gains, as Anthropic's IPO filing boosts tech and AI names",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=03c9e7dd-34aa-484b-84ba-6b1e47661b45&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-10-26T19:01:04.000Z"
+          "published": "2026-10-26T20:03:49.000Z"
+        },
+        {
+          "title": "DoorDash, Instacart shares go in opposite directions on reported buyout talks",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e2e5cdd8-d4e1-4612-a53b-0dc2c6c0032a&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-26T19:54:55.000Z"
         },
         {
           "title": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
           "link": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
           "source": "CNBC",
           "published": "2026-10-26T18:37:01.000Z"
-        },
-        {
-          "title": "The issues in the midterm elections that will impact your wallet",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0e28d798-e052-41b3-b961-e49c7ee2d365&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-26T15:42:57.000Z"
         }
       ]
     },
