@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T21:40:24.243Z",
+  "updated": "2026-10-26T22:21:02.612Z",
   "failed": [],
   "sections": [
     {
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+          "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+          "source": "The Verge",
+          "published": "2026-10-26T21:56:36.000Z"
+        },
+        {
+          "title": "Anthropic is burning gas to feed the AI boom",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+          "source": "The Verge",
+          "published": "2026-10-26T21:45:31.000Z"
+        },
+        {
           "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
           "link": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
           "source": "Ars Technica",
           "published": "2026-10-26T20:27:00.000Z"
-        },
-        {
-          "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
-          "link": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
-          "source": "Ars Technica",
-          "published": "2026-10-26T20:15:07.000Z"
-        },
-        {
-          "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
-          "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
-          "source": "The Verge",
-          "published": "2026-10-26T18:51:06.000Z"
         }
       ]
     }
