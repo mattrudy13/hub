@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T15:21:04.559Z",
+  "updated": "2026-10-26T16:21:03.362Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-          "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+          "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+          "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-26T14:41:45.000Z"
+          "published": "2026-10-26T15:46:31.000Z"
         },
         {
-          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+          "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-26T14:34:52.000Z"
+          "published": "2026-10-26T15:45:30.000Z"
         },
         {
           "title": "AI giant Anthropic files for an IPO that could break records",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "The issues in the midterm elections that will impact your wallet",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0e28d798-e052-41b3-b961-e49c7ee2d365&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-26T15:42:57.000Z"
+        },
+        {
           "title": "Dow, S&P and Nasdaq climb in morning trading as Anthropic files for IPO",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=59624406-7ef1-42be-9453-cca85e755eed&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-26T14:31:44.000Z"
-        },
-        {
-          "title": "Anthropic just filed for its IPO. Follow the latest developments here.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1e6d74fb-b44b-4141-ac12-1ee60b2c61ca&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-26T13:17:42.000Z"
         },
         {
           "title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Instagram chases YouTube with a push for longer, widescreen videos",
+          "link": "https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube",
+          "source": "The Verge",
+          "published": "2026-10-26T16:05:44.000Z"
+        },
+        {
+          "title": "Microsoft offers buyouts to 60,000 employees",
+          "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+          "source": "The Verge",
+          "published": "2026-10-26T15:58:27.000Z"
+        },
+        {
           "title": "F1 in Texas: The American race that fans love to attend",
           "link": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
           "source": "Ars Technica",
           "published": "2026-10-26T14:48:24.000Z"
-        },
-        {
-          "title": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
-          "link": "https://www.theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale",
-          "source": "The Verge",
-          "published": "2026-10-26T14:41:43.000Z"
-        },
-        {
-          "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
-          "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
-          "source": "Ars Technica",
-          "published": "2026-10-26T14:30:27.000Z"
         }
       ]
     }
