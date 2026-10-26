@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T16:21:03.362Z",
+  "updated": "2026-10-26T16:50:04.789Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-          "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+          "title": "Lula wins fourth term in dramatic Brazil election comeback",
+          "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-26T15:46:31.000Z"
+          "published": "2026-10-26T16:49:14.000Z"
         },
         {
-          "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+          "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-26T15:45:30.000Z"
+          "published": "2026-10-26T16:31:09.000Z"
         },
         {
           "title": "AI giant Anthropic files for an IPO that could break records",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "The Sony WH-1000XM4C bring back a beloved headphone design",
+          "link": "https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review",
+          "source": "The Verge",
+          "published": "2026-10-26T16:45:00.000Z"
+        },
+        {
           "title": "Instagram chases YouTube with a push for longer, widescreen videos",
           "link": "https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube",
           "source": "The Verge",
           "published": "2026-10-26T16:05:44.000Z"
-        },
-        {
-          "title": "Microsoft offers buyouts to 60,000 employees",
-          "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-          "source": "The Verge",
-          "published": "2026-10-26T15:58:27.000Z"
         },
         {
           "title": "F1 in Texas: The American race that fans love to attend",
