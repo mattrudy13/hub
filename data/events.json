@@ -1,23 +1,9 @@
 {
-  "updated": "2026-10-25T23:21:04.952Z",
-  "from": "2026-10-25T23:21:04Z",
-  "to": "2026-11-08T23:21:04Z",
+  "updated": "2026-10-26T00:21:04.814Z",
+  "from": "2026-10-26T00:21:04Z",
+  "to": "2026-11-09T00:21:04Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vvG17Z_29xNDUl",
-      "name": "Virginia Symphony: John Williams & Spielberg",
-      "date": "2026-10-25",
-      "time": "19:30",
-      "status": "onsale",
-      "kind": "Arts",
-      "genre": "Classical",
-      "venue": "Sandler Center For The Performing Arts",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/virginia-symphony-john-williams-spielberg-virginia-beach-virginia-10-25-2026/event/010064F5E28FBDAB",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/e/816/bbef411f-0bbb-4ae4-9c0a-d4fe3f91d816_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "Z7r9jZ1AA7-17",
       "name": "Old Dominion Monarchs Womens Basketball vs. Christopher Newport Captains Womens Basketball",
