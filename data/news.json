@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T13:21:02.036Z",
+  "updated": "2026-10-26T14:21:18.484Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-          "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-26T12:57:58.000Z"
-        },
-        {
-          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-26T12:52:16.000Z"
-        },
-        {
-          "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
-          "link": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
+          "title": "AI giant Anthropic files for an IPO that could break records",
+          "link": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
           "source": "NPR",
-          "published": "2026-10-26T11:11:00.000Z"
+          "published": "2026-10-26T14:16:23.000Z"
+        },
+        {
+          "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+          "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-26T14:16:09.000Z"
+        },
+        {
+          "title": "Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing",
+          "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-26T14:15:01.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Can AI help solve the COBOL code crisis?",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+          "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+          "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
           "source": "The Verge",
-          "published": "2026-10-26T13:15:00.000Z"
+          "published": "2026-10-26T14:00:00.000Z"
         },
         {
-          "title": "Apple updates the iPad Mini with a larger OLED display",
-          "link": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
+          "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
           "source": "The Verge",
-          "published": "2026-10-26T13:05:03.000Z"
+          "published": "2026-10-26T13:32:49.000Z"
         },
         {
           "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
