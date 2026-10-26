@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T16:50:04.789Z",
+  "updated": "2026-10-26T17:21:03.908Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-26T17:00:09.000Z"
+        },
+        {
           "title": "Lula wins fourth term in dramatic Brazil election comeback",
           "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-26T16:49:14.000Z"
-        },
-        {
-          "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
-          "link": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-26T16:31:09.000Z"
         },
         {
           "title": "AI giant Anthropic files for an IPO that could break records",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The Sony WH-1000XM4C bring back a beloved headphone design",
-          "link": "https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review",
+          "title": "Five weird details from Anthropic’s IPO filing",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
           "source": "The Verge",
-          "published": "2026-10-26T16:45:00.000Z"
+          "published": "2026-10-26T17:10:23.000Z"
         },
         {
-          "title": "Instagram chases YouTube with a push for longer, widescreen videos",
-          "link": "https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube",
+          "title": "Everything old is new again with the Fitbit Edge",
+          "link": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
           "source": "The Verge",
-          "published": "2026-10-26T16:05:44.000Z"
+          "published": "2026-10-26T17:00:00.000Z"
         },
         {
           "title": "F1 in Texas: The American race that fans love to attend",
