@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T21:21:02.952Z",
+  "updated": "2026-10-26T21:40:24.243Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "'Maxxing' selected as Dictionary.com word of the year",
+          "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-26T21:31:53.000Z"
+        },
+        {
           "title": "Lula wins fourth term in dramatic Brazil election comeback",
           "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-26T21:02:47.000Z"
-        },
-        {
-          "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-          "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-26T19:27:21.000Z"
         },
         {
           "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Opinion: With the Anthropic IPO, the devil is in the details",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4cdb5a01-0a37-4106-a718-0a31169feab4&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-26T21:30:15.000Z"
+        },
+        {
           "title": "Why a DoorDash-Instacart deal would be all about keeping up with Walmart, Amazon",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2b34d251-7297-42a4-ab72-10bddf2b101a&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
           "source": "CNBC",
           "published": "2026-10-26T21:18:07.000Z"
-        },
-        {
-          "title": "Curtains for COLA? Saving Social Security could mean these big changes.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5aae0d02-c806-4965-9cf0-c41ed7b38c8d&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-26T20:41:32.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+          "link": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
+          "source": "Ars Technica",
+          "published": "2026-10-26T20:27:00.000Z"
+        },
+        {
+          "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+          "link": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+          "source": "Ars Technica",
+          "published": "2026-10-26T20:15:07.000Z"
+        },
+        {
           "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
           "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
           "source": "The Verge",
           "published": "2026-10-26T18:51:06.000Z"
-        },
-        {
-          "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
-          "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-          "source": "Ars Technica",
-          "published": "2026-10-26T18:50:41.000Z"
-        },
-        {
-          "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
-          "link": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
-          "source": "The Verge",
-          "published": "2026-10-26T18:22:06.000Z"
         }
       ]
     }
