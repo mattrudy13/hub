@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T12:21:01.322Z",
+  "updated": "2026-10-26T13:21:02.036Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
-          "link": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
+          "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+          "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-26T11:39:16.000Z"
+          "published": "2026-10-26T12:57:58.000Z"
         },
         {
-          "title": "Five ways Trump has changed immigration in the US",
-          "link": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
+          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-26T11:29:02.000Z"
+          "published": "2026-10-26T12:52:16.000Z"
         },
         {
           "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Economic calendar: A busy week is capped by the Fed's decision",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2ed851b9-33fe-4aa4-a6a3-56f15e0e8e62&mod=mw_rss_bulletins",
+          "title": "Anthropic just filed for its IPO. Follow the latest developments here.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1e6d74fb-b44b-4141-ac12-1ee60b2c61ca&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-10-26T11:33:58.000Z"
-        },
-        {
-          "title": "Economic calendar: Week begins with wave of housing-market data",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=cd1bae00-790c-43f5-a44b-70d6a0438c0a&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-25T14:22:13.000Z"
+          "published": "2026-10-26T13:17:42.000Z"
         },
         {
           "title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
           "link": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
           "source": "CNBC",
-          "published": "2026-10-25T12:00:01.000Z"
+          "published": "2026-10-26T12:49:14.000Z"
+        },
+        {
+          "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of a $35 billion offering",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e86375d6-85ee-4800-b4b2-b1dc516f27d9&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-26T12:30:27.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The city that fought Flock",
-          "link": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
+          "title": "Can AI help solve the COBOL code crisis?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
           "source": "The Verge",
-          "published": "2026-10-26T10:00:00.000Z"
+          "published": "2026-10-26T13:15:00.000Z"
         },
         {
-          "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
-          "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+          "title": "Apple updates the iPad Mini with a larger OLED display",
+          "link": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
           "source": "The Verge",
-          "published": "2026-10-25T21:40:27.000Z"
+          "published": "2026-10-26T13:05:03.000Z"
         },
         {
-          "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-          "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+          "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
+          "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
           "source": "Ars Technica",
-          "published": "2026-10-24T11:50:28.000Z"
+          "published": "2026-10-26T11:00:15.000Z"
         }
       ]
     }
