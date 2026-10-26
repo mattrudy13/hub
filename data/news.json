@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T11:21:01.974Z",
+  "updated": "2026-10-26T12:21:01.322Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+          "link": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-26T11:39:16.000Z"
+        },
+        {
+          "title": "Five ways Trump has changed immigration in the US",
+          "link": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-26T11:29:02.000Z"
+        },
+        {
           "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
           "link": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
           "source": "NPR",
           "published": "2026-10-26T11:11:00.000Z"
-        },
-        {
-          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-26T11:02:20.000Z"
-        },
-        {
-          "title": "Crowds welcome Venezuela's María Machado after months in exile",
-          "link": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-26T09:31:12.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Economic calendar: A busy week is capped by the Fed's decision",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2ed851b9-33fe-4aa4-a6a3-56f15e0e8e62&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-26T11:33:58.000Z"
+        },
+        {
           "title": "Economic calendar: Week begins with wave of housing-market data",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=cd1bae00-790c-43f5-a44b-70d6a0438c0a&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-25T14:22:13.000Z"
-        },
-        {
-          "title": "Thirty-six percent of the S&P 500 scheduled to report earnings this week",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=416473b1-dc8f-4264-b4fe-8a9248da7386&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-25T14:12:32.000Z"
         },
         {
           "title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
