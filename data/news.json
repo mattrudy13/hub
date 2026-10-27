@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T01:31:43.042Z",
+  "updated": "2026-10-27T02:21:19.325Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Ex-FBI chief James Comey faces federal charges for third time",
+          "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-27T02:01:27.000Z"
+        },
+        {
           "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
           "link": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
           "source": "NPR",
           "published": "2026-10-27T00:31:45.000Z"
         },
         {
-          "title": "'Maxxing' selected as Dictionary.com word of the year",
-          "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+          "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+          "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-26T21:31:53.000Z"
-        },
-        {
-          "title": "Lula wins fourth term in dramatic Brazil election comeback",
-          "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-26T21:02:47.000Z"
+          "published": "2026-10-27T00:31:11.000Z"
         }
       ]
     },
