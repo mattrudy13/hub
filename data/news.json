@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T17:21:02.924Z",
+  "updated": "2026-10-27T18:21:04.650Z",
   "failed": [],
   "sections": [
     {
@@ -7,7 +7,7 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Nanotyrannus skeleton auctioned for $47.3m in New York",
+          "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
           "link": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-27T17:10:15.000Z"
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "The big reason Boeing’s stock is falling so hard after earnings",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1c98c7a0-22d9-43a6-98c6-f3a89da1dd9d&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-27T18:02:50.000Z"
+        },
+        {
+          "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
+          "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+          "source": "CNBC",
+          "published": "2026-10-27T17:53:47.000Z"
+        },
+        {
           "title": "When will Anthropic go public? Here’s what to know about the IPO timeline.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=bb255eba-c59a-4f27-8f03-a334626a3576&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-27T17:15:07.000Z"
-        },
-        {
-          "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
-          "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-          "source": "CNBC",
-          "published": "2026-10-27T16:49:39.000Z"
-        },
-        {
-          "title": "American Airlines hikes annual fees on rewards cards for first time since 2018",
-          "link": "https://www.cnbc.com/2026/10/27/american-airlines-citi-aadvantage-card-fee.html",
-          "source": "CNBC",
-          "published": "2026-10-27T16:33:09.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "VisionQuest is what happens when AI really goes rogue",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+          "source": "The Verge",
+          "published": "2026-10-27T17:30:00.000Z"
+        },
+        {
           "title": "The Super Mouse puts a touchscreen macro pad under your hand",
           "link": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
           "source": "The Verge",
           "published": "2026-10-27T17:00:00.000Z"
         },
         {
-          "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-          "source": "The Verge",
-          "published": "2026-10-27T16:51:22.000Z"
-        },
-        {
-          "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-          "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+          "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
+          "link": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
           "source": "Ars Technica",
-          "published": "2026-10-27T14:20:26.000Z"
+          "published": "2026-10-27T16:17:58.000Z"
         }
       ]
     }
