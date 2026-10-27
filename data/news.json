@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T15:55:04.719Z",
+  "updated": "2026-10-27T16:21:03.796Z",
   "failed": [],
   "sections": [
     {
@@ -10,13 +10,13 @@
           "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
           "link": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-27T15:31:07.000Z"
+          "published": "2026-10-27T16:20:22.000Z"
         },
         {
-          "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-          "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+          "title": "Nanotyrannus skeleton auctioned for $47.3m in New York",
+          "link": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-27T15:13:24.000Z"
+          "published": "2026-10-27T16:11:27.000Z"
         },
         {
           "title": "Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Apple’s latest AirTag is the cheapest it’s ever been",
-          "link": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale",
+          "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
           "source": "The Verge",
-          "published": "2026-10-27T15:34:16.000Z"
+          "published": "2026-10-27T16:14:18.000Z"
+        },
+        {
+          "title": "Major League Baseball is looking for a new kind of fan",
+          "link": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
+          "source": "The Verge",
+          "published": "2026-10-27T16:02:43.000Z"
         },
         {
           "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
           "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
           "source": "Ars Technica",
           "published": "2026-10-27T14:20:26.000Z"
-        },
-        {
-          "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
-          "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-          "source": "Ars Technica",
-          "published": "2026-10-27T14:00:49.000Z"
         }
       ]
     }
