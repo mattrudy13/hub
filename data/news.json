@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T23:21:02.977Z",
+  "updated": "2026-10-27T00:21:01.920Z",
   "failed": [],
   "sections": [
     {
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "This financial-literacy teacher aims to turn students into future millionaires.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=da3c8ba9-ed98-4fac-94f0-3fa4351eab87&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-26T23:34:41.000Z"
+        },
+        {
           "title": "Options traders are seizing control of the S&P 500. Here’s why that matters.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b3be2cf9-d6fc-4623-b12b-1264f69d0f4c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-26T22:21:04.000Z"
-        },
-        {
-          "title": "Opinion: With the Anthropic IPO, the devil is in the details",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4cdb5a01-0a37-4106-a718-0a31169feab4&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-26T21:30:15.000Z"
         },
         {
           "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+          "source": "The Verge",
+          "published": "2026-10-26T23:34:58.000Z"
+        },
+        {
           "title": "Microsoft offers to buy out a quarter of its workforce",
           "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
           "source": "Ars Technica",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
           "source": "The Verge",
           "published": "2026-10-26T21:56:36.000Z"
-        },
-        {
-          "title": "Anthropic is burning gas to feed the AI boom",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-          "source": "The Verge",
-          "published": "2026-10-26T21:45:31.000Z"
         }
       ]
     }
