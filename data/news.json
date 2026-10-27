@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T20:47:28.321Z",
+  "updated": "2026-10-27T21:21:08.244Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+          "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-27T21:12:39.000Z"
+        },
+        {
+          "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+          "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-27T21:09:12.000Z"
+        },
+        {
           "title": "Israelis vote in their highest numbers in decades in pivotal elections",
           "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
           "source": "NPR",
           "published": "2026-10-27T20:45:39.000Z"
-        },
-        {
-          "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-          "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-27T20:44:40.000Z"
-        },
-        {
-          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-27T20:19:53.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "This ‘triple top’ in oil price charts suggests the rally has run out of gas",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8f015cd9-5a1d-4853-9540-80de45cf9b60&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-27T21:15:09.000Z"
+        },
         {
           "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
           "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html",
           "source": "CNBC",
           "published": "2026-10-27T20:15:33.000Z"
-        },
-        {
-          "title": "Nasdaq up sharply in final hour as chip stocks bounce; Dow pulls back from highs",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0e556d7b-6022-4f4c-ab8a-a2739350ea77&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-27T19:02:30.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Google's Android Registered App Stores program launches Dec. 1, applications now open",
+          "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+          "source": "The Verge",
+          "published": "2026-10-27T20:48:58.000Z"
+        },
+        {
+          "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+          "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+          "source": "Ars Technica",
+          "published": "2026-10-27T20:25:55.000Z"
+        },
+        {
+          "title": "Google begins certifying Registered App Stores for Android, but not in the US",
           "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
           "source": "Ars Technica",
           "published": "2026-10-27T19:32:07.000Z"
-        },
-        {
-          "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
-          "link": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
-          "source": "The Verge",
-          "published": "2026-10-27T19:24:06.000Z"
-        },
-        {
-          "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-          "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-          "source": "Ars Technica",
-          "published": "2026-10-27T18:49:08.000Z"
         }
       ]
     }
