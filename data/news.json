@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-27T15:21:26.176Z",
+  "updated": "2026-10-27T15:55:04.719Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-27T15:31:07.000Z"
+        },
         {
           "title": "Truce begins in Ukraine city where residents ate weeds to survive",
           "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
           "source": "NPR",
           "published": "2026-10-27T14:41:17.000Z"
-        },
-        {
-          "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-27T14:29:39.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027 as wing production lags",
-          "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+          "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
+          "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
           "source": "CNBC",
-          "published": "2026-10-27T15:15:01.000Z"
+          "published": "2026-10-27T15:48:32.000Z"
         },
         {
-          "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-          "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+          "title": "JetBlue stock surges 20% as company outlook calms investors",
+          "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
           "source": "CNBC",
-          "published": "2026-10-27T15:04:36.000Z"
+          "published": "2026-10-27T15:46:31.000Z"
         },
         {
-          "title": "Why SoFi’s stock is soaring after earnings",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=15163b6e-e9ae-4736-983b-91cd8de1706d&mod=mw_rss_bulletins",
+          "title": "What a bigger-than-expected Democratic midterm win would mean for stocks",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8b367fc5-933b-4e0a-a122-7f47087b0db3&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-10-27T14:20:44.000Z"
+          "published": "2026-10-27T15:36:14.000Z"
         }
       ]
     },
@@ -54,6 +54,12 @@
       "key": "tech",
       "name": "Tech",
       "items": [
+        {
+          "title": "Apple’s latest AirTag is the cheapest it’s ever been",
+          "link": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale",
+          "source": "The Verge",
+          "published": "2026-10-27T15:34:16.000Z"
+        },
         {
           "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
           "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
           "source": "Ars Technica",
           "published": "2026-10-27T14:00:49.000Z"
-        },
-        {
-          "title": "We’ve had touchscreen laptops for years. Can Apple make them better?",
-          "link": "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions",
-          "source": "The Verge",
-          "published": "2026-10-27T14:00:00.000Z"
         }
       ]
     }
