@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T22:21:03.513Z",
+  "updated": "2026-10-27T23:21:03.593Z",
   "failed": [],
   "sections": [
     {
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Retail traders buy the dip on chip stocks, but Robinhood gets burned by crypto",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3fdfdb9c-6627-40dc-86b0-31266b9c4cb6&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-27T23:07:15.000Z"
+        },
+        {
           "title": "Is that used EV worth the price? This checklist could save you thousands.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=42c88573-7386-4fe5-bc0d-a80b65ad9818&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-27T22:09:05.000Z"
-        },
-        {
-          "title": "The rest of the market is leaving Big Tech behind after a historic comeback",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=beac1e8a-f144-469c-8df0-c5ad161e8201&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-27T21:41:43.000Z"
         },
         {
           "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+          "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+          "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
           "source": "The Verge",
-          "published": "2026-10-27T20:48:58.000Z"
+          "published": "2026-10-27T22:55:05.000Z"
         },
         {
-          "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-          "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+          "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+          "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
           "source": "Ars Technica",
-          "published": "2026-10-27T20:25:55.000Z"
+          "published": "2026-10-27T22:37:30.000Z"
         },
         {
-          "title": "Google begins certifying Registered App Stores for Android, but not in the US",
-          "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
+          "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+          "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
           "source": "Ars Technica",
-          "published": "2026-10-27T19:32:07.000Z"
+          "published": "2026-10-27T22:22:32.000Z"
         }
       ]
     }
