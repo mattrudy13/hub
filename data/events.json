@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-27T13:21:05.300Z",
-  "from": "2026-10-27T13:21:04Z",
-  "to": "2026-11-10T13:21:04Z",
+  "updated": "2026-10-27T14:21:09.057Z",
+  "from": "2026-10-27T14:21:08Z",
+  "to": "2026-11-10T14:21:08Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -117,6 +117,20 @@
       "image": "https://s1.ticketm.net/dam/a/20a/bfc8ca58-e458-4a3c-8510-6ccf1281d20a_RETINA_PORTRAIT_16_9.jpg"
     },
     {
+      "id": "Z7r9jZ1A7-yFU",
+      "name": "Old Dominion Monarchs Football vs. Marshall Thundering Herd Football",
+      "date": "2026-10-31",
+      "time": "13:00",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Miscellaneous",
+      "venue": "Kornblau Field at S.B. Ballard Stadium",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-yFU",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/db5/5acfb9a3-4315-40c6-824f-e0fd31bd5db5_723691_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
       "id": "vv177Z_oGkTbCERE",
       "name": "Rocky Horror Picture Show - with Shadow Cast - Classic Movie Nights!",
       "date": "2026-10-31",
@@ -185,20 +199,6 @@
       "url": "https://www.ticketmaster.com/its-a-2000s-party-by-slacker-virginia-beach-virginia-10-31-2026/event/010065211FD5D947",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/e/bba/00605aea-4aec-4d1c-8b43-7401298bbbba_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "Z7r9jZ1A7-yFU",
-      "name": "Old Dominion Monarchs Football vs. Marshall Thundering Herd Football",
-      "date": "2026-10-31",
-      "time": null,
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Miscellaneous",
-      "venue": "Kornblau Field at S.B. Ballard Stadium",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-yFU",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/db5/5acfb9a3-4315-40c6-824f-e0fd31bd5db5_723691_RETINA_PORTRAIT_16_9.jpg"
     },
     {
       "id": "vv1AvZkotGkdPFArk",
