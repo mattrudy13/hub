@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-27T00:21:01.920Z",
+  "updated": "2026-10-27T01:21:06.179Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+          "link": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+          "source": "NPR",
+          "published": "2026-10-27T00:31:45.000Z"
+        },
         {
           "title": "'Maxxing' selected as Dictionary.com word of the year",
           "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-26T21:02:47.000Z"
-        },
-        {
-          "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
-          "link": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
-          "source": "NPR",
-          "published": "2026-10-26T18:41:43.000Z"
         }
       ]
     },
