@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T18:21:04.650Z",
+  "updated": "2026-10-27T19:21:09.784Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
-          "link": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+          "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+          "link": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-27T17:10:15.000Z"
+          "published": "2026-10-27T19:01:16.000Z"
         },
         {
-          "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
-          "link": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+          "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-27T17:08:24.000Z"
+          "published": "2026-10-27T18:43:41.000Z"
         },
         {
           "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Boeing stock sinks 10% as company says it won't significantly ramp up 737 Max production until late 2027",
+          "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-10-27T19:10:24.000Z"
+        },
+        {
+          "title": "Nasdaq up sharply in final hour as chip stocks bounce; Dow pulls back from highs",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0e556d7b-6022-4f4c-ab8a-a2739350ea77&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-27T19:02:30.000Z"
+        },
+        {
           "title": "The big reason Boeing’s stock is falling so hard after earnings",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1c98c7a0-22d9-43a6-98c6-f3a89da1dd9d&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-27T18:02:50.000Z"
-        },
-        {
-          "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
-          "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-          "source": "CNBC",
-          "published": "2026-10-27T17:53:47.000Z"
-        },
-        {
-          "title": "When will Anthropic go public? Here’s what to know about the IPO timeline.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=bb255eba-c59a-4f27-8f03-a334626a3576&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-27T17:15:07.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Trump is making it easier for fossil fuel companies to leak methane",
+          "link": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
+          "source": "The Verge",
+          "published": "2026-10-27T18:25:13.000Z"
+        },
+        {
           "title": "VisionQuest is what happens when AI really goes rogue",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
           "source": "The Verge",
           "published": "2026-10-27T17:30:00.000Z"
-        },
-        {
-          "title": "The Super Mouse puts a touchscreen macro pad under your hand",
-          "link": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
-          "source": "The Verge",
-          "published": "2026-10-27T17:00:00.000Z"
         },
         {
           "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
