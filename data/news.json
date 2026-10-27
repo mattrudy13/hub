@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T14:21:03.437Z",
+  "updated": "2026-10-27T15:21:26.176Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
-          "link": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
-          "source": "NPR",
-          "published": "2026-10-27T14:15:21.000Z"
-        },
-        {
-          "title": "A 'Green Army' is out to thwart El Niño flooding",
-          "link": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
-          "source": "NPR",
-          "published": "2026-10-27T14:12:35.000Z"
-        },
-        {
-          "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-          "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+          "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+          "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-27T13:25:54.000Z"
+          "published": "2026-10-27T15:13:24.000Z"
+        },
+        {
+          "title": "Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede",
+          "link": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
+          "source": "NPR",
+          "published": "2026-10-27T14:41:17.000Z"
+        },
+        {
+          "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-27T14:29:39.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "JetBlue stock surges 19% as company outlook calms investors",
-          "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+          "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027 as wing production lags",
+          "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
           "source": "CNBC",
-          "published": "2026-10-27T14:08:50.000Z"
+          "published": "2026-10-27T15:15:01.000Z"
         },
         {
-          "title": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
-          "link": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
+          "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+          "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
           "source": "CNBC",
-          "published": "2026-10-27T14:07:03.000Z"
+          "published": "2026-10-27T15:04:36.000Z"
         },
         {
-          "title": "Dow, Nasdaq, S&P 500 open higher as oil prices fall and chip stocks bounce",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d91ad6a9-d5a3-49cd-9131-3c517228dc46&mod=mw_rss_bulletins",
+          "title": "Why SoFi’s stock is soaring after earnings",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=15163b6e-e9ae-4736-983b-91cd8de1706d&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-10-27T13:46:54.000Z"
+          "published": "2026-10-27T14:20:44.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+          "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+          "source": "Ars Technica",
+          "published": "2026-10-27T14:20:26.000Z"
+        },
+        {
+          "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
+          "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+          "source": "Ars Technica",
+          "published": "2026-10-27T14:00:49.000Z"
+        },
+        {
           "title": "We’ve had touchscreen laptops for years. Can Apple make them better?",
           "link": "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions",
           "source": "The Verge",
           "published": "2026-10-27T14:00:00.000Z"
-        },
-        {
-          "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-          "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-          "source": "The Verge",
-          "published": "2026-10-27T13:50:51.000Z"
-        },
-        {
-          "title": "Microsoft offers to buy out a quarter of its workforce",
-          "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
-          "source": "Ars Technica",
-          "published": "2026-10-26T22:36:06.000Z"
         }
       ]
     }
