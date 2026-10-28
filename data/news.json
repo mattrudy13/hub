@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T11:21:02.449Z",
+  "updated": "2026-10-28T12:21:03.170Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "What we know so far about deadly Spain train crash",
+          "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-28T12:14:44.000Z"
+        },
+        {
+          "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+          "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+          "source": "NPR",
+          "published": "2026-10-28T11:28:55.000Z"
+        },
+        {
           "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
           "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-28T10:35:13.000Z"
-        },
-        {
-          "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-          "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-28T10:31:22.000Z"
-        },
-        {
-          "title": "At least 30 dead in crash between two trains in central Spain, media say",
-          "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
-          "source": "NPR",
-          "published": "2026-10-28T10:09:46.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
-          "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+          "title": "Everything announced at Amazon’s October 2026 hardware launch",
+          "link": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
           "source": "The Verge",
-          "published": "2026-10-27T22:55:05.000Z"
+          "published": "2026-10-28T12:20:40.000Z"
         },
         {
-          "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-          "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
-          "source": "Ars Technica",
-          "published": "2026-10-27T22:37:30.000Z"
+          "title": "Amazon’s new Echo line is here: the 6 biggest updates",
+          "link": "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
+          "source": "The Verge",
+          "published": "2026-10-28T12:08:15.000Z"
         },
         {
-          "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
-          "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+          "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+          "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
           "source": "Ars Technica",
-          "published": "2026-10-27T22:22:32.000Z"
+          "published": "2026-10-28T11:00:49.000Z"
         }
       ]
     }
