@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-28T12:21:03.170Z",
+  "updated": "2026-10-28T13:21:02.394Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "What's gone up even faster than gas or rent? The cost of caregiving",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
+          "source": "NPR",
+          "published": "2026-10-28T13:05:33.000Z"
+        },
         {
           "title": "What we know so far about deadly Spain train crash",
           "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
           "source": "NPR",
           "published": "2026-10-28T11:28:55.000Z"
-        },
-        {
-          "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
-          "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-28T10:35:13.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Why China is desperate to ship cars outside of the country",
+          "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
+          "source": "CNBC",
+          "published": "2026-10-28T13:17:20.000Z"
+        },
         {
           "title": "Economic calendar: Fed’s interest-rate decision at 2 p.m.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=72755b1b-d542-43ae-9162-5f92f6e46b66&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a1b2395e-215f-4251-9c1d-84daff850c91&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-28T00:08:47.000Z"
-        },
-        {
-          "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
-          "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-          "source": "CNBC",
-          "published": "2026-10-27T20:32:24.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Everything announced at Amazon’s October 2026 hardware launch",
-          "link": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
+          "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
+          "link": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
           "source": "The Verge",
-          "published": "2026-10-28T12:20:40.000Z"
+          "published": "2026-10-28T13:00:00.000Z"
         },
         {
-          "title": "Amazon’s new Echo line is here: the 6 biggest updates",
-          "link": "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
+          "title": "Inside Amazon’s Echo hardware event",
+          "link": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
           "source": "The Verge",
-          "published": "2026-10-28T12:08:15.000Z"
+          "published": "2026-10-28T12:46:42.000Z"
         },
         {
           "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
