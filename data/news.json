@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T16:21:03.815Z",
+  "updated": "2026-10-28T16:42:58.826Z",
   "failed": [],
   "sections": [
     {
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "America's largest budget airline reports 71% jump in airfare",
+          "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
+          "source": "CNBC",
+          "published": "2026-10-28T16:29:09.000Z"
+        },
+        {
           "title": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
           "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
           "source": "CNBC",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=967a3645-6f88-4900-b2e6-fcb903c77023&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-28T14:22:44.000Z"
-        },
-        {
-          "title": "America's largest budget airline reports 71% jump in airfare",
-          "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
-          "source": "CNBC",
-          "published": "2026-10-28T13:50:38.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Reddit is getting a For You feed",
-          "link": "https://www.theverge.com/tech/1020751/reddit-for-you-following-feeds",
+          "title": "Touchscreen MacBook live blog: On the ground at Apple’s launch event",
+          "link": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog",
           "source": "The Verge",
-          "published": "2026-10-28T16:00:00.000Z"
+          "published": "2026-10-28T16:33:32.000Z"
         },
         {
-          "title": "Govee’s colorful smart string lights are down to their best price of the year",
-          "link": "https://www.theverge.com/gadgets/1020139/govee-christmas-string-lights-2-tile-pro-deal-sale",
+          "title": "All the news from Apple’s ‘Pro and tell’ event",
+          "link": "https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements",
           "source": "The Verge",
-          "published": "2026-10-28T15:34:43.000Z"
+          "published": "2026-10-28T16:30:00.000Z"
         },
         {
           "title": "A hidden ocean change near Antarctica could have global consequences",
