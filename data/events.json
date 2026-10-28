@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-28T00:21:07.305Z",
-  "from": "2026-10-28T00:21:06Z",
-  "to": "2026-11-11T00:21:06Z",
+  "updated": "2026-10-28T00:33:54.663Z",
+  "from": "2026-10-28T00:33:54Z",
+  "to": "2026-11-11T00:33:54Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -563,6 +563,34 @@
       "url": "https://www.ticketmaster.com/free-throw-microwave-virginia-beach-virginia-11-10-2026/event/010064D2E24F0A0C",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/e/014/99844ea6-16a7-4b46-b6d9-c674edfd1014_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkoyGkeWiV_5",
+      "name": "The Bodyguard (Touring)",
+      "date": "2026-11-10",
+      "time": "19:30",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": "Theatre",
+      "venue": "Harrison Opera House",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/the-bodyguard-touring-norfolk-virginia-11-10-2026/event/01006479BDB3464B",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/c82/88e88dd8-ee10-43c0-af7c-f8e506694c82_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1A70tu9",
+      "name": "Madeon",
+      "date": "2026-11-10",
+      "time": "19:30",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": null,
+      "venue": "The Norva",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70tu9",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/a9f/a8db3df5-7fdb-4d54-9810-8ca8eaaa5a9f_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
