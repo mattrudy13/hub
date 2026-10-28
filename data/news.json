@@ -1,17 +1,11 @@
 {
-  "updated": "2026-10-28T03:21:05.428Z",
+  "updated": "2026-10-28T04:21:02.400Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
-        {
-          "title": "Partnerships between ICE and local police surge, report finds",
-          "link": "https://www.npr.org/2026/10/27/nx-s1-6014746/287g-local-police-immigration-ice",
-          "source": "NPR",
-          "published": "2026-10-28T03:19:32.000Z"
-        },
         {
           "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
           "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
@@ -23,6 +17,12 @@
           "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
           "source": "NPR",
           "published": "2026-10-28T01:58:08.000Z"
+        },
+        {
+          "title": "Watch: What happens now after close vote in Israeli election?",
+          "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-28T00:04:29.000Z"
         }
       ]
     },
