@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T17:21:02.619Z",
+  "updated": "2026-10-28T18:21:02.654Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
+          "source": "NPR",
+          "published": "2026-10-28T18:07:33.000Z"
+        },
+        {
+          "title": "Fed holds interest rates steady even as inflation remains stubborn",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+          "source": "NPR",
+          "published": "2026-10-28T18:04:42.000Z"
+        },
+        {
           "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
           "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-28T16:59:47.000Z"
-        },
-        {
-          "title": "Watch: At the scene of Spain's deadly train crash",
-          "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-28T16:45:16.000Z"
-        },
-        {
-          "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
-          "link": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
-          "source": "NPR",
-          "published": "2026-10-28T16:10:43.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Fed leaves key interest rate unchanged; two dissenters favored rate hike — live",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=be23232f-34fd-476a-9482-96a701ef4502&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-28T18:02:12.000Z"
+        },
         {
           "title": "Fed decision less than an hour away, as inflation keeps pressure on Warsh — live",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=064dcddb-64ed-45eb-a995-3cd5b25d2fc9&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
           "source": "CNBC",
           "published": "2026-10-28T16:29:09.000Z"
-        },
-        {
-          "title": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
-          "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-          "source": "CNBC",
-          "published": "2026-10-28T16:00:01.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Touchscreen MacBook live blog: On the ground at Apple’s launch event",
-          "link": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog",
+          "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
+          "link": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
           "source": "The Verge",
-          "published": "2026-10-28T16:33:32.000Z"
+          "published": "2026-10-28T18:14:11.000Z"
         },
         {
-          "title": "All the news from Apple’s ‘Pro and tell’ event",
-          "link": "https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements",
+          "title": "Here’s where to preorder the latest MacBook Pros",
+          "link": "https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date",
           "source": "The Verge",
-          "published": "2026-10-28T16:30:00.000Z"
+          "published": "2026-10-28T18:10:23.000Z"
         },
         {
           "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
