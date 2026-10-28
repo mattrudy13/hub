@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T21:21:05.820Z",
+  "updated": "2026-10-28T21:43:57.227Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "High-speed train crash kills at least 68 people in Spain",
+          "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-28T21:38:54.000Z"
+        },
+        {
+          "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+          "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-28T21:24:41.000Z"
+        },
+        {
           "title": "Trump administration wants to remove regulations on a super planet-heating gas",
           "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
           "source": "NPR",
           "published": "2026-10-28T21:15:09.000Z"
-        },
-        {
-          "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-          "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-28T21:07:06.000Z"
-        },
-        {
-          "title": "Israel's election deadlock is a sign of the country's deep divisions",
-          "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-28T20:53:02.000Z"
         }
       ]
     },
@@ -34,19 +34,19 @@
           "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
           "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
           "source": "CNBC",
-          "published": "2026-10-28T21:15:36.000Z"
+          "published": "2026-10-28T21:42:24.000Z"
+        },
+        {
+          "title": "3 reasons home prices keep going up, even though fewer people are buying",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7cabeed5-cadd-43c9-98d8-ace82bdd884c&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-28T21:29:42.000Z"
         },
         {
           "title": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=eff801cf-52c9-4fe3-b362-c29b7694fe14&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-28T20:37:38.000Z"
-        },
-        {
-          "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
-          "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
-          "source": "CNBC",
-          "published": "2026-10-28T20:35:33.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+          "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+          "source": "The Verge",
+          "published": "2026-10-28T21:34:04.000Z"
+        },
+        {
           "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
           "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
           "source": "The Verge",
           "published": "2026-10-28T21:16:18.000Z"
-        },
-        {
-          "title": "Google says its investments in AI are driving more searches",
-          "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
-          "source": "The Verge",
-          "published": "2026-10-28T20:22:26.000Z"
         },
         {
           "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
