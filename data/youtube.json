@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T23:21:06.391Z",
+  "updated": "2026-10-28T00:21:06.811Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "U8Nv82lC6xs",
+          "title": "I made my dream game... It was a huge failure (Squeex plays Game Dev Tycoon)",
+          "published": "2026-10-28T00:04:34Z",
+          "thumb": "https://i.ytimg.com/vi/U8Nv82lC6xs/mqdefault.jpg",
+          "seen": "2026-10-28T00:21:03.955Z"
+        },
         {
           "id": "zLqeoBY1KxA",
           "title": "It's going really bad (Squeex plays CS2 with fuslie, rae, chiblee, and hjune)",
@@ -35,13 +42,6 @@
           "published": "2026-10-18T10:47:06Z",
           "thumb": "https://i.ytimg.com/vi/e_WWhUBAfQo/mqdefault.jpg",
           "seen": "2026-10-18T10:47:06Z"
-        },
-        {
-          "id": "s6zac1u5i8Q",
-          "title": "Friendslop Fridays with Ludwig, Joe, and Supertf!",
-          "published": "2026-10-17T07:35:35Z",
-          "thumb": "https://i.ytimg.com/vi/s6zac1u5i8Q/mqdefault.jpg",
-          "seen": "2026-10-17T07:35:35Z"
         }
       ]
     },

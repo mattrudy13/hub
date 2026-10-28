@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T23:21:03.593Z",
+  "updated": "2026-10-28T00:21:03.195Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+          "title": "Watch: What happens now after close vote in Israeli election?",
+          "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-27T22:11:08.000Z"
+          "published": "2026-10-28T00:04:29.000Z"
+        },
+        {
+          "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+          "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-27T23:41:23.000Z"
         },
         {
           "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
           "link": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
           "source": "NPR",
           "published": "2026-10-27T21:17:57.000Z"
-        },
-        {
-          "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
-          "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-27T21:12:39.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a1b2395e-215f-4251-9c1d-84daff850c91&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-28T00:08:47.000Z"
+        },
+        {
           "title": "Retail traders buy the dip on chip stocks, but Robinhood gets burned by crypto",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3fdfdb9c-6627-40dc-86b0-31266b9c4cb6&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-27T23:07:15.000Z"
-        },
-        {
-          "title": "Is that used EV worth the price? This checklist could save you thousands.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=42c88573-7386-4fe5-bc0d-a80b65ad9818&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-27T22:09:05.000Z"
         },
         {
           "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",

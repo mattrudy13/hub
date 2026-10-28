@@ -1,23 +1,9 @@
 {
-  "updated": "2026-10-27T23:21:07.039Z",
-  "from": "2026-10-27T23:21:06Z",
-  "to": "2026-11-10T23:21:06Z",
+  "updated": "2026-10-28T00:21:07.305Z",
+  "from": "2026-10-28T00:21:06Z",
+  "to": "2026-11-11T00:21:06Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1A7-t7I",
-      "name": "Earl Sweatshirt w/ MIKE",
-      "date": "2026-10-27",
-      "time": "19:30",
-      "status": "rescheduled",
-      "kind": "Music",
-      "genre": "Hip-Hop/Rap",
-      "venue": "The Norva",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-t7I",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/469/f6db8121-664a-4972-9853-b1eb4d318469_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vvG17Z_CNG6MzU",
       "name": "Hudson Westbrook",
@@ -563,6 +549,20 @@
       "url": "https://www.ticketmaster.com/norfolk-admirals-vs-trenton-ironhawks-norfolk-virginia-11-08-2026/event/01006505D6388933",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/a82/1bbe9229-3e86-41b2-89a6-3f9ee9488a82_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vvG17Z_u5xKYIG",
+      "name": "Free Throw + Microwave",
+      "date": "2026-11-10",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Rock",
+      "venue": "Elevation 27",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/free-throw-microwave-virginia-beach-virginia-11-10-2026/event/010064D2E24F0A0C",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/014/99844ea6-16a7-4b46-b6d9-c674edfd1014_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
