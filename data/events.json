@@ -1,23 +1,9 @@
 {
-  "updated": "2026-10-28T22:21:06.325Z",
-  "from": "2026-10-28T22:21:05Z",
-  "to": "2026-11-11T22:21:05Z",
+  "updated": "2026-10-28T23:21:04.886Z",
+  "from": "2026-10-28T23:21:04Z",
+  "to": "2026-11-11T23:21:04Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vvG17Z_CNG6MzU",
-      "name": "Hudson Westbrook",
-      "date": "2026-10-28",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Country",
-      "venue": "The Dome by Rutter Mills",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/hudson-westbrook-virginia-beach-virginia-10-28-2026/event/010064E8CC1F7E36",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/9dc/dc0bf060-a92a-4a60-8458-8105d9b119dc_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "Z7r9jZ1AAvU_z",
       "name": "DaBaby",

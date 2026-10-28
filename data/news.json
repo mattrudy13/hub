@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-28T22:21:02.564Z",
+  "updated": "2026-10-28T23:21:01.769Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Trump administration will allow pharmacies to make popular peptides",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
+          "source": "NPR",
+          "published": "2026-10-28T22:26:48.000Z"
+        },
         {
           "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
           "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-28T22:08:52.000Z"
-        },
-        {
-          "title": "Trump administration wants to remove regulations on a super planet-heating gas",
-          "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
-          "source": "NPR",
-          "published": "2026-10-28T21:15:09.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+          "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-10-28T22:27:00.000Z"
+        },
         {
           "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
           "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3fa21cc3-dbc5-4162-adbe-ed12b4f8c37e&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-28T22:12:23.000Z"
-        },
-        {
-          "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
-          "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-          "source": "CNBC",
-          "published": "2026-10-28T21:42:24.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+          "source": "The Verge",
+          "published": "2026-10-28T23:05:39.000Z"
+        },
+        {
           "title": "A hacker stole more than 40,000 DHS employee records",
           "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
           "source": "The Verge",
           "published": "2026-10-28T21:57:45.000Z"
-        },
-        {
-          "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-          "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-          "source": "The Verge",
-          "published": "2026-10-28T21:34:04.000Z"
         },
         {
           "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
