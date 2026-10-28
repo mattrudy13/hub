@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T20:21:02.992Z",
+  "updated": "2026-10-28T21:21:05.820Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Trump administration wants to remove regulations on a super planet-heating gas",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
+          "source": "NPR",
+          "published": "2026-10-28T21:15:09.000Z"
+        },
+        {
           "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
           "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-28T20:19:10.000Z"
+          "published": "2026-10-28T21:07:06.000Z"
         },
         {
-          "title": "How did Flávio Bolsonaro end up in Miami?",
-          "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+          "title": "Israel's election deadlock is a sign of the country's deep divisions",
+          "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-28T18:51:05.000Z"
-        },
-        {
-          "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
-          "link": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
-          "source": "NPR",
-          "published": "2026-10-28T18:07:33.000Z"
+          "published": "2026-10-28T20:53:02.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Alphabet earnings are out. Here’s what Google investors need to know.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3a16c667-ca58-4d9a-8999-6625d5a85ed5&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-28T20:14:33.000Z"
-        },
-        {
-          "title": "Chipotle earnings miss estimates, but same-store sales increase for third straight quarter",
-          "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+          "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
+          "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
           "source": "CNBC",
-          "published": "2026-10-28T20:11:00.000Z"
+          "published": "2026-10-28T21:15:36.000Z"
         },
         {
-          "title": "Microsoft earnings just came out. These are the highlights.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8e20ceff-38ac-4195-868f-91ef90e12bfc&mod=mw_rss_bulletins",
+          "title": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=eff801cf-52c9-4fe3-b362-c29b7694fe14&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-10-28T20:06:35.000Z"
+          "published": "2026-10-28T20:37:38.000Z"
+        },
+        {
+          "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+          "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-10-28T20:35:33.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
-          "link": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+          "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+          "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
           "source": "The Verge",
-          "published": "2026-10-28T20:12:44.000Z"
+          "published": "2026-10-28T21:16:18.000Z"
         },
         {
-          "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-          "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+          "title": "Google says its investments in AI are driving more searches",
+          "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
           "source": "The Verge",
-          "published": "2026-10-28T20:03:00.000Z"
+          "published": "2026-10-28T20:22:26.000Z"
         },
         {
-          "title": "Amazon turns its most capable smart speaker into a smart camera, too",
-          "link": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+          "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+          "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
           "source": "Ars Technica",
-          "published": "2026-10-28T18:05:22.000Z"
+          "published": "2026-10-28T19:30:33.000Z"
         }
       ]
     }
