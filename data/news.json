@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T21:43:57.227Z",
+  "updated": "2026-10-28T22:21:02.564Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "High-speed train crash kills at least 68 people in Spain",
-          "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+          "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+          "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-28T21:38:54.000Z"
+          "published": "2026-10-28T22:13:35.000Z"
         },
         {
-          "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-          "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+          "title": "Girl seriously injured in wolf attack at German wildlife park",
+          "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-28T21:24:41.000Z"
+          "published": "2026-10-28T22:08:52.000Z"
         },
         {
           "title": "Trump administration wants to remove regulations on a super planet-heating gas",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
+          "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-10-28T22:12:28.000Z"
+        },
+        {
+          "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3fa21cc3-dbc5-4162-adbe-ed12b4f8c37e&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-28T22:12:23.000Z"
+        },
+        {
           "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
           "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
           "source": "CNBC",
           "published": "2026-10-28T21:42:24.000Z"
-        },
-        {
-          "title": "3 reasons home prices keep going up, even though fewer people are buying",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7cabeed5-cadd-43c9-98d8-ace82bdd884c&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-28T21:29:42.000Z"
-        },
-        {
-          "title": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=eff801cf-52c9-4fe3-b362-c29b7694fe14&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-28T20:37:38.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "A hacker stole more than 40,000 DHS employee records",
+          "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+          "source": "The Verge",
+          "published": "2026-10-28T21:57:45.000Z"
+        },
+        {
           "title": "Akai is embracing vibe-coded mods with an open-source MPC",
           "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
           "source": "The Verge",
           "published": "2026-10-28T21:34:04.000Z"
-        },
-        {
-          "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
-          "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
-          "source": "The Verge",
-          "published": "2026-10-28T21:16:18.000Z"
         },
         {
           "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
