@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T15:21:05.670Z",
+  "updated": "2026-10-28T16:21:03.815Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
+          "source": "NPR",
+          "published": "2026-10-28T16:10:43.000Z"
+        },
+        {
           "title": "What we know so far about deadly Spain train crash",
           "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-28T14:53:38.000Z"
+          "published": "2026-10-28T15:36:11.000Z"
         },
         {
-          "title": "Israel's election result is messy - here's why",
-          "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+          "title": "How could Israel break election deadlock? Here are four scenarios",
+          "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-28T14:26:24.000Z"
-        },
-        {
-          "title": "What's gone up even faster than gas or rent? The cost of caregiving",
-          "link": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
-          "source": "NPR",
-          "published": "2026-10-28T13:05:33.000Z"
+          "published": "2026-10-28T14:30:31.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
+          "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+          "source": "CNBC",
+          "published": "2026-10-28T16:00:01.000Z"
+        },
         {
           "title": "Here's Bill Ackman's rule for picking winning stocks",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=967a3645-6f88-4900-b2e6-fcb903c77023&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
           "source": "CNBC",
           "published": "2026-10-28T13:50:38.000Z"
-        },
-        {
-          "title": "Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction",
-          "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-          "source": "CNBC",
-          "published": "2026-10-28T13:48:05.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "8BitDo’s new Xbox Elite-style controller sets a high bar for customization",
-          "link": "https://www.theverge.com/gadgets/1017815/8bitdo-ultimate-3e-xbox-pc-controller-hands-on",
+          "title": "Reddit is getting a For You feed",
+          "link": "https://www.theverge.com/tech/1020751/reddit-for-you-following-feeds",
           "source": "The Verge",
-          "published": "2026-10-28T15:00:00.000Z"
+          "published": "2026-10-28T16:00:00.000Z"
         },
         {
-          "title": "Apple raises the MacBook Neo’s student pricing again",
-          "link": "https://www.theverge.com/tech/1020629/apple-macbook-neo-price-hike-education-store",
+          "title": "Govee’s colorful smart string lights are down to their best price of the year",
+          "link": "https://www.theverge.com/gadgets/1020139/govee-christmas-string-lights-2-tile-pro-deal-sale",
           "source": "The Verge",
-          "published": "2026-10-28T14:47:28.000Z"
+          "published": "2026-10-28T15:34:43.000Z"
         },
         {
           "title": "A hidden ocean change near Antarctica could have global consequences",

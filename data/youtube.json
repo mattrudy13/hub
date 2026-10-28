@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T15:21:08.723Z",
+  "updated": "2026-10-28T16:21:05.958Z",
   "failed": [],
   "channels": [
     {
@@ -95,6 +95,13 @@
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_nfDvwu14-iN5YZcaLIomwno1_3oFcYTmG5_kn7SMj_nec=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "42NAtKq6s30",
+          "title": "BARN OF DOOM | REANIMAL - Part 2",
+          "published": "2026-10-28T16:00:01Z",
+          "thumb": "https://i.ytimg.com/vi/42NAtKq6s30/mqdefault.jpg",
+          "seen": "2026-10-28T16:21:04.674Z"
+        },
+        {
           "id": "jV7APovtVho",
           "title": "SECURITY BOOTH SIMULATOR | Evenin' Shift",
           "published": "2026-10-27T16:00:16Z",
@@ -121,13 +128,6 @@
           "published": "2026-10-18T16:00:32Z",
           "thumb": "https://i.ytimg.com/vi/rzR6VPALFo4/mqdefault.jpg",
           "seen": "2026-10-18T16:00:32Z"
-        },
-        {
-          "id": "oqbs5__ccnk",
-          "title": "Supermarket Simulator - Part 8",
-          "published": "2026-10-17T16:00:38Z",
-          "thumb": "https://i.ytimg.com/vi/oqbs5__ccnk/mqdefault.jpg",
-          "seen": "2026-10-17T16:00:38Z"
         }
       ]
     },
