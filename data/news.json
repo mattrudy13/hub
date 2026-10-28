@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T10:21:04.010Z",
+  "updated": "2026-10-28T11:21:02.449Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "At least 10 dead in crash between 2 trains in Spain",
-          "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
-          "source": "NPR",
-          "published": "2026-10-28T10:09:46.000Z"
-        },
-        {
-          "title": "Senate candidates built up massive campaign war chests with out-of-state donations",
-          "link": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
-          "source": "NPR",
-          "published": "2026-10-28T09:00:00.000Z"
+          "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
+          "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-28T10:35:13.000Z"
         },
         {
           "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
           "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-28T07:53:20.000Z"
+          "published": "2026-10-28T10:31:22.000Z"
+        },
+        {
+          "title": "At least 30 dead in crash between two trains in central Spain, media say",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+          "source": "NPR",
+          "published": "2026-10-28T10:09:46.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Economic calendar: Fed’s interest-rate decision at 2 p.m.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=72755b1b-d542-43ae-9162-5f92f6e46b66&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-28T11:19:13.000Z"
+        },
+        {
           "title": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a1b2395e-215f-4251-9c1d-84daff850c91&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-28T00:08:47.000Z"
-        },
-        {
-          "title": "Retail traders buy the dip on chip stocks, but Robinhood gets burned by crypto",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3fdfdb9c-6627-40dc-86b0-31266b9c4cb6&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-27T23:07:15.000Z"
         },
         {
           "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
