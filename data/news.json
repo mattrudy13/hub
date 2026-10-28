@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T16:42:58.826Z",
+  "updated": "2026-10-28T17:21:02.619Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-28T16:59:47.000Z"
+        },
+        {
+          "title": "Watch: At the scene of Spain's deadly train crash",
+          "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-28T16:45:16.000Z"
+        },
+        {
           "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
           "link": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
           "source": "NPR",
           "published": "2026-10-28T16:10:43.000Z"
-        },
-        {
-          "title": "What we know so far about deadly Spain train crash",
-          "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-28T15:36:11.000Z"
-        },
-        {
-          "title": "How could Israel break election deadlock? Here are four scenarios",
-          "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-28T14:30:31.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Fed decision less than an hour away, as inflation keeps pressure on Warsh — live",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=064dcddb-64ed-45eb-a995-3cd5b25d2fc9&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-28T17:08:14.000Z"
+        },
         {
           "title": "America's largest budget airline reports 71% jump in airfare",
           "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
           "source": "CNBC",
           "published": "2026-10-28T16:00:01.000Z"
-        },
-        {
-          "title": "Here's Bill Ackman's rule for picking winning stocks",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=967a3645-6f88-4900-b2e6-fcb903c77023&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-28T14:22:44.000Z"
         }
       ]
     },
@@ -67,10 +67,10 @@
           "published": "2026-10-28T16:30:00.000Z"
         },
         {
-          "title": "A hidden ocean change near Antarctica could have global consequences",
-          "link": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
+          "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
+          "link": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
           "source": "Ars Technica",
-          "published": "2026-10-28T13:38:53.000Z"
+          "published": "2026-10-28T15:48:12.000Z"
         }
       ]
     }

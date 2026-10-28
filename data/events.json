@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-28T16:43:01.986Z",
-  "from": "2026-10-28T16:43:01Z",
-  "to": "2026-11-11T16:43:01Z",
+  "updated": "2026-10-28T17:21:05.107Z",
+  "from": "2026-10-28T17:21:04Z",
+  "to": "2026-11-11T17:21:04Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -33,6 +33,20 @@
       "image": "https://s1.ticketm.net/dam/a/a0d/5481ef1e-fb5b-445f-8ff0-2f665d606a0d_RETINA_PORTRAIT_16_9.jpg"
     },
     {
+      "id": "vv177Z_kGkSblFOJ",
+      "name": "Hawthorne Heights: 20th anniversary of If Only You Were Lonely",
+      "date": "2026-10-30",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Rock",
+      "venue": "Elevation 27",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/hawthorne-heights-20th-anniversary-of-if-virginia-beach-virginia-10-30-2026/event/0100646CD8AC8826",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/9e2/30c00d91-0bb3-4383-b599-67f14c3879e2_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
       "id": "vv1AvZkfAGkdp5INY",
       "name": "Norfolk Admirals vs. Greensboro Gargoyles",
       "date": "2026-10-30",
@@ -45,20 +59,6 @@
       "url": "https://www.ticketmaster.com/norfolk-admirals-vs-greensboro-gargoyles-norfolk-virginia-10-30-2026/event/01006505D62E88F0",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/a82/1bbe9229-3e86-41b2-89a6-3f9ee9488a82_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "vv177Z_kGkSblFOJ",
-      "name": "Hawthorne Heights: 20th anniversary of If Only You Were Lonely",
-      "date": "2026-10-30",
-      "time": "20:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Rock",
-      "venue": "Elevation 27",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/hawthorne-heights-20th-anniversary-of-if-virginia-beach-virginia-10-30-2026/event/0100646CD8AC8826",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/9e2/30c00d91-0bb3-4383-b599-67f14c3879e2_RETINA_PORTRAIT_16_9.jpg"
     },
     {
       "id": "Z7r9jZ1AAekfO",
