@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T17:21:03.912Z",
+  "updated": "2026-10-29T18:21:02.117Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Even birds get jet lagged, study shows",
+          "link": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
+          "source": "NPR",
+          "published": "2026-10-29T18:00:00.000Z"
+        },
+        {
+          "title": "Fishing is a key issue in Alaska's tight U.S. Senate race",
+          "link": "https://www.npr.org/2026/10/29/nx-s1-6018248/fishing-is-a-key-issue-in-alaskas-tight-u-s-senate-race",
+          "source": "NPR",
+          "published": "2026-10-29T17:21:58.000Z"
+        },
+        {
           "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
           "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-29T17:02:59.000Z"
-        },
-        {
-          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-          "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-29T16:26:02.000Z"
-        },
-        {
-          "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-          "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-          "source": "NPR",
-          "published": "2026-10-29T15:58:27.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
-          "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-          "source": "CNBC",
-          "published": "2026-10-29T16:46:07.000Z"
-        },
-        {
-          "title": "The midterms are crucial to Social Security's future – no matter how old you are",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2dba7acd-cf7f-4ed7-a98a-6abd8a08785a&mod=mw_rss_bulletins",
+          "title": "Was the Fed's October rate pause a mistake? The Treasury could provide cover.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=610cbfe8-e44d-494c-a472-2f280338af49&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-10-29T16:36:27.000Z"
+          "published": "2026-10-29T18:08:39.000Z"
         },
         {
-          "title": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
-          "link": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
+          "title": "All the reasons Marvell investors are ’freaking out’ amid Lumentum deal rumors",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7e7d53d0-c563-4754-b919-76211056a02f&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-29T17:47:01.000Z"
+        },
+        {
+          "title": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
+          "link": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
           "source": "CNBC",
-          "published": "2026-10-29T14:51:29.000Z"
+          "published": "2026-10-29T17:45:01.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Data centers could send US climate pollution skyrocketing",
-          "link": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
+          "title": "Apple’s new laptop supports one of the coolest features for color pros",
+          "link": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
           "source": "The Verge",
-          "published": "2026-10-29T17:10:46.000Z"
+          "published": "2026-10-29T17:48:09.000Z"
         },
         {
-          "title": "This open-source project lets you sync Withings data to other apps without a subscription",
-          "link": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
+          "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
+          "link": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
           "source": "The Verge",
-          "published": "2026-10-29T16:14:06.000Z"
+          "published": "2026-10-29T17:40:23.000Z"
         },
         {
           "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
