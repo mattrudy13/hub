@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-29T16:58:52.039Z",
+  "updated": "2026-10-29T17:21:03.912Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-29T17:02:59.000Z"
+        },
         {
           "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
           "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
           "source": "NPR",
           "published": "2026-10-29T15:58:27.000Z"
-        },
-        {
-          "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
-          "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
-          "source": "NPR",
-          "published": "2026-10-29T15:53:46.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Data centers could send US climate pollution skyrocketing",
+          "link": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
+          "source": "The Verge",
+          "published": "2026-10-29T17:10:46.000Z"
+        },
+        {
           "title": "This open-source project lets you sync Withings data to other apps without a subscription",
           "link": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
           "source": "The Verge",
           "published": "2026-10-29T16:14:06.000Z"
-        },
-        {
-          "title": "Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion",
-          "link": "https://www.theverge.com/tech/1022295/joshua-kushner-thrive-holdings-adt-acquisition",
-          "source": "The Verge",
-          "published": "2026-10-29T16:03:28.000Z"
         },
         {
           "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
