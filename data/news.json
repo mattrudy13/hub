@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T11:21:02.243Z",
+  "updated": "2026-10-29T12:21:02.922Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-          "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-29T11:07:35.000Z"
-        },
-        {
-          "title": "What we know so far about deadly Spain train crash",
-          "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-29T10:02:37.000Z"
-        },
-        {
-          "title": "How AI drones are influencing the course of the Ukraine war",
-          "link": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
+          "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+          "link": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
           "source": "NPR",
-          "published": "2026-10-29T09:02:00.000Z"
+          "published": "2026-10-29T11:34:30.000Z"
+        },
+        {
+          "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+          "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-29T11:34:03.000Z"
+        },
+        {
+          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+          "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-29T11:27:05.000Z"
         }
       ]
     },
@@ -34,19 +34,19 @@
           "title": "Eli Lilly blows past estimates, hikes sales outlook as Zepbound and Mounjaro demand surge again",
           "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
           "source": "CNBC",
-          "published": "2026-10-29T11:13:06.000Z"
+          "published": "2026-10-29T11:44:57.000Z"
+        },
+        {
+          "title": "Economic calendar: GDP, inflation data on tap this morning",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2ad102f3-78db-489f-b164-4c9eb00c1948&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-29T11:43:41.000Z"
         },
         {
           "title": "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows strength",
           "link": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html",
           "source": "CNBC",
-          "published": "2026-10-29T11:08:18.000Z"
-        },
-        {
-          "title": "ECB President Lagarde to leave post early",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=77aa57b6-2067-4b62-a54c-10560e40f1f1&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-29T10:08:56.000Z"
+          "published": "2026-10-29T11:24:38.000Z"
         }
       ]
     },
@@ -54,6 +54,12 @@
       "key": "tech",
       "name": "Tech",
       "items": [
+        {
+          "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+          "link": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+          "source": "Ars Technica",
+          "published": "2026-10-29T11:00:08.000Z"
+        },
         {
           "title": "AI has come for Arizona’s water",
           "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
           "source": "The Verge",
           "published": "2026-10-29T02:22:46.000Z"
-        },
-        {
-          "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
-          "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
-          "source": "Ars Technica",
-          "published": "2026-10-28T22:51:15.000Z"
         }
       ]
     }

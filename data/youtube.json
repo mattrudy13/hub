@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T11:21:04.149Z",
+  "updated": "2026-10-29T12:21:05.772Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "wqRhCVvEsqg",
+          "title": "I ruined my wife's wedding with thes dresses (Squeex plays Dressmaker)",
+          "published": "2026-10-29T12:13:49Z",
+          "thumb": "https://i.ytimg.com/vi/wqRhCVvEsqg/mqdefault.jpg",
+          "seen": "2026-10-29T12:21:03.519Z"
+        },
         {
           "id": "U8Nv82lC6xs",
           "title": "I made my dream game... It was a huge failure (Squeex plays Game Dev Tycoon)",
@@ -35,13 +42,6 @@
           "published": "2026-10-20T07:58:09Z",
           "thumb": "https://i.ytimg.com/vi/nbAuL1nF4qA/mqdefault.jpg",
           "seen": "2026-10-20T07:58:09Z"
-        },
-        {
-          "id": "e_WWhUBAfQo",
-          "title": "Terraria's deepest depths... (First Terraria Playthrough)",
-          "published": "2026-10-18T10:47:06Z",
-          "thumb": "https://i.ytimg.com/vi/e_WWhUBAfQo/mqdefault.jpg",
-          "seen": "2026-10-18T10:47:06Z"
         }
       ]
     },
