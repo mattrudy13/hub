@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T15:21:04.305Z",
+  "updated": "2026-10-29T16:21:02.891Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-          "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-29T15:15:05.000Z"
-        },
-        {
-          "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-          "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-29T15:14:34.000Z"
-        },
-        {
-          "title": "Greetings from Baghdad, where Agatha Christie's old home presents its own mystery",
-          "link": "https://www.npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",
+          "title": "US and Japan agree to establish a Japanese facility for joint missile production",
+          "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
           "source": "NPR",
-          "published": "2026-10-29T14:52:11.000Z"
+          "published": "2026-10-29T15:58:27.000Z"
+        },
+        {
+          "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
+          "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
+          "source": "NPR",
+          "published": "2026-10-29T15:53:46.000Z"
+        },
+        {
+          "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-29T15:47:20.000Z"
         }
       ]
     },
