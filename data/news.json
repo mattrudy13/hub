@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-29T20:21:02.651Z",
+  "updated": "2026-10-29T21:21:02.260Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
+          "link": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
+          "source": "NPR",
+          "published": "2026-10-29T20:29:13.000Z"
+        },
         {
           "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
           "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-29T20:05:57.000Z"
-        },
-        {
-          "title": "What killed 500-plus penguins? How scientists solved the mystery",
-          "link": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
-          "source": "NPR",
-          "published": "2026-10-29T20:03:26.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Norwegian shares surge 13% on earnings beat, guidance raise",
-          "link": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
+          "title": "A Starbucks turnaround is brewing, but perhaps not quickly enough",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9e7e65b0-f541-4e57-a4a1-4f11fe58b253&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-29T21:13:15.000Z"
+        },
+        {
+          "title": "Intel's stock sinks over 15% as PC slowdown drives disappointing outlook — live",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=008916cd-7ba1-463f-b6b7-aa1651d2ff12&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-29T20:54:58.000Z"
+        },
+        {
+          "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+          "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
           "source": "CNBC",
-          "published": "2026-10-29T20:14:15.000Z"
-        },
-        {
-          "title": "Intel's stock tumbles after earnings. Here's what's worrying Wall Street.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d2c4f72e-ea45-4017-b3d0-32a38e16b6f2&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-29T20:09:20.000Z"
-        },
-        {
-          "title": "Amazon earnings are out — and the stock is falling. Here's what to know.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1653b377-40c8-4a88-8e3c-d22490f52a40&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-29T20:07:39.000Z"
+          "published": "2026-10-29T20:35:04.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
+          "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+          "source": "Ars Technica",
+          "published": "2026-10-29T20:18:49.000Z"
+        },
+        {
           "title": "Patrick Stewart has died at age 86",
           "link": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
           "source": "The Verge",
           "published": "2026-10-29T20:10:02.000Z"
         },
         {
-          "title": "Reddit will force everyone to log in",
-          "link": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
-          "source": "The Verge",
-          "published": "2026-10-29T20:07:00.000Z"
-        },
-        {
-          "title": "Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
-          "link": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+          "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+          "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
           "source": "Ars Technica",
-          "published": "2026-10-29T18:29:12.000Z"
+          "published": "2026-10-29T20:08:10.000Z"
         }
       ]
     }
