@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-29T16:21:02.891Z",
+  "updated": "2026-10-29T16:58:52.039Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+          "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-29T16:26:02.000Z"
+        },
         {
           "title": "US and Japan agree to establish a Japanese facility for joint missile production",
           "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
           "source": "NPR",
           "published": "2026-10-29T15:53:46.000Z"
-        },
-        {
-          "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-          "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-29T15:47:20.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
+          "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
+          "source": "CNBC",
+          "published": "2026-10-29T16:46:07.000Z"
+        },
+        {
+          "title": "The midterms are crucial to Social Security's future – no matter how old you are",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2dba7acd-cf7f-4ed7-a98a-6abd8a08785a&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-29T16:36:27.000Z"
+        },
+        {
           "title": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
           "link": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
           "source": "CNBC",
           "published": "2026-10-29T14:51:29.000Z"
-        },
-        {
-          "title": "It’s the strangest job market the U.S. has ever seen",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=55848726-4cc7-4e16-81ab-8ace50ffb82a&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-29T14:47:12.000Z"
-        },
-        {
-          "title": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
-          "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-          "source": "CNBC",
-          "published": "2026-10-29T14:34:59.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The NYT Cooking app is testing AI recipe modifications",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "title": "This open-source project lets you sync Withings data to other apps without a subscription",
+          "link": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
           "source": "The Verge",
-          "published": "2026-10-29T14:39:37.000Z"
+          "published": "2026-10-29T16:14:06.000Z"
         },
         {
-          "title": "There’s one week left to preorder the Ocarina of Time remake for $10 off",
-          "link": "https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale",
+          "title": "Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion",
+          "link": "https://www.theverge.com/tech/1022295/joshua-kushner-thrive-holdings-adt-acquisition",
           "source": "The Verge",
-          "published": "2026-10-29T14:24:45.000Z"
+          "published": "2026-10-29T16:03:28.000Z"
         },
         {
           "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
