@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-29T22:21:03.018Z",
+  "updated": "2026-10-29T23:21:02.726Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate",
+          "link": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate",
+          "source": "NPR",
+          "published": "2026-10-29T22:23:38.000Z"
+        },
         {
           "title": "Young athlete and former minister among victims of Spain train crash",
           "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-29T21:31:12.000Z"
-        },
-        {
-          "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
-          "link": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
-          "source": "NPR",
-          "published": "2026-10-29T20:29:13.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Intel's stock may log its worst day in two years after this earnings report",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=76e6c2d2-9023-4f1a-8607-89e4305b7e82&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-29T22:43:44.000Z"
+        },
+        {
+          "title": "Why these midterms are crucial to the future of Social Security",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a091c53b-6df1-42af-a79c-34ddbc8400da&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-29T22:39:24.000Z"
+        },
+        {
           "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
           "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
           "source": "CNBC",
           "published": "2026-10-29T21:52:27.000Z"
-        },
-        {
-          "title": "Live updates: Amazon confirms its Starlink rival is set to launch in 2026",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f73b94db-8466-4e2b-a67d-486ecd6f91c8&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-29T21:41:36.000Z"
-        },
-        {
-          "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-          "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-          "source": "CNBC",
-          "published": "2026-10-29T21:29:59.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
+          "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+          "link": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+          "source": "The Verge",
+          "published": "2026-10-29T22:19:32.000Z"
+        },
+        {
+          "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+          "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+          "source": "Ars Technica",
+          "published": "2026-10-29T21:47:57.000Z"
+        },
+        {
+          "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
           "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
           "source": "Ars Technica",
           "published": "2026-10-29T20:18:49.000Z"
-        },
-        {
-          "title": "Patrick Stewart has died at age 86",
-          "link": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
-          "source": "The Verge",
-          "published": "2026-10-29T20:10:02.000Z"
-        },
-        {
-          "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-          "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
-          "source": "Ars Technica",
-          "published": "2026-10-29T20:08:10.000Z"
         }
       ]
     }
