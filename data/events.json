@@ -1,23 +1,9 @@
 {
-  "updated": "2026-10-28T23:21:04.886Z",
-  "from": "2026-10-28T23:21:04Z",
-  "to": "2026-11-11T23:21:04Z",
+  "updated": "2026-10-29T00:21:04.480Z",
+  "from": "2026-10-29T00:21:04Z",
+  "to": "2026-11-12T00:21:04Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1AAvU_z",
-      "name": "DaBaby",
-      "date": "2026-10-28",
-      "time": "20:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": null,
-      "venue": "Chartway Arena at Ted Constant Convocation Center",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvU_z",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/a0d/5481ef1e-fb5b-445f-8ff0-2f665d606a0d_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv177Z_kGkSblFOJ",
       "name": "Hawthorne Heights: 20th anniversary of If Only You Were Lonely",
@@ -577,6 +563,20 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70tu9",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/a9f/a8db3df5-7fdb-4d54-9810-8ca8eaaa5a9f_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1A7PvCF",
+      "name": "Catch Your Breath w/ TX2",
+      "date": "2026-11-11",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Alternative",
+      "venue": "The Norva",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PvCF",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/b79/fad89e83-5f7e-4a7f-9319-052c08101b79_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
