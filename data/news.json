@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T12:21:02.922Z",
+  "updated": "2026-10-29T13:21:03.647Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
-          "link": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+          "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
+          "link": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
           "source": "NPR",
-          "published": "2026-10-29T11:34:30.000Z"
+          "published": "2026-10-29T13:05:03.000Z"
         },
         {
           "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
           "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-29T11:34:03.000Z"
+          "published": "2026-10-29T12:49:17.000Z"
         },
         {
-          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-          "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+          "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-29T11:27:05.000Z"
+          "published": "2026-10-29T12:27:31.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Lilly raises outlook for third time this year as Zepbound sales soar",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b897d30a-0f84-4d9d-8416-b0c7b3e1dec5&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-29T12:45:23.000Z"
+        },
+        {
+          "title": "GDP comes in stronger than expected as inflation worsens",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=eb46b1f3-9c80-4c72-b23b-8a1d2ee71126&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-29T12:39:11.000Z"
+        },
+        {
           "title": "Eli Lilly blows past estimates, hikes sales outlook as Zepbound and Mounjaro demand surge again",
           "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
           "source": "CNBC",
           "published": "2026-10-29T11:44:57.000Z"
-        },
-        {
-          "title": "Economic calendar: GDP, inflation data on tap this morning",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2ad102f3-78db-489f-b164-4c9eb00c1948&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-29T11:43:41.000Z"
-        },
-        {
-          "title": "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows strength",
-          "link": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html",
-          "source": "CNBC",
-          "published": "2026-10-29T11:24:38.000Z"
         }
       ]
     },
@@ -54,6 +54,12 @@
       "key": "tech",
       "name": "Tech",
       "items": [
+        {
+          "title": "DoorDash is acquiring Instacart for $17 billion",
+          "link": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement",
+          "source": "The Verge",
+          "published": "2026-10-29T11:56:35.000Z"
+        },
         {
           "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
           "link": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
           "source": "The Verge",
           "published": "2026-10-29T10:00:04.000Z"
-        },
-        {
-          "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-          "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
-          "source": "The Verge",
-          "published": "2026-10-29T02:22:46.000Z"
         }
       ]
     }
