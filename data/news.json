@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T13:21:03.647Z",
+  "updated": "2026-10-29T14:21:04.127Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-29T14:17:35.000Z"
+        },
+        {
+          "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-29T13:49:04.000Z"
+        },
+        {
           "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
           "link": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
           "source": "NPR",
           "published": "2026-10-29T13:05:03.000Z"
-        },
-        {
-          "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-          "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-29T12:49:17.000Z"
-        },
-        {
-          "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
-          "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-29T12:27:31.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Lilly raises outlook for third time this year as Zepbound sales soar",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b897d30a-0f84-4d9d-8416-b0c7b3e1dec5&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-29T12:45:23.000Z"
-        },
-        {
-          "title": "GDP comes in stronger than expected as inflation worsens",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=eb46b1f3-9c80-4c72-b23b-8a1d2ee71126&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-29T12:39:11.000Z"
-        },
-        {
-          "title": "Eli Lilly blows past estimates, hikes sales outlook as Zepbound and Mounjaro demand surge again",
+          "title": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
           "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
           "source": "CNBC",
-          "published": "2026-10-29T11:44:57.000Z"
+          "published": "2026-10-29T14:11:41.000Z"
+        },
+        {
+          "title": "Caterpillar, Alphabet stocks cut 650 points from the Dow",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fac97e8c-394f-47b7-9687-44f1376806b8&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-29T13:51:56.000Z"
+        },
+        {
+          "title": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
+          "link": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-10-29T13:41:43.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "DoorDash is acquiring Instacart for $17 billion",
-          "link": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement",
+          "title": "Anthropic is asking Wall Street to believe in AGI",
+          "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
           "source": "The Verge",
-          "published": "2026-10-29T11:56:35.000Z"
+          "published": "2026-10-29T14:00:00.000Z"
         },
         {
-          "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
-          "link": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+          "title": "Amazon’s AI shopping assistant can now edit your grocery lists and gift registries",
+          "link": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
+          "source": "The Verge",
+          "published": "2026-10-29T13:52:48.000Z"
+        },
+        {
+          "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+          "link": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
           "source": "Ars Technica",
-          "published": "2026-10-29T11:00:08.000Z"
-        },
-        {
-          "title": "AI has come for Arizona’s water",
-          "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-          "source": "The Verge",
-          "published": "2026-10-29T10:00:04.000Z"
+          "published": "2026-10-29T12:58:34.000Z"
         }
       ]
     }
