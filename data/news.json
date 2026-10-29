@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-29T02:21:03.443Z",
+  "updated": "2026-10-29T03:21:02.298Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region.",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6009547/el-nino-forecast-us-winter",
+          "source": "NPR",
+          "published": "2026-10-29T02:20:45.000Z"
+        },
         {
           "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
           "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
           "source": "NPR",
           "published": "2026-10-29T00:52:50.000Z"
-        },
-        {
-          "title": "Trump administration will allow pharmacies to make popular peptides",
-          "link": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
-          "source": "NPR",
-          "published": "2026-10-28T22:26:48.000Z"
         }
       ]
     },
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+          "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+          "source": "The Verge",
+          "published": "2026-10-29T02:22:46.000Z"
+        },
+        {
           "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
           "source": "The Verge",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
           "source": "Ars Technica",
           "published": "2026-10-28T22:51:15.000Z"
-        },
-        {
-          "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
-          "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
-          "source": "Ars Technica",
-          "published": "2026-10-28T22:35:50.000Z"
         }
       ]
     }
