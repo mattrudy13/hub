@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T19:21:01.940Z",
+  "updated": "2026-10-29T20:21:02.651Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Even birds get jet lagged, study shows",
-          "link": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
-          "source": "NPR",
-          "published": "2026-10-29T18:00:00.000Z"
-        },
-        {
-          "title": "Fishing is a key issue in Alaska's tight U.S. Senate race",
-          "link": "https://www.npr.org/2026/10/29/nx-s1-6018248/fishing-is-a-key-issue-in-alaskas-tight-u-s-senate-race",
-          "source": "NPR",
-          "published": "2026-10-29T17:21:58.000Z"
-        },
-        {
-          "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-          "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+          "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-29T17:02:59.000Z"
+          "published": "2026-10-29T20:15:05.000Z"
+        },
+        {
+          "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+          "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-29T20:05:57.000Z"
+        },
+        {
+          "title": "What killed 500-plus penguins? How scientists solved the mystery",
+          "link": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
+          "source": "NPR",
+          "published": "2026-10-29T20:03:26.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Nasdaq leads stocks lower in final hour as Alphabet’s slide weighs on the market",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=667883c3-3c40-4831-ab5f-c367571d6eb7&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-29T19:01:45.000Z"
-        },
-        {
-          "title": "Was the Fed's October rate pause a mistake? The Treasury could provide cover.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=610cbfe8-e44d-494c-a472-2f280338af49&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-29T18:08:39.000Z"
-        },
-        {
-          "title": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
-          "link": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
+          "title": "Norwegian shares surge 13% on earnings beat, guidance raise",
+          "link": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
           "source": "CNBC",
-          "published": "2026-10-29T17:45:01.000Z"
+          "published": "2026-10-29T20:14:15.000Z"
+        },
+        {
+          "title": "Intel's stock tumbles after earnings. Here's what's worrying Wall Street.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d2c4f72e-ea45-4017-b3d0-32a38e16b6f2&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-29T20:09:20.000Z"
+        },
+        {
+          "title": "Amazon earnings are out — and the stock is falling. Here's what to know.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1653b377-40c8-4a88-8e3c-d22490f52a40&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-29T20:07:39.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+          "title": "Patrick Stewart has died at age 86",
+          "link": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
           "source": "The Verge",
-          "published": "2026-10-29T18:45:31.000Z"
+          "published": "2026-10-29T20:10:02.000Z"
+        },
+        {
+          "title": "Reddit will force everyone to log in",
+          "link": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+          "source": "The Verge",
+          "published": "2026-10-29T20:07:00.000Z"
         },
         {
           "title": "Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
           "link": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
           "source": "Ars Technica",
           "published": "2026-10-29T18:29:12.000Z"
-        },
-        {
-          "title": "Ikea’s colorful donut-shaped smart lamp is $20 off",
-          "link": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
-          "source": "The Verge",
-          "published": "2026-10-29T18:18:36.000Z"
         }
       ]
     }
