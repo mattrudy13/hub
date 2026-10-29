@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T21:21:02.260Z",
+  "updated": "2026-10-29T21:52:54.372Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
-          "link": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
-          "source": "NPR",
-          "published": "2026-10-29T20:29:13.000Z"
+          "title": "Young athlete and former minister among victims of Spain train crash",
+          "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-29T21:33:35.000Z"
         },
         {
           "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
           "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-29T20:15:05.000Z"
+          "published": "2026-10-29T21:31:12.000Z"
         },
         {
-          "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-          "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-29T20:05:57.000Z"
+          "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
+          "link": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
+          "source": "NPR",
+          "published": "2026-10-29T20:29:13.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "A Starbucks turnaround is brewing, but perhaps not quickly enough",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9e7e65b0-f541-4e57-a4a1-4f11fe58b253&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-29T21:13:15.000Z"
-        },
-        {
-          "title": "Intel's stock sinks over 15% as PC slowdown drives disappointing outlook — live",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=008916cd-7ba1-463f-b6b7-aa1651d2ff12&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-29T20:54:58.000Z"
-        },
-        {
           "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
           "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
           "source": "CNBC",
-          "published": "2026-10-29T20:35:04.000Z"
+          "published": "2026-10-29T21:52:27.000Z"
+        },
+        {
+          "title": "Live updates: Amazon confirms its Starlink rival is set to launch in 2026",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f73b94db-8466-4e2b-a67d-486ecd6f91c8&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-29T21:41:36.000Z"
+        },
+        {
+          "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+          "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-10-29T21:29:59.000Z"
         }
       ]
     },
