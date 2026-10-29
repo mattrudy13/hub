@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T03:21:02.298Z",
+  "updated": "2026-10-29T04:21:03.262Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "What we know so far about deadly Spain train crash",
+          "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-29T04:08:28.000Z"
+        },
+        {
+          "title": "Hackers expose the identities of more than 40,000 DHS employees",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
+          "source": "NPR",
+          "published": "2026-10-29T03:28:50.000Z"
+        },
+        {
           "title": "Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region.",
           "link": "https://www.npr.org/2026/10/28/nx-s1-6009547/el-nino-forecast-us-winter",
           "source": "NPR",
           "published": "2026-10-29T02:20:45.000Z"
-        },
-        {
-          "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-          "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-29T01:14:01.000Z"
-        },
-        {
-          "title": "Judge denies the Justice Department's bid to stop processing California ballots",
-          "link": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
-          "source": "NPR",
-          "published": "2026-10-29T00:52:50.000Z"
         }
       ]
     },
