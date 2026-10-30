@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T20:21:01.844Z",
+  "updated": "2026-10-30T21:21:01.496Z",
   "failed": [],
   "sections": [
     {
@@ -10,13 +10,13 @@
           "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
           "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-30T20:10:56.000Z"
+          "published": "2026-10-30T21:13:14.000Z"
         },
         {
           "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
           "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-30T18:17:27.000Z"
+          "published": "2026-10-30T20:55:18.000Z"
         },
         {
           "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "The tech selloff shifts into overdrive as weak earnings bring a reality check",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=63c147f1-e8ae-4faa-86d7-36694824f104&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-30T20:42:04.000Z"
+        },
+        {
           "title": "Nasdaq logs worst month since March 2025 as weak tech earnings rattle investors",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a27a50f8-638a-4595-a28e-53a5150cdf91&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-30T20:11:04.000Z"
-        },
-        {
-          "title": "Nasdaq and S&P 500 plummeting in final hour amid tech rout; Dow down 700 points",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a00a7a81-04a7-4c5d-8fd3-5a773debbb43&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-30T19:00:25.000Z"
         },
         {
           "title": "Cheaper cars are selling considerably faster than at the beginning of the year",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Google’s satellite AI server transmits its first response to Earth",
-          "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+          "title": "Exclusive details about Akai’s MPC Sample Key",
+          "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
           "source": "The Verge",
-          "published": "2026-10-30T18:21:38.000Z"
+          "published": "2026-10-30T21:01:32.000Z"
         },
         {
-          "title": "Rare meteorite from Mars gives us a view into its ancient crust",
-          "link": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
-          "source": "Ars Technica",
-          "published": "2026-10-30T18:13:42.000Z"
+          "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+          "source": "The Verge",
+          "published": "2026-10-30T20:48:43.000Z"
         },
         {
-          "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-          "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+          "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+          "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
           "source": "Ars Technica",
-          "published": "2026-10-30T17:38:19.000Z"
+          "published": "2026-10-30T20:40:13.000Z"
         }
       ]
     }
