@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T23:21:02.726Z",
+  "updated": "2026-10-30T00:21:03.042Z",
   "failed": [],
   "sections": [
     {
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Oil won’t be getting cheap anytime soon, no matter what happens in the Gulf",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=edc18373-8d85-4830-bb23-5cea05721c0d&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-29T23:51:36.000Z"
+        },
+        {
           "title": "Intel's stock may log its worst day in two years after this earnings report",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=76e6c2d2-9023-4f1a-8607-89e4305b7e82&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-29T22:43:44.000Z"
-        },
-        {
-          "title": "Why these midterms are crucial to the future of Social Security",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a091c53b-6df1-42af-a79c-34ddbc8400da&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-29T22:39:24.000Z"
         },
         {
           "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-          "link": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+          "title": "The director of Obsession put a new horror short on YouTube",
+          "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
           "source": "The Verge",
-          "published": "2026-10-29T22:19:32.000Z"
+          "published": "2026-10-29T23:57:18.000Z"
+        },
+        {
+          "title": "Intel says it’s selling every affordable laptop chip it can make",
+          "link": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+          "source": "The Verge",
+          "published": "2026-10-29T23:42:21.000Z"
         },
         {
           "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
           "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
           "source": "Ars Technica",
           "published": "2026-10-29T21:47:57.000Z"
-        },
-        {
-          "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-          "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
-          "source": "Ars Technica",
-          "published": "2026-10-29T20:18:49.000Z"
         }
       ]
     }
