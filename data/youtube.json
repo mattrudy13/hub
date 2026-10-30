@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T08:46:04.204Z",
+  "updated": "2026-10-30T10:21:05.716Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "eQVJK5xZrek",
+          "title": "Terraria might break me before I beat it (Squeex's First Terraria Playthrough)",
+          "published": "2026-10-30T09:02:45Z",
+          "thumb": "https://i.ytimg.com/vi/eQVJK5xZrek/mqdefault.jpg",
+          "seen": "2026-10-30T10:21:04.152Z"
+        },
         {
           "id": "wqRhCVvEsqg",
           "title": "I ruined my wife's wedding with thes dresses (Squeex plays Dressmaker)",
@@ -35,13 +42,6 @@
           "published": "2026-10-24T14:14:12Z",
           "thumb": "https://i.ytimg.com/vi/z57g9cZO4x0/mqdefault.jpg",
           "seen": "2026-10-24T14:21:01.718Z"
-        },
-        {
-          "id": "nbAuL1nF4qA",
-          "title": "This can't be real... (Streamer Awards 2026 Voting)",
-          "published": "2026-10-20T07:58:09Z",
-          "thumb": "https://i.ytimg.com/vi/nbAuL1nF4qA/mqdefault.jpg",
-          "seen": "2026-10-20T07:58:09Z"
         }
       ]
     },

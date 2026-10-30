@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T08:46:01.790Z",
+  "updated": "2026-10-30T10:21:03.205Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "How Kenyans got caught in $130m US ghost student scam",
-          "link": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
+          "title": "Helicopter carrying six people crashes in northern Indian state",
+          "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-30T08:32:35.000Z"
+          "published": "2026-10-30T10:07:58.000Z"
         },
         {
-          "title": "What we know about Binance's $6.3bn hack",
-          "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-30T08:02:02.000Z"
-        },
-        {
-          "title": "Justice Department issues subpoenas to California election workers",
-          "link": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
+          "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year",
+          "link": "https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate",
           "source": "NPR",
-          "published": "2026-10-30T01:35:54.000Z"
+          "published": "2026-10-30T09:00:00.000Z"
+        },
+        {
+          "title": "'Affordability? For who?' Voters decide between helping homeowners or public services",
+          "link": "https://www.npr.org/2026/10/30/nx-s1-6018258/affordability-florida-amendment-3",
+          "source": "NPR",
+          "published": "2026-10-30T09:00:00.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+          "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+          "source": "The Verge",
+          "published": "2026-10-30T09:00:00.000Z"
+        },
+        {
           "title": "The director of Obsession put a new horror short on YouTube",
           "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
           "source": "The Verge",
           "published": "2026-10-29T23:57:18.000Z"
-        },
-        {
-          "title": "Intel says it’s selling every affordable laptop chip it can make",
-          "link": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
-          "source": "The Verge",
-          "published": "2026-10-29T23:42:21.000Z"
         },
         {
           "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
