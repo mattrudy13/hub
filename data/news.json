@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T12:21:02.397Z",
+  "updated": "2026-10-30T13:21:02.874Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-          "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+          "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-30T12:04:02.000Z"
+          "published": "2026-10-30T13:03:34.000Z"
         },
         {
-          "title": "Why is the Cheesecake Factory at the center of the latest culture war?",
-          "link": "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama",
+          "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+          "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
           "source": "NPR",
-          "published": "2026-10-30T12:00:31.000Z"
+          "published": "2026-10-30T13:01:22.000Z"
         },
         {
-          "title": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted",
-          "link": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue",
-          "source": "NPR",
-          "published": "2026-10-30T11:21:56.000Z"
+          "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
+          "link": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-30T12:36:55.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Intel appears set to surrender $128 billion in market value at opening bell",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=90ce3c1b-84b9-4496-a93f-ebeae986a000&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-30T12:31:41.000Z"
+        },
+        {
           "title": "Economic calendar: Week wraps with data on workforce costs and Midwest business",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=512c0561-4732-4a58-b483-c445e22f26eb&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-30T12:14:37.000Z"
-        },
-        {
-          "title": "Oil won’t be getting cheap anytime soon, no matter what happens in the Gulf",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=edc18373-8d85-4830-bb23-5cea05721c0d&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-29T23:51:36.000Z"
         },
         {
           "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
-          "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
+          "title": "Silicon Valley wants you to invest in miracles",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
           "source": "The Verge",
-          "published": "2026-10-30T12:00:00.000Z"
+          "published": "2026-10-30T13:11:05.000Z"
         },
         {
-          "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
-          "link": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
           "source": "The Verge",
-          "published": "2026-10-30T11:44:53.000Z"
+          "published": "2026-10-30T13:01:14.000Z"
         },
         {
-          "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
-          "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+          "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
+          "link": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
           "source": "Ars Technica",
-          "published": "2026-10-29T21:47:57.000Z"
+          "published": "2026-10-30T12:00:18.000Z"
         }
       ]
     }
