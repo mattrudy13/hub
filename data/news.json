@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T10:21:03.205Z",
+  "updated": "2026-10-30T11:21:04.306Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+          "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-30T11:17:32.000Z"
+        },
+        {
+          "title": "The two most interesting risks to Anthropic",
+          "link": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
+          "source": "NPR",
+          "published": "2026-10-30T11:00:00.000Z"
+        },
+        {
           "title": "Helicopter carrying six people crashes in northern Indian state",
           "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-30T10:07:58.000Z"
-        },
-        {
-          "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year",
-          "link": "https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate",
-          "source": "NPR",
-          "published": "2026-10-30T09:00:00.000Z"
-        },
-        {
-          "title": "'Affordability? For who?' Voters decide between helping homeowners or public services",
-          "link": "https://www.npr.org/2026/10/30/nx-s1-6018258/affordability-florida-amendment-3",
-          "source": "NPR",
-          "published": "2026-10-30T09:00:00.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Maine’s data center revolt will decide who controls the Senate",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+          "source": "The Verge",
+          "published": "2026-10-30T11:00:00.000Z"
+        },
+        {
           "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
           "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
           "source": "The Verge",
           "published": "2026-10-30T09:00:00.000Z"
-        },
-        {
-          "title": "The director of Obsession put a new horror short on YouTube",
-          "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
-          "source": "The Verge",
-          "published": "2026-10-29T23:57:18.000Z"
         },
         {
           "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
