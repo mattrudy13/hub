@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T19:21:01.273Z",
+  "updated": "2026-10-30T20:21:01.844Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-30T20:10:56.000Z"
+        },
+        {
           "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
           "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-30T18:17:27.000Z"
-        },
-        {
-          "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-          "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-30T17:47:01.000Z"
         },
         {
           "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Nasdaq logs worst month since March 2025 as weak tech earnings rattle investors",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a27a50f8-638a-4595-a28e-53a5150cdf91&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-30T20:11:04.000Z"
+        },
+        {
           "title": "Nasdaq and S&P 500 plummeting in final hour amid tech rout; Dow down 700 points",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a00a7a81-04a7-4c5d-8fd3-5a773debbb43&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
           "source": "CNBC",
           "published": "2026-10-30T18:45:35.000Z"
-        },
-        {
-          "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8b1de4a1-0480-4479-a2ca-3fc375b9931e&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-30T18:05:17.000Z"
         }
       ]
     },
