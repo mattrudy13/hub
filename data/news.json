@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T21:36:15.661Z",
+  "updated": "2026-10-30T22:21:02.385Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-          "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+          "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+          "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-30T21:13:14.000Z"
+          "published": "2026-10-30T22:11:52.000Z"
         },
         {
-          "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-          "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-30T20:55:18.000Z"
-        },
-        {
-          "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
-          "link": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
+          "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
+          "link": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump",
           "source": "NPR",
-          "published": "2026-10-30T17:45:27.000Z"
+          "published": "2026-10-30T22:06:18.000Z"
+        },
+        {
+          "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
+          "link": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
+          "source": "NPR",
+          "published": "2026-10-30T21:56:52.000Z"
         }
       ]
     },
