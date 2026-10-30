@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T11:21:04.306Z",
+  "updated": "2026-10-30T12:21:02.397Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-          "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+          "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+          "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-30T11:17:32.000Z"
+          "published": "2026-10-30T12:04:02.000Z"
         },
         {
-          "title": "The two most interesting risks to Anthropic",
-          "link": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
+          "title": "Why is the Cheesecake Factory at the center of the latest culture war?",
+          "link": "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama",
           "source": "NPR",
-          "published": "2026-10-30T11:00:00.000Z"
+          "published": "2026-10-30T12:00:31.000Z"
         },
         {
-          "title": "Helicopter carrying six people crashes in northern Indian state",
-          "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-30T10:07:58.000Z"
+          "title": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted",
+          "link": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue",
+          "source": "NPR",
+          "published": "2026-10-30T11:21:56.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Economic calendar: Week wraps with data on workforce costs and Midwest business",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=512c0561-4732-4a58-b483-c445e22f26eb&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-30T12:14:37.000Z"
+        },
+        {
           "title": "Oil won’t be getting cheap anytime soon, no matter what happens in the Gulf",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=edc18373-8d85-4830-bb23-5cea05721c0d&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-29T23:51:36.000Z"
-        },
-        {
-          "title": "Intel's stock may log its worst day in two years after this earnings report",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=76e6c2d2-9023-4f1a-8607-89e4305b7e82&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-29T22:43:44.000Z"
         },
         {
           "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Maine’s data center revolt will decide who controls the Senate",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+          "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
+          "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
           "source": "The Verge",
-          "published": "2026-10-30T11:00:00.000Z"
+          "published": "2026-10-30T12:00:00.000Z"
         },
         {
-          "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-          "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+          "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+          "link": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
           "source": "The Verge",
-          "published": "2026-10-30T09:00:00.000Z"
+          "published": "2026-10-30T11:44:53.000Z"
         },
         {
           "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
