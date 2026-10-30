@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T15:21:04.466Z",
+  "updated": "2026-10-30T16:21:05.746Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-          "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+          "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+          "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-30T15:09:29.000Z"
+          "published": "2026-10-30T15:59:17.000Z"
         },
         {
-          "title": "Six dead after helicopter crashes in northern Indian state",
-          "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+          "title": "US tech stocks see sharp falls over AI cost fears",
+          "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-30T15:06:05.000Z"
+          "published": "2026-10-30T15:46:28.000Z"
         },
         {
           "title": "NPR special: 5 takeaways from a year of listening to swing voters",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "The cost of money itself is on the midterm ballot. Here’s how.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5a926cce-ef80-46b7-b5ac-609ffcf55fc5&mod=mw_rss_bulletins",
+          "title": "What AMD investors learned from Intel’s earnings",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=76d0e380-81c0-426c-8673-6b6184b79fee&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-10-30T15:14:42.000Z"
+          "published": "2026-10-30T16:13:51.000Z"
         },
         {
-          "title": "Reddit shares are on track for their biggest-ever single-session loss",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5270a882-a04a-4315-b7ed-d929f85648a4&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-30T14:58:07.000Z"
-        },
-        {
-          "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-          "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+          "title": "Cheaper cars are selling considerably faster than at the beginning of the year",
+          "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
           "source": "CNBC",
-          "published": "2026-10-30T13:29:50.000Z"
+          "published": "2026-10-30T15:37:21.000Z"
+        },
+        {
+          "title": "These are the biggest winners and losers during the stock market’s wild October",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d4cac0b6-aa58-4fda-81bc-8f92d27df185&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-30T15:33:40.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+          "link": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+          "source": "The Verge",
+          "published": "2026-10-30T15:29:02.000Z"
+        },
+        {
           "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
           "source": "The Verge",
           "published": "2026-10-30T14:58:06.000Z"
-        },
-        {
-          "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
-          "link": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
-          "source": "The Verge",
-          "published": "2026-10-30T14:23:26.000Z"
         },
         {
           "title": "GM to pay $220 million after selling customer Smart Driver data",

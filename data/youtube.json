@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T15:21:07.049Z",
+  "updated": "2026-10-30T16:21:09.122Z",
   "failed": [],
   "channels": [
     {
@@ -95,6 +95,13 @@
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_nfDvwu14-iN5YZcaLIomwno1_3oFcYTmG5_kn7SMj_nec=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "AGmCScwyHbo",
+          "title": "SCHOOL OF DOOM | REANIMAL - Part 3",
+          "published": "2026-10-30T16:00:26Z",
+          "thumb": "https://i.ytimg.com/vi/AGmCScwyHbo/mqdefault.jpg",
+          "seen": "2026-10-30T16:21:06.609Z"
+        },
+        {
           "id": "42NAtKq6s30",
           "title": "BARN OF DOOM | REANIMAL - Part 2",
           "published": "2026-10-28T16:00:01Z",
@@ -121,13 +128,6 @@
           "published": "2026-10-25T19:26:11Z",
           "thumb": "https://i.ytimg.com/vi/m4s_0p65ctE/mqdefault.jpg",
           "seen": "2026-10-25T20:21:04.197Z"
-        },
-        {
-          "id": "rzR6VPALFo4",
-          "title": "NAGAISAN",
-          "published": "2026-10-18T16:00:32Z",
-          "thumb": "https://i.ytimg.com/vi/rzR6VPALFo4/mqdefault.jpg",
-          "seen": "2026-10-18T16:00:32Z"
         }
       ]
     },
