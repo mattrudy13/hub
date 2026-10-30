@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T16:44:26.874Z",
+  "updated": "2026-10-30T17:21:02.203Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
-          "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-30T16:26:11.000Z"
-        },
-        {
           "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
           "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-30T15:59:17.000Z"
+          "published": "2026-10-30T17:07:19.000Z"
+        },
+        {
+          "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+          "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-30T17:00:32.000Z"
         },
         {
           "title": "NPR special: 5 takeaways from a year of listening to swing voters",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
-          "link": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+          "title": "Rivian’s autonomy gamble faces its first real test",
+          "link": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
           "source": "The Verge",
-          "published": "2026-10-30T15:29:02.000Z"
+          "published": "2026-10-30T17:16:09.000Z"
         },
         {
-          "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+          "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
+          "link": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
           "source": "The Verge",
-          "published": "2026-10-30T14:58:06.000Z"
+          "published": "2026-10-30T17:01:07.000Z"
         },
         {
           "title": "GM to pay $220 million after selling customer Smart Driver data",
