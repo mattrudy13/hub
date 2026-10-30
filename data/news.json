@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-30T22:21:02.385Z",
+  "updated": "2026-10-30T23:21:03.784Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-30T22:20:52.000Z"
+        },
         {
           "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
           "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump",
           "source": "NPR",
           "published": "2026-10-30T22:06:18.000Z"
-        },
-        {
-          "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
-          "link": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
-          "source": "NPR",
-          "published": "2026-10-30T21:56:52.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2b785bbc-3682-49dd-b32e-72721c2e01a1&mod=mw_rss_bulletins",
+          "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=adc0ce79-54ee-477a-96ce-0dc283e77fa8&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-10-30T21:34:12.000Z"
+          "published": "2026-10-30T23:15:50.000Z"
         },
         {
-          "title": "The tech selloff shifts into overdrive as weak earnings bring a reality check",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=63c147f1-e8ae-4faa-86d7-36694824f104&mod=mw_rss_bulletins",
+          "title": "This Halloween, are king-sized candy bars a better deal than fun-sized ones?",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1274034d-9cd5-45bd-99a6-a56dc0444e6d&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-10-30T20:42:04.000Z"
+          "published": "2026-10-30T22:45:29.000Z"
         },
         {
           "title": "Cheaper cars are selling considerably faster than at the beginning of the year",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Exclusive details about Akai’s MPC Sample Key",
-          "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
-          "source": "The Verge",
-          "published": "2026-10-30T21:01:32.000Z"
-        },
-        {
-          "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-          "source": "The Verge",
-          "published": "2026-10-30T20:48:43.000Z"
-        },
-        {
-          "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-          "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+          "title": "Flesh-eating screwworms are feasting on pets; 4 dogs and cat attacked this week",
+          "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
           "source": "Ars Technica",
-          "published": "2026-10-30T20:40:13.000Z"
+          "published": "2026-10-30T22:36:41.000Z"
+        },
+        {
+          "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+          "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+          "source": "The Verge",
+          "published": "2026-10-30T22:32:53.000Z"
+        },
+        {
+          "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+          "link": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+          "source": "Ars Technica",
+          "published": "2026-10-30T22:21:05.000Z"
         }
       ]
     }
