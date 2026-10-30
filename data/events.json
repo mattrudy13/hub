@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-30T00:21:06.058Z",
-  "from": "2026-10-30T00:21:05Z",
-  "to": "2026-11-13T00:21:05Z",
+  "updated": "2026-10-30T01:21:03.611Z",
+  "from": "2026-10-30T01:21:03Z",
+  "to": "2026-11-13T01:21:03Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -605,6 +605,20 @@
       "url": "https://www.ticketmaster.com/john-crist-live-virginia-beach-virginia-11-12-2026/event/0100646BA3B3E1DC",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/544/33c53e82-16ab-4677-8ab9-d88c8529a544_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkoyGkeWc0_n",
+      "name": "The Bodyguard (Touring)",
+      "date": "2026-11-12",
+      "time": "19:30",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": "Theatre",
+      "venue": "Harrison Opera House",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/the-bodyguard-touring-norfolk-virginia-11-12-2026/event/01006479BDB6466A",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/c82/88e88dd8-ee10-43c0-af7c-f8e506694c82_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
