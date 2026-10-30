@@ -1,24 +1,35 @@
 {
-  "updated": "2026-10-30T03:21:02.888Z",
+  "updated": "2026-10-30T04:21:01.737Z",
   "minLine": 7,
   "days": [
-    "2026-10-28",
-    "2026-10-29"
+    "2026-10-29",
+    "2026-10-30"
   ],
-  "upsets": [],
+  "upsets": [
+    {
+      "league": "cfb",
+      "date": "2026-10-29",
+      "id": "401869963",
+      "line": 17.5,
+      "details": "JMU -17.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401869963/troy-james-madison",
+      "winner": {
+        "id": "2653",
+        "name": "Troy",
+        "abbr": "TROY",
+        "rank": null,
+        "score": 24
+      },
+      "loser": {
+        "id": "256",
+        "name": "James Madison",
+        "abbr": "JMU",
+        "rank": null,
+        "score": 21
+      }
+    }
+  ],
   "lines": {
-    "cfb:401871058": {
-      "date": "2026-10-28",
-      "fav": "338",
-      "line": 1.5,
-      "details": "KENN -1.5"
-    },
-    "cfb:401871057": {
-      "date": "2026-10-28",
-      "fav": "55",
-      "line": 3,
-      "details": "JXST -3"
-    },
     "cfb:401862812": {
       "date": "2026-10-29",
       "fav": "249",
@@ -30,6 +41,24 @@
       "fav": "256",
       "line": 17.5,
       "details": "JMU -17.5"
+    },
+    "cfb:401862813": {
+      "date": "2026-10-30",
+      "fav": "2655",
+      "line": 8.5,
+      "details": "TULN -8.5"
+    },
+    "cfb:401856844": {
+      "date": "2026-10-30",
+      "fav": "239",
+      "line": 1.5,
+      "details": "BAY -1.5"
+    },
+    "cfb:401866451": {
+      "date": "2026-10-30",
+      "fav": "2309",
+      "line": 7,
+      "details": "KENT -7"
     }
   }
 }

@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-30T03:21:02.585Z",
+  "updated": "2026-10-30T04:21:01.206Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+          "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-30T03:24:12.000Z"
+        },
         {
           "title": "Justice Department issues subpoenas to California election workers",
           "link": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate",
           "source": "NPR",
           "published": "2026-10-29T22:23:38.000Z"
-        },
-        {
-          "title": "Young athlete and former minister among victims of Spain train crash",
-          "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-29T21:33:35.000Z"
         }
       ]
     },
