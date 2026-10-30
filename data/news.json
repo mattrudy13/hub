@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T13:21:02.874Z",
+  "updated": "2026-10-30T14:21:04.041Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-          "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+          "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+          "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-30T13:03:34.000Z"
+          "published": "2026-10-30T14:19:43.000Z"
+        },
+        {
+          "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-30T13:46:16.000Z"
         },
         {
           "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
           "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
           "source": "NPR",
           "published": "2026-10-30T13:01:22.000Z"
-        },
-        {
-          "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
-          "link": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-30T12:36:55.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Nasdaq and S&P 500 sharply lower at open as tech stocks stumble — live updates",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=481665c7-ba54-4817-9949-3776c9eb5ea1&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-30T13:37:33.000Z"
+        },
+        {
+          "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+          "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-10-30T13:29:50.000Z"
+        },
+        {
           "title": "Intel appears set to surrender $128 billion in market value at opening bell",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=90ce3c1b-84b9-4496-a93f-ebeae986a000&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-30T12:31:41.000Z"
-        },
-        {
-          "title": "Economic calendar: Week wraps with data on workforce costs and Midwest business",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=512c0561-4732-4a58-b483-c445e22f26eb&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-30T12:14:37.000Z"
-        },
-        {
-          "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
-          "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
-          "source": "CNBC",
-          "published": "2026-10-29T21:52:27.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "GM to pay $220 million after selling customer Smart Driver data",
+          "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+          "source": "Ars Technica",
+          "published": "2026-10-30T13:53:20.000Z"
+        },
+        {
+          "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+          "link": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+          "source": "Ars Technica",
+          "published": "2026-10-30T13:46:39.000Z"
+        },
+        {
           "title": "Silicon Valley wants you to invest in miracles",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
           "source": "The Verge",
           "published": "2026-10-30T13:11:05.000Z"
-        },
-        {
-          "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-          "source": "The Verge",
-          "published": "2026-10-30T13:01:14.000Z"
-        },
-        {
-          "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
-          "link": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
-          "source": "Ars Technica",
-          "published": "2026-10-30T12:00:18.000Z"
         }
       ]
     }
