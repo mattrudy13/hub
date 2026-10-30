@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T18:21:04.386Z",
+  "updated": "2026-10-30T19:21:01.273Z",
   "failed": [],
   "sections": [
     {
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8b1de4a1-0480-4479-a2ca-3fc375b9931e&mod=mw_rss_bulletins",
+          "title": "Nasdaq and S&P 500 plummeting in final hour amid tech rout; Dow down 700 points",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a00a7a81-04a7-4c5d-8fd3-5a773debbb43&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-10-30T18:05:17.000Z"
-        },
-        {
-          "title": "Data centers are a political third rail. West Virginia is grabbing it anyway.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=95464059-371f-42c7-af68-7cb7f6a20e3b&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-30T17:20:26.000Z"
+          "published": "2026-10-30T19:00:25.000Z"
         },
         {
           "title": "Cheaper cars are selling considerably faster than at the beginning of the year",
           "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
           "source": "CNBC",
-          "published": "2026-10-30T15:37:21.000Z"
+          "published": "2026-10-30T18:45:35.000Z"
+        },
+        {
+          "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8b1de4a1-0480-4479-a2ca-3fc375b9931e&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-30T18:05:17.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Google’s satellite AI server transmits its first response to Earth",
+          "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+          "source": "The Verge",
+          "published": "2026-10-30T18:21:38.000Z"
+        },
+        {
+          "title": "Rare meteorite from Mars gives us a view into its ancient crust",
+          "link": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+          "source": "Ars Technica",
+          "published": "2026-10-30T18:13:42.000Z"
+        },
+        {
           "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
           "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
           "source": "Ars Technica",
           "published": "2026-10-30T17:38:19.000Z"
-        },
-        {
-          "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-          "source": "The Verge",
-          "published": "2026-10-30T17:38:04.000Z"
-        },
-        {
-          "title": "The delightfully messy state of Apple gadgets",
-          "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
-          "source": "The Verge",
-          "published": "2026-10-30T17:25:20.000Z"
         }
       ]
     }
