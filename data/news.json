@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T17:21:02.203Z",
+  "updated": "2026-10-30T18:21:04.386Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-          "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+          "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-30T17:07:19.000Z"
+          "published": "2026-10-30T18:17:27.000Z"
         },
         {
-          "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
-          "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+          "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+          "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-30T17:00:32.000Z"
+          "published": "2026-10-30T17:47:01.000Z"
         },
         {
-          "title": "NPR special: 5 takeaways from a year of listening to swing voters",
-          "link": "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups",
+          "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
+          "link": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
           "source": "NPR",
-          "published": "2026-10-30T15:00:00.000Z"
+          "published": "2026-10-30T17:45:27.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "What AMD investors learned from Intel’s earnings",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=76d0e380-81c0-426c-8673-6b6184b79fee&mod=mw_rss_bulletins",
+          "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8b1de4a1-0480-4479-a2ca-3fc375b9931e&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-10-30T16:13:51.000Z"
+          "published": "2026-10-30T18:05:17.000Z"
+        },
+        {
+          "title": "Data centers are a political third rail. West Virginia is grabbing it anyway.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=95464059-371f-42c7-af68-7cb7f6a20e3b&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-30T17:20:26.000Z"
         },
         {
           "title": "Cheaper cars are selling considerably faster than at the beginning of the year",
           "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
           "source": "CNBC",
           "published": "2026-10-30T15:37:21.000Z"
-        },
-        {
-          "title": "These are the biggest winners and losers during the stock market’s wild October",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d4cac0b6-aa58-4fda-81bc-8f92d27df185&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-30T15:33:40.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Rivian’s autonomy gamble faces its first real test",
-          "link": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
-          "source": "The Verge",
-          "published": "2026-10-30T17:16:09.000Z"
-        },
-        {
-          "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
-          "link": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
-          "source": "The Verge",
-          "published": "2026-10-30T17:01:07.000Z"
-        },
-        {
-          "title": "GM to pay $220 million after selling customer Smart Driver data",
-          "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+          "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+          "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
           "source": "Ars Technica",
-          "published": "2026-10-30T13:53:20.000Z"
+          "published": "2026-10-30T17:38:19.000Z"
+        },
+        {
+          "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+          "source": "The Verge",
+          "published": "2026-10-30T17:38:04.000Z"
+        },
+        {
+          "title": "The delightfully messy state of Apple gadgets",
+          "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+          "source": "The Verge",
+          "published": "2026-10-30T17:25:20.000Z"
         }
       ]
     }
