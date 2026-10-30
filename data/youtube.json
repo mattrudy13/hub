@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T14:21:06.409Z",
+  "updated": "2026-10-30T15:21:07.049Z",
   "failed": [],
   "channels": [
     {
@@ -52,6 +52,13 @@
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_kuXNVNDCc9eo0GH_AXQcDfAGPJuph3Mny_EcLfsUHzCkc=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "JgF0l6l1eKY",
+          "title": "Kraig & Hector Train Their Replacement in GTA RP",
+          "published": "2026-10-30T15:00:12Z",
+          "thumb": "https://i.ytimg.com/vi/JgF0l6l1eKY/mqdefault.jpg",
+          "seen": "2026-10-30T15:21:05.240Z"
+        },
+        {
           "id": "JZRzmyfO2A0",
           "title": "I'm Not Selling Anything in GTA RP",
           "published": "2026-10-23T15:00:23Z",
@@ -78,13 +85,6 @@
           "published": "2026-10-02T15:00:20Z",
           "thumb": "https://i.ytimg.com/vi/ARcP3g5eERs/mqdefault.jpg",
           "seen": "2026-10-02T15:00:20Z"
-        },
-        {
-          "id": "AAMhuJnrLck",
-          "title": "Playing The Newest NASCAR 26 Game!",
-          "published": "2026-09-27T15:00:25Z",
-          "thumb": "https://i.ytimg.com/vi/AAMhuJnrLck/mqdefault.jpg",
-          "seen": "2026-09-27T15:00:25Z"
         }
       ]
     },

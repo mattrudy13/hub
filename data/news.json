@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T14:21:04.041Z",
+  "updated": "2026-10-30T15:21:04.466Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-          "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+          "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+          "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-30T14:19:43.000Z"
+          "published": "2026-10-30T15:09:29.000Z"
         },
         {
-          "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-          "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+          "title": "Six dead after helicopter crashes in northern Indian state",
+          "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-30T13:46:16.000Z"
+          "published": "2026-10-30T15:06:05.000Z"
         },
         {
-          "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-          "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+          "title": "NPR special: 5 takeaways from a year of listening to swing voters",
+          "link": "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups",
           "source": "NPR",
-          "published": "2026-10-30T13:01:22.000Z"
+          "published": "2026-10-30T15:00:00.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Nasdaq and S&P 500 sharply lower at open as tech stocks stumble — live updates",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=481665c7-ba54-4817-9949-3776c9eb5ea1&mod=mw_rss_bulletins",
+          "title": "The cost of money itself is on the midterm ballot. Here’s how.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5a926cce-ef80-46b7-b5ac-609ffcf55fc5&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-10-30T13:37:33.000Z"
+          "published": "2026-10-30T15:14:42.000Z"
+        },
+        {
+          "title": "Reddit shares are on track for their biggest-ever single-session loss",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5270a882-a04a-4315-b7ed-d929f85648a4&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-30T14:58:07.000Z"
         },
         {
           "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
           "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
           "source": "CNBC",
           "published": "2026-10-30T13:29:50.000Z"
-        },
-        {
-          "title": "Intel appears set to surrender $128 billion in market value at opening bell",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=90ce3c1b-84b9-4496-a93f-ebeae986a000&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-30T12:31:41.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+          "source": "The Verge",
+          "published": "2026-10-30T14:58:06.000Z"
+        },
+        {
+          "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+          "link": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
+          "source": "The Verge",
+          "published": "2026-10-30T14:23:26.000Z"
+        },
+        {
           "title": "GM to pay $220 million after selling customer Smart Driver data",
           "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
           "source": "Ars Technica",
           "published": "2026-10-30T13:53:20.000Z"
-        },
-        {
-          "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
-          "link": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
-          "source": "Ars Technica",
-          "published": "2026-10-30T13:46:39.000Z"
-        },
-        {
-          "title": "Silicon Valley wants you to invest in miracles",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-          "source": "The Verge",
-          "published": "2026-10-30T13:11:05.000Z"
         }
       ]
     }
