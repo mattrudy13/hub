@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T15:47:09.684Z",
+  "updated": "2026-10-31T16:21:00.584Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-31T15:50:41.000Z"
+        },
+        {
           "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
           "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-31T15:16:20.000Z"
-        },
-        {
-          "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-31T14:53:34.000Z"
         },
         {
           "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Your stock portfolio increasingly hinges on the bond market — and the midterms",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e019e3c9-1fe1-474c-8454-0b0604e94a0b&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-31T16:17:54.000Z"
+        },
+        {
           "title": "Here’s where the smart money is moving after the market's front runners stumbled",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=438b7b1e-b3bf-4a02-a889-72b26eae0bcb&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-31T14:52:35.000Z"
-        },
-        {
-          "title": "Here's where the smart money is moving after the stock market",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=778ecbde-1828-4200-8f14-40480463eae8&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-31T14:48:09.000Z"
         },
         {
           "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "I built an AI Tamagotchi before Meta could",
+          "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+          "source": "The Verge",
+          "published": "2026-10-31T16:05:00.000Z"
+        },
+        {
           "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
           "link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
           "source": "The Verge",
           "published": "2026-10-31T15:12:19.000Z"
-        },
-        {
-          "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
-          "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
-          "source": "The Verge",
-          "published": "2026-10-31T15:00:00.000Z"
         },
         {
           "title": "Seabirds racing home over the ocean can get jet-lagged",
