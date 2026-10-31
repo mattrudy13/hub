@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T20:21:03.048Z",
+  "updated": "2026-10-31T21:21:03.890Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "615r22hEHiQ",
+          "title": "I got RICH making the perfect video game (Squeex plays Game Dev Tycoon)",
+          "published": "2026-10-31T20:28:53Z",
+          "thumb": "https://i.ytimg.com/vi/615r22hEHiQ/mqdefault.jpg",
+          "seen": "2026-10-31T21:21:02.832Z"
+        },
         {
           "id": "eQVJK5xZrek",
           "title": "Terraria might break me before I beat it (Squeex's First Terraria Playthrough)",
@@ -35,13 +42,6 @@
           "published": "2026-10-25T14:13:12Z",
           "thumb": "https://i.ytimg.com/vi/zLqeoBY1KxA/mqdefault.jpg",
           "seen": "2026-10-25T14:21:02.855Z"
-        },
-        {
-          "id": "z57g9cZO4x0",
-          "title": "I'm in LOVE with Terraria (Squeex's First Terraria Playthrough)",
-          "published": "2026-10-24T14:14:12Z",
-          "thumb": "https://i.ytimg.com/vi/z57g9cZO4x0/mqdefault.jpg",
-          "seen": "2026-10-24T14:21:01.718Z"
         }
       ]
     },
