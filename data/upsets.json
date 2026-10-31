@@ -1,11 +1,34 @@
 {
-  "updated": "2026-10-31T04:21:02.606Z",
+  "updated": "2026-10-31T08:32:58.312Z",
   "minLine": 7,
   "days": [
     "2026-10-30",
     "2026-10-31"
   ],
-  "upsets": [],
+  "upsets": [
+    {
+      "league": "cfb",
+      "date": "2026-10-30",
+      "id": "401866451",
+      "line": 7.5,
+      "details": "KENT -7.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401866451/kent-state-sacramento-st",
+      "winner": {
+        "id": "16",
+        "name": "Sacramento St",
+        "abbr": "SAC",
+        "rank": null,
+        "score": 31
+      },
+      "loser": {
+        "id": "2309",
+        "name": "Kent State",
+        "abbr": "KENT",
+        "rank": null,
+        "score": 10
+      }
+    }
+  ],
   "lines": {
     "cfb:401862813": {
       "date": "2026-10-30",
@@ -40,8 +63,8 @@
     "cfb:401858278": {
       "date": "2026-10-31",
       "fav": "2567",
-      "line": 10,
-      "details": "SMU -10"
+      "line": 9.5,
+      "details": "SMU -9.5"
     },
     "cfb:401858502": {
       "date": "2026-10-31",
@@ -76,8 +99,8 @@
     "cfb:401866452": {
       "date": "2026-10-31",
       "fav": "2711",
-      "line": 14,
-      "details": "WMU -14"
+      "line": 13.5,
+      "details": "WMU -13.5"
     },
     "cfb:401858507": {
       "date": "2026-10-31",
@@ -111,9 +134,9 @@
     },
     "cfb:401861966": {
       "date": "2026-10-31",
-      "fav": "2005",
+      "fav": "41",
       "line": 1.5,
-      "details": "AF -1.5"
+      "details": "CONN -1.5"
     },
     "cfb:401862815": {
       "date": "2026-10-31",
@@ -136,8 +159,8 @@
     "cfb:401856734": {
       "date": "2026-10-31",
       "fav": "61",
-      "line": 12.5,
-      "details": "UGA -12.5"
+      "line": 11.5,
+      "details": "UGA -11.5"
     },
     "cfb:401858501": {
       "date": "2026-10-31",
@@ -268,8 +291,8 @@
     "cfb:401858281": {
       "date": "2026-10-31",
       "fav": "221",
-      "line": 8.5,
-      "details": "PITT -8.5"
+      "line": 7.5,
+      "details": "PITT -7.5"
     },
     "cfb:401856733": {
       "date": "2026-10-31",
