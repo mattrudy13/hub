@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T11:21:01.297Z",
+  "updated": "2026-10-31T12:21:01.662Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
-          "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+          "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-31T09:16:14.000Z"
+          "published": "2026-10-31T12:05:04.000Z"
         },
         {
-          "title": "Do you have seasonal affective disorder? How to tell — and what to do about it",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it",
+          "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory",
           "source": "NPR",
-          "published": "2026-10-31T09:01:00.000Z"
+          "published": "2026-10-31T12:00:00.000Z"
         },
         {
-          "title": "Your writing was flagged as AI. What does that actually mean?",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+          "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
+          "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
           "source": "NPR",
-          "published": "2026-10-31T09:00:00.000Z"
+          "published": "2026-10-31T11:56:10.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
+          "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+          "source": "CNBC",
+          "published": "2026-10-31T12:00:01.000Z"
+        },
         {
           "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=adc0ce79-54ee-477a-96ce-0dc283e77fa8&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1274034d-9cd5-45bd-99a6-a56dc0444e6d&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-10-30T22:45:29.000Z"
-        },
-        {
-          "title": "Cheaper cars are selling considerably faster than at the beginning of the year",
-          "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
-          "source": "CNBC",
-          "published": "2026-10-30T18:45:35.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-          "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-          "source": "Ars Technica",
-          "published": "2026-10-31T00:07:22.000Z"
-        },
-        {
-          "title": "Flesh-eating screwworms spread to third state and are attacking pets",
-          "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-          "source": "Ars Technica",
-          "published": "2026-10-30T22:36:41.000Z"
-        },
-        {
-          "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-          "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+          "title": "Touchscreens everywhere!",
+          "link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
           "source": "The Verge",
-          "published": "2026-10-30T22:32:53.000Z"
+          "published": "2026-10-31T12:00:00.000Z"
+        },
+        {
+          "title": "Here’s why you can’t shake those unhinged political texts",
+          "link": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+          "source": "The Verge",
+          "published": "2026-10-31T12:00:00.000Z"
+        },
+        {
+          "title": "Seabirds racing home over the ocean can get jet-lagged",
+          "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+          "source": "Ars Technica",
+          "published": "2026-10-31T11:15:26.000Z"
         }
       ]
     }
