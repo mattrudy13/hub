@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-31T18:21:02.932Z",
+  "updated": "2026-10-31T19:21:02.154Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+          "source": "NPR",
+          "published": "2026-10-31T18:42:33.000Z"
+        },
         {
           "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
           "link": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-31T17:53:35.000Z"
-        },
-        {
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-31T16:32:08.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+          "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+          "source": "The Verge",
+          "published": "2026-10-31T18:40:32.000Z"
+        },
+        {
           "title": "Happy Pikmin Day Eve",
           "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
           "source": "The Verge",
           "published": "2026-10-31T17:50:12.000Z"
-        },
-        {
-          "title": "I built an AI Tamagotchi before Meta could",
-          "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-          "source": "The Verge",
-          "published": "2026-10-31T16:05:00.000Z"
         },
         {
           "title": "Seabirds racing home over the ocean can get jet-lagged",
