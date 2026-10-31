@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-31T00:21:09.428Z",
-  "from": "2026-10-31T00:21:09Z",
-  "to": "2026-11-14T00:21:09Z",
+  "updated": "2026-10-31T01:21:06.861Z",
+  "from": "2026-10-31T01:21:06Z",
+  "to": "2026-11-14T01:21:06Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -563,6 +563,90 @@
       "url": "https://www.ticketmaster.com/the-bodyguard-touring-norfolk-virginia-11-12-2026/event/01006479BDB6466A",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/c82/88e88dd8-ee10-43c0-af7c-f8e506694c82_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkoyGkeWcV_m",
+      "name": "The Bodyguard (Touring)",
+      "date": "2026-11-13",
+      "time": "19:30",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": "Theatre",
+      "venue": "Harrison Opera House",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/the-bodyguard-touring-norfolk-virginia-11-13-2026/event/01006479BDB7466E",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/c82/88e88dd8-ee10-43c0-af7c-f8e506694c82_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vvG17Z_2BcJgIk",
+      "name": "BEAT: Belew/Vai/Levin/Bozzio Performing the Music of KING CRIMSON",
+      "date": "2026-11-13",
+      "time": "20:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Rock",
+      "venue": "Sandler Center For The Performing Arts",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/beat-belewvailevinbozzio-performing-the-music-of-virginia-beach-virginia-11-13-2026/event/010064FEAD9B5A06",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/461/e58a2592-728f-4741-be53-6a7a6d97b461_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv177Z_oGkSSyWox",
+      "name": "Stephen Lynch: The Me Tour",
+      "date": "2026-11-13",
+      "time": "20:00",
+      "status": "onsale",
+      "kind": "Comedy",
+      "genre": "Comedy",
+      "venue": "Attucks Theatre",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/stephen-lynch-the-me-tour-norfolk-virginia-11-13-2026/event/0100651CF3E7D462",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/176/4eff1891-deb4-45c8-925a-56763c5b4176_1245311_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vvG17Z_unZyE5y",
+      "name": "Fox N' Vead",
+      "date": "2026-11-13",
+      "time": "20:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Country",
+      "venue": "Elevation 27",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/fox-n-vead-virginia-beach-virginia-11-13-2026/event/010064DA80E672F9",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/fa9/93f2ead3-6249-4e23-b9e1-37d56bbf8fa9_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1AAv4F6",
+      "name": "Yung Gravy",
+      "date": "2026-11-13",
+      "time": "20:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": null,
+      "venue": "The Norva",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv4F6",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/020/a2c4a4ec-313e-45a7-8901-7256b7b72020_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1AAZtG4",
+      "name": "Thunder From Down Under - Girls' Night Outback - ages 21+",
+      "date": "2026-11-13",
+      "time": "20:00",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": null,
+      "venue": "Rivers Casino Portsmouth Event Center",
+      "city": "Portsmouth",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZtG4",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/d6f/93140015-9917-4801-8cca-ad96bfd68d6f_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
