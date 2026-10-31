@@ -1,37 +1,9 @@
 {
-  "updated": "2026-10-31T22:21:05.975Z",
-  "from": "2026-10-31T22:21:05Z",
-  "to": "2026-11-14T22:21:05Z",
+  "updated": "2026-10-31T23:21:09.018Z",
+  "from": "2026-10-31T23:21:08Z",
+  "to": "2026-11-14T23:21:08Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv177Z_oGkTbCERE",
-      "name": "Rocky Horror Picture Show - with Shadow Cast - Classic Movie Nights!",
-      "date": "2026-10-31",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Comedy",
-      "genre": "Comedy",
-      "venue": "American Theatre",
-      "city": "Hampton",
-      "url": "https://www.ticketmaster.com/rocky-horror-picture-show-with-shadow-hampton-virginia-10-31-2026/event/0100651FD83A7BE7",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/023/cb71967d-23b1-4fcb-8392-17b4a2938023_105991_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "vv1AvZkfAGkdpGbNg",
-      "name": "Norfolk Admirals vs. Greensboro Gargoyles",
-      "date": "2026-10-31",
-      "time": "19:05",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Hockey",
-      "venue": "Scope Arena",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/norfolk-admirals-vs-greensboro-gargoyles-norfolk-virginia-10-31-2026/event/01006505D63188F5",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/a82/1bbe9229-3e86-41b2-89a6-3f9ee9488a82_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "Z7r9jZ1A70bA7",
       "name": "Movements w/ Balance & Composure",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T22:21:03.514Z",
+  "updated": "2026-10-31T23:21:05.025Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+          "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-31T23:06:13.000Z"
+        },
+        {
+          "title": "Virginia and D.C. sue to block construction of Trump arch",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
+          "source": "NPR",
+          "published": "2026-10-31T22:48:51.000Z"
+        },
+        {
           "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
           "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-31T22:11:45.000Z"
-        },
-        {
-          "title": "Thousands demonstrate in Paris as protests spread across Europe",
-          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-31T21:29:01.000Z"
-        },
-        {
-          "title": "France seethes again as youth-led protests sweep Europe",
-          "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
-          "source": "NPR",
-          "published": "2026-10-31T19:30:19.000Z"
         }
       ]
     },
