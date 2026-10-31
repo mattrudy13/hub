@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T17:21:01.375Z",
+  "updated": "2026-10-31T18:21:02.932Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-31T16:32:08.000Z"
+          "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
+          "source": "NPR",
+          "published": "2026-10-31T18:11:02.000Z"
         },
         {
           "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
           "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-31T15:50:41.000Z"
+          "published": "2026-10-31T17:53:35.000Z"
         },
         {
-          "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
-          "source": "NPR",
-          "published": "2026-10-31T13:50:58.000Z"
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-31T16:32:08.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Happy Pikmin Day Eve",
+          "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+          "source": "The Verge",
+          "published": "2026-10-31T17:50:12.000Z"
+        },
+        {
           "title": "I built an AI Tamagotchi before Meta could",
           "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
           "source": "The Verge",
           "published": "2026-10-31T16:05:00.000Z"
-        },
-        {
-          "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
-          "link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
-          "source": "The Verge",
-          "published": "2026-10-31T15:12:19.000Z"
         },
         {
           "title": "Seabirds racing home over the ocean can get jet-lagged",
