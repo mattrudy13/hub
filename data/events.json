@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-31T21:21:04.297Z",
-  "from": "2026-10-31T21:21:03Z",
-  "to": "2026-11-14T21:21:03Z",
+  "updated": "2026-10-31T22:21:05.975Z",
+  "from": "2026-10-31T22:21:05Z",
+  "to": "2026-11-14T22:21:05Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -675,6 +675,20 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7d8U",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv177Z_oGkT5GfGo",
+      "name": "K·POP SUPERSTARS LIVE",
+      "date": "2026-11-14",
+      "time": "17:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Pop",
+      "venue": "The Dome by Rutter Mills",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/kpop-superstars-live-virginia-beach-virginia-11-14-2026/event/0100651FCB314311",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/4e0/016f429d-50d0-4e66-831d-f67e4f0b84e0_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }

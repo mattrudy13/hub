@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T21:21:02.387Z",
+  "updated": "2026-10-31T22:21:03.514Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Clashes erupt between police and protesters in Paris",
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-31T22:11:45.000Z"
+        },
+        {
+          "title": "Thousands demonstrate in Paris as protests spread across Europe",
           "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-31T19:37:43.000Z"
+          "published": "2026-10-31T21:29:01.000Z"
         },
         {
           "title": "France seethes again as youth-led protests sweep Europe",
           "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
           "source": "NPR",
           "published": "2026-10-31T19:30:19.000Z"
-        },
-        {
-          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-          "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-10-31T19:22:26.000Z"
         }
       ]
     },
