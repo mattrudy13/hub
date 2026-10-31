@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T13:21:02.278Z",
+  "updated": "2026-10-31T14:21:01.394Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
+          "source": "NPR",
+          "published": "2026-10-31T13:50:58.000Z"
+        },
+        {
           "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-31T13:12:46.000Z"
+          "published": "2026-10-31T13:45:34.000Z"
         },
         {
           "title": "Watch: Blood donors get a Halloween fright in Thailand",
           "link": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-10-31T12:50:45.000Z"
-        },
-        {
-          "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory",
-          "source": "NPR",
-          "published": "2026-10-31T12:00:00.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Google taught the world how to search. Now it faces a revolution it can’t lose.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=863c546f-25c6-42a6-8910-a9bd2064b873&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-31T14:13:30.000Z"
+        },
+        {
+          "title": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f81c2fcc-f599-4598-bb20-06e0f8d7d1df&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-10-31T13:38:27.000Z"
+        },
+        {
           "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
           "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
           "source": "CNBC",
           "published": "2026-10-31T12:00:01.000Z"
-        },
-        {
-          "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=adc0ce79-54ee-477a-96ce-0dc283e77fa8&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-30T23:15:50.000Z"
-        },
-        {
-          "title": "This Halloween, are king-sized candy bars a better deal than fun-sized ones?",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1274034d-9cd5-45bd-99a6-a56dc0444e6d&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-10-30T22:45:29.000Z"
         }
       ]
     },
