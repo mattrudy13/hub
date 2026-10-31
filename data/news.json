@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T23:21:03.784Z",
+  "updated": "2026-10-31T00:21:06.749Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+          "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+          "link": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-30T22:20:52.000Z"
+          "published": "2026-10-30T23:26:16.000Z"
         },
         {
-          "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-          "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+          "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+          "link": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-30T22:11:52.000Z"
+          "published": "2026-10-30T23:19:17.000Z"
         },
         {
           "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
@@ -55,7 +55,13 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Flesh-eating screwworms are feasting on pets; 4 dogs and cat attacked this week",
+          "title": "Think you can save the Hubble Space Telescope? NASA wants to know.",
+          "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+          "source": "Ars Technica",
+          "published": "2026-10-31T00:07:22.000Z"
+        },
+        {
+          "title": "Flesh-eating screwworms spread to third state and are attacking pets",
           "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
           "source": "Ars Technica",
           "published": "2026-10-30T22:36:41.000Z"
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
           "source": "The Verge",
           "published": "2026-10-30T22:32:53.000Z"
-        },
-        {
-          "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
-          "link": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
-          "source": "Ars Technica",
-          "published": "2026-10-30T22:21:05.000Z"
         }
       ]
     }

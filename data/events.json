@@ -1,37 +1,9 @@
 {
-  "updated": "2026-10-30T23:21:06.812Z",
-  "from": "2026-10-30T23:21:06Z",
-  "to": "2026-11-13T23:21:06Z",
+  "updated": "2026-10-31T00:21:09.428Z",
+  "from": "2026-10-31T00:21:09Z",
+  "to": "2026-11-14T00:21:09Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1AAekfO",
-      "name": "Freak Show Halloween Event (21 and Over)",
-      "date": "2026-10-30",
-      "time": "20:00",
-      "status": "onsale",
-      "kind": "Arts",
-      "genre": "Miscellaneous",
-      "venue": "The Norva",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAekfO",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/393/b74d3ddc-a5f3-4e09-a801-89c36b774393_106071_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "Z7r9jZ1AAv907",
-      "name": "Halloween MasqueRAGE with Sickick - Ages: 18 & Over",
-      "date": "2026-10-30",
-      "time": "20:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": null,
-      "venue": "Waterside District - VA",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv907",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/20a/bfc8ca58-e458-4a3c-8510-6ccf1281d20a_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "Z7r9jZ1A7-yFU",
       "name": "Old Dominion Monarchs Football vs. Marshall Thundering Herd Football",
