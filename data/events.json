@@ -1,23 +1,9 @@
 {
-  "updated": "2026-10-31T16:21:03.218Z",
-  "from": "2026-10-31T16:21:02Z",
-  "to": "2026-11-14T16:21:02Z",
+  "updated": "2026-10-31T17:21:04.168Z",
+  "from": "2026-10-31T17:21:03Z",
+  "to": "2026-11-14T17:21:03Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1A7-yFU",
-      "name": "Old Dominion Monarchs Football vs. Marshall Thundering Herd Football",
-      "date": "2026-10-31",
-      "time": "13:00",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Miscellaneous",
-      "venue": "Kornblau Field at S.B. Ballard Stadium",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-yFU",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/db5/5acfb9a3-4315-40c6-824f-e0fd31bd5db5_723691_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv177Z_oGkTbCERE",
       "name": "Rocky Horror Picture Show - with Shadow Cast - Classic Movie Nights!",
