@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T19:21:02.154Z",
+  "updated": "2026-10-31T20:05:59.962Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
-          "source": "NPR",
-          "published": "2026-10-31T18:42:33.000Z"
-        },
-        {
-          "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
-          "source": "NPR",
-          "published": "2026-10-31T18:11:02.000Z"
-        },
-        {
-          "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+          "title": "Clashes erupt between police and protesters in Paris",
+          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-10-31T17:53:35.000Z"
+          "published": "2026-10-31T19:37:43.000Z"
+        },
+        {
+          "title": "France seethes again as youth-led protests sweep Europe",
+          "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+          "source": "NPR",
+          "published": "2026-10-31T19:30:19.000Z"
+        },
+        {
+          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+          "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-10-31T19:22:26.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Keyboards of The Verge",
+          "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+          "source": "The Verge",
+          "published": "2026-10-31T19:30:00.000Z"
+        },
+        {
           "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
           "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
           "source": "The Verge",
           "published": "2026-10-31T18:40:32.000Z"
-        },
-        {
-          "title": "Happy Pikmin Day Eve",
-          "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
-          "source": "The Verge",
-          "published": "2026-10-31T17:50:12.000Z"
         },
         {
           "title": "Seabirds racing home over the ocean can get jet-lagged",

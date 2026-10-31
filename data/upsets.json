@@ -1,11 +1,33 @@
 {
-  "updated": "2026-10-31T19:21:02.733Z",
+  "updated": "2026-10-31T20:06:00.453Z",
   "minLine": 7,
   "days": [
     "2026-10-30",
     "2026-10-31"
   ],
   "upsets": [
+    {
+      "league": "cfb",
+      "date": "2026-10-31",
+      "id": "401858278",
+      "line": 9.5,
+      "details": "SMU -9.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858278/smu-syracuse",
+      "winner": {
+        "id": "183",
+        "name": "Syracuse",
+        "abbr": "SYR",
+        "rank": null,
+        "score": 30
+      },
+      "loser": {
+        "id": "2567",
+        "name": "SMU",
+        "abbr": "SMU",
+        "rank": 19,
+        "score": 27
+      }
+    },
     {
       "league": "cfb",
       "date": "2026-10-30",
@@ -231,8 +253,8 @@
     "cfb:401858508": {
       "date": "2026-10-31",
       "fav": "26",
-      "line": 22.5,
-      "details": "UCLA -22.5"
+      "line": 23.5,
+      "details": "UCLA -23.5"
     },
     "cfb:401856736": {
       "date": "2026-10-31",
