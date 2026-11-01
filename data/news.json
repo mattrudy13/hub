@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-01T16:21:01.931Z",
+  "updated": "2026-11-01T16:51:03.627Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+          "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-01T16:25:33.000Z"
+        },
         {
           "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
           "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
           "source": "NPR",
           "published": "2026-11-01T13:00:00.000Z"
-        },
-        {
-          "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
-          "link": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
-          "source": "NPR",
-          "published": "2026-11-01T12:00:00.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "A fully playable version of Portal prequel F-Stop leaked",
+          "link": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+          "source": "The Verge",
+          "published": "2026-11-01T16:19:21.000Z"
+        },
+        {
           "title": "North Korea linked to massive Binance crypto heist",
           "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
           "source": "The Verge",
           "published": "2026-11-01T14:33:11.000Z"
-        },
-        {
-          "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-          "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-          "source": "The Verge",
-          "published": "2026-11-01T14:00:00.000Z"
         },
         {
           "title": "Seabirds racing home over the ocean can get jet-lagged",
