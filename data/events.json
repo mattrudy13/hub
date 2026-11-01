@@ -1,23 +1,9 @@
 {
-  "updated": "2026-10-31T23:28:33.674Z",
-  "from": "2026-10-31T23:28:33Z",
-  "to": "2026-11-14T23:28:33Z",
+  "updated": "2026-11-01T00:21:05.217Z",
+  "from": "2026-11-01T00:21:04Z",
+  "to": "2026-11-15T00:21:04Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1A70bA7",
-      "name": "Movements w/ Balance & Composure",
-      "date": "2026-10-31",
-      "time": "19:30",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": null,
-      "venue": "The Norva",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70bA7",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/be3/f809106f-d164-4f25-9bf8-1b4527c2bbe3_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZkfNGkd5n5NT",
       "name": "Babyface",
@@ -661,6 +647,20 @@
       "url": "https://www.ticketmaster.com/kpop-superstars-live-virginia-beach-virginia-11-14-2026/event/0100651FCB314311",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/e/4e0/016f429d-50d0-4e66-831d-f67e4f0b84e0_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv177Z_oGkRjQvF5",
+      "name": "1776 - 7pm - Classic Movie Nights!",
+      "date": "2026-11-14",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Other",
+      "genre": "Music",
+      "venue": "American Theatre",
+      "city": "Hampton",
+      "url": "https://www.ticketmaster.com/1776-7pm-classic-movie-nights-hampton-virginia-11-14-2026/event/0100651BDC68120B",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/aae/b503db1a-c908-473b-a218-96d123cd5aae_105501_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
