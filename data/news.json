@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T14:21:01.964Z",
+  "updated": "2026-11-01T15:21:03.487Z",
   "failed": [],
   "sections": [
     {
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "North Korea linked to massive Binance crypto heist",
+          "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+          "source": "The Verge",
+          "published": "2026-11-01T14:33:11.000Z"
+        },
+        {
           "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
           "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
           "source": "The Verge",
           "published": "2026-11-01T14:00:00.000Z"
-        },
-        {
-          "title": "New Zelda and GTA represent a games industry that no longer exists",
-          "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
-          "source": "The Verge",
-          "published": "2026-11-01T13:00:00.000Z"
         },
         {
           "title": "Seabirds racing home over the ocean can get jet-lagged",
