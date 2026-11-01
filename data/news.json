@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T11:21:01.424Z",
+  "updated": "2026-11-01T12:21:01.350Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
+          "link": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
+          "source": "NPR",
+          "published": "2026-11-01T12:00:00.000Z"
+        },
+        {
           "title": "Shops looted as German cost of living protests turn violent",
           "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-01T11:03:36.000Z"
+          "published": "2026-11-01T11:57:48.000Z"
         },
         {
           "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
           "link": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans",
           "source": "NPR",
           "published": "2026-11-01T11:00:00.000Z"
-        },
-        {
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-01T09:28:06.000Z"
         }
       ]
     },
