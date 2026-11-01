@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-01T17:21:05.890Z",
-  "from": "2026-11-01T17:21:05Z",
-  "to": "2026-11-15T17:21:05Z",
+  "updated": "2026-11-01T18:21:05.588Z",
+  "from": "2026-11-01T18:21:05Z",
+  "to": "2026-11-15T18:21:05Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -717,6 +717,20 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZoCA",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/7c7/b33e9e76-6d94-47ba-bfe7-ccc7239637c7_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkoyGkeWm0Q8",
+      "name": "The Bodyguard (Touring)",
+      "date": "2026-11-15",
+      "time": "13:00",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": "Theatre",
+      "venue": "Harrison Opera House",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/the-bodyguard-touring-norfolk-virginia-11-15-2026/event/01006479BDBA4690",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/c82/88e88dd8-ee10-43c0-af7c-f8e506694c82_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
