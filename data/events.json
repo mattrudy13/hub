@@ -1,37 +1,9 @@
 {
-  "updated": "2026-11-01T00:21:05.217Z",
-  "from": "2026-11-01T00:21:04Z",
-  "to": "2026-11-15T00:21:04Z",
+  "updated": "2026-11-01T01:21:04.115Z",
+  "from": "2026-11-01T01:21:03Z",
+  "to": "2026-11-15T01:21:03Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv1AvZkfNGkd5n5NT",
-      "name": "Babyface",
-      "date": "2026-10-31",
-      "time": "20:30",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "R&B",
-      "venue": "The Dome by Rutter Mills",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/babyface-virginia-beach-virginia-10-31-2026/event/01006523CBA8B8FF",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/899/bfa1fcf7-8758-492c-bd03-6229e8a59899_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "vv1A8vPFoGA2gqP6",
-      "name": "It's A 2000s Party by Slacker University (Ages 18 & Up)",
-      "date": "2026-10-31",
-      "time": "21:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Dance/Electronic",
-      "venue": "Elevation 27",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/its-a-2000s-party-by-slacker-virginia-beach-virginia-10-31-2026/event/010065211FD5D947",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/e/bba/00605aea-4aec-4d1c-8b43-7401298bbbba_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZkotGkdPFArk",
       "name": "Choir! Choir! Choir!: Landslide: An Epic Fleetwood Mac Singalong!",
@@ -661,6 +633,76 @@
       "url": "https://www.ticketmaster.com/1776-7pm-classic-movie-nights-hampton-virginia-11-14-2026/event/0100651BDC68120B",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/c/aae/b503db1a-c908-473b-a218-96d123cd5aae_105501_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv168vPvybgZ7G722",
+      "name": "Virginia Arts Festival - Gabriela Allemana",
+      "date": "2026-11-14",
+      "time": "19:30",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": "Cultural",
+      "venue": "Attucks Theatre",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/virginia-arts-festival-gabriela-allemana-norfolk-virginia-11-14-2026/event/010065079635B3EE",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/59e/03c8a32b-dd2d-4c58-8d41-4ba446f0f59e_1861191_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkoyGkeWmfQ1",
+      "name": "The Bodyguard (Touring)",
+      "date": "2026-11-14",
+      "time": "19:30",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": "Theatre",
+      "venue": "Harrison Opera House",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/the-bodyguard-touring-norfolk-virginia-11-14-2026/event/01006479BDB9468A",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/c82/88e88dd8-ee10-43c0-af7c-f8e506694c82_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vvG17Z_5Ux5J41",
+      "name": "Three Dog Night",
+      "date": "2026-11-14",
+      "time": "20:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Rock",
+      "venue": "Sandler Center For The Performing Arts",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/three-dog-night-virginia-beach-virginia-11-14-2026/event/010064BDA22E654A",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/0bc/4679fff2-ad49-4758-b6ba-c683f6e090bc_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vvG17Z_ubIZVjo",
+      "name": "The Gringos",
+      "date": "2026-11-14",
+      "time": "20:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Rock",
+      "venue": "Elevation 27",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/the-gringos-virginia-beach-virginia-11-14-2026/event/010064D628034711",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/2eb/ab221c60-8ffb-4a2d-a2e8-97783c84b2eb_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1AAZtGf",
+      "name": "Thunder From Down Under - Girls' Night Outback - ages 21+",
+      "date": "2026-11-14",
+      "time": "20:00",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": null,
+      "venue": "Rivers Casino Portsmouth Event Center",
+      "city": "Portsmouth",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZtGf",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/d6f/93140015-9917-4801-8cca-ad96bfd68d6f_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
