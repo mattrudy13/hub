@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T12:21:01.350Z",
+  "updated": "2026-11-01T13:21:00.831Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-01T13:11:37.000Z"
+        },
+        {
+          "title": "Living with high prices in Virginia's 1st Congressional District",
+          "link": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
+          "source": "NPR",
+          "published": "2026-11-01T13:00:00.000Z"
+        },
+        {
           "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
           "link": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
           "source": "NPR",
           "published": "2026-11-01T12:00:00.000Z"
-        },
-        {
-          "title": "Shops looted as German cost of living protests turn violent",
-          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-01T11:57:48.000Z"
-        },
-        {
-          "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
-          "link": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans",
-          "source": "NPR",
-          "published": "2026-11-01T11:00:00.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Get in the spirit with these horrors from YouTube",
-          "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+          "title": "New Zelda and GTA represent a games industry that no longer exists",
+          "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
           "source": "The Verge",
-          "published": "2026-10-31T21:06:58.000Z"
+          "published": "2026-11-01T13:00:00.000Z"
         },
         {
-          "title": "Keyboards of The Verge",
-          "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+          "title": "Prop 45 in California could be hiding a loophole for data centers",
+          "link": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
           "source": "The Verge",
-          "published": "2026-10-31T19:30:00.000Z"
+          "published": "2026-11-01T13:00:00.000Z"
         },
         {
           "title": "Seabirds racing home over the ocean can get jet-lagged",
