@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T02:21:05.469Z",
+  "updated": "2026-11-01T03:21:02.714Z",
   "minLine": 7,
   "days": [
     "2026-10-30",
@@ -26,6 +26,28 @@
         "abbr": "SMU",
         "rank": 19,
         "score": 27
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-10-31",
+      "id": "401856847",
+      "line": 9.5,
+      "details": "OKST -9.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856847/oklahoma-st-iowa-state",
+      "winner": {
+        "id": "66",
+        "name": "Iowa State",
+        "abbr": "ISU",
+        "rank": null,
+        "score": 51
+      },
+      "loser": {
+        "id": "197",
+        "name": "Oklahoma St",
+        "abbr": "OKST",
+        "rank": 24,
+        "score": 49
       }
     },
     {
