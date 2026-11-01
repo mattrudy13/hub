@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-01T01:21:04.115Z",
-  "from": "2026-11-01T01:21:03Z",
-  "to": "2026-11-15T01:21:03Z",
+  "updated": "2026-11-01T02:21:07.498Z",
+  "from": "2026-11-01T02:21:07Z",
+  "to": "2026-11-15T02:21:07Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -703,6 +703,20 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZtGf",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/d6f/93140015-9917-4801-8cca-ad96bfd68d6f_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1AAZoCA",
+      "name": "Level Up (18 and Over)",
+      "date": "2026-11-14",
+      "time": "21:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": null,
+      "venue": "The Norva",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZoCA",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/7c7/b33e9e76-6d94-47ba-bfe7-ccc7239637c7_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
