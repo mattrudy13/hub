@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-01T22:21:02.411Z",
+  "updated": "2026-11-01T23:21:02.243Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Do you know signs of a stroke? BE FAST are the words to remember",
+          "link": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
+          "source": "NPR",
+          "published": "2026-11-01T22:22:12.000Z"
+        },
         {
           "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
           "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-01T21:16:45.000Z"
-        },
-        {
-          "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
-          "link": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
-          "source": "NPR",
-          "published": "2026-11-01T19:49:15.000Z"
         }
       ]
     },
