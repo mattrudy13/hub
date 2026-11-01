@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T10:21:03.493Z",
+  "updated": "2026-11-01T11:21:01.424Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Shops looted as German cost of living protests turn violent",
+          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-01T11:03:36.000Z"
+        },
+        {
+          "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
+          "link": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans",
+          "source": "NPR",
+          "published": "2026-11-01T11:00:00.000Z"
+        },
+        {
           "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
           "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-01T09:28:06.000Z"
-        },
-        {
-          "title": "What's it like to run for Congress when the odds are stacked heavily against you?",
-          "link": "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts",
-          "source": "NPR",
-          "published": "2026-11-01T09:00:00.000Z"
-        },
-        {
-          "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
-          "link": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
-          "source": "NPR",
-          "published": "2026-11-01T09:00:00.000Z"
         }
       ]
     },
