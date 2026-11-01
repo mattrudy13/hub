@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-01T18:21:05.588Z",
-  "from": "2026-11-01T18:21:05Z",
-  "to": "2026-11-15T18:21:05Z",
+  "updated": "2026-11-01T19:21:04.141Z",
+  "from": "2026-11-01T19:21:03Z",
+  "to": "2026-11-15T19:21:03Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -731,6 +731,20 @@
       "url": "https://www.ticketmaster.com/the-bodyguard-touring-norfolk-virginia-11-15-2026/event/01006479BDBA4690",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/c82/88e88dd8-ee10-43c0-af7c-f8e506694c82_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1AA7-16",
+      "name": "Old Dominion Monarchs Womens Basketball vs. Virginia Cavaliers Womens Basketball",
+      "date": "2026-11-15",
+      "time": "14:00",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Miscellaneous",
+      "venue": "Chartway Arena at Ted Constant Convocation Center",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7-16",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/093/c74cfd95-af21-4e64-9f85-47677b951093_105651_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
