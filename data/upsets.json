@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-01T03:21:02.714Z",
+  "updated": "2026-11-01T04:21:02.224Z",
   "minLine": 7,
   "days": [
-    "2026-10-30",
-    "2026-10-31"
+    "2026-10-31",
+    "2026-11-01"
   ],
   "upsets": [
     {
@@ -52,46 +52,28 @@
     },
     {
       "league": "cfb",
-      "date": "2026-10-30",
-      "id": "401866451",
+      "date": "2026-10-31",
+      "id": "401858504",
       "line": 7.5,
-      "details": "KENT -7.5",
-      "link": "https://www.espn.com/college-football/game/_/gameId/401866451/kent-state-sacramento-st",
+      "details": "NEB -7.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858504/washington-nebraska",
       "winner": {
-        "id": "16",
-        "name": "Sacramento St",
-        "abbr": "SAC",
+        "id": "264",
+        "name": "Washington",
+        "abbr": "WASH",
         "rank": null,
-        "score": 31
+        "score": 17
       },
       "loser": {
-        "id": "2309",
-        "name": "Kent State",
-        "abbr": "KENT",
+        "id": "158",
+        "name": "Nebraska",
+        "abbr": "NEB",
         "rank": null,
         "score": 10
       }
     }
   ],
   "lines": {
-    "cfb:401862813": {
-      "date": "2026-10-30",
-      "fav": "2655",
-      "line": 7.5,
-      "details": "TULN -7.5"
-    },
-    "cfb:401856844": {
-      "date": "2026-10-30",
-      "fav": "239",
-      "line": 2.5,
-      "details": "BAY -2.5"
-    },
-    "cfb:401866451": {
-      "date": "2026-10-30",
-      "fav": "2309",
-      "line": 7.5,
-      "details": "KENT -7.5"
-    },
     "cfb:401859185": {
       "date": "2026-10-31",
       "fav": "87",
@@ -373,6 +355,18 @@
       "fav": "204",
       "line": 6,
       "details": "ORST -6"
+    },
+    "cbb:401920982": {
+      "date": "2026-11-01",
+      "fav": "222",
+      "line": 7.5,
+      "details": "VILL -7.5"
+    },
+    "cbb:401920409": {
+      "date": "2026-11-01",
+      "fav": "2272",
+      "line": 6.5,
+      "details": "HPU -6.5"
     }
   }
 }
