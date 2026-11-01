@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T16:51:03.957Z",
+  "updated": "2026-11-01T17:21:03.760Z",
   "minLine": 7,
   "days": [
     "2026-10-31",
@@ -48,6 +48,28 @@
         "abbr": "OKST",
         "rank": 24,
         "score": 49
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-01",
+      "id": "401920982",
+      "line": 7.5,
+      "details": "VILL -7.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920982/notre-dame-villanova",
+      "winner": {
+        "id": "87",
+        "name": "Notre Dame",
+        "abbr": "ND",
+        "rank": null,
+        "score": 74
+      },
+      "loser": {
+        "id": "222",
+        "name": "Villanova",
+        "abbr": "VILL",
+        "rank": null,
+        "score": 72
       }
     },
     {
