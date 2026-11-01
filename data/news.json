@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-01T20:21:02.733Z",
+  "updated": "2026-11-01T21:15:27.450Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-01T21:01:58.000Z"
+        },
         {
           "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
           "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
           "source": "NPR",
           "published": "2026-11-01T19:49:15.000Z"
-        },
-        {
-          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
-          "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-01T19:48:17.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "NASA hopes the commercial space industry can help save Hubble",
+          "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+          "source": "The Verge",
+          "published": "2026-11-01T21:09:21.000Z"
+        },
+        {
           "title": "Flock keeps ignoring requests to cancel its contracts",
           "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
           "source": "The Verge",
           "published": "2026-11-01T19:58:02.000Z"
-        },
-        {
-          "title": "Apple’s HomeView could add security camera features",
-          "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
-          "source": "The Verge",
-          "published": "2026-11-01T17:16:07.000Z"
         },
         {
           "title": "Seabirds racing home over the ocean can get jet-lagged",
