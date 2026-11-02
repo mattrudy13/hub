@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-02T10:21:14.059Z",
+  "updated": "2026-11-02T11:21:01.944Z",
   "minLine": 7,
   "days": [
     "2026-11-01",
     "2026-11-02"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-02",
+      "id": "401920912",
+      "line": 8.5,
+      "details": "NIU -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920912/n-illinois-grambling",
+      "winner": {
+        "id": "2755",
+        "name": "Grambling",
+        "abbr": "GRAM",
+        "rank": null,
+        "score": 89
+      },
+      "loser": {
+        "id": "2459",
+        "name": "N Illinois",
+        "abbr": "NIU",
+        "rank": null,
+        "score": 87
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-01",
@@ -87,8 +109,8 @@
     "cbb:401919014": {
       "date": "2026-11-02",
       "fav": "2377",
-      "line": 3.5,
-      "details": "MCN -3.5"
+      "line": 2.5,
+      "details": "MCN -2.5"
     },
     "cbb:401906769": {
       "date": "2026-11-02",
@@ -219,8 +241,8 @@
     "cbb:401920201": {
       "date": "2026-11-02",
       "fav": "2670",
-      "line": 18.5,
-      "details": "VCU -18.5"
+      "line": 19.5,
+      "details": "VCU -19.5"
     },
     "cbb:401919803": {
       "date": "2026-11-02",
@@ -651,8 +673,8 @@
     "cbb:401911389": {
       "date": "2026-11-02",
       "fav": "2253",
-      "line": 28.5,
-      "details": "GCU -28.5"
+      "line": 27.5,
+      "details": "GCU -27.5"
     },
     "cbb:401909759": {
       "date": "2026-11-02",
