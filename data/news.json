@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T12:21:03.315Z",
+  "updated": "2026-11-02T13:21:06.853Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Uganda begins withdrawing troops from Somalia after 20 years",
-          "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-02T12:05:34.000Z"
-        },
-        {
-          "title": "Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack",
+          "title": "Shop freezers in six European countries hit by suspected cyber-attack",
           "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-02T11:56:32.000Z"
+          "published": "2026-11-02T13:19:56.000Z"
         },
         {
-          "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
-          "link": "https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions",
+          "title": "Ryanair says it may freeze workers' pay and raise airfares",
+          "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-02T12:22:10.000Z"
+        },
+        {
+          "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+          "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
           "source": "NPR",
-          "published": "2026-11-02T11:30:00.000Z"
+          "published": "2026-11-02T12:19:54.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Your stock portfolio increasingly hinges on the bond market — and the midterms",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e019e3c9-1fe1-474c-8454-0b0604e94a0b&mod=mw_rss_bulletins",
+          "title": "Economic calendar: Factory and construction-spending data on agenda",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b8a80bf3-faae-4879-acb8-6d8bafed588e&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-10-31T16:17:54.000Z"
+          "published": "2026-11-02T13:18:00.000Z"
         },
         {
-          "title": "Here’s where the smart money is moving after the market's front runners stumbled",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=438b7b1e-b3bf-4a02-a889-72b26eae0bcb&mod=mw_rss_bulletins",
+          "title": "Marvell and Lumentum officially plan to combine. Here’s what to know.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1ce25ee0-69c2-49a6-a1a2-5de822f84406&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-10-31T14:52:35.000Z"
+          "published": "2026-11-02T12:33:50.000Z"
         },
         {
           "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "More European supermarkets are getting their freezers hacked",
+          "link": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
+          "source": "The Verge",
+          "published": "2026-11-02T13:00:35.000Z"
+        },
+        {
+          "title": "This $48 e-paper display can be whatever you want it to be",
+          "link": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
+          "source": "Ars Technica",
+          "published": "2026-11-02T12:00:07.000Z"
+        },
+        {
           "title": "Jackery made its portable power stations even smaller",
           "link": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
           "source": "The Verge",
           "published": "2026-11-02T05:00:00.000Z"
-        },
-        {
-          "title": "NASA hopes the commercial space industry can help save Hubble",
-          "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
-          "source": "The Verge",
-          "published": "2026-11-01T21:09:21.000Z"
-        },
-        {
-          "title": "Seabirds racing home over the ocean can get jet-lagged",
-          "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-          "source": "Ars Technica",
-          "published": "2026-10-31T11:15:26.000Z"
         }
       ]
     }
