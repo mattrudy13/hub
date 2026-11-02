@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T18:21:07.366Z",
+  "updated": "2026-11-02T19:21:03.451Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Russian bombing kills 18 people at Ukraine aid centre, Kyiv says",
+          "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
+          "link": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
+          "source": "NPR",
+          "published": "2026-11-02T18:54:01.000Z"
+        },
+        {
+          "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
           "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-02T18:01:13.000Z"
+          "published": "2026-11-02T18:48:00.000Z"
         },
         {
-          "title": "Shop freezers in seven European countries hit by cyber-attack",
-          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+          "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-02T17:38:11.000Z"
-        },
-        {
-          "title": "DOJ asks for Supreme Court to intervene on California ballot demands",
-          "link": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
-          "source": "NPR",
-          "published": "2026-11-02T16:34:17.000Z"
+          "published": "2026-11-02T18:34:24.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Behind Anthropic’s 1,127% revenue surge — and the expense that erased its profit",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7fdaad65-592c-4fd5-8db8-cfd33c81128f&mod=mw_rss_bulletins",
+          "title": "The bond-market rally is defying the typical investing playbook. Here’s why.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=76e609bc-8338-4bfa-b33d-86e29757024b&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-02T17:40:45.000Z"
+          "published": "2026-11-02T19:14:01.000Z"
         },
         {
-          "title": "Booming U.S. manufacturers can’t keep up with demand",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=14f1a40e-15e9-4ae1-ba7b-de642aeaea27&mod=mw_rss_bulletins",
+          "title": "Why Marvell’s deal for Lumentum is giving flashbacks to the dot-com bubble",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ad478bf9-31ec-4ab9-b471-a617345a45cd&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-02T16:03:01.000Z"
+          "published": "2026-11-02T18:33:52.000Z"
         },
         {
           "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "title": "Ford promises not to sell your driving habits to data brokers",
+          "link": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
           "source": "The Verge",
-          "published": "2026-11-02T18:01:30.000Z"
+          "published": "2026-11-02T19:05:46.000Z"
         },
         {
-          "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-          "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "title": "Anthropic clamps down on Claude’s AI video game clones",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
           "source": "The Verge",
-          "published": "2026-11-02T17:51:19.000Z"
+          "published": "2026-11-02T18:56:02.000Z"
         },
         {
-          "title": "The world has a new plan to save nature, but it still needs the money",
-          "link": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
+          "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+          "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
           "source": "Ars Technica",
-          "published": "2026-11-02T14:56:52.000Z"
+          "published": "2026-11-02T18:32:21.000Z"
         }
       ]
     }
