@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T21:21:02.790Z",
+  "updated": "2026-11-02T22:21:01.373Z",
   "failed": [],
   "sections": [
     {
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Palantir earnings are out — and they reveal a major AI turning point",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=30718482-d11f-4a95-84b4-878c7333a81b&mod=mw_rss_bulletins",
+          "title": "Wall Street’s most hated stocks are faring far better than its favorites",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b341f427-a3d0-486b-8860-fbe351026d39&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-02T21:10:25.000Z"
+          "published": "2026-11-02T22:18:35.000Z"
         },
         {
-          "title": "Dow closes over 200 points up, but Nasdaq falls sharply as tech stocks retreat",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b618aac1-4a84-4f8f-b8c0-23ac7de4b9e6&mod=mw_rss_bulletins",
+          "title": "Apple's stock seesaws as John Ternus helms first earnings call as CEO — live",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1aa420a3-f62b-46c1-a40b-b69a0d96653e&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-02T21:03:41.000Z"
+          "published": "2026-11-02T22:00:31.000Z"
         },
         {
           "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Apple set an iPhone sales record even without a new standard iPhone",
+          "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+          "source": "The Verge",
+          "published": "2026-11-02T22:02:36.000Z"
+        },
+        {
+          "title": "Third person dies of bird flu since virus started jumping to livestock",
+          "link": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+          "source": "Ars Technica",
+          "published": "2026-11-02T21:21:43.000Z"
+        },
+        {
           "title": "Meta will end Quest 2 OS updates in 2027",
           "link": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
           "source": "The Verge",
           "published": "2026-11-02T21:04:20.000Z"
-        },
-        {
-          "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
-          "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-          "source": "The Verge",
-          "published": "2026-11-02T20:37:49.000Z"
-        },
-        {
-          "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
-          "link": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
-          "source": "Ars Technica",
-          "published": "2026-11-02T19:52:23.000Z"
         }
       ]
     }
