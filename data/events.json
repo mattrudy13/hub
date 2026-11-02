@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-02T00:21:04.056Z",
-  "from": "2026-11-02T00:21:03Z",
-  "to": "2026-11-16T00:21:03Z",
+  "updated": "2026-11-02T00:53:24.892Z",
+  "from": "2026-11-02T00:53:24Z",
+  "to": "2026-11-16T00:53:24Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv1AvZkotGkdPFArk",
-      "name": "Choir! Choir! Choir!: Landslide: An Epic Fleetwood Mac Singalong!",
-      "date": "2026-11-01",
-      "time": "19:30",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Rock",
-      "venue": "Attucks Theatre",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/choir-choir-choir-landslide-an-epic-norfolk-virginia-11-01-2026/event/01006469E5205786",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/536/29344ded-a5f3-41ff-b7f9-fb8ee165a536_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "Z7r9jZ1AA7d8V",
       "name": "Old Dominion Monarchs Mens Basketball vs. Western Michigan Broncos Mens Basketball",
