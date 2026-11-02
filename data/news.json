@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T13:21:06.853Z",
+  "updated": "2026-11-02T14:21:01.734Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Shop freezers in six European countries hit by suspected cyber-attack",
+          "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
           "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-02T13:19:56.000Z"
+          "published": "2026-11-02T14:11:13.000Z"
         },
         {
-          "title": "Ryanair says it may freeze workers' pay and raise airfares",
-          "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+          "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+          "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-02T12:22:10.000Z"
+          "published": "2026-11-02T12:44:48.000Z"
         },
         {
           "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
+          "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+          "source": "CNBC",
+          "published": "2026-11-02T14:09:13.000Z"
+        },
+        {
           "title": "Economic calendar: Factory and construction-spending data on agenda",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b8a80bf3-faae-4879-acb8-6d8bafed588e&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1ce25ee0-69c2-49a6-a1a2-5de822f84406&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-02T12:33:50.000Z"
-        },
-        {
-          "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
-          "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
-          "source": "CNBC",
-          "published": "2026-10-31T12:00:01.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "More European supermarkets are getting their freezers hacked",
-          "link": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
+          "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
+          "link": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
           "source": "The Verge",
-          "published": "2026-11-02T13:00:35.000Z"
+          "published": "2026-11-02T14:07:22.000Z"
+        },
+        {
+          "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
+          "link": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
+          "source": "The Verge",
+          "published": "2026-11-02T14:05:34.000Z"
         },
         {
           "title": "This $48 e-paper display can be whatever you want it to be",
           "link": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
           "source": "Ars Technica",
           "published": "2026-11-02T12:00:07.000Z"
-        },
-        {
-          "title": "Jackery made its portable power stations even smaller",
-          "link": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
-          "source": "The Verge",
-          "published": "2026-11-02T05:00:00.000Z"
         }
       ]
     }
