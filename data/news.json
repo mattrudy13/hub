@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T14:21:01.734Z",
+  "updated": "2026-11-02T15:21:02.637Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
+          "title": "Shop freezers in seven European countries hit by cyber-attack",
           "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-02T14:11:13.000Z"
+          "published": "2026-11-02T15:12:22.000Z"
         },
         {
-          "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-          "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+          "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+          "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-02T12:44:48.000Z"
+          "published": "2026-11-02T14:35:38.000Z"
         },
         {
           "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Dow, S&P 500, Nasdaq open higher; tech stocks bounce, oil prices drop",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=883e1fe8-4b66-49a0-b9ab-b4a8047c5a0a&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-02T14:31:38.000Z"
+        },
+        {
           "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
           "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
           "source": "CNBC",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b8a80bf3-faae-4879-acb8-6d8bafed588e&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-02T13:18:00.000Z"
-        },
-        {
-          "title": "Marvell and Lumentum officially plan to combine. Here’s what to know.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1ce25ee0-69c2-49a6-a1a2-5de822f84406&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-02T12:33:50.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
-          "link": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
+          "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
+          "link": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
           "source": "The Verge",
-          "published": "2026-11-02T14:07:22.000Z"
+          "published": "2026-11-02T15:15:00.000Z"
         },
         {
-          "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
-          "link": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
+          "title": "Could data center backlash flip Florida?",
+          "link": "https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers",
           "source": "The Verge",
-          "published": "2026-11-02T14:05:34.000Z"
+          "published": "2026-11-02T15:05:00.000Z"
         },
         {
           "title": "This $48 e-paper display can be whatever you want it to be",
