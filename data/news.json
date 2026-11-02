@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-02T16:21:06.932Z",
+  "updated": "2026-11-02T17:21:03.676Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "DOJ asks for Supreme Court to intervene on California ballot demands",
+          "link": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+          "source": "NPR",
+          "published": "2026-11-02T16:34:17.000Z"
+        },
         {
           "title": "Shop freezers in seven European countries hit by cyber-attack",
           "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-02T14:35:38.000Z"
-        },
-        {
-          "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
-          "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
-          "source": "NPR",
-          "published": "2026-11-02T12:19:54.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Why Peacock is making a huge bet on YouTube",
-          "link": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
+          "title": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
+          "link": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
           "source": "The Verge",
-          "published": "2026-11-02T16:00:00.000Z"
+          "published": "2026-11-02T17:06:10.000Z"
         },
         {
-          "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
-          "link": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
+          "title": "Squarespace is laying off 19 percent of employees",
+          "link": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
           "source": "The Verge",
-          "published": "2026-11-02T15:15:00.000Z"
+          "published": "2026-11-02T16:50:47.000Z"
         },
         {
           "title": "The world has a new plan to save nature, but it still needs the money",
