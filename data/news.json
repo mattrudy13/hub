@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T22:21:01.373Z",
+  "updated": "2026-11-02T23:21:34.595Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+          "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-02T23:02:01.000Z"
+        },
+        {
           "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
           "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-02T21:10:04.000Z"
-        },
-        {
-          "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
-          "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-02T20:54:44.000Z"
         },
         {
           "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Wall Street’s most hated stocks are faring far better than its favorites",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b341f427-a3d0-486b-8860-fbe351026d39&mod=mw_rss_bulletins",
+          "title": "Live updates: Apple can't keep up with iPhone Duo demand",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=90837a89-ffe7-456c-99b7-fc3284516f70&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-02T22:18:35.000Z"
+          "published": "2026-11-02T23:02:18.000Z"
         },
         {
-          "title": "Apple's stock seesaws as John Ternus helms first earnings call as CEO — live",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1aa420a3-f62b-46c1-a40b-b69a0d96653e&mod=mw_rss_bulletins",
+          "title": "Live updates: Apple records its best year ever for iPhone upgraders",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6ddebdd5-4a95-4cd3-aaec-5e830651e7ce&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-02T22:00:31.000Z"
+          "published": "2026-11-02T22:20:17.000Z"
         },
         {
           "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
+          "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+          "source": "The Verge",
+          "published": "2026-11-02T22:56:11.000Z"
+        },
+        {
           "title": "Apple set an iPhone sales record even without a new standard iPhone",
           "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
           "source": "The Verge",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
           "source": "Ars Technica",
           "published": "2026-11-02T21:21:43.000Z"
-        },
-        {
-          "title": "Meta will end Quest 2 OS updates in 2027",
-          "link": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
-          "source": "The Verge",
-          "published": "2026-11-02T21:04:20.000Z"
         }
       ]
     }
