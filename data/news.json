@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T15:21:02.637Z",
+  "updated": "2026-11-02T16:21:06.932Z",
   "failed": [],
   "sections": [
     {
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Booming U.S. manufacturers can’t keep up with demand",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=14f1a40e-15e9-4ae1-ba7b-de642aeaea27&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-02T16:03:01.000Z"
+        },
+        {
           "title": "Dow, S&P 500, Nasdaq open higher; tech stocks bounce, oil prices drop",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=883e1fe8-4b66-49a0-b9ab-b4a8047c5a0a&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
           "source": "CNBC",
           "published": "2026-11-02T14:09:13.000Z"
-        },
-        {
-          "title": "Economic calendar: Factory and construction-spending data on agenda",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b8a80bf3-faae-4879-acb8-6d8bafed588e&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-02T13:18:00.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Why Peacock is making a huge bet on YouTube",
+          "link": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
+          "source": "The Verge",
+          "published": "2026-11-02T16:00:00.000Z"
+        },
+        {
           "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
           "link": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
           "source": "The Verge",
           "published": "2026-11-02T15:15:00.000Z"
         },
         {
-          "title": "Could data center backlash flip Florida?",
-          "link": "https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers",
-          "source": "The Verge",
-          "published": "2026-11-02T15:05:00.000Z"
-        },
-        {
-          "title": "This $48 e-paper display can be whatever you want it to be",
-          "link": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
+          "title": "The world has a new plan to save nature, but it still needs the money",
+          "link": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
           "source": "Ars Technica",
-          "published": "2026-11-02T12:00:07.000Z"
+          "published": "2026-11-02T14:56:52.000Z"
         }
       ]
     }
