@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T20:24:38.926Z",
+  "updated": "2026-11-02T21:21:02.790Z",
   "failed": [],
   "sections": [
     {
@@ -10,13 +10,13 @@
           "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
           "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-02T20:23:12.000Z"
+          "published": "2026-11-02T21:10:04.000Z"
         },
         {
-          "title": "Man guilty of stealing cash from farm owned by South African president",
-          "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+          "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+          "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-02T20:08:51.000Z"
+          "published": "2026-11-02T20:54:44.000Z"
         },
         {
           "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Dow up, S&P 500 and Nasdaq losing ground in final hour as tech stocks fall",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=57bffc07-7902-421e-bb1e-7e28467fbaed&mod=mw_rss_bulletins",
+          "title": "Palantir earnings are out — and they reveal a major AI turning point",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=30718482-d11f-4a95-84b4-878c7333a81b&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-02T20:03:31.000Z"
+          "published": "2026-11-02T21:10:25.000Z"
         },
         {
-          "title": "The bond-market rally is defying the typical investing playbook. Here’s why.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=76e609bc-8338-4bfa-b33d-86e29757024b&mod=mw_rss_bulletins",
+          "title": "Dow closes over 200 points up, but Nasdaq falls sharply as tech stocks retreat",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b618aac1-4a84-4f8f-b8c0-23ac7de4b9e6&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-02T19:14:01.000Z"
+          "published": "2026-11-02T21:03:41.000Z"
         },
         {
           "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
-          "link": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+          "title": "Meta will end Quest 2 OS updates in 2027",
+          "link": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
           "source": "The Verge",
-          "published": "2026-11-02T20:03:52.000Z"
+          "published": "2026-11-02T21:04:20.000Z"
+        },
+        {
+          "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+          "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+          "source": "The Verge",
+          "published": "2026-11-02T20:37:49.000Z"
         },
         {
           "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
           "link": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
           "source": "Ars Technica",
           "published": "2026-11-02T19:52:23.000Z"
-        },
-        {
-          "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-          "link": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
-          "source": "The Verge",
-          "published": "2026-11-02T19:24:09.000Z"
         }
       ]
     }
