@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T07:46:49.098Z",
+  "updated": "2026-11-02T10:21:15.920Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "_PIN9kqoWlk",
+          "title": "Counter-Strike 2 on a Saturday Night. What a time to be alive.",
+          "published": "2026-11-02T08:35:45Z",
+          "thumb": "https://i.ytimg.com/vi/_PIN9kqoWlk/mqdefault.jpg",
+          "seen": "2026-11-02T10:21:14.110Z"
+        },
         {
           "id": "615r22hEHiQ",
           "title": "I got RICH making the perfect video game (Squeex plays Game Dev Tycoon)",
@@ -35,13 +42,6 @@
           "published": "2026-10-28T00:04:34Z",
           "thumb": "https://i.ytimg.com/vi/U8Nv82lC6xs/mqdefault.jpg",
           "seen": "2026-10-28T00:21:03.955Z"
-        },
-        {
-          "id": "zLqeoBY1KxA",
-          "title": "It's going really bad (Squeex plays CS2 with fuslie, rae, chiblee, and hjune)",
-          "published": "2026-10-25T14:13:12Z",
-          "thumb": "https://i.ytimg.com/vi/zLqeoBY1KxA/mqdefault.jpg",
-          "seen": "2026-10-25T14:21:02.855Z"
         }
       ]
     },
