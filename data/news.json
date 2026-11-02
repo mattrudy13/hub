@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-02T20:21:09.099Z",
+  "updated": "2026-11-02T20:24:38.926Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+          "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-02T20:23:12.000Z"
+        },
         {
           "title": "Man guilty of stealing cash from farm owned by South African president",
           "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
           "source": "NPR",
           "published": "2026-11-02T20:02:41.000Z"
-        },
-        {
-          "title": "Is America really that polarized? The answer might be a surprise",
-          "link": "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump",
-          "source": "NPR",
-          "published": "2026-11-02T20:00:00.000Z"
         }
       ]
     },
