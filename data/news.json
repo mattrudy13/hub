@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-03T15:20:46.258Z",
+  "updated": "2026-11-03T16:20:48.757Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
+          "link": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
+          "source": "NPR",
+          "published": "2026-11-03T15:54:39.000Z"
+        },
         {
           "title": "Libya's top religious authority rules against wearing Nike clothes",
           "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
           "source": "NPR",
           "published": "2026-11-03T14:13:58.000Z"
-        },
-        {
-          "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-          "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-03T13:55:47.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "GTA VI’s download will need up to 212GB of hard drive space",
-          "link": "https://www.theverge.com/games/1025271/gta-vi-storage-space-rockstar-games",
+          "title": "Midterm elections 2026: all the news",
+          "link": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
           "source": "The Verge",
-          "published": "2026-11-03T15:15:00.000Z"
+          "published": "2026-11-03T15:58:39.000Z"
         },
         {
-          "title": "The Elder Scrolls VI officially has a name: Sentinel",
-          "link": "https://www.theverge.com/news/1025273/the-elder-scrolls-vi-sentinel-name-announcement",
+          "title": "Apple is all in on AI — its own and everyone else’s",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
           "source": "The Verge",
-          "published": "2026-11-03T15:07:39.000Z"
+          "published": "2026-11-03T15:24:51.000Z"
         },
         {
           "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
