@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-03T02:20:50.843Z",
+  "updated": "2026-11-03T02:57:50.804Z",
   "minLine": 7,
   "days": [
     "2026-11-01",
     "2026-11-02"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-02",
+      "id": "401909771",
+      "line": 15.5,
+      "details": "ISU -15.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909771/memphis-iowa-state",
+      "winner": {
+        "id": "235",
+        "name": "Memphis",
+        "abbr": "MEM",
+        "rank": null,
+        "score": 80
+      },
+      "loser": {
+        "id": "66",
+        "name": "Iowa State",
+        "abbr": "ISU",
+        "rank": 18,
+        "score": 76
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-02",
@@ -70,6 +92,28 @@
         "abbr": "BRWN",
         "rank": null,
         "score": 55
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-02",
+      "id": "401920231",
+      "line": 7.5,
+      "details": "MRST -7.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920231/dartmouth-marist",
+      "winner": {
+        "id": "159",
+        "name": "Dartmouth",
+        "abbr": "DART",
+        "rank": null,
+        "score": 69
+      },
+      "loser": {
+        "id": "2368",
+        "name": "Marist",
+        "abbr": "MRST",
+        "rank": null,
+        "score": 62
       }
     },
     {
@@ -747,8 +791,8 @@
     "cbb:401909738": {
       "date": "2026-11-02",
       "fav": "12",
-      "line": 4.5,
-      "details": "ARIZ -4.5"
+      "line": 5.5,
+      "details": "ARIZ -5.5"
     },
     "cbb:401925878": {
       "date": "2026-11-02",
@@ -963,6 +1007,71 @@
       "line": null
     },
     "cbb:401926116": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929441": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929391": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929365": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929355": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401927368": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401927360": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401925862": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926862": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401931655": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401928806": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401925088": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401922043": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401920951": {
       "date": "2026-11-02",
       "fav": null,
       "line": null
