@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T14:20:47.021Z",
+  "updated": "2026-11-03T15:20:46.258Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Libya's top religious authority rules against wearing Nike clothes",
+          "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-03T14:56:46.000Z"
+        },
+        {
+          "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
+          "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
+          "source": "NPR",
+          "published": "2026-11-03T14:13:58.000Z"
+        },
+        {
           "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
           "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-03T13:55:47.000Z"
-        },
-        {
-          "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-          "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-03T13:44:44.000Z"
-        },
-        {
-          "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
-          "link": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
-          "source": "NPR",
-          "published": "2026-11-03T11:43:49.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
-          "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+          "title": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
+          "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
           "source": "CNBC",
-          "published": "2026-11-03T14:18:27.000Z"
+          "published": "2026-11-03T15:19:14.000Z"
         },
         {
-          "title": "Versant earnings beat expectations as digital platforms drive growth",
-          "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
+          "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
+          "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
           "source": "CNBC",
-          "published": "2026-11-03T14:17:42.000Z"
+          "published": "2026-11-03T14:43:43.000Z"
         },
         {
-          "title": "Are prediction markets overhyping Democrats’ Election Day odds?",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e3a08e7b-73d2-41e4-a7bc-1aefb6f7bf41&mod=mw_rss_bulletins",
+          "title": "Stocks open mostly higher as investors brace for a volatile Election Day",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ff33899a-f4d2-459d-b85c-37fe3c73f10e&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-03T13:42:32.000Z"
+          "published": "2026-11-03T14:30:50.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Peak Design expands its collection of wireless charging accessories",
-          "link": "https://www.theverge.com/tech/1024484/peak-design-wireless-travel-battery-charging-charger-station-qi",
+          "title": "GTA VI’s download will need up to 212GB of hard drive space",
+          "link": "https://www.theverge.com/games/1025271/gta-vi-storage-space-rockstar-games",
           "source": "The Verge",
-          "published": "2026-11-03T14:00:00.000Z"
+          "published": "2026-11-03T15:15:00.000Z"
         },
         {
-          "title": "Bambu’s nine-nozzle H3C foretells the future of 3D printing",
-          "link": "https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend",
+          "title": "The Elder Scrolls VI officially has a name: Sentinel",
+          "link": "https://www.theverge.com/news/1025273/the-elder-scrolls-vi-sentinel-name-announcement",
           "source": "The Verge",
-          "published": "2026-11-03T14:00:00.000Z"
+          "published": "2026-11-03T15:07:39.000Z"
         },
         {
-          "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
-          "link": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+          "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
+          "link": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
           "source": "Ars Technica",
-          "published": "2026-11-02T23:30:16.000Z"
+          "published": "2026-11-03T14:00:07.000Z"
         }
       ]
     }
