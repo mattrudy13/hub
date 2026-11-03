@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T17:20:56.636Z",
+  "updated": "2026-11-03T18:21:04.045Z",
   "failed": [],
   "channels": [
     {
@@ -95,6 +95,13 @@
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_nfDvwu14-iN5YZcaLIomwno1_3oFcYTmG5_kn7SMj_nec=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "4qhQxYOwrhg",
+          "title": "3 SCARY GAMES #116",
+          "published": "2026-11-03T18:19:38Z",
+          "thumb": "https://i.ytimg.com/vi/4qhQxYOwrhg/mqdefault.jpg",
+          "seen": "2026-11-03T18:21:00.984Z"
+        },
+        {
           "id": "AGmCScwyHbo",
           "title": "SCHOOL OF DOOM | REANIMAL - Part 3",
           "published": "2026-10-30T16:00:26Z",
@@ -121,13 +128,6 @@
           "published": "2026-10-26T16:00:05Z",
           "thumb": "https://i.ytimg.com/vi/Jwvj6stc_BA/mqdefault.jpg",
           "seen": "2026-10-26T16:21:03.954Z"
-        },
-        {
-          "id": "m4s_0p65ctE",
-          "title": "3 SCARY GAMES #115",
-          "published": "2026-10-25T19:26:11Z",
-          "thumb": "https://i.ytimg.com/vi/m4s_0p65ctE/mqdefault.jpg",
-          "seen": "2026-10-25T20:21:04.197Z"
         }
       ]
     },
