@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T18:29:19.315Z",
+  "updated": "2026-11-03T19:21:05.500Z",
   "failed": [],
   "sections": [
     {
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "U.S. regulators just cleared a path to trade this trendy futures product",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=59c4eeb1-7da4-41a0-84de-18482e3d841f&mod=mw_rss_bulletins",
+          "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
+          "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+          "source": "CNBC",
+          "published": "2026-11-03T18:52:06.000Z"
+        },
+        {
+          "title": "Why investors shouldn't let today's election results influence their decisions",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=cce514a7-08c1-4a64-a39e-50927780fc88&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-03T17:56:04.000Z"
+          "published": "2026-11-03T18:48:45.000Z"
         },
         {
-          "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-          "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
+          "title": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
+          "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
           "source": "CNBC",
-          "published": "2026-11-03T17:05:29.000Z"
-        },
-        {
-          "title": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-          "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
-          "source": "CNBC",
-          "published": "2026-11-03T15:19:14.000Z"
+          "published": "2026-11-03T18:44:24.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Reddit is adding more ads",
-          "link": "https://www.theverge.com/tech/1025602/reddit-search-ads-test",
+          "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+          "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
           "source": "The Verge",
-          "published": "2026-11-03T18:26:36.000Z"
+          "published": "2026-11-03T18:31:00.000Z"
         },
         {
-          "title": "Indie games are missing launch dates because Steam is backed up",
-          "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+          "title": "OpenAI says ChatGPT is catching up to Google in search",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
           "source": "The Verge",
-          "published": "2026-11-03T18:14:50.000Z"
+          "published": "2026-11-03T18:30:42.000Z"
         },
         {
           "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
