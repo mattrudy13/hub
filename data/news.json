@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T16:20:48.757Z",
+  "updated": "2026-11-03T17:20:54.109Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "When caring for aging family members becomes cost prohibitive",
+          "link": "https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive",
+          "source": "NPR",
+          "published": "2026-11-03T17:09:56.000Z"
+        },
+        {
+          "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
+          "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-03T17:07:28.000Z"
+        },
+        {
           "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
           "link": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
           "source": "NPR",
           "published": "2026-11-03T15:54:39.000Z"
-        },
-        {
-          "title": "Libya's top religious authority rules against wearing Nike clothes",
-          "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-03T14:56:46.000Z"
-        },
-        {
-          "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
-          "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
-          "source": "NPR",
-          "published": "2026-11-03T14:13:58.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
+          "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
+          "source": "CNBC",
+          "published": "2026-11-03T17:05:29.000Z"
+        },
+        {
           "title": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
           "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
           "source": "CNBC",
           "published": "2026-11-03T15:19:14.000Z"
-        },
-        {
-          "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
-          "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
-          "source": "CNBC",
-          "published": "2026-11-03T14:43:43.000Z"
         },
         {
           "title": "Stocks open mostly higher as investors brace for a volatile Election Day",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Midterm elections 2026: all the news",
-          "link": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+          "title": "The Xbox Nano has a hidden cloud secret",
+          "link": "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity",
           "source": "The Verge",
-          "published": "2026-11-03T15:58:39.000Z"
+          "published": "2026-11-03T17:16:04.000Z"
         },
         {
-          "title": "Apple is all in on AI — its own and everyone else’s",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-          "source": "The Verge",
-          "published": "2026-11-03T15:24:51.000Z"
-        },
-        {
-          "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
-          "link": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
+          "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
+          "link": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
           "source": "Ars Technica",
-          "published": "2026-11-03T14:00:07.000Z"
+          "published": "2026-11-03T17:08:21.000Z"
+        },
+        {
+          "title": "Google is entirely disabling Search in schools that don’t want AI",
+          "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+          "source": "The Verge",
+          "published": "2026-11-03T17:00:04.000Z"
         }
       ]
     }
