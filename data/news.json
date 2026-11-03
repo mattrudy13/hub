@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T13:20:46.852Z",
+  "updated": "2026-11-03T14:20:47.021Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Europe on alert after supermarket freezers hit by cyber-attacks in nine countries",
+          "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
           "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-03T13:12:04.000Z"
+          "published": "2026-11-03T13:55:47.000Z"
         },
         {
-          "title": "US urges Venezuela to release remaining political prisoners",
-          "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
+          "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
+          "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-03T12:09:20.000Z"
+          "published": "2026-11-03T13:44:44.000Z"
         },
         {
           "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=11b8dbe0-054a-487d-983e-774635776ad6&mod=mw_rss_bulletins",
+          "title": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
+          "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+          "source": "CNBC",
+          "published": "2026-11-03T14:18:27.000Z"
+        },
+        {
+          "title": "Versant earnings beat expectations as digital platforms drive growth",
+          "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-11-03T14:17:42.000Z"
+        },
+        {
+          "title": "Are prediction markets overhyping Democrats’ Election Day odds?",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e3a08e7b-73d2-41e4-a7bc-1aefb6f7bf41&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-03T13:15:16.000Z"
-        },
-        {
-          "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
-          "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
-          "source": "CNBC",
-          "published": "2026-11-03T13:01:55.000Z"
-        },
-        {
-          "title": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-          "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
-          "source": "CNBC",
-          "published": "2026-11-03T12:44:15.000Z"
+          "published": "2026-11-03T13:42:32.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs",
-          "link": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera",
+          "title": "Peak Design expands its collection of wireless charging accessories",
+          "link": "https://www.theverge.com/tech/1024484/peak-design-wireless-travel-battery-charging-charger-station-qi",
           "source": "The Verge",
-          "published": "2026-11-03T12:00:00.000Z"
+          "published": "2026-11-03T14:00:00.000Z"
         },
         {
-          "title": "Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship",
-          "link": "https://www.theverge.com/transportation/1024747/rivian-spinoff-also-chris-yu-interview-ebike-production-ramp",
+          "title": "Bambu’s nine-nozzle H3C foretells the future of 3D printing",
+          "link": "https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend",
           "source": "The Verge",
-          "published": "2026-11-03T12:00:00.000Z"
+          "published": "2026-11-03T14:00:00.000Z"
         },
         {
           "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
