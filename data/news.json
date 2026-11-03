@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T20:21:01.014Z",
+  "updated": "2026-11-03T21:20:59.373Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Spanish transport minister resigns days after deadly train crash",
+          "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-03T21:19:57.000Z"
+        },
+        {
           "title": "Seven flights across Europe targeted by suspected bomb threats",
           "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-03T17:56:03.000Z"
+          "published": "2026-11-03T20:42:47.000Z"
         },
         {
           "title": "When caring for aging family members becomes cost prohibitive",
           "link": "https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive",
           "source": "NPR",
           "published": "2026-11-03T17:09:56.000Z"
-        },
-        {
-          "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
-          "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-03T17:07:28.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
+          "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+          "source": "CNBC",
+          "published": "2026-11-03T21:11:34.000Z"
+        },
+        {
+          "title": "Dow ends nearly 200 points down, Nasdaq and S&P 500 rebound as tech stocks climb",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1f0e25ef-56a7-407d-b71b-b0dc028d8eff&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-03T21:02:38.000Z"
+        },
+        {
           "title": "Dow down, Nasdaq and S&P 500 up in final hour as Americans head to the polls",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=746f173d-4c84-43b8-8740-5bfe8119df13&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-03T20:07:56.000Z"
-        },
-        {
-          "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
-          "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
-          "source": "CNBC",
-          "published": "2026-11-03T20:07:50.000Z"
-        },
-        {
-          "title": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
-          "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
-          "source": "CNBC",
-          "published": "2026-11-03T19:25:44.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Apple starts giving Siri AI access to third-party apps",
-          "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+          "title": "Those Jeff Bezos hair transplant photos are very fake",
+          "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
           "source": "The Verge",
-          "published": "2026-11-03T20:16:17.000Z"
+          "published": "2026-11-03T21:01:07.000Z"
         },
         {
-          "title": "You can’t hit a wrong note when playing along with songs on Casio’s new keyboard",
-          "link": "https://www.theverge.com/tech/1025673/casio-digital-piano-keyboard-ct-fs1-feel-sync-technology",
+          "title": "The Pixel Buds Pro 2 have returned to their lowest price to date",
+          "link": "https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-03T19:48:41.000Z"
+          "published": "2026-11-03T20:29:26.000Z"
         },
         {
           "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
