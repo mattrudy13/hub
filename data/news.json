@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T12:20:52.435Z",
+  "updated": "2026-11-03T13:20:46.852Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Europe on alert after supermarket freezers hit by cyber-attacks in nine countries",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-03T13:12:04.000Z"
+        },
+        {
           "title": "US urges Venezuela to release remaining political prisoners",
           "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-03T12:09:20.000Z"
-        },
-        {
-          "title": "Indian tourist killed after two helicopters collide near Everest base camp",
-          "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-03T11:51:08.000Z"
         },
         {
           "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Pfizer hikes full-year outlook, taps company veteran as new CFO",
-          "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
-          "source": "CNBC",
-          "published": "2026-11-03T12:19:01.000Z"
-        },
-        {
-          "title": "Baked by Melissa enters Target with first at-home cupcake mix",
-          "link": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
-          "source": "CNBC",
-          "published": "2026-11-03T12:11:15.000Z"
-        },
-        {
-          "title": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2001bfc1-23dd-4058-9961-277a832d1c46&mod=mw_rss_bulletins",
+          "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=11b8dbe0-054a-487d-983e-774635776ad6&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-03T00:54:13.000Z"
+          "published": "2026-11-03T13:15:16.000Z"
+        },
+        {
+          "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
+          "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+          "source": "CNBC",
+          "published": "2026-11-03T13:01:55.000Z"
+        },
+        {
+          "title": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
+          "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-11-03T12:44:15.000Z"
         }
       ]
     },

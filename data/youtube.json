@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T12:20:54.908Z",
+  "updated": "2026-11-03T13:20:49.743Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "SKqsdo0EH9Q",
+          "title": "Walking in the wrong woods (Squeex plays CH13 Rest Stop)",
+          "published": "2026-11-03T12:38:58Z",
+          "thumb": "https://i.ytimg.com/vi/SKqsdo0EH9Q/mqdefault.jpg",
+          "seen": "2026-11-03T13:20:47.667Z"
+        },
         {
           "id": "LHCpm_luwAA",
           "title": "Trapped in a Chaotic FREAKSHOW (Squeex plays THE WELL IS NOT EMPTY)",
@@ -35,13 +42,6 @@
           "published": "2026-10-30T09:02:45Z",
           "thumb": "https://i.ytimg.com/vi/eQVJK5xZrek/mqdefault.jpg",
           "seen": "2026-10-30T10:21:04.152Z"
-        },
-        {
-          "id": "wqRhCVvEsqg",
-          "title": "I ruined my wife's wedding with thes dresses (Squeex plays Dressmaker)",
-          "published": "2026-10-29T12:13:49Z",
-          "thumb": "https://i.ytimg.com/vi/wqRhCVvEsqg/mqdefault.jpg",
-          "seen": "2026-10-29T12:21:03.519Z"
         }
       ]
     },
