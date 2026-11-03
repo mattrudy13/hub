@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T19:21:05.500Z",
+  "updated": "2026-11-03T20:21:01.014Z",
   "failed": [],
   "sections": [
     {
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
-          "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
-          "source": "CNBC",
-          "published": "2026-11-03T18:52:06.000Z"
-        },
-        {
-          "title": "Why investors shouldn't let today's election results influence their decisions",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=cce514a7-08c1-4a64-a39e-50927780fc88&mod=mw_rss_bulletins",
+          "title": "Dow down, Nasdaq and S&P 500 up in final hour as Americans head to the polls",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=746f173d-4c84-43b8-8740-5bfe8119df13&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-03T18:48:45.000Z"
+          "published": "2026-11-03T20:07:56.000Z"
         },
         {
-          "title": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
+          "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
+          "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
+          "source": "CNBC",
+          "published": "2026-11-03T20:07:50.000Z"
+        },
+        {
+          "title": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
           "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
           "source": "CNBC",
-          "published": "2026-11-03T18:44:24.000Z"
+          "published": "2026-11-03T19:25:44.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-          "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+          "title": "Apple starts giving Siri AI access to third-party apps",
+          "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
           "source": "The Verge",
-          "published": "2026-11-03T18:31:00.000Z"
+          "published": "2026-11-03T20:16:17.000Z"
         },
         {
-          "title": "OpenAI says ChatGPT is catching up to Google in search",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+          "title": "You can’t hit a wrong note when playing along with songs on Casio’s new keyboard",
+          "link": "https://www.theverge.com/tech/1025673/casio-digital-piano-keyboard-ct-fs1-feel-sync-technology",
           "source": "The Verge",
-          "published": "2026-11-03T18:30:42.000Z"
+          "published": "2026-11-03T19:48:41.000Z"
         },
         {
-          "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
-          "link": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+          "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+          "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
           "source": "Ars Technica",
-          "published": "2026-11-03T17:08:21.000Z"
+          "published": "2026-11-03T18:30:27.000Z"
         }
       ]
     }
