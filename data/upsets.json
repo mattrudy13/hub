@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T05:20:46.914Z",
+  "updated": "2026-11-03T11:02:39.682Z",
   "minLine": 7,
   "days": [
     "2026-11-02",
@@ -70,6 +70,28 @@
         "abbr": "SBU",
         "rank": null,
         "score": 71
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-02",
+      "id": "401911517",
+      "line": 9.5,
+      "details": "UCD -9.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911517/north-alabama-uc-davis",
+      "winner": {
+        "id": "2453",
+        "name": "North Alabama",
+        "abbr": "UNA",
+        "rank": null,
+        "score": 79
+      },
+      "loser": {
+        "id": "302",
+        "name": "UC Davis",
+        "abbr": "UCD",
+        "rank": null,
+        "score": 75
       }
     },
     {
@@ -1185,14 +1207,14 @@
     "cbb:401921801": {
       "date": "2026-11-03",
       "fav": "96",
-      "line": 32.5,
-      "details": "UK -32.5"
+      "line": 33.5,
+      "details": "UK -33.5"
     },
     "cbb:401925779": {
       "date": "2026-11-03",
       "fav": "2184",
-      "line": 9.5,
-      "details": "DUQ -9.5"
+      "line": 10.5,
+      "details": "DUQ -10.5"
     },
     "cbb:401921819": {
       "date": "2026-11-03",
@@ -1203,8 +1225,8 @@
     "cbb:401920376": {
       "date": "2026-11-03",
       "fav": "259",
-      "line": 31.5,
-      "details": "VT -31.5"
+      "line": 30.5,
+      "details": "VT -30.5"
     },
     "cbb:401920304": {
       "date": "2026-11-03",
@@ -1221,8 +1243,8 @@
     "cbb:401909551": {
       "date": "2026-11-03",
       "fav": "103",
-      "line": 17.5,
-      "details": "BC -17.5"
+      "line": 16.5,
+      "details": "BC -16.5"
     },
     "cbb:401920422": {
       "date": "2026-11-03",
@@ -1239,20 +1261,20 @@
     "cbb:401929372": {
       "date": "2026-11-03",
       "fav": "8",
-      "line": 40.5,
-      "details": "ARK -40.5"
+      "line": 38.5,
+      "details": "ARK -38.5"
     },
     "cbb:401921808": {
       "date": "2026-11-03",
       "fav": "99",
-      "line": 22.5,
-      "details": "LSU -22.5"
+      "line": 23.5,
+      "details": "LSU -23.5"
     },
     "cbb:401921165": {
       "date": "2026-11-03",
       "fav": "142",
-      "line": 25.5,
-      "details": "MIZ -25.5"
+      "line": 26.5,
+      "details": "MIZ -26.5"
     },
     "cbb:401920806": {
       "date": "2026-11-03",
@@ -1281,14 +1303,19 @@
     "cbb:401920343": {
       "date": "2026-11-03",
       "fav": "2856",
-      "line": 9.5,
-      "details": "CBU -9.5"
+      "line": 8.5,
+      "details": "CBU -8.5"
     },
     "cbb:401920155": {
       "date": "2026-11-03",
       "fav": "21",
       "line": 16.5,
       "details": "SDSU -16.5"
+    },
+    "cbb:401920122": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
     }
   }
 }
