@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-03T01:21:02.806Z",
+  "updated": "2026-11-03T02:20:50.843Z",
   "minLine": 7,
   "days": [
     "2026-11-01",
     "2026-11-02"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-02",
+      "id": "401911261",
+      "line": 10.5,
+      "details": "SBU -10.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911261/youngstown-st-st-bonaventure",
+      "winner": {
+        "id": "2754",
+        "name": "Youngstown St",
+        "abbr": "YSU",
+        "rank": null,
+        "score": 79
+      },
+      "loser": {
+        "id": "179",
+        "name": "St Bonaventure",
+        "abbr": "SBU",
+        "rank": null,
+        "score": 71
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-02",
@@ -26,6 +48,28 @@
         "abbr": "NIU",
         "rank": null,
         "score": 87
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-02",
+      "id": "401911304",
+      "line": 8.5,
+      "details": "BRWN -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911304/new-hampshire-brown",
+      "winner": {
+        "id": "160",
+        "name": "New Hampshire",
+        "abbr": "UNH",
+        "rank": null,
+        "score": 59
+      },
+      "loser": {
+        "id": "225",
+        "name": "Brown",
+        "abbr": "BRWN",
+        "rank": null,
+        "score": 55
       }
     },
     {
@@ -727,8 +771,8 @@
     "cbb:401921060": {
       "date": "2026-11-02",
       "fav": "2539",
-      "line": 14.5,
-      "details": "SF -14.5"
+      "line": 15.5,
+      "details": "SF -15.5"
     },
     "cbb:401920769": {
       "date": "2026-11-02",
@@ -824,6 +868,101 @@
       "line": null
     },
     "cbb:401926200": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926833": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401923317": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401921093": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929383": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401928852": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401928357": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401927341": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926787": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926141": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926077": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401924875": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401923324": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401922247": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401920902": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401920876": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401920354": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401919845": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401918312": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926116": {
       "date": "2026-11-02",
       "fav": null,
       "line": null
