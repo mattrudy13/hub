@@ -110,12 +110,20 @@ counts the ones showing into `data-row` on `<main>`: 4 or 2 take halves, 3 third
   Oct 2026, which is why the API is used.
 - **Cron Worker (`worker/`):** GitHub's schedule ran only 3 of ~10 hourly jobs on 2026-10-23, so the Cloudflare
   Worker `hub-daily-cron` (same account as h2h's proxy) starts the workflow with `workflow_dispatch` at the same
-  times. It has no URL (`workers_dev = false`) and only a `scheduled` handler. Secret `GITHUB_TOKEN`: a
-  fine-grained token for `mattrudy13/hub` only, Actions read/write, set 2026-10-23 and **expiring 2027-01-21** (GitHub
-  only allowed 90 days). Deploy with `cd worker && npx wrangler deploy`
-  (pushing doesn't deploy it). The workflow's own cron stays as a fallback; a doubled run commits nothing new.
-  If runs stop: Cloudflare dashboard → Workers → hub-daily-cron → Logs (kept 3 days; `[observability]` in
-  `wrangler.toml`) shows GitHub's error, e.g. 401 for an expired token.
+  times. Since 2026-11-02 it also starts three other apps' jobs that lose data when GitHub runs them late:
+  cfb-picks `snapshot-odds.yml` (Sun 9 PM, Tue/Fri 10 AM, Sat 9 AM ET; Saturday's ran at 1:27 PM on Oct 31,
+  after the noon kickoffs), te-tracker `snapshot-odds.yml` (Thu 10 AM, Sun 3 AM ET; it passes `source=worker`
+  and the workflow skips a run within 12 h of the last snapshot, so the two triggers don't both spend ~45
+  credits) and kotc-tracker `update-data.yml` (10 AM–6:50 PM ET, before the first tip). The schedule is `JOBS`
+  in `worker/src/index.js`, in ET, so it doesn't shift with daylight saving. One cron trigger (`20,50 * * * *`)
+  keeps it inside the free plan's cron trigger limit. One failed dispatch doesn't stop the others. It has no URL
+  (`workers_dev = false`) and only a `scheduled` handler. Secret `GITHUB_TOKEN`: a fine-grained token for
+  `mattrudy13/hub`, `cfb-picks`, `te-tracker` and `kotc-tracker`, Actions read/write, set 2026-10-23 and
+  **expiring 2027-01-21** (GitHub only allowed 90 days). Deploy with `cd worker && npx wrangler deploy`
+  (pushing doesn't deploy it). Each workflow's own cron stays as a fallback. If runs stop: Cloudflare
+  dashboard → Workers → hub-daily-cron → Logs (kept 3 days; `[observability]` in `wrangler.toml`) shows
+  GitHub's error, e.g. 401 for an expired token or 403/404 for a repo missing from it. Test the schedule
+  by importing `easternTime` / `jobsDue` in Node. The Data Jobs rows with `worker: true` say who started the last run.
 - **Workflow:** hourly at :20 from 10:20 to 04:20 UTC (6 AM–midnight EDT). Each step runs even if another
   fails; changed files are committed as `chore(data): refresh daily data …` (ignoring `updated`), then the
   run fails if any step did, so GitHub emails. "Running late" shows when a file is over 8 h old.

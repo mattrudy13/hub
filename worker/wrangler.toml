@@ -5,8 +5,8 @@ compatibility_date = "2026-10-01"
 workers_dev = false
 
 [triggers]
-# Same times as the workflow's own schedule (UTC): hourly at :20, 6 AM–midnight EDT.
-crons = ["20 0-4,10-23 * * *"]
+# Every hour at :20 and :50 (UTC). Which workflows start when is decided in src/index.js, in ET.
+crons = ["20,50 * * * *"]
 
 # The GitHub token is a secret, not a var. Set it with:
 #   npx wrangler secret put GITHUB_TOKEN
