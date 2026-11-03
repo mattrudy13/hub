@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-03T04:20:46.597Z",
+  "updated": "2026-11-03T05:20:45.936Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Here are Arkansas' 2026 election results",
+          "link": "https://www.npr.org/2026/11/03/g-s1-147136/arkansas-election-results-2026",
+          "source": "NPR",
+          "published": "2026-11-03T05:01:00.000Z"
+        },
         {
           "title": "US strikes Iran ahead of midterm elections",
           "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-03T03:32:36.000Z"
-        },
-        {
-          "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
-          "link": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
-          "source": "NPR",
-          "published": "2026-11-02T20:02:41.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Baked by Melissa enters Target with first at-home cupcake mix",
+          "link": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
+          "source": "CNBC",
+          "published": "2026-11-03T05:01:01.000Z"
+        },
         {
           "title": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2001bfc1-23dd-4058-9961-277a832d1c46&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=364a55dc-e3c3-40ae-b334-5c88ec05909c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-03T00:05:36.000Z"
-        },
-        {
-          "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
-          "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
-          "source": "CNBC",
-          "published": "2026-11-02T14:09:13.000Z"
         }
       ]
     },

@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-03T04:20:48.286Z",
+  "updated": "2026-11-03T05:20:46.914Z",
   "minLine": 7,
   "days": [
-    "2026-11-01",
-    "2026-11-02"
+    "2026-11-02",
+    "2026-11-03"
   ],
   "upsets": [
     {
@@ -137,43 +137,9 @@
         "rank": null,
         "score": 62
       }
-    },
-    {
-      "league": "cbb",
-      "date": "2026-11-01",
-      "id": "401920982",
-      "line": 7.5,
-      "details": "VILL -7.5",
-      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920982/notre-dame-villanova",
-      "winner": {
-        "id": "87",
-        "name": "Notre Dame",
-        "abbr": "ND",
-        "rank": null,
-        "score": 74
-      },
-      "loser": {
-        "id": "222",
-        "name": "Villanova",
-        "abbr": "VILL",
-        "rank": null,
-        "score": 72
-      }
     }
   ],
   "lines": {
-    "cbb:401920982": {
-      "date": "2026-11-01",
-      "fav": "222",
-      "line": 7.5,
-      "details": "VILL -7.5"
-    },
-    "cbb:401920409": {
-      "date": "2026-11-01",
-      "fav": "2272",
-      "line": 9.5,
-      "details": "HPU -9.5"
-    },
     "cbb:401920912": {
       "date": "2026-11-02",
       "fav": "2459",
@@ -1162,6 +1128,167 @@
       "date": "2026-11-02",
       "fav": null,
       "line": null
+    },
+    "cfb:401866453": {
+      "date": "2026-11-03",
+      "fav": "195",
+      "line": 14,
+      "details": "OHIO -14"
+    },
+    "cfb:401866454": {
+      "date": "2026-11-03",
+      "fav": "193",
+      "line": 6,
+      "details": "M-OH -6"
+    },
+    "cbb:401920348": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401925887": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401917508": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926776": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401925921": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401922260": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401920370": {
+      "date": "2026-11-02",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401906848": {
+      "date": "2026-11-03",
+      "fav": "2633",
+      "line": 26.5,
+      "details": "TENN -26.5"
+    },
+    "cbb:401921801": {
+      "date": "2026-11-03",
+      "fav": "96",
+      "line": 32.5,
+      "details": "UK -32.5"
+    },
+    "cbb:401925779": {
+      "date": "2026-11-03",
+      "fav": "2184",
+      "line": 9.5,
+      "details": "DUQ -9.5"
+    },
+    "cbb:401921819": {
+      "date": "2026-11-03",
+      "fav": "2579",
+      "line": 16.5,
+      "details": "SC -16.5"
+    },
+    "cbb:401920376": {
+      "date": "2026-11-03",
+      "fav": "259",
+      "line": 31.5,
+      "details": "VT -31.5"
+    },
+    "cbb:401920304": {
+      "date": "2026-11-03",
+      "fav": "59",
+      "line": 15.5,
+      "details": "GT -15.5"
+    },
+    "cbb:401920061": {
+      "date": "2026-11-03",
+      "fav": "227",
+      "line": 17.5,
+      "details": "URI -17.5"
+    },
+    "cbb:401909551": {
+      "date": "2026-11-03",
+      "fav": "103",
+      "line": 17.5,
+      "details": "BC -17.5"
+    },
+    "cbb:401920422": {
+      "date": "2026-11-03",
+      "fav": "258",
+      "line": 31.5,
+      "details": "UVA -31.5"
+    },
+    "cbb:401906757": {
+      "date": "2026-11-03",
+      "fav": "333",
+      "line": 26.5,
+      "details": "ALA -26.5"
+    },
+    "cbb:401929372": {
+      "date": "2026-11-03",
+      "fav": "8",
+      "line": 40.5,
+      "details": "ARK -40.5"
+    },
+    "cbb:401921808": {
+      "date": "2026-11-03",
+      "fav": "99",
+      "line": 22.5,
+      "details": "LSU -22.5"
+    },
+    "cbb:401921165": {
+      "date": "2026-11-03",
+      "fav": "142",
+      "line": 25.5,
+      "details": "MIZ -25.5"
+    },
+    "cbb:401920806": {
+      "date": "2026-11-03",
+      "fav": "245",
+      "line": 27.5,
+      "details": "TA&M -27.5"
+    },
+    "cbb:401920702": {
+      "date": "2026-11-03",
+      "fav": "2294",
+      "line": 20.5,
+      "details": "IOWA -20.5"
+    },
+    "cbb:401909796": {
+      "date": "2026-11-03",
+      "fav": "2306",
+      "line": 11.5,
+      "details": "KSU -11.5"
+    },
+    "cbb:401924911": {
+      "date": "2026-11-03",
+      "fav": "2439",
+      "line": 21.5,
+      "details": "UNLV -21.5"
+    },
+    "cbb:401920343": {
+      "date": "2026-11-03",
+      "fav": "2856",
+      "line": 9.5,
+      "details": "CBU -9.5"
+    },
+    "cbb:401920155": {
+      "date": "2026-11-03",
+      "fav": "21",
+      "line": 16.5,
+      "details": "SDSU -16.5"
     }
   }
 }
