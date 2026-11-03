@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T22:20:48.219Z",
+  "updated": "2026-11-03T23:20:47.363Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "What Democrats plan to prioritize if they retake the House",
+          "link": "https://www.npr.org/2026/11/03/nx-s1-6026666/what-democrats-plan-to-prioritize-if-they-retake-the-house",
+          "source": "NPR",
+          "published": "2026-11-03T23:11:49.000Z"
+        },
+        {
+          "title": "Results: States decide on voter ID and redistricting ballot measures",
+          "link": "https://www.npr.org/2026/11/03/nx-s1-6027957/results-voter-id-citizenship-ballot-measures",
+          "source": "NPR",
+          "published": "2026-11-03T22:53:23.000Z"
+        },
+        {
           "title": "Spanish transport minister resigns days after deadly train crash",
           "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-03T22:04:09.000Z"
-        },
-        {
-          "title": "NTSB says crucial plane parts found three miles from Florida crash site",
-          "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-03T21:53:38.000Z"
-        },
-        {
-          "title": "A Binance engineer thought he was interviewing for a job. Then the hackers pounced",
-          "link": "https://www.npr.org/2026/11/03/nx-s1-6027799/binance-crypto-exchange-cyber-heist",
-          "source": "NPR",
-          "published": "2026-11-03T21:30:20.000Z"
+          "published": "2026-11-03T22:45:59.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
+          "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
+          "source": "CNBC",
+          "published": "2026-11-03T22:26:20.000Z"
+        },
         {
           "title": "Midterm election live updates: What's at stake for stocks and the economy",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e9a9925a-2227-4da6-9408-455882628ee9&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5d106866-17c4-4951-956e-7c9d16208639&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-03T21:36:35.000Z"
-        },
-        {
-          "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
-          "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
-          "source": "CNBC",
-          "published": "2026-11-03T21:11:34.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
-          "link": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+          "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+          "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
           "source": "The Verge",
-          "published": "2026-11-03T22:15:33.000Z"
+          "published": "2026-11-03T22:59:36.000Z"
         },
         {
-          "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-          "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+          "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
+          "link": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
           "source": "The Verge",
-          "published": "2026-11-03T22:04:02.000Z"
+          "published": "2026-11-03T22:20:50.000Z"
         },
         {
           "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-03T22:20:51.013Z",
-  "from": "2026-11-03T22:20:50Z",
-  "to": "2026-11-17T22:20:50Z",
+  "updated": "2026-11-03T23:20:51.376Z",
+  "from": "2026-11-03T23:20:50Z",
+  "to": "2026-11-17T23:20:50Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -759,6 +759,20 @@
       "url": "https://www.ticketmaster.com/the-bodyguard-touring-norfolk-virginia-11-15-2026/event/01006479BDBB4692",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/c82/88e88dd8-ee10-43c0-af7c-f8e506694c82_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1A7Ptxe",
+      "name": "Lenny Pearce",
+      "date": "2026-11-17",
+      "time": "18:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Dance/Electronic",
+      "venue": "The Norva",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ptxe",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/b0f/179e3fee-6a4e-4a3c-8017-de6ba086eb0f_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
