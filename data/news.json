@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T23:21:34.595Z",
+  "updated": "2026-11-03T00:21:01.368Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Indonesia's toxic haze is giving its neighbours a political headache",
-          "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+          "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+          "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-02T23:02:01.000Z"
+          "published": "2026-11-03T00:08:14.000Z"
         },
         {
-          "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-          "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+          "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+          "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-02T21:10:04.000Z"
+          "published": "2026-11-03T00:07:05.000Z"
         },
         {
           "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Live updates: Apple can't keep up with iPhone Duo demand",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=90837a89-ffe7-456c-99b7-fc3284516f70&mod=mw_rss_bulletins",
+          "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=364a55dc-e3c3-40ae-b334-5c88ec05909c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-02T23:02:18.000Z"
+          "published": "2026-11-03T00:05:36.000Z"
         },
         {
-          "title": "Live updates: Apple records its best year ever for iPhone upgraders",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6ddebdd5-4a95-4cd3-aaec-5e830651e7ce&mod=mw_rss_bulletins",
+          "title": "Want to help your adult kids and grandkids? Give them their inheritance now.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2a20faf4-2e5e-45b8-9065-eae73c34237f&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-02T22:20:17.000Z"
+          "published": "2026-11-02T23:58:59.000Z"
         },
         {
           "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+          "link": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+          "source": "Ars Technica",
+          "published": "2026-11-02T23:30:16.000Z"
+        },
+        {
           "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
           "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
           "source": "The Verge",
           "published": "2026-11-02T22:56:11.000Z"
         },
         {
-          "title": "Apple set an iPhone sales record even without a new standard iPhone",
-          "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
-          "source": "The Verge",
-          "published": "2026-11-02T22:02:36.000Z"
-        },
-        {
-          "title": "Third person dies of bird flu since virus started jumping to livestock",
-          "link": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+          "title": "Why large dogs age faster than small ones, and other October research highlights",
+          "link": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
           "source": "Ars Technica",
-          "published": "2026-11-02T21:21:43.000Z"
+          "published": "2026-11-02T22:54:35.000Z"
         }
       ]
     }
