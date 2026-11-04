@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-04T18:04:23.529Z",
+  "updated": "2026-11-04T18:20:47.400Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Mike Johnson will step aside as top House Republican next Congress",
+          "link": "https://www.npr.org/2026/11/04/g-s1-151854/2026-midterms-mike-johnson-speaker",
+          "source": "NPR",
+          "published": "2026-11-04T18:14:13.000Z"
+        },
         {
           "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
           "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-04T17:45:58.000Z"
-        },
-        {
-          "title": "Back in the majority, Democrats have plans for a long list of Trump investigations",
-          "link": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
-          "source": "NPR",
-          "published": "2026-11-04T17:38:36.000Z"
         }
       ]
     },
@@ -34,7 +34,7 @@
           "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
           "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
           "source": "CNBC",
-          "published": "2026-11-04T17:49:47.000Z"
+          "published": "2026-11-04T18:18:40.000Z"
         },
         {
           "title": "The U.S. economy is barreling ahead — but there’s one big problem",
