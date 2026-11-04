@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-03T23:20:47.363Z",
+  "updated": "2026-11-04T00:01:46.576Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+          "link": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-03T23:58:36.000Z"
+        },
         {
           "title": "What Democrats plan to prioritize if they retake the House",
           "link": "https://www.npr.org/2026/11/03/nx-s1-6026666/what-democrats-plan-to-prioritize-if-they-retake-the-house",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/03/nx-s1-6027957/results-voter-id-citizenship-ballot-measures",
           "source": "NPR",
           "published": "2026-11-03T22:53:23.000Z"
-        },
-        {
-          "title": "Spanish transport minister resigns days after deadly train crash",
-          "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-03T22:45:59.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "This overlooked energy source could solve AI’s power crunch",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=676acefc-42ff-4fcf-9c68-21da36e0a857&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-03T23:20:20.000Z"
+        },
         {
           "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
           "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e9a9925a-2227-4da6-9408-455882628ee9&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-03T22:06:28.000Z"
-        },
-        {
-          "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5d106866-17c4-4951-956e-7c9d16208639&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-03T21:36:35.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Please stop asking me when the AI bubble will pop",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+          "source": "The Verge",
+          "published": "2026-11-03T23:37:45.000Z"
+        },
+        {
           "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
           "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
           "source": "The Verge",
           "published": "2026-11-03T22:59:36.000Z"
         },
         {
-          "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-          "link": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
-          "source": "The Verge",
-          "published": "2026-11-03T22:20:50.000Z"
-        },
-        {
-          "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-          "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+          "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+          "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
           "source": "Ars Technica",
-          "published": "2026-11-03T20:39:55.000Z"
+          "published": "2026-11-03T22:39:37.000Z"
         }
       ]
     }
