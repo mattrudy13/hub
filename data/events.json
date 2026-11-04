@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-04T14:20:57.089Z",
-  "from": "2026-11-04T14:20:56Z",
-  "to": "2026-11-18T14:20:56Z",
+  "updated": "2026-11-04T15:20:51.012Z",
+  "from": "2026-11-04T15:20:50Z",
+  "to": "2026-11-18T15:20:50Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -66,8 +66,8 @@
       "date": "2026-11-06",
       "time": "19:00",
       "status": "onsale",
-      "kind": "Comedy",
-      "genre": "Comedy",
+      "kind": "Arts",
+      "genre": null,
       "venue": "Rivers Casino Portsmouth Event Center",
       "city": "Portsmouth",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Iqt",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T14:20:53.828Z",
+  "updated": "2026-11-04T15:20:48.182Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-          "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+          "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
+          "link": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-04T14:17:58.000Z"
+          "published": "2026-11-04T15:18:03.000Z"
         },
         {
-          "title": "Everything you need to know from the US midterm elections",
-          "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+          "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+          "link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-04T14:05:42.000Z"
+          "published": "2026-11-04T15:01:10.000Z"
         },
         {
-          "title": "The world is reacting to the Democrats' midterm elections victory",
-          "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
+          "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+          "link": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
           "source": "NPR",
-          "published": "2026-11-04T12:34:35.000Z"
+          "published": "2026-11-04T13:38:09.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "CVS to split off drugstore business in major breakup of healthcare giant",
-          "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-          "source": "CNBC",
-          "published": "2026-11-04T13:54:29.000Z"
-        },
-        {
-          "title": "Tesla and SpaceX shares slide as Musk’s political push falls flat",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1280edb9-285f-4e10-ac4a-f9674d2d4ce4&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-04T13:47:53.000Z"
-        },
-        {
-          "title": "McDonald's earnings beat, but traffic to its U.S. restaurants falls",
+          "title": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
           "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
           "source": "CNBC",
-          "published": "2026-11-04T13:24:47.000Z"
+          "published": "2026-11-04T15:05:28.000Z"
+        },
+        {
+          "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+          "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+          "source": "CNBC",
+          "published": "2026-11-04T14:51:50.000Z"
+        },
+        {
+          "title": "Dow opens 1,000 points higher, heading for one of its top days of 2026",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4978c01e-eeba-4e58-aa78-450c74a4a5a0&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-04T14:31:15.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Does opting out of TV tracking work?",
-          "link": "https://www.theverge.com/tech/1026088/northeastern-university-acr-tracking-study",
+          "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
           "source": "The Verge",
-          "published": "2026-11-04T14:00:00.000Z"
+          "published": "2026-11-04T14:46:01.000Z"
         },
         {
-          "title": "Google hasn’t figured out how to make AI pay like its search engine",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+          "title": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network",
+          "link": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
           "source": "The Verge",
-          "published": "2026-11-04T12:00:00.000Z"
+          "published": "2026-11-04T14:38:20.000Z"
         },
         {
           "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
