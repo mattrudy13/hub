@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T01:20:46.020Z",
+  "updated": "2026-11-04T02:20:45.819Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins",
-          "link": "https://www.npr.org/2026/11/03/g-s1-150143/georgia-senate-race-jon-ossoff-mike-collins",
+          "title": "Republican Byron Donalds wins governor's race in Florida",
+          "link": "https://www.npr.org/2026/11/03/g-s1-151260/florida-governor-donalds-jolly",
           "source": "NPR",
-          "published": "2026-11-04T00:55:57.000Z"
+          "published": "2026-11-04T02:10:59.000Z"
+        },
+        {
+          "title": "Democrat Roy Cooper wins a North Carolina Senate seat",
+          "link": "https://www.npr.org/2026/11/03/g-s1-150958/north-carolina-senate-results",
+          "source": "NPR",
+          "published": "2026-11-04T01:24:24.000Z"
         },
         {
           "title": "ANC under pressure to reverse South Africa decline",
           "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-04T00:03:19.000Z"
-        },
-        {
-          "title": "Election Day 2026: Photos from around the country",
-          "link": "https://www.npr.org/sections/the-picture-show/2026/11/03/g-s1-151528/election-day-2026-photos-from-around-the-country",
-          "source": "NPR",
-          "published": "2026-11-04T00:00:10.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Live updates: Stock futures turn lower as Democrats on track for strong gains",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d86c26b9-7e29-43d6-94e2-9ae9fd53962a&mod=mw_rss_bulletins",
+          "title": "Live updates: Dollar dives, Treasury yields fall as election polls start closing",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1b97aa34-2108-43ff-93bb-fac2928ee9ed&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-04T01:07:48.000Z"
+          "published": "2026-11-04T01:43:53.000Z"
         },
         {
-          "title": "The internet is ‘dying’: AI is eating it and obliterating these business models",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=19a2591b-23d4-4c31-8a23-ad3b7cbaa14b&mod=mw_rss_bulletins",
+          "title": "Live: Nasdaq-100 futures hit lowest level since July as early results favor Dems",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d41d7bf7-4f01-4993-b1f4-4b304158116a&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-04T00:40:18.000Z"
+          "published": "2026-11-04T01:26:03.000Z"
         },
         {
           "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
