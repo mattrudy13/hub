@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T00:01:46.576Z",
+  "updated": "2026-11-04T00:20:46.143Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "ANC under pressure to reverse South Africa decline",
+          "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-04T00:03:19.000Z"
+        },
+        {
+          "title": "Election Day 2026: Photos from around the country",
+          "link": "https://www.npr.org/sections/the-picture-show/2026/11/03/g-s1-151528/election-day-2026-photos-from-around-the-country",
+          "source": "NPR",
+          "published": "2026-11-04T00:00:10.000Z"
+        },
+        {
           "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
           "link": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-03T23:58:36.000Z"
-        },
-        {
-          "title": "What Democrats plan to prioritize if they retake the House",
-          "link": "https://www.npr.org/2026/11/03/nx-s1-6026666/what-democrats-plan-to-prioritize-if-they-retake-the-house",
-          "source": "NPR",
-          "published": "2026-11-03T23:11:49.000Z"
-        },
-        {
-          "title": "Results: States decide on voter ID and redistricting ballot measures",
-          "link": "https://www.npr.org/2026/11/03/nx-s1-6027957/results-voter-id-citizenship-ballot-measures",
-          "source": "NPR",
-          "published": "2026-11-03T22:53:23.000Z"
         }
       ]
     },
