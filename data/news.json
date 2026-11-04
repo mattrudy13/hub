@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-04T22:20:47.284Z",
+  "updated": "2026-11-04T23:20:55.642Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+          "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-04T22:48:43.000Z"
+        },
         {
           "title": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
           "link": "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress",
           "source": "NPR",
           "published": "2026-11-04T21:11:23.000Z"
-        },
-        {
-          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-          "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-04T20:22:40.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "4 market-moving issues investors should watch now that the midterms are over",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2fc800d4-cad3-49c2-9238-b9ccd6d0163c&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-04T22:45:15.000Z"
+        },
         {
           "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
           "link": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ce28fe3d-b913-443f-92ec-6c3ff9e89e67&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-04T21:39:39.000Z"
-        },
-        {
-          "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
-          "link": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
-          "source": "CNBC",
-          "published": "2026-11-04T21:04:47.000Z"
         }
       ]
     },
@@ -54,6 +54,12 @@
       "key": "tech",
       "name": "Tech",
       "items": [
+        {
+          "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+          "source": "The Verge",
+          "published": "2026-11-04T22:42:15.000Z"
+        },
         {
           "title": "17 better ways Elon Musk could have wasted $446 million",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
           "source": "Ars Technica",
           "published": "2026-11-04T21:38:49.000Z"
-        },
-        {
-          "title": "How I learned to love an obnoxious phone grip",
-          "link": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
-          "source": "The Verge",
-          "published": "2026-11-04T21:30:00.000Z"
         }
       ]
     }
