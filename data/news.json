@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T13:20:46.511Z",
+  "updated": "2026-11-04T14:20:53.828Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "World reacts to Democrats' midterm elections victory",
+          "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+          "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-04T14:17:58.000Z"
+        },
+        {
+          "title": "Everything you need to know from the US midterm elections",
+          "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-04T14:05:42.000Z"
+        },
+        {
+          "title": "The world is reacting to the Democrats' midterm elections victory",
           "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
           "source": "NPR",
           "published": "2026-11-04T12:34:35.000Z"
-        },
-        {
-          "title": "Sharp objects found in Halloween sweets in three European nations",
-          "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-04T12:34:33.000Z"
-        },
-        {
-          "title": "Iran's chief negotiator says Americans voted 'no to war'",
-          "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-04T12:21:21.000Z"
         }
       ]
     },
@@ -34,19 +34,19 @@
           "title": "CVS to split off drugstore business in major breakup of healthcare giant",
           "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
           "source": "CNBC",
-          "published": "2026-11-04T12:35:05.000Z"
+          "published": "2026-11-04T13:54:29.000Z"
+        },
+        {
+          "title": "Tesla and SpaceX shares slide as Musk’s political push falls flat",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1280edb9-285f-4e10-ac4a-f9674d2d4ce4&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-04T13:47:53.000Z"
         },
         {
           "title": "McDonald's earnings beat, but traffic to its U.S. restaurants falls",
           "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
           "source": "CNBC",
-          "published": "2026-11-04T12:24:23.000Z"
-        },
-        {
-          "title": "Economic report: ADP jobs report and manufacturing, trade data coming",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=05314cbd-7113-41a8-8b62-403dc112b931&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-04T12:15:46.000Z"
+          "published": "2026-11-04T13:24:47.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Does opting out of TV tracking work?",
+          "link": "https://www.theverge.com/tech/1026088/northeastern-university-acr-tracking-study",
+          "source": "The Verge",
+          "published": "2026-11-04T14:00:00.000Z"
+        },
+        {
           "title": "Google hasn’t figured out how to make AI pay like its search engine",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
           "source": "The Verge",
           "published": "2026-11-04T12:00:00.000Z"
-        },
-        {
-          "title": "The Legend of Zelda: Ocarina of Time never gets old",
-          "link": "https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2",
-          "source": "The Verge",
-          "published": "2026-11-04T11:00:00.000Z"
         },
         {
           "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
