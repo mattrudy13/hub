@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T19:20:46.598Z",
+  "updated": "2026-11-04T20:20:46.335Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Herbert Blomstedt, conductor of great orchestras for seven decades, dies at 99",
+          "link": "https://www.npr.org/2026/11/04/nx-s1-5740271/herbert-blomstedt-conductor-dead",
+          "source": "NPR",
+          "published": "2026-11-04T20:11:14.000Z"
+        },
+        {
           "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
           "link": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
           "source": "NPR",
           "published": "2026-11-04T18:37:34.000Z"
-        },
-        {
-          "title": "Mike Johnson will step aside as top House Republican next Congress",
-          "link": "https://www.npr.org/2026/11/04/g-s1-151854/2026-midterms-mike-johnson-speaker",
-          "source": "NPR",
-          "published": "2026-11-04T18:14:13.000Z"
         },
         {
           "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "These stocks are today's big winners and losers after Democrats trounced Trump",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f1bc1ffe-74f1-4839-ab00-12c90eb78278&mod=mw_rss_bulletins",
+          "title": "Dow, Nasdaq and S&P 500 soaring in final hour as Wall Street reacts to blue wave",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=eceb020b-204e-4880-886b-db423aed089d&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-04T18:46:45.000Z"
+          "published": "2026-11-04T20:10:38.000Z"
         },
         {
-          "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
-          "link": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
+          "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
+          "link": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
           "source": "CNBC",
-          "published": "2026-11-04T18:37:11.000Z"
+          "published": "2026-11-04T20:04:26.000Z"
         },
         {
-          "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
-          "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+          "title": "CVS Health plans to split itself up. Here's why a breakup could make sense now",
+          "link": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html",
           "source": "CNBC",
-          "published": "2026-11-04T18:35:35.000Z"
+          "published": "2026-11-04T19:58:41.000Z"
         }
       ]
     },
