@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T02:20:46.488Z",
+  "updated": "2026-11-04T03:20:46.917Z",
   "minLine": 7,
   "days": [
     "2026-11-02",
@@ -48,6 +48,28 @@
         "abbr": "ISU",
         "rank": 18,
         "score": 76
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-03",
+      "id": "401909796",
+      "line": 11.5,
+      "details": "KSU -11.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909796/s-dakota-st-kansas-st",
+      "winner": {
+        "id": "2571",
+        "name": "S Dakota St",
+        "abbr": "SDST",
+        "rank": null,
+        "score": 68
+      },
+      "loser": {
+        "id": "2306",
+        "name": "Kansas St",
+        "abbr": "KSU",
+        "rank": null,
+        "score": 66
       }
     },
     {
@@ -1318,6 +1340,21 @@
       "line": null
     },
     "cbb:401926180": {
+      "date": "2026-11-03",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401928621": {
+      "date": "2026-11-03",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401927385": {
+      "date": "2026-11-03",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401924950": {
       "date": "2026-11-03",
       "fav": null,
       "line": null
