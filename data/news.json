@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T15:20:48.182Z",
+  "updated": "2026-11-04T16:20:46.582Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
-          "link": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
+          "title": "Israel's president begins consultations with parties after election deadlock",
+          "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-04T15:18:03.000Z"
+          "published": "2026-11-04T16:18:21.000Z"
         },
         {
-          "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-          "link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+          "title": "Secret police files released in Hungary, 47 years after fall of communism",
+          "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-04T15:01:10.000Z"
+          "published": "2026-11-04T15:28:18.000Z"
         },
         {
           "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
-          "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
-          "source": "CNBC",
-          "published": "2026-11-04T15:05:28.000Z"
-        },
-        {
-          "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
-          "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-          "source": "CNBC",
-          "published": "2026-11-04T14:51:50.000Z"
-        },
-        {
-          "title": "Dow opens 1,000 points higher, heading for one of its top days of 2026",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4978c01e-eeba-4e58-aa78-450c74a4a5a0&mod=mw_rss_bulletins",
+          "title": "Chip stocks are falling today as election results rattle investors",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7f67f49b-a017-43a6-b33b-564e4726a57b&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-04T14:31:15.000Z"
+          "published": "2026-11-04T16:04:31.000Z"
+        },
+        {
+          "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+          "link": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
+          "source": "CNBC",
+          "published": "2026-11-04T15:45:51.000Z"
+        },
+        {
+          "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
+          "link": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
+          "source": "CNBC",
+          "published": "2026-11-04T15:35:23.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+          "title": "Rian Johnson explains why he had to build his own iPhone camera app",
+          "link": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
           "source": "The Verge",
-          "published": "2026-11-04T14:46:01.000Z"
+          "published": "2026-11-04T16:10:05.000Z"
         },
         {
-          "title": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network",
-          "link": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
-          "source": "The Verge",
-          "published": "2026-11-04T14:38:20.000Z"
-        },
-        {
-          "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
-          "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+          "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+          "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
           "source": "Ars Technica",
-          "published": "2026-11-03T22:39:37.000Z"
+          "published": "2026-11-04T16:06:03.000Z"
+        },
+        {
+          "title": "Data centers lost the midterms",
+          "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+          "source": "The Verge",
+          "published": "2026-11-04T16:05:39.000Z"
         }
       ]
     }
