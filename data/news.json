@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T12:20:46.703Z",
+  "updated": "2026-11-04T12:48:53.488Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "6 takeaways from Democrats' big wave on election night",
-          "link": "https://www.npr.org/2026/11/04/nx-s1-6022216/midterms-democrats-trump-republicans-analysis",
+          "title": "World reacts to Democrats' midterm elections victory",
+          "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
           "source": "NPR",
-          "published": "2026-11-04T12:02:38.000Z"
+          "published": "2026-11-04T12:34:35.000Z"
         },
         {
-          "title": "Everything you need to know from the US midterm elections",
-          "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+          "title": "Iran's chief negotiator says Americans voted 'no to war'",
+          "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-04T12:01:07.000Z"
+          "published": "2026-11-04T12:21:21.000Z"
         },
         {
-          "title": "ANC under pressure to reverse South Africa decline",
-          "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-04T11:47:44.000Z"
+          "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+          "link": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+          "source": "NPR",
+          "published": "2026-11-04T12:18:39.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "CVS to split off drugstore business in major breakup of healthcare giant",
+          "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+          "source": "CNBC",
+          "published": "2026-11-04T12:35:05.000Z"
+        },
+        {
+          "title": "McDonald's earnings beat, but traffic to its U.S. restaurants falls",
+          "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+          "source": "CNBC",
+          "published": "2026-11-04T12:24:23.000Z"
+        },
+        {
           "title": "Economic report: ADP jobs report and manufacturing, trade data coming",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=05314cbd-7113-41a8-8b62-403dc112b931&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-04T12:15:46.000Z"
-        },
-        {
-          "title": "McDonald's earnings beat, but traffic to chain's U.S. restaurants falls",
-          "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
-          "source": "CNBC",
-          "published": "2026-11-04T12:13:31.000Z"
-        },
-        {
-          "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
-          "link": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
-          "source": "CNBC",
-          "published": "2026-11-04T12:08:15.000Z"
         }
       ]
     },
