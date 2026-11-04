@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T16:20:46.582Z",
+  "updated": "2026-11-04T17:20:46.356Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Israel's president begins consultations with parties after election deadlock",
-          "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+          "title": "Iran's chief negotiator says Americans voted 'no to war'",
+          "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-04T16:18:21.000Z"
+          "published": "2026-11-04T16:59:15.000Z"
         },
         {
-          "title": "Secret police files released in Hungary, 47 years after fall of communism",
-          "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
+          "title": "'Most difficult days of my life' for keeper Owono",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-04T15:28:18.000Z"
+          "published": "2026-11-04T16:40:38.000Z"
         },
         {
           "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Chip stocks are falling today as election results rattle investors",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7f67f49b-a017-43a6-b33b-564e4726a57b&mod=mw_rss_bulletins",
+          "title": "Dow jumps 1,500 points, heading for best day of 2026 — live updates",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c62bb8a5-1311-453d-b98b-310eb6fdb245&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-04T16:04:31.000Z"
+          "published": "2026-11-04T17:00:02.000Z"
         },
         {
-          "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
-          "link": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
-          "source": "CNBC",
-          "published": "2026-11-04T15:45:51.000Z"
+          "title": "The midterm elections are over. Read a recap of the action.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=dd1b14ac-389e-4ea7-86e3-861a3321f54e&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-04T16:51:06.000Z"
         },
         {
-          "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
-          "link": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
+          "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+          "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
           "source": "CNBC",
-          "published": "2026-11-04T15:35:23.000Z"
+          "published": "2026-11-04T16:35:50.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Rian Johnson explains why he had to build his own iPhone camera app",
-          "link": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
+          "title": "God of War Laufey delayed until May",
+          "link": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay",
           "source": "The Verge",
-          "published": "2026-11-04T16:10:05.000Z"
+          "published": "2026-11-04T17:10:31.000Z"
+        },
+        {
+          "title": "Nintendo is losing a Switch cartridge supplier",
+          "link": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+          "source": "The Verge",
+          "published": "2026-11-04T17:03:32.000Z"
         },
         {
           "title": "Binance says hackers who stole billions in crypto spent months planning heist",
           "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
           "source": "Ars Technica",
           "published": "2026-11-04T16:06:03.000Z"
-        },
-        {
-          "title": "Data centers lost the midterms",
-          "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-          "source": "The Verge",
-          "published": "2026-11-04T16:05:39.000Z"
         }
       ]
     }
