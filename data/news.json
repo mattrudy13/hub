@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T04:20:46.613Z",
+  "updated": "2026-11-04T05:20:46.129Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Democrat Rob Sand wins Iowa governor's race, ending GOP control of the office",
-          "link": "https://www.npr.org/2026/11/03/g-s1-151136/democrat-rob-sand-wins-iowa-governors-race-ending-gop-control-of-the-office",
+          "title": "Democrats win the Senate, setting up divided government for remainder of Trump's term",
+          "link": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
           "source": "NPR",
-          "published": "2026-11-04T04:16:59.000Z"
+          "published": "2026-11-04T04:44:55.000Z"
         },
         {
-          "title": "Missouri voters turn down a Republican-backed congressional map",
-          "link": "https://www.npr.org/2026/11/03/nx-s1-6028028/missouri-redistricting-ballot-measure",
+          "title": "Democrat Josh Turek wins the Senate seat in Iowa",
+          "link": "https://www.npr.org/2026/11/03/g-s1-148956/iowa-senate-race-josh-turek",
           "source": "NPR",
-          "published": "2026-11-04T04:11:48.000Z"
+          "published": "2026-11-04T04:37:55.000Z"
         },
         {
-          "title": "Anthony Zurcher: Democrats push deep into Republican territory with historic wins",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+          "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+          "link": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-04T03:34:58.000Z"
+          "published": "2026-11-04T03:46:10.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "McDonald's is about to report earnings. Here's what to expect",
+          "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+          "source": "CNBC",
+          "published": "2026-11-04T05:01:01.000Z"
+        },
+        {
+          "title": "Democrats take the Senate. Here’s what it means for your finances.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=828a50d9-8df2-458f-b77f-e83e1fc44dc7&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-04T04:49:41.000Z"
+        },
+        {
           "title": "Live updates: Nasdaq futures down 2% as AI trade takes political gut punch",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ecd3483f-06cc-4176-9e35-cc17b771bb7c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-04T03:03:40.000Z"
-        },
-        {
-          "title": "Live: 'Magnificent Seven' stocks drop as Democrats expected to take House",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d6cd842a-d5b9-4017-ad38-15a28a3efc84&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-04T02:27:01.000Z"
-        },
-        {
-          "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
-          "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
-          "source": "CNBC",
-          "published": "2026-11-03T22:26:20.000Z"
         }
       ]
     },
