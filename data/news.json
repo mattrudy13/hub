@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T06:41:54.279Z",
+  "updated": "2026-11-04T12:20:46.703Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-04T06:14:20.000Z"
+          "title": "6 takeaways from Democrats' big wave on election night",
+          "link": "https://www.npr.org/2026/11/04/nx-s1-6022216/midterms-democrats-trump-republicans-analysis",
+          "source": "NPR",
+          "published": "2026-11-04T12:02:38.000Z"
         },
         {
-          "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
+          "title": "Everything you need to know from the US midterm elections",
           "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-04T06:13:09.000Z"
+          "published": "2026-11-04T12:01:07.000Z"
         },
         {
-          "title": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
-          "link": "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
-          "source": "NPR",
-          "published": "2026-11-04T06:02:31.000Z"
+          "title": "ANC under pressure to reverse South Africa decline",
+          "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-04T11:47:44.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "McDonald's is about to report earnings. Here's what to expect",
+          "title": "Economic report: ADP jobs report and manufacturing, trade data coming",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=05314cbd-7113-41a8-8b62-403dc112b931&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-04T12:15:46.000Z"
+        },
+        {
+          "title": "McDonald's earnings beat, but traffic to chain's U.S. restaurants falls",
           "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
           "source": "CNBC",
-          "published": "2026-11-04T05:01:01.000Z"
+          "published": "2026-11-04T12:13:31.000Z"
         },
         {
-          "title": "Democrats take the Senate. Here’s what it means for your finances.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=828a50d9-8df2-458f-b77f-e83e1fc44dc7&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-04T04:49:41.000Z"
-        },
-        {
-          "title": "Live updates: Nasdaq futures down 2% as AI trade takes political gut punch",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ecd3483f-06cc-4176-9e35-cc17b771bb7c&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-04T03:03:40.000Z"
+          "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
+          "link": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-11-04T12:08:15.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
-          "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+          "title": "Google hasn’t figured out how to make AI pay like its search engine",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
           "source": "The Verge",
-          "published": "2026-11-04T01:15:34.000Z"
+          "published": "2026-11-04T12:00:00.000Z"
         },
         {
-          "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
-          "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+          "title": "The Legend of Zelda: Ocarina of Time never gets old",
+          "link": "https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2",
           "source": "The Verge",
-          "published": "2026-11-04T01:02:53.000Z"
+          "published": "2026-11-04T11:00:00.000Z"
         },
         {
           "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
