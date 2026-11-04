@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-04T00:20:46.143Z",
+  "updated": "2026-11-04T01:20:46.020Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins",
+          "link": "https://www.npr.org/2026/11/03/g-s1-150143/georgia-senate-race-jon-ossoff-mike-collins",
+          "source": "NPR",
+          "published": "2026-11-04T00:55:57.000Z"
+        },
         {
           "title": "ANC under pressure to reverse South Africa decline",
           "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/sections/the-picture-show/2026/11/03/g-s1-151528/election-day-2026-photos-from-around-the-country",
           "source": "NPR",
           "published": "2026-11-04T00:00:10.000Z"
-        },
-        {
-          "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
-          "link": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-03T23:58:36.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "This overlooked energy source could solve AI’s power crunch",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=676acefc-42ff-4fcf-9c68-21da36e0a857&mod=mw_rss_bulletins",
+          "title": "Live updates: Stock futures turn lower as Democrats on track for strong gains",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d86c26b9-7e29-43d6-94e2-9ae9fd53962a&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-03T23:20:20.000Z"
+          "published": "2026-11-04T01:07:48.000Z"
+        },
+        {
+          "title": "The internet is ‘dying’: AI is eating it and obliterating these business models",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=19a2591b-23d4-4c31-8a23-ad3b7cbaa14b&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-04T00:40:18.000Z"
         },
         {
           "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
           "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
           "source": "CNBC",
           "published": "2026-11-03T22:26:20.000Z"
-        },
-        {
-          "title": "Midterm election live updates: What's at stake for stocks and the economy",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e9a9925a-2227-4da6-9408-455882628ee9&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-03T22:06:28.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Please stop asking me when the AI bubble will pop",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+          "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
+          "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
           "source": "The Verge",
-          "published": "2026-11-03T23:37:45.000Z"
+          "published": "2026-11-04T01:15:34.000Z"
         },
         {
-          "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
-          "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+          "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+          "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
           "source": "The Verge",
-          "published": "2026-11-03T22:59:36.000Z"
+          "published": "2026-11-04T01:02:53.000Z"
         },
         {
           "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",

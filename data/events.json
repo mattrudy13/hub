@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-04T00:20:48.427Z",
-  "from": "2026-11-04T00:20:47Z",
-  "to": "2026-11-18T00:20:47Z",
+  "updated": "2026-11-04T01:20:49.079Z",
+  "from": "2026-11-04T01:20:48Z",
+  "to": "2026-11-18T01:20:48Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vvG17Z_5y2FFlY",
-      "name": "Holywatr: Deo Gratias Tour",
-      "date": "2026-11-03",
-      "time": "20:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Rock",
-      "venue": "Elevation 27",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/holywatr-deo-gratias-tour-virginia-beach-virginia-11-03-2026/event/010064BE4F208AF0",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/0ae/7226e100-41ea-4d30-bb48-b8a6c29880ae_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "Z7r9jZ1AA7d8g",
       "name": "Old Dominion Monarchs Mens Basketball vs. Regent University Royals Mens Basketball",
@@ -773,6 +759,20 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ptxe",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/b0f/179e3fee-6a4e-4a3c-8017-de6ba086eb0f_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv177Z_fGkSrHCsl",
+      "name": "David Baldacci",
+      "date": "2026-11-17",
+      "time": "19:30",
+      "status": "onsale",
+      "kind": "Other",
+      "genre": "Lecture/Seminar",
+      "venue": "Harrison Opera House",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/david-baldacci-norfolk-virginia-11-17-2026/event/0100654CDEF0EC6B",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/aca/e27cc982-d4cf-4371-a8a5-1c00990b3aca_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
