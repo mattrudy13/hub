@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-04T18:20:47.400Z",
+  "updated": "2026-11-04T19:20:46.598Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
+          "link": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
+          "source": "NPR",
+          "published": "2026-11-04T18:37:34.000Z"
+        },
         {
           "title": "Mike Johnson will step aside as top House Republican next Congress",
           "link": "https://www.npr.org/2026/11/04/g-s1-151854/2026-midterms-mike-johnson-speaker",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-04T18:01:31.000Z"
-        },
-        {
-          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-          "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-04T17:45:58.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "These stocks are today's big winners and losers after Democrats trounced Trump",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f1bc1ffe-74f1-4839-ab00-12c90eb78278&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-04T18:46:45.000Z"
+        },
+        {
+          "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+          "link": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
+          "source": "CNBC",
+          "published": "2026-11-04T18:37:11.000Z"
+        },
+        {
           "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
           "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
           "source": "CNBC",
-          "published": "2026-11-04T18:18:40.000Z"
-        },
-        {
-          "title": "The U.S. economy is barreling ahead — but there’s one big problem",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=300c1c15-d2fb-4744-97c1-6df70d538e43&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-04T17:26:37.000Z"
-        },
-        {
-          "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
-          "link": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
-          "source": "CNBC",
-          "published": "2026-11-04T17:21:06.000Z"
+          "published": "2026-11-04T18:35:35.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-          "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+          "title": "Google’s Pixel 11 phones are up to 27 percent off",
+          "link": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-04T18:00:00.000Z"
+          "published": "2026-11-04T19:00:00.000Z"
         },
         {
-          "title": "ChatGPT will now make you animated GIFs",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+          "title": "Xbox previews two new ways to control cloud games",
+          "link": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
           "source": "The Verge",
-          "published": "2026-11-04T18:00:00.000Z"
+          "published": "2026-11-04T19:00:00.000Z"
         },
         {
-          "title": "Binance says hackers who stole billions in crypto spent months planning heist",
-          "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+          "title": "People say they want small smartphones—the Enough Phone will put that to the test",
+          "link": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
           "source": "Ars Technica",
-          "published": "2026-11-04T16:06:03.000Z"
+          "published": "2026-11-04T18:00:40.000Z"
         }
       ]
     }
