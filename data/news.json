@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T23:46:50.411Z",
+  "updated": "2026-11-05T00:20:46.599Z",
   "failed": [],
   "sections": [
     {
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+          "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+          "source": "Ars Technica",
+          "published": "2026-11-04T22:47:51.000Z"
+        },
+        {
           "title": "Qualcomm is betting big on data centers as smartphone sales sink",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
           "source": "The Verge",
           "published": "2026-11-04T22:42:15.000Z"
         },
         {
-          "title": "17 better ways Elon Musk could have wasted $446 million",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-          "source": "The Verge",
-          "published": "2026-11-04T21:45:00.000Z"
-        },
-        {
-          "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
-          "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
+          "title": "Hackers exploited iOS and Android flaws to infect phones",
+          "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
           "source": "Ars Technica",
-          "published": "2026-11-04T21:38:49.000Z"
+          "published": "2026-11-04T22:26:49.000Z"
         }
       ]
     }

@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-04T23:46:53.258Z",
-  "from": "2026-11-04T23:46:52Z",
-  "to": "2026-11-18T23:46:52Z",
+  "updated": "2026-11-05T00:20:49.005Z",
+  "from": "2026-11-05T00:20:48Z",
+  "to": "2026-11-19T00:20:48Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1AA7d8g",
-      "name": "Old Dominion Monarchs Mens Basketball vs. Regent University Royals Mens Basketball",
-      "date": "2026-11-04",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Basketball",
-      "venue": "Chartway Arena at Ted Constant Convocation Center",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7d8g",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "Z7r9jZ1AA7-1A",
       "name": "Old Dominion Monarchs Womens Basketball vs. Virginia State Trojans Womens Basketball",
@@ -773,6 +759,20 @@
       "url": "https://www.ticketmaster.com/david-baldacci-norfolk-virginia-11-17-2026/event/0100654CDEF0EC6B",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/e/aca/e27cc982-d4cf-4371-a8a5-1c00990b3aca_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkfAGkdpCzPu",
+      "name": "Norfolk Admirals vs. Trenton Ironhawks",
+      "date": "2026-11-18",
+      "time": "19:05",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Hockey",
+      "venue": "Scope Arena",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/norfolk-admirals-vs-trenton-ironhawks-norfolk-virginia-11-18-2026/event/01006505D63B894D",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/a82/1bbe9229-3e86-41b2-89a6-3f9ee9488a82_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
