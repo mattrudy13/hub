@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T11:20:47.984Z",
+  "updated": "2026-11-05T12:20:47.584Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
+          "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
+          "source": "NPR",
+          "published": "2026-11-05T12:02:24.000Z"
+        },
+        {
           "title": "Ronaldo retires from Portugal duty",
           "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-05T11:17:03.000Z"
+          "published": "2026-11-05T11:56:02.000Z"
         },
         {
           "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
           "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-05T10:33:21.000Z"
-        },
-        {
-          "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction",
-          "source": "NPR",
-          "published": "2026-11-05T10:02:00.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Discord is ditching Electron and its new app uses less RAM",
+          "link": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+          "source": "The Verge",
+          "published": "2026-11-05T11:39:42.000Z"
+        },
+        {
           "title": "Playstation and Spider-Man performance see Sony profits surge",
           "link": "https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation",
           "source": "The Verge",
           "published": "2026-11-05T11:00:15.000Z"
-        },
-        {
-          "title": "Amazon is getting back into restaurant delivery with Uber Eats team-up",
-          "link": "https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership",
-          "source": "The Verge",
-          "published": "2026-11-05T11:00:00.000Z"
         },
         {
           "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
