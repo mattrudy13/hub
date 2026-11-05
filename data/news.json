@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-05T18:07:34.843Z",
+  "updated": "2026-11-05T18:20:46.747Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Head of Justice Department office on Civil Rights resigns",
+          "link": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns",
+          "source": "NPR",
+          "published": "2026-11-05T18:01:57.000Z"
+        },
         {
           "title": "French protests see numbers surge as unions join strikes over high cost of living",
           "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-05T17:40:40.000Z"
-        },
-        {
-          "title": "Discursive Verses: Is 'Spend Dat' the best financial indicator of America's grift economy?",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat",
-          "source": "NPR",
-          "published": "2026-11-05T16:30:00.000Z"
         }
       ]
     },
