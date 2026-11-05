@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T12:20:47.584Z",
+  "updated": "2026-11-05T13:20:56.353Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
-          "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
+          "title": "France holds new strikes and protests as unions demand immediate answers",
+          "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-05T13:04:04.000Z"
+        },
+        {
+          "title": "How America voted in maps and charts",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-05T12:32:52.000Z"
+        },
+        {
+          "title": "Teens worldwide aren't getting enough exercise -- especially girls",
+          "link": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
           "source": "NPR",
-          "published": "2026-11-05T12:02:24.000Z"
-        },
-        {
-          "title": "Ronaldo retires from Portugal duty",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-05T11:56:02.000Z"
-        },
-        {
-          "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-          "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-05T10:33:21.000Z"
+          "published": "2026-11-05T12:24:14.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Economic calendar: Jobless claims and productivity data coming soon",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b56f0c81-25e1-4157-bdb8-0894b731515a&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-05T12:32:54.000Z"
+        },
         {
           "title": "Consumers are spending on physical gifts even as travel tops wish lists, Visa survey finds",
           "link": "https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f3eba7ba-eb4d-4cec-a3ed-a5d60a9edb10&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-05T10:27:25.000Z"
-        },
-        {
-          "title": "Democrats’ midterm win revives a difficult Social Security question: Who pays?",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=748ee466-f654-4b7e-a8e4-e4266d6dce9e&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-05T01:09:25.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Discord is ditching Electron and its new app uses less RAM",
-          "link": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+          "title": "Spotify is coming to United Airlines seatbacks — with help from Starlink",
+          "link": "https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi",
           "source": "The Verge",
-          "published": "2026-11-05T11:39:42.000Z"
+          "published": "2026-11-05T13:00:00.000Z"
         },
         {
-          "title": "Playstation and Spider-Man performance see Sony profits surge",
-          "link": "https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation",
+          "title": "Motorola is going ultra premium with its $1,600 ‘Signature’ phone",
+          "link": "https://www.theverge.com/gadgets/1026643/motorola-signature-27-price-specs-availability",
           "source": "The Verge",
-          "published": "2026-11-05T11:00:15.000Z"
+          "published": "2026-11-05T13:00:00.000Z"
         },
         {
           "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
