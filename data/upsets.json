@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T01:20:46.099Z",
+  "updated": "2026-11-05T02:20:47.945Z",
   "minLine": 7,
   "days": [
     "2026-11-03",
@@ -322,6 +322,46 @@
       "fav": "2608",
       "line": 13.5,
       "details": "SMC -13.5"
+    },
+    "cbb:401929438": {
+      "date": "2026-11-04",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401920232": {
+      "date": "2026-11-04",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929450": {
+      "date": "2026-11-04",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401928853": {
+      "date": "2026-11-04",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926142": {
+      "date": "2026-11-04",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401922290": {
+      "date": "2026-11-04",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926111": {
+      "date": "2026-11-04",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401917977": {
+      "date": "2026-11-04",
+      "fav": null,
+      "line": null
     }
   }
 }
