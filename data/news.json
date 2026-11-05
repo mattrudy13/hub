@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T16:20:47.898Z",
+  "updated": "2026-11-05T17:20:50.490Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Russell Brand is being investigated over two new rape complaints, police say",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+          "title": "Paraguay President Santiago Peña resigns after bank collapse",
+          "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-05T15:44:49.000Z"
+          "published": "2026-11-05T17:14:41.000Z"
         },
         {
-          "title": "France holds new strikes and protests as unions demand immediate answers",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-05T15:43:15.000Z"
-        },
-        {
-          "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
+          "title": "Discursive Verses: Is 'Spend Dat' the best financial indicator of America's grift economy?",
+          "link": "https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat",
           "source": "NPR",
-          "published": "2026-11-05T15:00:00.000Z"
+          "published": "2026-11-05T16:30:00.000Z"
+        },
+        {
+          "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
+          "link": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
+          "source": "NPR",
+          "published": "2026-11-05T16:15:02.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Marc Lore's Wonder confidentially files for IPO",
-          "link": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
-          "source": "CNBC",
-          "published": "2026-11-05T15:57:32.000Z"
-        },
-        {
           "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
           "link": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html",
           "source": "CNBC",
-          "published": "2026-11-05T15:34:55.000Z"
+          "published": "2026-11-05T17:03:35.000Z"
         },
         {
-          "title": "Dow tumbles, S&P 500 and Nasdaq drop on sharp tech selloff — live updates",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6d752cc4-4434-42d2-a918-6f5c86328baf&mod=mw_rss_bulletins",
+          "title": "Marc Lore's Wonder confidentially files for IPO",
+          "link": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
+          "source": "CNBC",
+          "published": "2026-11-05T16:27:10.000Z"
+        },
+        {
+          "title": "The year’s most successful stock-market trades are unraveling — perhaps for good",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=61340f3b-1d5b-4b14-aad9-26cdff97f78c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-05T15:27:19.000Z"
+          "published": "2026-11-05T16:25:13.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Sony’s retro headphones brought me back to my childhood in the best way",
-          "link": "https://www.theverge.com/tech/1026958/sony-mdr-3r-headphones-review",
+          "title": "The FAA is finally ditching floppy disks",
+          "link": "https://www.theverge.com/transportation/1027511/faa-floppy-disks-sean-duffy-air-traffic-control-eids",
           "source": "The Verge",
-          "published": "2026-11-05T16:00:00.000Z"
+          "published": "2026-11-05T17:13:42.000Z"
         },
         {
-          "title": "Camp Snap made a smaller kid-friendly version of its retro digital camcorder",
-          "link": "https://www.theverge.com/tech/1027575/camp-snap-cs-8-mini-retro-film-camera-kid-friendly",
+          "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+          "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
           "source": "The Verge",
-          "published": "2026-11-05T16:00:00.000Z"
+          "published": "2026-11-05T17:00:00.000Z"
         },
         {
           "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",

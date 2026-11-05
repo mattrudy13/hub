@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-05T16:20:50.491Z",
-  "from": "2026-11-05T16:20:50Z",
-  "to": "2026-11-19T16:20:50Z",
+  "updated": "2026-11-05T17:20:53.736Z",
+  "from": "2026-11-05T17:20:53Z",
+  "to": "2026-11-19T17:20:53Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -129,6 +129,20 @@
       "url": "https://www.ticketmaster.com/corrosion-of-conformity-the-sword-virginia-beach-virginia-11-06-2026/event/01006513A072E5B5",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/e/564/8dc0156f-906f-40c1-b9e9-eb9508337564_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1A7x8J6",
+      "name": "Norfolk State Spartans Football vs. North Carolina Central Eagles Football",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Miscellaneous",
+      "venue": "William Price Stadium",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x8J6",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/db5/5acfb9a3-4315-40c6-824f-e0fd31bd5db5_723691_RETINA_PORTRAIT_16_9.jpg"
     },
     {
       "id": "vv1A8v0JaGAGvTr-",
@@ -269,20 +283,6 @@
       "url": "https://www.ticketmaster.com/drake-future-night-virginia-beach-allnight-virginia-beach-virginia-11-07-2026/event/0100653715937791",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/e/d65/efe6713e-dfec-4004-bc64-78ecb3201d65_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "Z7r9jZ1A7x8J6",
-      "name": "Norfolk State Spartans Football vs. North Carolina Central Eagles Football",
-      "date": "2026-11-07",
-      "time": null,
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Miscellaneous",
-      "venue": "William Price Stadium",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x8J6",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/db5/5acfb9a3-4315-40c6-824f-e0fd31bd5db5_723691_RETINA_PORTRAIT_16_9.jpg"
     },
     {
       "id": "vv1A8v0JaGAGdLrB",
