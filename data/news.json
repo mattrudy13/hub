@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T20:20:46.910Z",
+  "updated": "2026-11-05T21:20:45.725Z",
   "failed": [],
   "sections": [
     {
@@ -10,7 +10,7 @@
           "title": "California governor commutes death sentences for all 548 people on death row",
           "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-05T20:12:03.000Z"
+          "published": "2026-11-05T21:08:34.000Z"
         },
         {
           "title": "Who could be behind hoax bomb threats to European air travel?",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Dow off 1,700 points, Nasdaq sliding 5% as broad stock selloff rocks Wall Street",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d6596fff-844d-4220-964f-506e97722e15&mod=mw_rss_bulletins",
+          "title": "Dow ends 1,800 points down, Nasdaq slides 5.5% into correction as stocks plummet",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=37df4238-fd0c-49c9-825a-3567660700f6&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-05T20:13:40.000Z"
+          "published": "2026-11-05T21:07:42.000Z"
         },
         {
-          "title": "‘Musk selloff’ deepens as Tesla, SpaceX combine for $450 billion two-day wipeout",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=14f68ba3-a8be-4f52-8c89-c73228eded1d&mod=mw_rss_bulletins",
+          "title": "2027 tax brackets are out. See what the standard deduction, SALT breaks will be.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=df4bdced-ce51-49d2-98ff-fee7360f7d59&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-05T19:38:22.000Z"
+          "published": "2026-11-05T20:33:54.000Z"
         },
         {
           "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
-          "link": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
+          "title": "Blue Origin’s next launch now won’t happen until 2027",
+          "link": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
           "source": "The Verge",
-          "published": "2026-11-05T19:12:58.000Z"
+          "published": "2026-11-05T20:47:14.000Z"
         },
         {
-          "title": "Muse has a voice mode now",
-          "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-          "source": "The Verge",
-          "published": "2026-11-05T19:03:04.000Z"
-        },
-        {
-          "title": "Is MAHA dying—or will it be reborn? What's next after crushing midterm losses?",
-          "link": "https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/",
+          "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+          "link": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
           "source": "Ars Technica",
-          "published": "2026-11-05T18:49:41.000Z"
+          "published": "2026-11-05T19:59:22.000Z"
+        },
+        {
+          "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
+          "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+          "source": "Ars Technica",
+          "published": "2026-11-05T19:46:37.000Z"
         }
       ]
     }
