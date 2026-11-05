@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T04:20:48.671Z",
+  "updated": "2026-11-05T05:20:46.309Z",
   "failed": [],
   "sections": [
     {
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+          "link": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+          "source": "The Verge",
+          "published": "2026-11-05T05:00:00.000Z"
+        },
+        {
           "title": "X says its updated web app is way faster",
           "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
           "source": "The Verge",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
           "source": "Ars Technica",
           "published": "2026-11-04T22:47:51.000Z"
-        },
-        {
-          "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-          "source": "The Verge",
-          "published": "2026-11-04T22:42:15.000Z"
         }
       ]
     }
