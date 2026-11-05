@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T22:20:46.962Z",
+  "updated": "2026-11-05T23:20:45.773Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "California governor commutes sentences for state's 548 death row inmates",
+          "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-05T23:09:33.000Z"
+        },
+        {
           "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
           "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-05T22:13:38.000Z"
-        },
-        {
-          "title": "California governor commutes sentences for state's 548 death row inmates",
-          "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-05T21:25:48.000Z"
         },
         {
           "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c8bb3aec-b29b-43d3-adcb-cff64714c69d&mod=mw_rss_bulletins",
+          "title": "'Musk selloff': Tesla and SpaceX combine for $456 billion two-day wipeout",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=37a848a7-2324-48a0-bd74-abe2a35267fe&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-05T21:50:03.000Z"
+          "published": "2026-11-05T22:36:53.000Z"
         },
         {
-          "title": "Dow ends 1,800 points down, Nasdaq slides 5.5% into correction as stocks plummet",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=37df4238-fd0c-49c9-825a-3567660700f6&mod=mw_rss_bulletins",
+          "title": "After tech-stock rout, October jobs report could bring relief — or more pain",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1edc7ea6-1c97-449e-b820-2df88c301abb&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-05T21:07:42.000Z"
+          "published": "2026-11-05T22:34:59.000Z"
         },
         {
           "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Salon is shutting down after 31 years",
-          "link": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
+          "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
+          "link": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
           "source": "The Verge",
-          "published": "2026-11-05T22:08:14.000Z"
+          "published": "2026-11-05T23:17:10.000Z"
         },
         {
-          "title": "The midterms proved once and for all that X is not real life",
-          "link": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
+          "title": "Perplexity launches its own take on AI agents for work",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
           "source": "The Verge",
-          "published": "2026-11-05T21:55:00.000Z"
+          "published": "2026-11-05T22:26:50.000Z"
         },
         {
-          "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
-          "link": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+          "title": "Sony revives the original Walkman headphones, adds USB-C",
+          "link": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
           "source": "Ars Technica",
-          "published": "2026-11-05T19:59:22.000Z"
+          "published": "2026-11-05T21:56:36.000Z"
         }
       ]
     }
