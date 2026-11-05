@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T19:20:47.415Z",
+  "updated": "2026-11-05T20:20:46.910Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Manhunt in western Turkey after eight killed in series of shootings",
-          "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+          "title": "California governor commutes death sentences for all 548 people on death row",
+          "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-05T18:48:53.000Z"
+          "published": "2026-11-05T20:12:03.000Z"
+        },
+        {
+          "title": "Who could be behind hoax bomb threats to European air travel?",
+          "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-05T19:58:40.000Z"
         },
         {
           "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
           "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
           "source": "NPR",
           "published": "2026-11-05T18:30:16.000Z"
-        },
-        {
-          "title": "Head of Justice Department office on Civil Rights resigns",
-          "link": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns",
-          "source": "NPR",
-          "published": "2026-11-05T18:01:57.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "As Nvidia’s stock heads for bear market, bargain hunters see golden opportunity",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1ee0b1e4-45dc-411c-b1a3-289d9a49b432&mod=mw_rss_bulletins",
+          "title": "Dow off 1,700 points, Nasdaq sliding 5% as broad stock selloff rocks Wall Street",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d6596fff-844d-4220-964f-506e97722e15&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-05T19:11:37.000Z"
+          "published": "2026-11-05T20:13:40.000Z"
         },
         {
-          "title": "Is this ‘the big one’ for the stock market? Wall Street weighs the tech selloff.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ded49252-ef0a-464c-a3af-9884cf62d06f&mod=mw_rss_bulletins",
+          "title": "‘Musk selloff’ deepens as Tesla, SpaceX combine for $450 billion two-day wipeout",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=14f68ba3-a8be-4f52-8c89-c73228eded1d&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-05T17:45:42.000Z"
+          "published": "2026-11-05T19:38:22.000Z"
         },
         {
           "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
