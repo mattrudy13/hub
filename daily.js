@@ -6,10 +6,11 @@ const ESPN = "https://site.api.espn.com/apis/site/v2/sports";
 const UVA = "258"; // ESPN team id, the same in both sports
 const LEAGUES = [
   // The default football board is already every FBS game (~0.8 MB on a Saturday).
-  { key: "cfb", name: "College football", path: "football/college-football", queries: [""], acc: "1" },
-  // The full Division I basketball board is ~1.7 MB on a busy day. The default board (games with a ranked
-  // team) plus the ACC board cover the same filter at under a third of that.
-  { key: "cbb", name: "College basketball", path: "basketball/mens-college-basketball", queries: ["", "&groups=2"], acc: "2" },
+  { key: "cfb", name: "College football", path: "football/college-football", queries: [""], acc: "1", shows: "Top 25, UVA and ACC" },
+  // Basketball shows Top 25 and UVA only (Rudy's pick, 2026-11-05); Hoops Board (cbb-scores) has the rest.
+  // The default board only has games with a ranked team, so the ACC board is still fetched to find an
+  // unranked UVA's game. Both are well under the full Division I board (~1.7 MB on a busy day).
+  { key: "cbb", name: "College basketball", path: "basketball/mens-college-basketball", queries: ["", "&groups=2"], acc: null, shows: "Top 25 and UVA" },
 ];
 const MAX_GAMES = 10;
 const LIVE_MS = 60 * 1000;
@@ -160,7 +161,8 @@ async function loadBoard(lg, day) {
     .sort((a, b) => order[a.state] - order[b.state] || b.uva - a.uva || a.start.localeCompare(b.start));
 }
 
-// Boards keep every game; the tiles show Top 25, UVA and ACC games plus any game cfb-picks has a pick on.
+// Boards keep every game; the tiles show Top 25 and UVA games (plus ACC in football) and any game cfb-picks
+// has a pick on.
 // That's decided at render time because the picks can arrive after the scores.
 const visible = (games = []) => games.filter((g) => g.shown || (g.league === "cfb" && cfbPicks.has(g.id)));
 
@@ -220,7 +222,7 @@ function renderLeague(lg) {
   const list = (games, name) => `<ul class="games">${games.slice(0, MAX_GAMES).map(gameRow).join("")}</ul>${games.length > MAX_GAMES
     ? `<details class="more" data-name="${name}-more"><summary>Show ${games.length - MAX_GAMES} more</summary><ul class="games">${games.slice(MAX_GAMES).map(gameRow).join("")}</ul></details>` : ""}`;
   let body;
-  if (!t.length && !y.length) body = `<p class="sub">No Top 25, UVA or ACC games yesterday or today.</p>`;
+  if (!t.length && !y.length) body = `<p class="sub">No ${lg.shows.replace(" and ", " or ")} games yesterday or today.</p>`;
   else if (!t.length) body = `<h3 class="day">Yesterday</h3>${list(y, "yesterday")}`;
   else body = `<h3 class="day">Today</h3>${list(t, "today")}${y.length
     ? `<details class="older" data-name="yesterday"><summary class="day">Yesterday · ${plural(y.length, "game")}</summary>${list(y, "yesterday")}</details>` : ""}`;
@@ -235,7 +237,7 @@ function renderLeague(lg) {
     tag: live ? `${live} live` : t.length ? `${t.length} today` : "",
     hot: live > 0,
     body,
-    when: `Top 25, UVA and ACC${lg.key === "cfb" && cfbPicks.size ? ", plus model picks" : ""}${live ? " · updates every minute" : ""}`,
+    when: `${lg.shows}${lg.key === "cfb" && cfbPicks.size ? ", plus model picks" : ""}${live ? " · updates every minute" : ""}`,
   });
   for (const d of tileEl.querySelectorAll("details")) if (opened.includes(d.dataset.name)) d.open = true;
 }
