@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-05T23:20:48.462Z",
-  "from": "2026-11-05T23:20:47Z",
-  "to": "2026-11-19T23:20:47Z",
+  "updated": "2026-11-05T23:43:12.498Z",
+  "from": "2026-11-05T23:43:12Z",
+  "to": "2026-11-19T23:43:12Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1AA7-1A",
-      "name": "Old Dominion Monarchs Womens Basketball vs. Virginia State Trojans Womens Basketball",
-      "date": "2026-11-05",
-      "time": "18:30",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Miscellaneous",
-      "venue": "Chartway Arena at Ted Constant Convocation Center",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7-1A",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/093/c74cfd95-af21-4e64-9f85-47677b951093_105651_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vvG17Z_GG7Kjfl",
       "name": "Little Big Town - For The Art Of It Tour",
@@ -787,6 +773,20 @@
       "url": "https://www.ticketmaster.com/jesse-cook-forever-live-norfolk-virginia-11-18-2026/event/010064F8E2DE96F6",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/b24/ab3ddc19-f5e6-44a9-98e0-f65de194bb24_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1AA7-1F",
+      "name": "Old Dominion Monarchs Womens Basketball vs. William and Mary Tribe Womens Basketball",
+      "date": "2026-11-19",
+      "time": "18:30",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Miscellaneous",
+      "venue": "Chartway Arena at Ted Constant Convocation Center",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7-1F",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/093/c74cfd95-af21-4e64-9f85-47677b951093_105651_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
