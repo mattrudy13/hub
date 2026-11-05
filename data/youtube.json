@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T07:00:12.000Z",
+  "updated": "2026-11-05T11:20:50.114Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "y1t_0epcVLA",
+          "title": "Deadlock has never been better",
+          "published": "2026-11-05T07:59:31Z",
+          "thumb": "https://i.ytimg.com/vi/y1t_0epcVLA/mqdefault.jpg",
+          "seen": "2026-11-05T11:20:48.340Z"
+        },
         {
           "id": "SKqsdo0EH9Q",
           "title": "Walking in the wrong woods (Squeex plays CH13 Rest Stop)",
@@ -35,13 +42,6 @@
           "published": "2026-10-31T20:28:53Z",
           "thumb": "https://i.ytimg.com/vi/615r22hEHiQ/mqdefault.jpg",
           "seen": "2026-10-31T21:21:02.832Z"
-        },
-        {
-          "id": "eQVJK5xZrek",
-          "title": "Terraria might break me before I beat it (Squeex's First Terraria Playthrough)",
-          "published": "2026-10-30T09:02:45Z",
-          "thumb": "https://i.ytimg.com/vi/eQVJK5xZrek/mqdefault.jpg",
-          "seen": "2026-10-30T10:21:04.152Z"
         }
       ]
     },

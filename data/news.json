@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T07:00:09.674Z",
+  "updated": "2026-11-05T11:20:47.984Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-          "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+          "title": "Ronaldo retires from Portugal duty",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-05T06:35:25.000Z"
+          "published": "2026-11-05T11:17:03.000Z"
         },
         {
-          "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
-          "link": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+          "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+          "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-05T10:33:21.000Z"
+        },
+        {
+          "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
+          "link": "https://www.npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction",
           "source": "NPR",
-          "published": "2026-11-05T05:29:56.000Z"
-        },
-        {
-          "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-          "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-05T03:47:56.000Z"
+          "published": "2026-11-05T10:02:00.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Consumers are spending on physical gifts even as travel tops wish lists, Visa survey finds",
+          "link": "https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html",
+          "source": "CNBC",
+          "published": "2026-11-05T11:00:01.000Z"
+        },
+        {
+          "title": "Toyota's rare combination: a stock-market rally after lowered sales guidance",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f3eba7ba-eb4d-4cec-a3ed-a5d60a9edb10&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-05T10:27:25.000Z"
+        },
+        {
           "title": "Democrats’ midterm win revives a difficult Social Security question: Who pays?",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=748ee466-f654-4b7e-a8e4-e4266d6dce9e&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-05T01:09:25.000Z"
-        },
-        {
-          "title": "4 market-moving issues investors should watch now that the midterms are over",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2fc800d4-cad3-49c2-9238-b9ccd6d0163c&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-04T22:45:15.000Z"
-        },
-        {
-          "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
-          "link": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
-          "source": "CNBC",
-          "published": "2026-11-04T21:47:22.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
-          "link": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+          "title": "Playstation and Spider-Man performance see Sony profits surge",
+          "link": "https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation",
           "source": "The Verge",
-          "published": "2026-11-05T05:00:00.000Z"
+          "published": "2026-11-05T11:00:15.000Z"
         },
         {
-          "title": "X says its updated web app is way faster",
-          "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+          "title": "Amazon is getting back into restaurant delivery with Uber Eats team-up",
+          "link": "https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership",
           "source": "The Verge",
-          "published": "2026-11-05T00:25:12.000Z"
+          "published": "2026-11-05T11:00:00.000Z"
         },
         {
-          "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
-          "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+          "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+          "link": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
           "source": "Ars Technica",
-          "published": "2026-11-04T22:47:51.000Z"
+          "published": "2026-11-05T09:00:13.000Z"
         }
       ]
     }
