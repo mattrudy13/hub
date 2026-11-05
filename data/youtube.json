@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T21:20:47.781Z",
+  "updated": "2026-11-05T22:20:49.713Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "9gu2_lSkdsw",
+          "title": "Is the Ocarina of Time Remake perfect (even with it's flaws)?",
+          "published": "2026-11-05T21:54:01Z",
+          "thumb": "https://i.ytimg.com/vi/9gu2_lSkdsw/mqdefault.jpg",
+          "seen": "2026-11-05T22:20:47.696Z"
+        },
         {
           "id": "y1t_0epcVLA",
           "title": "Deadlock has never been better",
@@ -35,13 +42,6 @@
           "published": "2026-11-02T08:35:45Z",
           "thumb": "https://i.ytimg.com/vi/_PIN9kqoWlk/mqdefault.jpg",
           "seen": "2026-11-02T10:21:14.110Z"
-        },
-        {
-          "id": "615r22hEHiQ",
-          "title": "I got RICH making the perfect video game (Squeex plays Game Dev Tycoon)",
-          "published": "2026-10-31T20:28:53Z",
-          "thumb": "https://i.ytimg.com/vi/615r22hEHiQ/mqdefault.jpg",
-          "seen": "2026-10-31T21:21:02.832Z"
         }
       ]
     },

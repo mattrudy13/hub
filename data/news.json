@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T21:20:45.725Z",
+  "updated": "2026-11-05T22:20:46.962Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "California governor commutes death sentences for all 548 people on death row",
-          "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-05T21:08:34.000Z"
+          "published": "2026-11-05T22:13:38.000Z"
         },
         {
-          "title": "Who could be behind hoax bomb threats to European air travel?",
-          "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+          "title": "California governor commutes sentences for state's 548 death row inmates",
+          "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-05T19:58:40.000Z"
+          "published": "2026-11-05T21:25:48.000Z"
         },
         {
           "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c8bb3aec-b29b-43d3-adcb-cff64714c69d&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-05T21:50:03.000Z"
+        },
+        {
           "title": "Dow ends 1,800 points down, Nasdaq slides 5.5% into correction as stocks plummet",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=37df4238-fd0c-49c9-825a-3567660700f6&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-05T21:07:42.000Z"
-        },
-        {
-          "title": "2027 tax brackets are out. See what the standard deduction, SALT breaks will be.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=df4bdced-ce51-49d2-98ff-fee7360f7d59&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-05T20:33:54.000Z"
         },
         {
           "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Blue Origin’s next launch now won’t happen until 2027",
-          "link": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
+          "title": "Salon is shutting down after 31 years",
+          "link": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
           "source": "The Verge",
-          "published": "2026-11-05T20:47:14.000Z"
+          "published": "2026-11-05T22:08:14.000Z"
+        },
+        {
+          "title": "The midterms proved once and for all that X is not real life",
+          "link": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
+          "source": "The Verge",
+          "published": "2026-11-05T21:55:00.000Z"
         },
         {
           "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
           "link": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
           "source": "Ars Technica",
           "published": "2026-11-05T19:59:22.000Z"
-        },
-        {
-          "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
-          "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
-          "source": "Ars Technica",
-          "published": "2026-11-05T19:46:37.000Z"
         }
       ]
     }
