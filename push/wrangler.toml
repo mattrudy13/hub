@@ -8,7 +8,7 @@ workers_dev = true
 # Pages that may call the API from a browser (localhost on any port is always allowed, for previews).
 ALLOWED_ORIGINS = "https://mattrudy13.github.io"
 # The VAPID public key (public by design; the page reads it from GET /config). The private half is a secret.
-VAPID_PUBLIC = "SET_AT_SETUP"
+VAPID_PUBLIC = "BIujr0jDzp6B2LTNatW-bB66O4u_79OoC1GNSFVwdwO5EgyvIlIscNkfnesIfdncfQemXa27HYGdIfL7xLScvXM"
 
 # Secrets, set with `npx wrangler secret put <NAME>`:
 #   PUSH_KEY       the passphrase for turning alerts on
@@ -18,7 +18,7 @@ VAPID_PUBLIC = "SET_AT_SETUP"
 # Subscriptions, "already sent" keys and held quiet-hour alerts.
 [[kv_namespaces]]
 binding = "KV"
-id = "SET_AT_SETUP"
+id = "5f48078bfb2f461a9bf2f2beb925f33a"
 
 # Beat the Model's Worker, called directly: a Worker can't fetch another workers.dev Worker on the same account.
 [[services]]
