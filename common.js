@@ -68,7 +68,15 @@ function setupToggles() {
   const arcadeBtn = document.getElementById("arcade");
   const currentTheme = () => root.dataset.theme ?? (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
 
+  // The browser bar / status bar color follows the page background, including a theme picked by hand,
+  // which a media-query theme-color tag can't see.
+  const themeColor = document.querySelector('meta[name="theme-color"]');
+  const syncThemeColor = () => {
+    if (themeColor) themeColor.content = getComputedStyle(root).getPropertyValue("--bg").trim() || themeColor.content;
+  };
+
   const labelTheme = () => {
+    syncThemeColor();
     const dark = currentTheme() === "dark";
     themeBtn.querySelector(".sun").hidden = !dark;
     themeBtn.querySelector(".moon").hidden = dark;
@@ -106,5 +114,21 @@ function setupToggles() {
     if (on) root.dataset.skin = "arcade";
     else delete root.dataset.skin;
     arcadeBtn.setAttribute("aria-pressed", String(on));
+    syncThemeColor();
+  });
+}
+
+// ---- Home-screen app ----
+
+// Opened from the home screen there's no reload button or pull-to-refresh, and iOS keeps the page in memory,
+// so reopening it after a while would show stale tiles. Reload when it comes back after 10+ minutes away.
+// Only in that mode: in a browser tab the reload button is right there.
+const STANDALONE = navigator.standalone === true || matchMedia("(display-mode: standalone)").matches;
+if (STANDALONE) {
+  const STALE_MS = 10 * 60 * 1000;
+  let hiddenAt = null;
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden) hiddenAt = Date.now();
+    else if (hiddenAt && Date.now() - hiddenAt > STALE_MS) location.reload();
   });
 }
