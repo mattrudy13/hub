@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T05:20:46.356Z",
+  "updated": "2026-11-06T07:00:09.611Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Trump's arch gets a late-night green light. Will a judge stop construction?",
+          "title": "Macau jails pro-democracy campaigner in city's first national security case",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-06T06:46:21.000Z"
+        },
+        {
+          "title": "Did a data centre revolt affect the US mid-term election results?",
+          "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-06T06:01:13.000Z"
+        },
+        {
+          "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
           "link": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
           "source": "NPR",
           "published": "2026-11-06T05:05:43.000Z"
-        },
-        {
-          "title": "Trump signs order preventing future presidents from changing Oval Office",
-          "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-06T04:29:25.000Z"
-        },
-        {
-          "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-06T02:57:24.000Z"
         }
       ]
     },
