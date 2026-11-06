@@ -53,12 +53,18 @@
       <div class="tiles" id="tiles"></div>
     </main>
 
-    <footer class="foot"><span class="sb">Every tile reads its app's own published data.</span><span class="ar">GAME OVER? INSERT COIN AND RELOAD.</span></footer>
+    <footer class="foot">
+      <span class="sb">Every tile reads its app's own published data.</span><span class="ar">GAME OVER? INSERT COIN AND RELOAD.</span>
+      <!-- Push alerts for Rudy's own devices (alerts.js). Hidden where a browser can't get them. -->
+      <button type="button" class="alerts-btn" id="alerts-btn" aria-expanded="false" aria-controls="alerts-panel" hidden><span class="sb">Alerts: off</span><span class="ar">ALERTS: OFF</span></button>
+      <div class="alerts-panel" id="alerts-panel" hidden></div>
+    </footer>
   </div>
 
   <script src="common.js"></script>
   <script src="tiles.js"></script>
   <script src="feed.js"></script>
+  <script src="alerts.js" defer></script>
   <script>
     setupToggles();
     renderTiles();

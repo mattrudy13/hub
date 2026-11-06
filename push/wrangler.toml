@@ -1,0 +1,35 @@
+name = "hub-push"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+# The Board's alerts panel calls this Worker's workers.dev URL to sign a device up.
+workers_dev = true
+
+[vars]
+# Pages that may call the API from a browser (localhost on any port is always allowed, for previews).
+ALLOWED_ORIGINS = "https://mattrudy13.github.io"
+# The VAPID public key (public by design; the page reads it from GET /config). The private half is a secret.
+VAPID_PUBLIC = "SET_AT_SETUP"
+
+# Secrets, set with `npx wrangler secret put <NAME>`:
+#   PUSH_KEY       the passphrase for turning alerts on
+#   VAPID_PRIVATE  the VAPID key's d (base64url); scripts/vapid-keys.mjs makes the pair
+#   GITHUB_TOKEN   fine-grained, public repositories read-only, for the data-job check
+
+# Subscriptions, "already sent" keys and held quiet-hour alerts.
+[[kv_namespaces]]
+binding = "KV"
+id = "SET_AT_SETUP"
+
+# Beat the Model's Worker, called directly: a Worker can't fetch another workers.dev Worker on the same account.
+[[services]]
+binding = "BTM"
+service = "beat-the-model"
+# Local `wrangler dev` calls the deployed beat-the-model instead of looking for a local copy.
+remote = true
+
+[triggers]
+# Every 15 minutes: a 45–60 minute window before a UVA game always contains exactly one run.
+crons = ["*/15 * * * *"]
+
+[observability]
+enabled = true

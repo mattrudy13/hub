@@ -172,6 +172,39 @@ under the icon). No App Store, no service worker, no offline mode.
 - App tiles open with `target="_blank"`, which iOS shows outside the home-screen app; Daily and Home Base stay
   inside it and rely on their "← Board" links (no back button in standalone mode).
 
+## Push alerts (added 2026-11-05)
+
+Push notifications to Rudy's own devices, from the **`hub-push`** Worker in `push/` (its own Worker because the
+browser needs a URL to sign up at, and `hub-daily-cron` deliberately has none). Rudy's choices: only him, a
+passphrase to turn them on, quiet hours 11 PM–7 AM for data-job alerts only, a quiet footer link (mockup option A).
+
+| Alert | Source | Rule |
+|---|---|---|
+| Beat the Model | beat-the-model's `/api/state` through the `BTM` service binding (a Worker can't fetch another workers.dev Worker on the same account) | Any ET day with open games: 2 h before that day's first kickoff. Skipped if he's already picked a game that day (assumed, not asked). |
+| KOTC lock | `kotc-tracker/data/predictions-<season>.json` | Promo nights only, once the first tip has passed (within 3 h), with the picks and win chances. |
+| KOTC result | same | A promo night's result from the last 2 days, at or after 7 AM. Same wording as the kotc tile. |
+| UVA game | ESPN `teams/258` (`team.nextEvent`, ~17 KB; the full schedule is ~300 KB, too much CPU for the free plan) for football and men's basketball | 45–60 min before a game with a set time. |
+| Data jobs | GitHub workflow runs, with `jobs.mjs` (shared with the Daily page) | Newly failed or late. In quiet hours they're held in KV and sent at 7 AM as one summary, only the ones still broken. No "fixed" alert. |
+
+- `push/src/checks.js`: the rules as pure functions of (data, now), tested against real saved data in
+  `push/test/fixtures`. `push/src/index.js`: endpoints (`/subscribe` needs `PUSH_KEY`; `/unsubscribe`, `/test`
+  take the endpoint as proof; `/config` gives the VAPID public key), the 15-minute cron, KV dedupe
+  (`sent:<key>`, 30 days), `held:jobs`. `push/src/webpush.js`: RFC 8291/8292 on WebCrypto, no npm dependency;
+  the test checks the RFC's own example byte for byte. Apple's push service answered a fake endpoint with
+  `BadWebPushToken` (signature accepted) on 2026-11-05.
+- `jobs.mjs`: `JOBS` and `jobStatus()`, moved out of `daily.js` so the tile and the alerts can't drift. `daily.js`
+  loads it with a dynamic `import()`. Change a job's schedule → update its `months`/`lateHours` there, then redeploy
+  the Worker (`cd push && npx wrangler@4 deploy`), since the Worker bundles its own copy.
+- Page: `sw.js` (show and open notifications, no fetch handler, no caching), `alerts.js` (footer link + panel,
+  index.html only; on localhost it talks to `wrangler dev` on port 8799). The link is hidden where push can't
+  work; in iPhone Safari outside the home-screen app it explains how to add the Board first.
+- Secrets: `PUSH_KEY`, `VAPID_PRIVATE` (made by `push/scripts/vapid-keys.mjs`, piped straight in), `GITHUB_TOKEN`
+  (read-only public repos). `VAPID_PUBLIC` and the KV id are in `push/wrangler.toml`. Changing the VAPID keys
+  breaks every existing subscription (turn alerts off and on again on each device).
+- Tests: `cd push && npm test`. Local dry run: put `DRY_RUN=1` and `NOW=<iso>` in `push/.dev.vars`, run
+  `npx wrangler@4 dev --test-scheduled --port 8799`, then `curl "localhost:8799/__scheduled?cron=*/15+*+*+*+*"`;
+  it logs what each check would send against live data.
+
 ## Dev notes
 
 - Preview: `python3 -m http.server 8765` in this folder. Phone check: Chrome's window wouldn't shrink to
