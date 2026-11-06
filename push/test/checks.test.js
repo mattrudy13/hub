@@ -63,7 +63,8 @@ test("KOTC result the next morning, not during quiet hours, not for old nights",
   assert.equal(r.key, "kotc-result:2026-11-04");
   assert.match(r.title, /^King of the Court · \S+ won$/);
   assert.match(r.body, /\d+ PRA\. (None of our 3 picks won\.|.+ one of our 3 picks\.)$/);
-  assert.deepEqual(kotcAlerts(kotc, at("2026-11-08", "09:00")), []); // 4 days later
+  assert.deepEqual(kotcAlerts(kotc, at("2026-11-05", "23:30")), []); // same day, but quiet hours
+  assert.deepEqual(kotcAlerts(kotc, at("2026-11-06", "09:00")), []); // two days later
 });
 
 // ---- UVA ----

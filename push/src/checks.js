@@ -64,7 +64,7 @@ export function btmAlerts(state, now) {
 // `pred` = kotc-tracker's predictions-<season>.json. Pick and result wording mirror the hub's kotc tile.
 export function kotcAlerts(pred, now) {
   const out = [];
-  const { date: today, hour } = et(now);
+  const { date: today } = et(now);
   const nameOf = (pid) => pred.names?.[pid]?.n ?? String(pid);
 
   const d = pred.days?.[today];
@@ -82,11 +82,12 @@ export function kotcAlerts(pred, now) {
     });
   }
 
-  // Results from the last two days only, so a first deploy doesn't announce old nights.
-  if (hour >= QUIET_TO) {
+  // The morning after only (7 AM–11 PM): a result that's late, or seen first at night, isn't worth a ping a day later.
+  if (!isQuiet(now)) {
+    const yesterday = addDays(today, -1);
     for (const day of Object.keys(pred.days ?? {}).sort()) {
       const p = pred.days[day], r = p.result;
-      if (!p.promo || !r || day > today || day < addDays(today, -2)) continue;
+      if (!p.promo || !r || day !== yesterday) continue;
       const kings = r.kings.map(nameOf);
       const hits = r.kings.filter((k) => p.picks?.includes(k)).map((k) => lastName(nameOf(k)));
       const n = p.picks?.length ?? 0;
