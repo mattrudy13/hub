@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-06T21:20:45.151Z",
+  "updated": "2026-11-06T22:20:47.497Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+          "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-06T21:49:50.000Z"
+        },
         {
           "title": "AI stocks climb after trillions wiped from market values",
           "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
           "source": "NPR",
           "published": "2026-11-06T20:42:51.000Z"
-        },
-        {
-          "title": "The incoming class of U.S. senators is full of historic firsts",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
-          "source": "NPR",
-          "published": "2026-11-06T20:21:13.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "U.S. stocks end mostly higher, but book weekly losses after Thursday’s deep drop",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=be8fa0e9-c0a4-44bd-b99b-e23c1f79439d&mod=mw_rss_bulletins",
+          "title": "Elon Musk opens the door for a big SpaceX telecom acquisition",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=46284fca-c4cb-4bb3-811a-bb3836052fec&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-06T21:02:09.000Z"
+          "published": "2026-11-06T21:53:51.000Z"
         },
         {
-          "title": "Nasdaq up sharply in final hour, but stocks still on track for weekly losses",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f1e86ea5-a7a5-413a-8e94-e34f8db64c17&mod=mw_rss_bulletins",
+          "title": "Data centers run on debt. That's been a problem for bonds that could get worse.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=71ab2b2c-d3b8-4bf6-8ff4-82136726dcae&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-06T20:04:17.000Z"
+          "published": "2026-11-06T21:40:58.000Z"
         },
         {
           "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "All the latest updates on AI data centers",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+          "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+          "link": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-06T20:02:22.000Z"
+          "published": "2026-11-06T21:50:32.000Z"
         },
         {
-          "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
-          "link": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
-          "source": "The Verge",
-          "published": "2026-11-06T19:47:02.000Z"
-        },
-        {
-          "title": "The folks behind John Wick are back with Karōshi trailer",
-          "link": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
+          "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+          "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
           "source": "Ars Technica",
-          "published": "2026-11-06T18:30:19.000Z"
+          "published": "2026-11-06T20:56:41.000Z"
+        },
+        {
+          "title": "Earth's churning mantle may have created the Great Unconformity",
+          "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+          "source": "Ars Technica",
+          "published": "2026-11-06T20:24:20.000Z"
         }
       ]
     }
