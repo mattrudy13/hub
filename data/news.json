@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T20:20:46.477Z",
+  "updated": "2026-11-06T21:20:45.151Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
-          "source": "NPR",
-          "published": "2026-11-06T20:09:58.000Z"
-        },
-        {
-          "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
-          "source": "NPR",
-          "published": "2026-11-06T19:50:14.000Z"
-        },
-        {
           "title": "AI stocks climb after trillions wiped from market values",
           "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-06T19:37:10.000Z"
+          "published": "2026-11-06T21:06:25.000Z"
+        },
+        {
+          "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+          "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+          "source": "NPR",
+          "published": "2026-11-06T20:42:51.000Z"
+        },
+        {
+          "title": "The incoming class of U.S. senators is full of historic firsts",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
+          "source": "NPR",
+          "published": "2026-11-06T20:21:13.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "U.S. stocks end mostly higher, but book weekly losses after Thursday’s deep drop",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=be8fa0e9-c0a4-44bd-b99b-e23c1f79439d&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-06T21:02:09.000Z"
+        },
+        {
           "title": "Nasdaq up sharply in final hour, but stocks still on track for weekly losses",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f1e86ea5-a7a5-413a-8e94-e34f8db64c17&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-06T20:04:17.000Z"
-        },
-        {
-          "title": "Nvidia, AMD and other chip stocks rebound — but is the relief only temporary?",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=025a04b7-a9ac-4d28-97a3-352511417dbf&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-06T19:11:46.000Z"
         },
         {
           "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
