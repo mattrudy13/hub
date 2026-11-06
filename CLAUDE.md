@@ -156,6 +156,22 @@ masthead ("Home Base →") and back ("← Board"); theme toggle only.
 - This machine's network couldn't reach FRED (`fred.stlouisfed.org`, connection failed) on 2026-10-24, which
   is why mortgage rates come from Freddie Mac directly.
 
+## Home-screen app (added 2026-11-05)
+
+Safari → Share → Add to Home Screen installs the board as **Board** (Rudy's pick: "Rudy's Board" gets cut off
+under the icon). No App Store, no service worker, no offline mode.
+
+- `manifest.webmanifest` (scope and start `/hub/`, standalone), `apple-touch-icon.png` (180 px; iOS ignores
+  SVG touch icons and rounds the corners itself, so it's a full-bleed square) and `icon-192/512.png`. All three
+  PNGs are the favicon's tile grid (Rudy picked it over a monogram, scoreboard and Arcade icon). If the favicon
+  changes, redraw them too.
+- The same tags are in all three pages' `<head>`, so whichever page is open when it's added works.
+- `common.js`: `theme-color` follows `--bg` (theme toggle, system change, Arcade mode). In standalone mode only,
+  the page reloads when it comes back after 10+ minutes away, because there's no reload button and iOS keeps the
+  page in memory. Arcade mode resets on that reload, same as any load.
+- App tiles open with `target="_blank"`, which iOS shows outside the home-screen app; Daily and Home Base stay
+  inside it and rely on their "← Board" links (no back button in standalone mode).
+
 ## Dev notes
 
 - Preview: `python3 -m http.server 8765` in this folder. Phone check: Chrome's window wouldn't shrink to
