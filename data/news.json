@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T00:20:46.133Z",
+  "updated": "2026-11-06T01:20:45.570Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-06T01:02:17.000Z"
+        },
+        {
           "title": "Fears about an AI crackdown after midterms sparks a $2 trillion rout in tech stocks",
           "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
           "source": "NPR",
           "published": "2026-11-06T00:16:53.000Z"
-        },
-        {
-          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-06T00:05:05.000Z"
         },
         {
           "title": "These are the races in the House and Senate that haven't been called yet",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Buy the dip or wait it out? Young investors react to the stock selloff.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=53efda92-671a-4bfe-a8de-41b153f652d0&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-06T00:45:48.000Z"
+        },
+        {
           "title": "How to buy a new car for under $30,000 in this economy",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a6ac657e-4d81-4cc2-bce8-f35b81007bac&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-05T23:53:29.000Z"
-        },
-        {
-          "title": "Cloudflare stock mounts big comeback after fastest sales surge in nearly 4 years",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f90ce007-a988-4b7b-973e-a9d45ec1c6f2&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-05T23:52:23.000Z"
         },
         {
           "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "OpenAI is stepping back from NDAs for data center projects",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+          "source": "The Verge",
+          "published": "2026-11-06T00:37:56.000Z"
+        },
+        {
+          "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+          "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+          "source": "Ars Technica",
+          "published": "2026-11-06T00:17:06.000Z"
+        },
+        {
           "title": "Airbnb is working on an AI travel agent",
           "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
           "source": "The Verge",
           "published": "2026-11-06T00:06:12.000Z"
-        },
-        {
-          "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
-          "link": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
-          "source": "The Verge",
-          "published": "2026-11-05T23:45:10.000Z"
-        },
-        {
-          "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-          "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-          "source": "Ars Technica",
-          "published": "2026-11-05T23:09:36.000Z"
         }
       ]
     }
