@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T11:20:46.462Z",
+  "updated": "2026-11-06T12:20:47.872Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-          "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+          "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+          "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-06T10:57:30.000Z"
+          "published": "2026-11-06T12:19:41.000Z"
         },
         {
-          "title": "Two dead after bus crashes in France, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-06T10:57:14.000Z"
-        },
-        {
-          "title": "Low birth rates were emptying public schools. ICE deportations are now making it worse",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
+          "title": "Why gold prices are surprisingly low",
+          "link": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
           "source": "NPR",
-          "published": "2026-11-06T10:00:00.000Z"
+          "published": "2026-11-06T12:00:00.000Z"
+        },
+        {
+          "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
+          "source": "NPR",
+          "published": "2026-11-06T11:57:32.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "The Cybertruck may be phased out as Musk announces production shift",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0ecf8512-253c-4c4f-b7b1-b6b1512067bc&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-06T10:38:53.000Z"
-        },
-        {
-          "title": "How European, Asian markets are faring after Wall Street's worst day since 2025",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f79ebd16-1c8b-4373-8def-3ef829cf3d8d&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-06T09:08:18.000Z"
-        },
-        {
-          "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
-          "link": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html",
+          "title": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
+          "link": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
           "source": "CNBC",
-          "published": "2026-11-05T17:03:35.000Z"
+          "published": "2026-11-06T12:14:24.000Z"
+        },
+        {
+          "title": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
+          "link": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
+          "source": "CNBC",
+          "published": "2026-11-06T12:00:01.000Z"
+        },
+        {
+          "title": "Economic calendar: Key jobs data early, then consumer credit and Fed speakers",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ec116f2b-e911-40db-aa49-3ba3808a5ff8&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-06T11:52:17.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Tesla is ‘winding down’ production of the Cybertruck next year",
-          "link": "https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027",
+          "title": "After printing 40,000 whistles, this is the 3D printer I’d buy",
+          "link": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
           "source": "The Verge",
-          "published": "2026-11-06T10:42:52.000Z"
+          "published": "2026-11-06T12:00:00.000Z"
         },
         {
-          "title": "OpenAI is stepping back from NDAs for data center projects",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+          "title": "The Enough Phone is made by and for people fed up with big screens",
+          "link": "https://www.theverge.com/tech/1028160/enough-small-phone-kickstarter-sleke",
           "source": "The Verge",
-          "published": "2026-11-06T00:37:56.000Z"
+          "published": "2026-11-06T12:00:00.000Z"
         },
         {
           "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
