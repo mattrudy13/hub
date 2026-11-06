@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T17:20:47.911Z",
+  "updated": "2026-11-06T17:34:14.961Z",
   "failed": [],
   "sections": [
     {
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "AI is the new dating dealbreaker",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+          "title": "Kobo will soon let you upload and sync your own ebooks across devices, for a price",
+          "link": "https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files",
           "source": "The Verge",
-          "published": "2026-11-06T17:00:00.000Z"
+          "published": "2026-11-06T17:32:16.000Z"
         },
         {
-          "title": "Meta’s refurbished Quest 3S headset is nearly $100 off right now",
-          "link": "https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale",
+          "title": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
+          "link": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
           "source": "The Verge",
-          "published": "2026-11-06T16:39:15.000Z"
+          "published": "2026-11-06T17:24:36.000Z"
         },
         {
-          "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-          "link": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+          "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
+          "link": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
           "source": "Ars Technica",
-          "published": "2026-11-06T14:13:32.000Z"
+          "published": "2026-11-06T17:06:32.000Z"
         }
       ]
     }
