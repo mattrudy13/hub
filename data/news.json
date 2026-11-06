@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T15:20:46.567Z",
+  "updated": "2026-11-06T16:20:47.531Z",
   "failed": [],
   "sections": [
     {
@@ -10,19 +10,19 @@
           "title": "Two dead after bus crashes in France, officials say",
           "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-06T15:13:23.000Z"
+          "published": "2026-11-06T15:33:52.000Z"
         },
         {
-          "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-          "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+          "title": "New wave of bomb threats hit European airlines",
+          "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-06T14:57:08.000Z"
+          "published": "2026-11-06T15:25:35.000Z"
         },
         {
-          "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
+          "title": "European air traffic is targeted by new threats after a week of hoaxes",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
           "source": "NPR",
-          "published": "2026-11-06T14:53:46.000Z"
+          "published": "2026-11-06T15:21:31.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e368002e-2ce8-4cc9-8ec0-03689fef42da&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-06T16:19:24.000Z"
+        },
         {
           "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
           "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8eab4a0e-6480-4c44-8216-34d7bdb8f8f9&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-06T14:31:27.000Z"
-        },
-        {
-          "title": "U.S. added 165,000 jobs in October, more than expected — live updates",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a7d2281b-b6bc-427c-aebd-d86878cb5672&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-06T13:31:34.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
-          "link": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "title": "This see-through camera lets photographers maintain eye contact with their subjects",
+          "link": "https://www.theverge.com/tech/1028632/lutra-humans-of-authenticity-hoa-a1-transparent-digital-camera",
           "source": "The Verge",
-          "published": "2026-11-06T15:10:28.000Z"
+          "published": "2026-11-06T15:33:03.000Z"
         },
         {
-          "title": "Fox bought Roku",
-          "link": "https://www.theverge.com/streaming/1028629/fox-roku-acquisition-close",
+          "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+          "link": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-06T15:00:56.000Z"
+          "published": "2026-11-06T15:27:09.000Z"
         },
         {
           "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",

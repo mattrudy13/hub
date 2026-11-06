@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T15:20:48.571Z",
+  "updated": "2026-11-06T16:20:49.425Z",
   "failed": [],
   "channels": [
     {
@@ -52,6 +52,13 @@
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_kuXNVNDCc9eo0GH_AXQcDfAGPJuph3Mny_EcLfsUHzCkc=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "d9vVBGhOJq8",
+          "title": "It's The End of The World in GTA RP",
+          "published": "2026-11-06T16:00:34Z",
+          "thumb": "https://i.ytimg.com/vi/d9vVBGhOJq8/mqdefault.jpg",
+          "seen": "2026-11-06T16:20:48.110Z"
+        },
+        {
           "id": "JgF0l6l1eKY",
           "title": "Kraig & Hectors Final Scheme in GTA RP",
           "published": "2026-10-30T15:00:12Z",
@@ -78,13 +85,6 @@
           "published": "2026-10-09T15:00:19Z",
           "thumb": "https://i.ytimg.com/vi/BX-RYrQeAfM/mqdefault.jpg",
           "seen": "2026-10-09T15:00:19Z"
-        },
-        {
-          "id": "ARcP3g5eERs",
-          "title": "Barking For Buildings in GTA RP",
-          "published": "2026-10-02T15:00:20Z",
-          "thumb": "https://i.ytimg.com/vi/ARcP3g5eERs/mqdefault.jpg",
-          "seen": "2026-10-02T15:00:20Z"
         }
       ]
     },
