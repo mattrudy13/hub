@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T23:16:54.094Z",
+  "updated": "2026-11-06T23:20:46.811Z",
   "failed": [],
   "sections": [
     {
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-          "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+          "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+          "link": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-06T23:00:44.000Z"
-        },
-        {
-          "title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
-          "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
-          "source": "The Verge",
-          "published": "2026-11-06T22:45:43.000Z"
+          "published": "2026-11-06T21:50:32.000Z"
         },
         {
           "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
           "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
           "source": "Ars Technica",
           "published": "2026-11-06T20:56:41.000Z"
+        },
+        {
+          "title": "Earth's churning mantle may have created the Great Unconformity",
+          "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+          "source": "Ars Technica",
+          "published": "2026-11-06T20:24:20.000Z"
         }
       ]
     }
