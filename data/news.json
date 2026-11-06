@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T19:20:47.155Z",
+  "updated": "2026-11-06T20:20:46.477Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
+          "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
           "source": "NPR",
-          "published": "2026-11-06T19:13:52.000Z"
+          "published": "2026-11-06T20:09:58.000Z"
         },
         {
-          "title": "Pope Leo begins 12-Day, 3-country tour after cancer surgery",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
+          "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
           "source": "NPR",
-          "published": "2026-11-06T19:13:06.000Z"
+          "published": "2026-11-06T19:50:14.000Z"
         },
         {
-          "title": "Nigerian court rules opposition candidate cannot stand in elections",
-          "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
+          "title": "AI stocks climb after trillions wiped from market values",
+          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-06T17:35:55.000Z"
+          "published": "2026-11-06T19:37:10.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Nasdaq up sharply in final hour, but stocks still on track for weekly losses",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f1e86ea5-a7a5-413a-8e94-e34f8db64c17&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-06T20:04:17.000Z"
+        },
+        {
           "title": "Nvidia, AMD and other chip stocks rebound — but is the relief only temporary?",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=025a04b7-a9ac-4d28-97a3-352511417dbf&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-06T19:11:46.000Z"
-        },
-        {
-          "title": "Unemployment rate falls, but there are 1.3 million more jobless than 4 years ago",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7b83419a-8df1-47da-8485-625a2b95f9f2&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-06T17:59:23.000Z"
         },
         {
           "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Lame-duck Congress might actually do something: speed up energy projects",
-          "link": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
+          "title": "All the latest updates on AI data centers",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
           "source": "The Verge",
-          "published": "2026-11-06T18:42:30.000Z"
+          "published": "2026-11-06T20:02:22.000Z"
+        },
+        {
+          "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
+          "link": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
+          "source": "The Verge",
+          "published": "2026-11-06T19:47:02.000Z"
         },
         {
           "title": "The folks behind John Wick are back with Karōshi trailer",
           "link": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
           "source": "Ars Technica",
           "published": "2026-11-06T18:30:19.000Z"
-        },
-        {
-          "title": "You know the launch market is tough when satellite companies start building rockets",
-          "link": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
-          "source": "Ars Technica",
-          "published": "2026-11-06T18:20:47.000Z"
         }
       ]
     }
