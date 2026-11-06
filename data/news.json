@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T18:20:47.556Z",
+  "updated": "2026-11-06T19:20:47.155Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Remembering 'Star Trek' actor Patrick Stewart",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart",
+          "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
           "source": "NPR",
-          "published": "2026-11-06T17:36:39.000Z"
+          "published": "2026-11-06T19:13:52.000Z"
+        },
+        {
+          "title": "Pope Leo begins 12-Day, 3-country tour after cancer surgery",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
+          "source": "NPR",
+          "published": "2026-11-06T19:13:06.000Z"
         },
         {
           "title": "Nigerian court rules opposition candidate cannot stand in elections",
           "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-06T17:35:55.000Z"
-        },
-        {
-          "title": "AI stocks climb after trillions wiped from market values",
-          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-06T17:03:02.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Nvidia, AMD and other chip stocks rebound — but is the relief only temporary?",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=025a04b7-a9ac-4d28-97a3-352511417dbf&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-06T19:11:46.000Z"
+        },
+        {
           "title": "Unemployment rate falls, but there are 1.3 million more jobless than 4 years ago",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7b83419a-8df1-47da-8485-625a2b95f9f2&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-06T17:59:23.000Z"
-        },
-        {
-          "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e368002e-2ce8-4cc9-8ec0-03689fef42da&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-06T16:19:24.000Z"
         },
         {
           "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-          "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+          "title": "Lame-duck Congress might actually do something: speed up energy projects",
+          "link": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
           "source": "The Verge",
-          "published": "2026-11-06T18:10:10.000Z"
+          "published": "2026-11-06T18:42:30.000Z"
         },
         {
-          "title": "Amazon is now making a Melania Trump TV series",
-          "link": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
-          "source": "The Verge",
-          "published": "2026-11-06T17:56:58.000Z"
-        },
-        {
-          "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
-          "link": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
+          "title": "The folks behind John Wick are back with Karōshi trailer",
+          "link": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
           "source": "Ars Technica",
-          "published": "2026-11-06T17:06:32.000Z"
+          "published": "2026-11-06T18:30:19.000Z"
+        },
+        {
+          "title": "You know the launch market is tough when satellite companies start building rockets",
+          "link": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+          "source": "Ars Technica",
+          "published": "2026-11-06T18:20:47.000Z"
         }
       ]
     }
