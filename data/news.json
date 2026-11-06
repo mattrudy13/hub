@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T01:20:45.570Z",
+  "updated": "2026-11-06T02:20:46.904Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-06T02:08:57.000Z"
+        },
+        {
           "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
           "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-06T01:02:17.000Z"
+          "published": "2026-11-06T01:44:03.000Z"
         },
         {
-          "title": "Fears about an AI crackdown after midterms sparks a $2 trillion rout in tech stocks",
+          "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
           "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
           "source": "NPR",
           "published": "2026-11-06T00:16:53.000Z"
-        },
-        {
-          "title": "These are the races in the House and Senate that haven't been called yet",
-          "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
-          "source": "NPR",
-          "published": "2026-11-06T00:03:45.000Z"
         }
       ]
     },

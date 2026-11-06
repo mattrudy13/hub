@@ -1,11 +1,34 @@
 {
-  "updated": "2026-11-06T01:20:46.042Z",
+  "updated": "2026-11-06T02:20:47.907Z",
   "minLine": 7,
   "days": [
     "2026-11-04",
     "2026-11-05"
   ],
-  "upsets": [],
+  "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-05",
+      "id": "401921679",
+      "line": 9.5,
+      "details": "MRMK -9.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921679/umass-lowell-merrimack",
+      "winner": {
+        "id": "2349",
+        "name": "UMass Lowell",
+        "abbr": "UML",
+        "rank": null,
+        "score": 71
+      },
+      "loser": {
+        "id": "2771",
+        "name": "Merrimack",
+        "abbr": "MRMK",
+        "rank": null,
+        "score": 61
+      }
+    }
+  ],
   "lines": {
     "cfb:401866455": {
       "date": "2026-11-04",
@@ -446,6 +469,56 @@
       "line": null
     },
     "cbb:401912227": {
+      "date": "2026-11-05",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401920759": {
+      "date": "2026-11-05",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929418": {
+      "date": "2026-11-05",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929198": {
+      "date": "2026-11-05",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929038": {
+      "date": "2026-11-05",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401928849": {
+      "date": "2026-11-05",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401927395": {
+      "date": "2026-11-05",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926078": {
+      "date": "2026-11-05",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401924703": {
+      "date": "2026-11-05",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401911375": {
+      "date": "2026-11-05",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401928467": {
       "date": "2026-11-05",
       "fav": null,
       "line": null
