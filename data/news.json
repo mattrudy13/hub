@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T07:00:09.611Z",
+  "updated": "2026-11-06T11:20:46.462Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Macau jails pro-democracy campaigner in city's first national security case",
-          "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+          "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+          "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-06T06:46:21.000Z"
+          "published": "2026-11-06T10:57:30.000Z"
         },
         {
-          "title": "Did a data centre revolt affect the US mid-term election results?",
-          "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+          "title": "Two dead after bus crashes in France, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-06T06:01:13.000Z"
+          "published": "2026-11-06T10:57:14.000Z"
         },
         {
-          "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
+          "title": "Low birth rates were emptying public schools. ICE deportations are now making it worse",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
           "source": "NPR",
-          "published": "2026-11-06T05:05:43.000Z"
+          "published": "2026-11-06T10:00:00.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Buy the dip or wait it out? Young investors react to the stock selloff.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=53efda92-671a-4bfe-a8de-41b153f652d0&mod=mw_rss_bulletins",
+          "title": "The Cybertruck may be phased out as Musk announces production shift",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0ecf8512-253c-4c4f-b7b1-b6b1512067bc&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-06T00:45:48.000Z"
+          "published": "2026-11-06T10:38:53.000Z"
         },
         {
-          "title": "How to buy a new car for under $30,000 in this economy",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a6ac657e-4d81-4cc2-bce8-f35b81007bac&mod=mw_rss_bulletins",
+          "title": "How European, Asian markets are faring after Wall Street's worst day since 2025",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f79ebd16-1c8b-4373-8def-3ef829cf3d8d&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-05T23:53:29.000Z"
+          "published": "2026-11-06T09:08:18.000Z"
         },
         {
           "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Tesla is ‘winding down’ production of the Cybertruck next year",
+          "link": "https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027",
+          "source": "The Verge",
+          "published": "2026-11-06T10:42:52.000Z"
+        },
+        {
           "title": "OpenAI is stepping back from NDAs for data center projects",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
           "source": "The Verge",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
           "source": "Ars Technica",
           "published": "2026-11-06T00:17:06.000Z"
-        },
-        {
-          "title": "Airbnb is working on an AI travel agent",
-          "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-          "source": "The Verge",
-          "published": "2026-11-06T00:06:12.000Z"
         }
       ]
     }
