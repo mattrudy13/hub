@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T22:20:47.497Z",
+  "updated": "2026-11-06T23:16:54.094Z",
   "failed": [],
   "sections": [
     {
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a75ce1ab-b896-40ec-83a3-155cdfbd1296&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-06T22:39:55.000Z"
+        },
+        {
           "title": "Elon Musk opens the door for a big SpaceX telecom acquisition",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=46284fca-c4cb-4bb3-811a-bb3836052fec&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-06T21:53:51.000Z"
-        },
-        {
-          "title": "Data centers run on debt. That's been a problem for bonds that could get worse.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=71ab2b2c-d3b8-4bf6-8ff4-82136726dcae&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-06T21:40:58.000Z"
         },
         {
           "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-          "link": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
+          "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+          "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
           "source": "The Verge",
-          "published": "2026-11-06T21:50:32.000Z"
+          "published": "2026-11-06T23:00:44.000Z"
+        },
+        {
+          "title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
+          "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+          "source": "The Verge",
+          "published": "2026-11-06T22:45:43.000Z"
         },
         {
           "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
           "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
           "source": "Ars Technica",
           "published": "2026-11-06T20:56:41.000Z"
-        },
-        {
-          "title": "Earth's churning mantle may have created the Great Unconformity",
-          "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
-          "source": "Ars Technica",
-          "published": "2026-11-06T20:24:20.000Z"
         }
       ]
     }
