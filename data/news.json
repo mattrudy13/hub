@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T13:20:52.101Z",
+  "updated": "2026-11-06T14:20:47.766Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
+          "link": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
+          "source": "NPR",
+          "published": "2026-11-06T13:56:43.000Z"
+        },
+        {
+          "title": "Hiring jumps: The economy added 165,000 jobs last month",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
+          "source": "NPR",
+          "published": "2026-11-06T13:49:21.000Z"
+        },
+        {
           "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
           "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-06T12:54:04.000Z"
-        },
-        {
-          "title": "Russian extremist group denies sending hoax bomb threats",
-          "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-06T12:51:38.000Z"
-        },
-        {
-          "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
-          "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
-          "source": "NPR",
-          "published": "2026-11-06T12:24:52.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+          "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
+          "source": "CNBC",
+          "published": "2026-11-06T14:01:03.000Z"
+        },
+        {
+          "title": "U.S. added 165,000 jobs in October, more than expected — live updates",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a7d2281b-b6bc-427c-aebd-d86878cb5672&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-06T13:31:34.000Z"
+        },
+        {
           "title": "Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market tightens",
           "link": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
           "source": "CNBC",
           "published": "2026-11-06T13:19:53.000Z"
-        },
-        {
-          "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
-          "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
-          "source": "CNBC",
-          "published": "2026-11-06T13:12:36.000Z"
-        },
-        {
-          "title": "What will October's jobs report tell us? Find out here.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7478af2c-0018-43e5-abf0-50b7321ae5ef&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-06T13:10:45.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "How Remedy designed Control Resonant’s wildest mission: ‘Anything kind of goes’",
-          "link": "https://www.theverge.com/games/1028159/control-resonant-recursions-and-iterations-mission-design-time-travel",
-          "source": "The Verge",
-          "published": "2026-11-06T13:00:00.000Z"
-        },
-        {
-          "title": "I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares",
-          "link": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
-          "source": "The Verge",
-          "published": "2026-11-06T12:30:00.000Z"
-        },
-        {
-          "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-          "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+          "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+          "link": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
           "source": "Ars Technica",
-          "published": "2026-11-06T00:17:06.000Z"
+          "published": "2026-11-06T14:13:32.000Z"
+        },
+        {
+          "title": "TikTok’s For You page needs to change, says the EU",
+          "link": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
+          "source": "The Verge",
+          "published": "2026-11-06T14:00:49.000Z"
+        },
+        {
+          "title": "Amazon will let you text Alexa your shopping list",
+          "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+          "source": "The Verge",
+          "published": "2026-11-06T14:00:00.000Z"
         }
       ]
     }
