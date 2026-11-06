@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T02:20:50.744Z",
+  "updated": "2026-11-06T03:20:49.766Z",
   "failed": [],
   "channels": [
     {
@@ -9,6 +9,13 @@
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "JWYp3-S-0cM",
+          "title": "Experiencing all that Terraria has to offer (Squeex's First Playthrough)",
+          "published": "2026-11-06T02:29:34Z",
+          "thumb": "https://i.ytimg.com/vi/JWYp3-S-0cM/mqdefault.jpg",
+          "seen": "2026-11-06T03:20:47.004Z"
+        },
+        {
           "id": "sMuYnXBFHW0",
           "title": "What does it take to Survive an Extinction run in Project Zomboid (Randomized Traits)",
           "published": "2026-11-05T23:58:28Z",
@@ -17,7 +24,7 @@
         },
         {
           "id": "9gu2_lSkdsw",
-          "title": "Is the Ocarina of Time Remake perfect (even with it's flaws)?",
+          "title": "Is the Ocarina of Time Remake perfect (even with its flaws)?",
           "published": "2026-11-05T21:54:01Z",
           "thumb": "https://i.ytimg.com/vi/9gu2_lSkdsw/mqdefault.jpg",
           "seen": "2026-11-05T22:20:47.696Z"
@@ -35,13 +42,6 @@
           "published": "2026-11-03T12:38:58Z",
           "thumb": "https://i.ytimg.com/vi/SKqsdo0EH9Q/mqdefault.jpg",
           "seen": "2026-11-03T13:20:47.667Z"
-        },
-        {
-          "id": "LHCpm_luwAA",
-          "title": "Trapped in a Chaotic FREAKSHOW (Squeex plays THE WELL IS NOT EMPTY)",
-          "published": "2026-11-03T12:05:26Z",
-          "thumb": "https://i.ytimg.com/vi/LHCpm_luwAA/mqdefault.jpg",
-          "seen": "2026-11-03T12:20:53.196Z"
         }
       ]
     },

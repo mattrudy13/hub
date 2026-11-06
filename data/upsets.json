@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-06T02:20:47.907Z",
+  "updated": "2026-11-06T03:20:46.950Z",
   "minLine": 7,
   "days": [
     "2026-11-04",
     "2026-11-05"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-05",
+      "id": "401919002",
+      "line": 12.5,
+      "details": "TULN -12.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401919002/jackson-st-tulane",
+      "winner": {
+        "id": "2296",
+        "name": "Jackson St",
+        "abbr": "JKST",
+        "rank": null,
+        "score": 87
+      },
+      "loser": {
+        "id": "2655",
+        "name": "Tulane",
+        "abbr": "TULN",
+        "rank": null,
+        "score": 85
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-05",
@@ -26,6 +48,50 @@
         "abbr": "MRMK",
         "rank": null,
         "score": 61
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-05",
+      "id": "401919732",
+      "line": 8.5,
+      "details": "UIW -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401919732/chicago-st-incarnate-word",
+      "winner": {
+        "id": "2130",
+        "name": "Chicago St",
+        "abbr": "CHST",
+        "rank": null,
+        "score": 66
+      },
+      "loser": {
+        "id": "2916",
+        "name": "Incarnate Word",
+        "abbr": "UIW",
+        "rank": null,
+        "score": 54
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-05",
+      "id": "401911273",
+      "line": 7.5,
+      "details": "SPU -7.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911273/binghamton-saint-peters",
+      "winner": {
+        "id": "2066",
+        "name": "Binghamton",
+        "abbr": "BING",
+        "rank": null,
+        "score": 58
+      },
+      "loser": {
+        "id": "2612",
+        "name": "Saint Peter's",
+        "abbr": "SPU",
+        "rank": null,
+        "score": 55
       }
     }
   ],
@@ -519,6 +585,26 @@
       "line": null
     },
     "cbb:401928467": {
+      "date": "2026-11-05",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929370": {
+      "date": "2026-11-05",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401928800": {
+      "date": "2026-11-05",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401927373": {
+      "date": "2026-11-05",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401920765": {
       "date": "2026-11-05",
       "fav": null,
       "line": null
