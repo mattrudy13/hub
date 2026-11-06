@@ -161,7 +161,12 @@ masthead ("Home Base →") and back ("← Board"); theme toggle only.
 Safari → Share → Add to Home Screen installs the board as **Board** (Rudy's pick: "Rudy's Board" gets cut off
 under the icon). No App Store, no service worker, no offline mode.
 
-- `manifest.webmanifest` (scope and start `/hub/`, standalone), `apple-touch-icon.png` (180 px; iOS ignores
+- **Opens to the Daily page** (Rudy's pick, 2026-11-06): `start_url` is `/hub/daily.html`. iOS reads the manifest
+  only at install, so an older install still starts on the Board; a script in index.html's `<head>` sends the
+  first page of each launch on to Daily (`hub:launched` in sessionStorage, empty each launch, set by common.js
+  on every page in standalone mode, so "← Board" stays on the Board). A notification that opens the Board on a
+  cold launch lands on Daily too (only the test alert links there).
+- `manifest.webmanifest` (scope `/hub/`, standalone), `apple-touch-icon.png` (180 px; iOS ignores
   SVG touch icons and rounds the corners itself, so it's a full-bleed square) and `icon-192/512.png`. All three
   PNGs are the favicon's tile grid (Rudy picked it over a monogram, scoreboard and Arcade icon). If the favicon
   changes, redraw them too.

@@ -21,6 +21,13 @@
   <script>
     // Apply a saved theme before the page paints, so a visitor who picked one doesn't see a flash of the other.
     try { const t = localStorage.getItem("hub:theme"); if (t) document.documentElement.dataset.theme = t; } catch {}
+    // The home-screen app opens to the Daily page (Rudy's pick). An install made before that still starts here,
+    // and iOS never rereads the manifest's start_url, so send the app's first page of each launch on to Daily.
+    // sessionStorage starts empty on each launch; common.js sets the flag on every page, so "← Board" stays here.
+    try {
+      const app = navigator.standalone === true || matchMedia("(display-mode: standalone)").matches;
+      if (app && !sessionStorage.getItem("hub:launched")) { sessionStorage.setItem("hub:launched", "1"); location.replace("daily.html"); }
+    } catch {}
   </script>
 </head>
 <body>

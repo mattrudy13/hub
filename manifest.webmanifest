@@ -3,7 +3,7 @@
   "short_name": "Board",
   "description": "Rudy's apps at a glance: tonight's picks, season records and what changed lately.",
   "id": "/hub/",
-  "start_url": "/hub/",
+  "start_url": "/hub/daily.html",
   "scope": "/hub/",
   "display": "standalone",
   "background_color": "#eef1f5",

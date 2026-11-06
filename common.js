@@ -125,6 +125,8 @@ function setupToggles() {
 // Only in that mode: in a browser tab the reload button is right there.
 const STANDALONE = navigator.standalone === true || matchMedia("(display-mode: standalone)").matches;
 if (STANDALONE) {
+  // Marks this launch as started, so index.html's launch redirect to Daily happens only once per launch.
+  try { sessionStorage.setItem("hub:launched", "1"); } catch {}
   const STALE_MS = 10 * 60 * 1000;
   let hiddenAt = null;
   document.addEventListener("visibilitychange", () => {
