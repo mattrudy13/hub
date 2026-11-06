@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T23:43:08.908Z",
+  "updated": "2026-11-06T00:20:46.133Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "How North Carolina Democrats flipped several House seats in historically GOP districts",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts",
+          "title": "Fears about an AI crackdown after midterms sparks a $2 trillion rout in tech stocks",
+          "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
           "source": "NPR",
-          "published": "2026-11-05T23:34:36.000Z"
+          "published": "2026-11-06T00:16:53.000Z"
         },
         {
           "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
           "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-05T23:21:34.000Z"
+          "published": "2026-11-06T00:05:05.000Z"
         },
         {
-          "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-          "link": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-05T23:16:53.000Z"
+          "title": "These are the races in the House and Senate that haven't been called yet",
+          "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
+          "source": "NPR",
+          "published": "2026-11-06T00:03:45.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "'Musk selloff': Tesla and SpaceX combine for $456 billion two-day wipeout",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=37a848a7-2324-48a0-bd74-abe2a35267fe&mod=mw_rss_bulletins",
+          "title": "How to buy a new car for under $30,000 in this economy",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a6ac657e-4d81-4cc2-bce8-f35b81007bac&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-05T22:36:53.000Z"
+          "published": "2026-11-05T23:53:29.000Z"
         },
         {
-          "title": "After tech-stock rout, October jobs report could bring relief — or more pain",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1edc7ea6-1c97-449e-b820-2df88c301abb&mod=mw_rss_bulletins",
+          "title": "Cloudflare stock mounts big comeback after fastest sales surge in nearly 4 years",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f90ce007-a988-4b7b-973e-a9d45ec1c6f2&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-05T22:34:59.000Z"
+          "published": "2026-11-05T23:52:23.000Z"
         },
         {
           "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
-          "link": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+          "title": "Airbnb is working on an AI travel agent",
+          "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
           "source": "The Verge",
-          "published": "2026-11-05T23:17:10.000Z"
+          "published": "2026-11-06T00:06:12.000Z"
         },
         {
-          "title": "Perplexity launches its own take on AI agents for work",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+          "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+          "link": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
           "source": "The Verge",
-          "published": "2026-11-05T22:26:50.000Z"
+          "published": "2026-11-05T23:45:10.000Z"
         },
         {
-          "title": "Sony revives the original Walkman headphones, adds USB-C",
-          "link": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+          "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+          "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
           "source": "Ars Technica",
-          "published": "2026-11-05T21:56:36.000Z"
+          "published": "2026-11-05T23:09:36.000Z"
         }
       ]
     }
