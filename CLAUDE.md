@@ -182,7 +182,7 @@ passphrase to turn them on, quiet hours 11 PM–7 AM for data-job alerts only, a
 |---|---|---|
 | Beat the Model | beat-the-model's `/api/state` through the `BTM` service binding (a Worker can't fetch another workers.dev Worker on the same account) | Any ET day with open games: 2 h before that day's first kickoff. Skipped if he's already picked a game that day (assumed, not asked). |
 | KOTC lock | `kotc-tracker/data/predictions-<season>.json` | Promo nights only, once the first tip has passed (within 3 h), with the picks and win chances. |
-| KOTC result | same | A promo night's result from the last 2 days, at or after 7 AM. Same wording as the kotc tile. |
+| KOTC result | same | Yesterday's promo-night result, 7 AM–11 PM only (a result first seen later isn't sent). Same wording as the kotc tile. |
 | UVA game | ESPN `teams/258` (`team.nextEvent`, ~17 KB; the full schedule is ~300 KB, too much CPU for the free plan) for football and men's basketball | 45–60 min before a game with a set time. |
 | Data jobs | GitHub workflow runs, with `jobs.mjs` (shared with the Daily page) | Newly failed or late. In quiet hours they're held in KV and sent at 7 AM as one summary, only the ones still broken. No "fixed" alert. |
 
@@ -201,6 +201,8 @@ passphrase to turn them on, quiet hours 11 PM–7 AM for data-job alerts only, a
 - Secrets: `PUSH_KEY`, `VAPID_PRIVATE` (made by `push/scripts/vapid-keys.mjs`, piped straight in), `GITHUB_TOKEN`
   (read-only public repos). `VAPID_PUBLIC` and the KV id are in `push/wrangler.toml`. Changing the VAPID keys
   breaks every existing subscription (turn alerts off and on again on each device).
+- First live run (2026-11-06 00:00 ET): outcome ok, 20 ms CPU, over the free plan's documented 10 ms like beat-the-model's
+  sync, and not cut off. If the logs ever say "exceeded CPU", slim the inputs (e.g. check jobs every other run).
 - Tests: `cd push && npm test`. Local dry run: put `DRY_RUN=1` and `NOW=<iso>` in `push/.dev.vars`, run
   `npx wrangler@4 dev --test-scheduled --port 8799`, then `curl "localhost:8799/__scheduled?cron=*/15+*+*+*+*"`;
   it logs what each check would send against live data.
