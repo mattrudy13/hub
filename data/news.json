@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-07T11:20:45.990Z",
+  "updated": "2026-11-07T12:20:45.206Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
+          "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+          "source": "NPR",
+          "published": "2026-11-07T11:50:21.000Z"
+        },
         {
           "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
           "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-07T07:20:00.000Z"
-        },
-        {
-          "title": "Pope in 'pretty good health' as he starts Latin America tour",
-          "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-07T06:59:48.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-          "source": "The Verge",
-          "published": "2026-11-06T23:46:18.000Z"
+          "title": "The migration that transformed Africa's languages, genes, and cultures",
+          "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+          "source": "Ars Technica",
+          "published": "2026-11-07T12:15:55.000Z"
         },
         {
-          "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-          "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+          "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+          "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
           "source": "Ars Technica",
-          "published": "2026-11-06T23:09:45.000Z"
+          "published": "2026-11-07T11:00:34.000Z"
         },
         {
           "title": "China reportedly recruited AI exec to spy on Jensen Huang",
