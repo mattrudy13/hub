@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T15:20:45.080Z",
+  "updated": "2026-11-07T16:20:45.738Z",
   "failed": [],
   "sections": [
     {
@@ -10,7 +10,7 @@
           "title": "No clear winner after tight New Zealand general election",
           "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-07T15:00:10.000Z"
+          "published": "2026-11-07T15:56:28.000Z"
         },
         {
           "title": "A promising new medicine against heart disease fails unexpectedly",
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "You follow the rules for smart stock trading. But are they the right rules?",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fb051d31-c4ed-443b-b29a-47cd2e47401e&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-07T16:08:41.000Z"
+        },
+        {
           "title": "The AI trade is counting on Anthropic’s IPO — but the timing couldn't be worse",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ca491124-f1a8-4fd5-b495-a0595ed1900c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/11/07/cosm-immersive-movie-screenings.html",
           "source": "CNBC",
           "published": "2026-11-07T13:00:01.000Z"
-        },
-        {
-          "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a75ce1ab-b896-40ec-83a3-155cdfbd1296&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-06T22:39:55.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "AI broke the cybersecurity world. What’s next?",
-          "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+          "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+          "link": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-07T15:00:00.000Z"
+          "published": "2026-11-07T16:00:00.000Z"
         },
         {
-          "title": "Good riddance, Cybertruck!",
-          "link": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+          "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+          "link": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
           "source": "The Verge",
-          "published": "2026-11-07T14:40:06.000Z"
+          "published": "2026-11-07T16:00:00.000Z"
         },
         {
           "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
