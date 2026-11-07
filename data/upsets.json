@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-07T01:20:48.638Z",
+  "updated": "2026-11-07T02:20:51.758Z",
   "minLine": 7,
   "days": [
     "2026-11-05",
     "2026-11-06"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-06",
+      "id": "401926131",
+      "line": 19.5,
+      "details": "PUR -19.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401926131/valparaiso-purdue",
+      "winner": {
+        "id": "2674",
+        "name": "Valparaiso",
+        "abbr": "VAL",
+        "rank": null,
+        "score": 83
+      },
+      "loser": {
+        "id": "2509",
+        "name": "Purdue",
+        "abbr": "PUR",
+        "rank": null,
+        "score": 80
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-05",
@@ -515,8 +537,8 @@
     "cfb:401856855": {
       "date": "2026-11-06",
       "fav": "12",
-      "line": 7,
-      "details": "ARIZ -7"
+      "line": 6.5,
+      "details": "ARIZ -6.5"
     },
     "cbb:401920133": {
       "date": "2026-11-05",
@@ -766,8 +788,8 @@
     "cbb:401921727": {
       "date": "2026-11-06",
       "fav": "24",
-      "line": 13.5,
-      "details": "STAN -13.5"
+      "line": 14.5,
+      "details": "STAN -14.5"
     },
     "cbb:401921061": {
       "date": "2026-11-06",
@@ -879,8 +901,48 @@
     "cbb:401922219": {
       "date": "2026-11-06",
       "fav": "26",
-      "line": 33.5,
-      "details": "UCLA -33.5"
+      "line": 31.5,
+      "details": "UCLA -31.5"
+    },
+    "cbb:401925089": {
+      "date": "2026-11-06",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929385": {
+      "date": "2026-11-06",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401928840": {
+      "date": "2026-11-06",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926813": {
+      "date": "2026-11-06",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926161": {
+      "date": "2026-11-06",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401922210": {
+      "date": "2026-11-06",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401921166": {
+      "date": "2026-11-06",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401911006": {
+      "date": "2026-11-06",
+      "fav": null,
+      "line": null
     }
   }
 }

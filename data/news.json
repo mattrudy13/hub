@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T01:20:48.121Z",
+  "updated": "2026-11-07T02:20:49.947Z",
   "failed": [],
   "sections": [
     {
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+          "source": "The Verge",
+          "published": "2026-11-06T23:46:18.000Z"
+        },
+        {
           "title": "Man unexpectedly recovers from a knife wound through his eye and brain",
           "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
           "source": "Ars Technica",
           "published": "2026-11-06T23:09:45.000Z"
         },
         {
-          "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-          "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
-          "source": "Ars Technica",
-          "published": "2026-11-06T22:41:37.000Z"
-        },
-        {
-          "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-          "link": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
+          "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+          "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
           "source": "The Verge",
-          "published": "2026-11-06T21:50:32.000Z"
+          "published": "2026-11-06T23:00:44.000Z"
         }
       ]
     }
