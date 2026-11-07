@@ -8,18 +8,17 @@ updating by hand. A ticker shows recent changes across the repos. There's a ligh
 
 | Tile | App |
 |---|---|
-| King of the Court | [kotc-tracker](https://mattrudy13.github.io/kotc-tracker/): the next promo night's value picks and the last winner |
-| NBA First Minute | [nba-first-minute](https://mattrudy13.github.io/nba-first-minute/): today's chance both teams score in the first minute |
+| Beat the Model | [beat-the-model](https://mattrudy13.github.io/beat-the-model/): you vs the Model on your picks this season |
+| Hoops Board | [cbb-scores](https://mattrudy13.github.io/cbb-scores/): games on the board today, UVA's game and today's upsets |
 | College Football Picks | [cfb-picks](https://mattrudy13.github.io/cfb-picks/): this week's picks and the model's spread record |
 | NFL Tight End TDs | [te-tracker](https://mattrudy13.github.io/te-tracker/): this week's picks and the record by category |
 | UVA Records | [uva-records](https://mattrudy13.github.io/uva-records/): the featured sport's record and last result |
-| Hoops Board | [cbb-scores](https://mattrudy13.github.io/cbb-scores/): games on the board today, UVA's game and today's upsets |
+| King of the Court | [kotc-tracker](https://mattrudy13.github.io/kotc-tracker/): the next promo night's value picks and the last winner |
 | Apartments | [apartments](https://mattrudy13.github.io/apartments/): the cheapest unit that fits the budget |
 | Out & About | [out-and-about](https://mattrudy13.github.io/out-and-about/): how many events this weekend (a small tile) |
+| NBA First Minute | [nba-first-minute](https://mattrudy13.github.io/nba-first-minute/): today's chance both teams score in the first minute |
 | Head to Head | [h2h](https://mattrudy13.github.io/h2h/): look up any two teams' all-time series |
 
-On a phone, tiles with games or picks today move to the top once everything loads, and apps out of season
-drop to the bottom.
 
 **Daily** (https://mattrudy13.github.io/hub/daily.html) is a second page with the markets (indexes, Treasury
 yields, the VIX and overnight futures), Virginia Beach weather, UVA's next games and a few dated reminders

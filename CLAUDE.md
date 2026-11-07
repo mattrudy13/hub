@@ -49,15 +49,16 @@ Only in season. kotc and fm: 30 h after `updated` (Oct–Jun). cfb: 60 h (Sep–
 te: 100 h after the newer of `updated` and `graded` (Sep–Jan). uva: `built` older than 2.5 days.
 apartments: last pull older than 9 days (weekly Monday scrape). Out & About: 48 h (the site's own warning). Hoops Board: none (live). btm: 3 h after the Worker's last hourly sync (Sep–Dec). Adjust in `TILES` if an app's schedule changes.
 
-## Phone order (added 2026-11-07)
+## Tile order (2026-11-07)
 
-Below 700 px the grid is one column, ordered by `arrangeTiles()` (Rudy's pick): tiles whose `load()` returned
-`live` (games or picks today) first, then the usual `TILES` order, then tiles whose `inSeason()` is false. The
-off-season move happens at once; the "today" move waits until every tile has loaded (one reshuffle). The DOM is
-reordered, not CSS `order`, so Tab and screen readers follow the screen; it's skipped when already in order
-(moving a node drops focus) and redone when the width crosses 700 px. Wider screens keep `TILES` order: at 3
-columns King of the Court (2) + 7 tiles + Out & About + h2h (2) fill four rows. cfb's `live` looks at every
-week's open picks, because cfb-picks posts next week's picks before Saturday.
+One fixed order on every screen, never reshuffled (Rudy's pick): Beat the Model, Hoops Board, CFB Picks, TE TDs,
+UVA Records, King of the Court, Apartments, Out & About, NBA First Minute, Head to Head. It's the order of
+`TILES`. Earlier the same day the phone moved tiles with games today to the top after loading; Rudy didn't like
+it and asked for this order instead. To fit it, King of the Court is a normal-width tile (its picks and last
+result stack), and at 3 columns the h2h lookup takes the whole bottom row, so 3 columns = three full rows +
+h2h, 2 columns = five full rows. Arcade accents were re-picked so neighbors differ (Out & About pink, h2h yellow).
+cfb's `live` (the subline's "N with games today") looks at every week's open picks, because cfb-picks posts next
+week's picks before Saturday.
 
 ## Feed
 
