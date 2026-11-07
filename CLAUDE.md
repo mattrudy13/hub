@@ -1,6 +1,6 @@
 # Hub: project notes
 
-A personal portal for Rudy's apps (7 at the start, plus Beat the Model on 2026-10-24) at https://mattrudy13.github.io/hub/ (repo `mattrudy13/hub`, Pages from
+A personal portal for Rudy's apps (7 at the start, plus Beat the Model on 2026-10-24, Hoops Board and Out & About on 2026-11-07) at https://mattrudy13.github.io/hub/ (repo `mattrudy13/hub`, Pages from
 `main` at the root). It's for Rudy's daily check and for friends, **not recruiters**: no bio, no skills, and
 no link to the portfolio at the root (that site is recruiter-facing and separate). Started 2026-10-22, v0.1.
 
@@ -37,6 +37,8 @@ didn't want "Hub" on the site. "Hub" is still the project name: repo, URL path, 
 | uva | `uva-records/site-data/sports.json`, `seasons.json`, `games/<slug>.json` | featured sport by month (football Jul–Dec, men's basketball Jan–Mar, baseball Apr–Jun); "teams with games left" = current season with a `next` date |
 | apts | `apartments/data/viable.json`, `summary.json` | cheapest viable unit by `monthly` (same number as the site and digest); last pull = newest complex `date` |
 | btm | `https://beat-the-model.mattrudy13.workers.dev/api/summary` (a Worker, not Pages) | `summary()` in beat-the-model's `lib/rules.js`, the same function as its race summary: you vs the Model on your picks, rank, this week's open games |
+| hoops | none: ESPN's scoreboard live, through Hoops Board's own `cbb-scores/lib.js` (dynamic `import()`) | the six `BOARD_QUERIES` boards for today, `mergeBoards` + `isShown`; big number = games today, "N live"; UVA's game from the board, else its next one from the team schedule (`teams/258` itself has no CORS header); upsets = `upsetState()` with each tipped game's pre-game line (`oddsUrl`, 4 at a time, filled in after the tile renders), cached in Hoops Board's own `cbb-scores:lines3` key (same origin on github.io, same `parseLine` shape). "Today" while any game is still to play. In season Nov–Apr |
+| oa | `out-and-about/data/events.json` | compact one-line tile (Rudy's pick): events (markets included, as on the site) Fri–Sun; Mon–Thu counts the coming weekend |
 | h2h | none | form opens `h2h/<cfb|cbb>-h2h.html?t1=&t2=` |
 
 Season = the year the season starts (Aug–Dec: this year; Jan–Jul: last year).
@@ -45,11 +47,21 @@ Season = the year the season starts (Aug–Dec: this year; Jan–Jul: last year)
 
 Only in season. kotc and fm: 30 h after `updated` (Oct–Jun). cfb: 60 h (Sep–Dec; snapshots are Sun/Tue/Fri/Sat).
 te: 100 h after the newer of `updated` and `graded` (Sep–Jan). uva: `built` older than 2.5 days.
-apartments: last pull older than 9 days (weekly Monday scrape). btm: 3 h after the Worker's last hourly sync (Sep–Dec). Adjust in `TILES` if an app's schedule changes.
+apartments: last pull older than 9 days (weekly Monday scrape). Out & About: 48 h (the site's own warning). Hoops Board: none (live). btm: 3 h after the Worker's last hourly sync (Sep–Dec). Adjust in `TILES` if an app's schedule changes.
+
+## Phone order (added 2026-11-07)
+
+Below 700 px the grid is one column, ordered by `arrangeTiles()` (Rudy's pick): tiles whose `load()` returned
+`live` (games or picks today) first, then the usual `TILES` order, then tiles whose `inSeason()` is false. The
+off-season move happens at once; the "today" move waits until every tile has loaded (one reshuffle). The DOM is
+reordered, not CSS `order`, so Tab and screen readers follow the screen; it's skipped when already in order
+(moving a node drops focus) and redone when the width crosses 700 px. Wider screens keep `TILES` order: at 3
+columns King of the Court (2) + 7 tiles + Out & About + h2h (2) fill four rows. cfb's `live` looks at every
+week's open picks, because cfb-picks posts next week's picks before Saturday.
 
 ## Feed
 
-`GET api.github.com/repos/mattrudy13/<repo>/commits?per_page=15` for the 7 repos. `data:` / `chore(data):`
+`GET api.github.com/repos/mattrudy13/<repo>/commits?per_page=15` for the 9 repos in `REPOS` (beat-the-model isn't one). `data:` / `chore(data):`
 commits collapse into "data refreshed N×"; feat/fix/refactor/perf show their subject; docs, chore and style are
 hidden. The result is cached in localStorage (`hub:feed:v1`) for 10 minutes because unauthenticated calls are limited to 60/hour per IP. If any
 repo fails (rate limit), the cached feed is shown; if there's nothing cached, the ticker hides. The ticker
