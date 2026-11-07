@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T19:20:47.669Z",
+  "updated": "2026-11-07T20:20:45.566Z",
   "minLine": 7,
   "days": [
     "2026-11-06",
@@ -26,6 +26,28 @@
         "abbr": "PUR",
         "rank": null,
         "score": 80
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-07",
+      "id": "401925707",
+      "line": 9.5,
+      "details": "WIN -9.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401925707/north-dakota-winthrop",
+      "winner": {
+        "id": "155",
+        "name": "North Dakota",
+        "abbr": "UND",
+        "rank": null,
+        "score": 93
+      },
+      "loser": {
+        "id": "2737",
+        "name": "Winthrop",
+        "abbr": "WIN",
+        "rank": null,
+        "score": 90
       }
     }
   ],
@@ -587,8 +609,8 @@
     "cfb:401856851": {
       "date": "2026-11-07",
       "fav": "248",
-      "line": 10.5,
-      "details": "HOU -10.5"
+      "line": 10,
+      "details": "HOU -10"
     },
     "cfb:401858516": {
       "date": "2026-11-07",
@@ -599,8 +621,8 @@
     "cfb:401862819": {
       "date": "2026-11-07",
       "fav": "5",
-      "line": 8.5,
-      "details": "UAB -8.5"
+      "line": 7.5,
+      "details": "UAB -7.5"
     },
     "cfb:401862820": {
       "date": "2026-11-07",
@@ -635,8 +657,8 @@
     "cfb:401864534": {
       "date": "2026-11-07",
       "fav": "23",
-      "line": 12.5,
-      "details": "SJSU -12.5"
+      "line": 11.5,
+      "details": "SJSU -11.5"
     },
     "cfb:401871074": {
       "date": "2026-11-07",
@@ -737,8 +759,8 @@
     "cfb:401870795": {
       "date": "2026-11-07",
       "fav": "2335",
-      "line": 15.5,
-      "details": "LIB -15.5"
+      "line": 14.5,
+      "details": "LIB -14.5"
     },
     "cfb:401856856": {
       "date": "2026-11-07",
@@ -957,8 +979,8 @@
     "cbb:401924895": {
       "date": "2026-11-07",
       "fav": "167",
-      "line": 27.5,
-      "details": "UNM -27.5"
+      "line": 28.5,
+      "details": "UNM -28.5"
     },
     "cbb:401924843": {
       "date": "2026-11-07",
@@ -1023,8 +1045,8 @@
     "cbb:401920816": {
       "date": "2026-11-07",
       "fav": "2031",
-      "line": 10.5,
-      "details": "LR -10.5"
+      "line": 9.5,
+      "details": "LR -9.5"
     },
     "cbb:401917518": {
       "date": "2026-11-07",
@@ -1074,6 +1096,11 @@
       "line": null
     },
     "cbb:401919758": {
+      "date": "2026-11-07",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929449": {
       "date": "2026-11-07",
       "fav": null,
       "line": null

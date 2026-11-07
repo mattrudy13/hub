@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-07T19:20:46.908Z",
+  "updated": "2026-11-07T20:20:45.089Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+          "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-07T20:08:31.000Z"
+        },
         {
           "title": "Paraguay's former president charged after bank collapse",
           "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
           "source": "NPR",
           "published": "2026-11-07T18:37:36.000Z"
-        },
-        {
-          "title": "What we know about Krakow mass shooting so far",
-          "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-07T18:22:11.000Z"
         }
       ]
     },
