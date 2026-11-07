@@ -111,7 +111,11 @@ const TILES = [
     key: "cfb", name: "College Football Picks", arcadeName: "CFB PICKS", path: "cfb-picks/", accent: "lime",
     staleHours: 60, inSeason: inMonths(9, 10, 11, 12),
     async load() {
-      const { data } = await getSeason((y) => `cfb-picks/data/picks-${y}.json`);
+      const { season, data } = await getSeason((y) => `cfb-picks/data/picks-${y}.json`);
+      // The app's "This week" is `week` in its season file, which stays on a week until its games are done
+      // (cfb-picks posts next week's picks before Saturday). Null = season over. If the file can't be read,
+      // fall back to the newest week with picks.
+      const meta = await getJson(`cfb-picks/data/${season}.json`).catch((e) => { console.warn("[hub] cfb: season file", e); return null; });
       const all = Object.values(data.weeks ?? {}).flatMap((w) => w.picks);
       if (!all.length) throw new Error("cfb: no picks");
       const model = [...all].sort((a, b) => b.takenAt.localeCompare(a.takenAt))[0].model ?? "v2";
@@ -121,7 +125,7 @@ const TILES = [
       const push = spreads.filter((p) => p.result === "P").length;
       const newest = [...spreads].sort((a, b) => b.takenAt.localeCompare(a.takenAt))[0];
       const status = newest?.status ?? (newest?.shadow ? "unofficial" : "official");
-      const week = Math.max(...mine.map((p) => p.week));
+      const week = meta?.week ?? Math.max(...mine.map((p) => p.week));
       const thisWeek = mine.filter((p) => p.week === week);
       const open = thisWeek.filter((p) => !p.result);
       const now = Date.now();

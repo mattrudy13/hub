@@ -32,7 +32,7 @@ didn't want "Hub" on the site. "Hub" is still the project name: repo, URL path, 
 |---|---|---|
 | kotc | `kotc-tracker/data/predictions-<season>.json` | index.html: tonight's promo, else the next one; picks = locked `picks`; last = newest promo with `result` (`kings`, `kingPra`) |
 | fm | `nba-first-minute/data/predictions-<season>.json` | `days[todayET]`; model.html graded days = days with `result` (`games`, `yes`) |
-| cfb | `cfb-picks/data/picks-<season>.json` | current model = newest pick's `model`; record = its spreads, `recordOf` (common.js); status = newest spread's |
+| cfb | `cfb-picks/data/picks-<season>.json`, `<season>.json` | current model = newest pick's `model`; record = its spreads, `recordOf` (common.js); status = newest spread's; the week shown = the season file's `week` (index.html's "This week", which stays put until that week's games are done), else the newest week with picks |
 | te | `te-tracker/data/picks-<season>.json` | official = `!shadow`; record per category (likely, value, longshot, due, first, fade), Rudy's choice over one combined number |
 | uva | `uva-records/site-data/sports.json`, `seasons.json`, `games/<slug>.json` | featured sport by month (football Jul–Dec, men's basketball Jan–Mar, baseball Apr–Jun); "teams with games left" = current season with a `next` date |
 | apts | `apartments/data/viable.json`, `summary.json` | cheapest viable unit by `monthly` (same number as the site and digest); last pull = newest complex `date` |
