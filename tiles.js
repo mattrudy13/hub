@@ -131,7 +131,9 @@ const TILES = [
       const rate = w + l ? w / (w + l) : null;
       const big = push ? wl(w, l, push) : wl(w, l);
       return {
-        live: open.some((p) => etDate(new Date(p.kickoff)) === todayET()),
+        // Any week's open pick, not just the newest week's: cfb-picks posts the next week's picks before
+        // Saturday (week 11 was up on Sat Nov 7 while week 10's Saturday picks were still open).
+        live: mine.some((p) => !p.result && etDate(new Date(p.kickoff)) === todayET()),
         updated: data.updated,
         tag: dual(offseason ? "Offseason" : `Week ${week}`, offseason ? "GAME OVER" : `LEVEL: WEEK ${week}`),
         body: dual(
