@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T13:20:45.385Z",
+  "updated": "2026-11-07T14:20:45.866Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Democrats plan to widen their probes of fatal ICE shootings",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
+          "source": "NPR",
+          "published": "2026-11-07T13:19:09.000Z"
+        },
+        {
           "title": "Perspective: Simon Winchester was here to tell a story",
           "link": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
           "source": "NPR",
           "published": "2026-11-07T13:00:00.000Z"
         },
         {
-          "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+          "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
           "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-07T12:49:36.000Z"
-        },
-        {
-          "title": "Four things we learned this week about 2028 White House race",
-          "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-07T12:23:28.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "The AI trade is counting on Anthropic’s IPO — but the timing couldn't be worse",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ca491124-f1a8-4fd5-b495-a0595ed1900c&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-07T14:15:22.000Z"
+        },
         {
           "title": "Cosm rides premium moviegoing wave with more immersive screenings and a wider library",
           "link": "https://www.cnbc.com/2026/11/07/cosm-immersive-movie-screenings.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a75ce1ab-b896-40ec-83a3-155cdfbd1296&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-06T22:39:55.000Z"
-        },
-        {
-          "title": "Elon Musk opens the door for a big SpaceX telecom acquisition",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=46284fca-c4cb-4bb3-811a-bb3836052fec&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-06T21:53:51.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Zelda is back and better than ever",
+          "link": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "source": "The Verge",
+          "published": "2026-11-07T13:49:01.000Z"
+        },
+        {
           "title": "Why a new report on Anthropic automating AI development is alarming researchers",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
           "source": "The Verge",
           "published": "2026-11-07T12:30:00.000Z"
         },
         {
-          "title": "The migration that transformed Africa's languages, genes, and cultures",
+          "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
           "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
           "source": "Ars Technica",
           "published": "2026-11-07T12:15:55.000Z"
-        },
-        {
-          "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-          "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-          "source": "Ars Technica",
-          "published": "2026-11-07T11:00:34.000Z"
         }
       ]
     }
