@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T12:20:45.206Z",
+  "updated": "2026-11-07T13:20:45.385Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
-          "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+          "title": "Perspective: Simon Winchester was here to tell a story",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
           "source": "NPR",
-          "published": "2026-11-07T11:50:21.000Z"
+          "published": "2026-11-07T13:00:00.000Z"
         },
         {
-          "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
-          "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
-          "source": "NPR",
-          "published": "2026-11-07T10:00:00.000Z"
-        },
-        {
-          "title": "Paraguay's president impeached and under house arrest after bank collapse",
-          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-07T07:20:00.000Z"
+          "published": "2026-11-07T12:49:36.000Z"
+        },
+        {
+          "title": "Four things we learned this week about 2028 White House race",
+          "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-07T12:23:28.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Cosm rides premium moviegoing wave with more immersive screenings and a wider library",
+          "link": "https://www.cnbc.com/2026/11/07/cosm-immersive-movie-screenings.html",
+          "source": "CNBC",
+          "published": "2026-11-07T13:00:01.000Z"
+        },
         {
           "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a75ce1ab-b896-40ec-83a3-155cdfbd1296&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=46284fca-c4cb-4bb3-811a-bb3836052fec&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-06T21:53:51.000Z"
-        },
-        {
-          "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
-          "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
-          "source": "CNBC",
-          "published": "2026-11-06T15:06:11.000Z"
         }
       ]
     },
@@ -54,6 +54,12 @@
       "key": "tech",
       "name": "Tech",
       "items": [
+        {
+          "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "source": "The Verge",
+          "published": "2026-11-07T12:30:00.000Z"
+        },
         {
           "title": "The migration that transformed Africa's languages, genes, and cultures",
           "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
           "source": "Ars Technica",
           "published": "2026-11-07T11:00:34.000Z"
-        },
-        {
-          "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-          "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-          "source": "The Verge",
-          "published": "2026-11-06T23:00:44.000Z"
         }
       ]
     }
