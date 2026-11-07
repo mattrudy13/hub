@@ -7,6 +7,11 @@ no link to the portfolio at the root (that site is recruiter-facing and separate
 On the page it's **Rudy's Board** (title, heading, "← Board" back links), renamed 2026-10-25 because Rudy
 didn't want "Hub" on the site. "Hub" is still the project name: repo, URL path, `hub:` storage keys, Worker.
 
+**Left off the Board on purpose** (2026-11-07): Ledger (`spending/`), Rudy's private spending page. Friends see
+the Board, and Ledger has no published data for a tile (it lives in each browser). Rudy opens it from a Home
+Screen icon instead. Don't add it, and never read its `spending:` storage key from here. Query Workbook
+(`sql-drills/`) isn't on the Board yet either; a link is an idea in its ENHANCEMENTS.md, Rudy's call.
+
 ## Files
 
 - `index.html`: the ticker, masthead (Arcade mode and theme buttons) and the tile grid. Scripts load in order:
