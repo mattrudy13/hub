@@ -1,65 +1,9 @@
 {
-  "updated": "2026-11-06T23:20:50.104Z",
-  "from": "2026-11-06T23:20:49Z",
-  "to": "2026-11-20T23:20:49Z",
+  "updated": "2026-11-07T00:20:50.960Z",
+  "from": "2026-11-07T00:20:50Z",
+  "to": "2026-11-21T00:20:50Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1A70Iqt",
-      "name": "Matt Mathews",
-      "date": "2026-11-06",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Arts",
-      "genre": null,
-      "venue": "Rivers Casino Portsmouth Event Center",
-      "city": "Portsmouth",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Iqt",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/2e7/a0f347a7-a5ea-419e-ab9d-b262d6d772e7_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "vv177Z_oGkRfDrFI",
-      "name": "Indiana Jones Raiders Of The Lost Ark - 7pm - Classic Movie Nights!",
-      "date": "2026-11-06",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Other",
-      "genre": "Action/Adventure",
-      "venue": "American Theatre",
-      "city": "Hampton",
-      "url": "https://www.ticketmaster.com/indiana-jones-raiders-of-the-lost-hampton-virginia-11-06-2026/event/0100651BD4EDE228",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/47e/b14daa26-1991-4856-acb6-f7d020b4747e_106331_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "vv1AvZk39Gkd1Xb6V",
-      "name": "Monster Jam",
-      "date": "2026-11-06",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Motorsports/Racing",
-      "venue": "Hampton Coliseum",
-      "city": "Hampton",
-      "url": "https://www.ticketmaster.com/monster-jam-hampton-virginia-11-06-2026/event/01006497CAF981F4",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/648/bee96ceb-7d32-4b5d-bb15-6a8615501648_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "vv1AvZkfAGkdpGz09",
-      "name": "Norfolk Admirals vs. Reading Royals",
-      "date": "2026-11-06",
-      "time": "19:05",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Hockey",
-      "venue": "Scope Arena",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/norfolk-admirals-vs-reading-royals-norfolk-virginia-11-06-2026/event/01006505D6338917",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/a82/1bbe9229-3e86-41b2-89a6-3f9ee9488a82_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vvG17Z_G69p5Hh",
       "name": "Heroes Off Duty Comedy Tour",
@@ -773,6 +717,20 @@
       "url": "https://www.ticketmaster.com/its-a-wonderful-life-7pm-classic-hampton-virginia-11-19-2026/event/0100651C86D8A311",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/c/523/f2bada7e-b9e4-488b-b6dc-b188330dc523_105571_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkfAGkdp2bPc",
+      "name": "Norfolk Admirals vs. Trenton Ironhawks",
+      "date": "2026-11-20",
+      "time": "19:05",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Hockey",
+      "venue": "Scope Arena",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/norfolk-admirals-vs-trenton-ironhawks-norfolk-virginia-11-20-2026/event/01006505D63D896D",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/a82/1bbe9229-3e86-41b2-89a6-3f9ee9488a82_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
