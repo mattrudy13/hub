@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-07T21:20:50.462Z",
-  "from": "2026-11-07T21:20:49Z",
-  "to": "2026-11-21T21:20:49Z",
+  "updated": "2026-11-07T22:20:51.469Z",
+  "from": "2026-11-07T22:20:50Z",
+  "to": "2026-11-21T22:20:50Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vvG17Z_2xp5CJD",
-      "name": "Brains On! LIVE: Your Brain is Magic!",
-      "date": "2026-11-07",
-      "time": "17:00",
-      "status": "onsale",
-      "kind": "Arts",
-      "genre": "Theatre",
-      "venue": "Attucks Theatre",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/brains-on-live-your-brain-is-norfolk-virginia-11-07-2026/event/010064F8962CE9BB",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/266/1acf68b4-180f-4e23-87fa-b7762f953266_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZk39Gkd1TzFK",
       "name": "Monster Jam",
