@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-07T04:20:48.527Z",
-  "from": "2026-11-07T04:20:48Z",
-  "to": "2026-11-21T04:20:48Z",
+  "updated": "2026-11-07T05:20:48.849Z",
+  "from": "2026-11-07T05:20:48Z",
+  "to": "2026-11-21T05:20:48Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -745,6 +745,20 @@
       "url": "https://www.ticketmaster.com/trippie-redd-the-nondisclosure-agreement-tour-virginia-beach-virginia-11-20-2026/event/0100653307548C2B",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/f79/c44c3f4b-390c-47c3-901c-525346cb5f79_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkfgGkdbmzsu",
+      "name": "BayPort Credit Union Holiday Trail of Lights",
+      "date": "2026-11-20",
+      "time": null,
+      "status": "onsale",
+      "kind": "Other",
+      "genre": "Holiday",
+      "venue": "Virginia Aquarium",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-11-20-2026/event/01006535D8BB8C4D",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
