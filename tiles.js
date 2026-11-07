@@ -480,10 +480,32 @@ async function fillTile(t) {
   }
 }
 
+// Phone order (Rudy's pick, 2026-11-07): tiles with games or picks today first, then the usual order, then
+// apps out of season. Wider screens keep TILES order, which the 2- and 3-column grids are laid out around.
+// The DOM itself is reordered (not CSS `order`) so screen readers and Tab follow what's on screen.
+const phoneWidth = matchMedia("(max-width: 699px)");
+let tileResults = null;
+
+function arrangeTiles() {
+  const grid = document.getElementById("tiles");
+  const group = (t, i) => (tileResults?.[i]?.live ? 0 : t.inSeason && !t.inSeason() ? 2 : 1);
+  const order = phoneWidth.matches
+    ? TILES.map((t, i) => ({ t, k: group(t, i) * 100 + i })).sort((a, b) => a.k - b.k).map((x) => x.t)
+    : TILES;
+  const ids = order.map((t) => `tile-${t.key}`);
+  // Moving a node drops its focus, so leave the grid alone when it's already in order.
+  if ([...grid.children].map((el) => el.id).join() === ids.join()) return;
+  ids.forEach((id) => grid.appendChild(document.getElementById(id)));
+}
+phoneWidth.addEventListener("change", arrangeTiles);
+
 async function renderTiles() {
   const grid = document.getElementById("tiles");
   grid.innerHTML = TILES.map(tileShell).join("");
+  arrangeTiles(); // off-season tiles drop to the bottom right away; "today" ones move up once everything loads
   const results = await Promise.all(TILES.map(fillTile));
+  tileResults = results;
+  arrangeTiles();
   const live = results.filter((r) => r?.live).length;
   const day = new Date().toLocaleDateString(undefined, { weekday: "long", month: "short", day: "numeric" });
   document.getElementById("subline").innerHTML = dual(
