@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-07T20:58:39.864Z",
-  "from": "2026-11-07T20:58:39Z",
-  "to": "2026-11-21T20:58:39Z",
+  "updated": "2026-11-07T21:20:50.462Z",
+  "from": "2026-11-07T21:20:49Z",
+  "to": "2026-11-21T21:20:49Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv177Z_fGkMzeGV9",
-      "name": " Culture Clash: Crowd Karaoke (Ages 21 & Up)",
-      "date": "2026-11-07",
-      "time": "16:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Reggae",
-      "venue": "Elevation 27",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/culture-clash-crowd-karaoke-ages-21-virginia-beach-virginia-11-07-2026/event/0100654DF808CD17",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/e/d16/8d22430f-858e-4577-97e4-02af97615d16_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vvG17Z_2xp5CJD",
       "name": "Brains On! LIVE: Your Brain is Magic!",
