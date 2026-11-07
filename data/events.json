@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-07T22:20:51.469Z",
-  "from": "2026-11-07T22:20:50Z",
-  "to": "2026-11-21T22:20:50Z",
+  "updated": "2026-11-07T23:20:48.885Z",
+  "from": "2026-11-07T23:20:48Z",
+  "to": "2026-11-21T23:20:48Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv1AvZk39Gkd1TzFK",
-      "name": "Monster Jam",
-      "date": "2026-11-07",
-      "time": "18:00",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Motorsports/Racing",
-      "venue": "Hampton Coliseum",
-      "city": "Hampton",
-      "url": "https://www.ticketmaster.com/monster-jam-hampton-virginia-11-07-2026/event/01006497CAFF8213",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/648/bee96ceb-7d32-4b5d-bb15-6a8615501648_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv177Z_oGkRb4T2O",
       "name": "Indiana Jones: DOUBLE FEATURE - Temple of Doom 7pm/Last Crusade 9:30pm",

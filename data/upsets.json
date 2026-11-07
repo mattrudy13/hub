@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T22:20:47.976Z",
+  "updated": "2026-11-07T23:20:46.637Z",
   "minLine": 7,
   "days": [
     "2026-11-06",
@@ -26,6 +26,28 @@
         "abbr": "PUR",
         "rank": null,
         "score": 80
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-11-07",
+      "id": "401869936",
+      "line": 14.5,
+      "details": "ARST -14.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401869936/ul-monroe-arkansas-st",
+      "winner": {
+        "id": "2433",
+        "name": "UL Monroe",
+        "abbr": "ULM",
+        "rank": null,
+        "score": 19
+      },
+      "loser": {
+        "id": "2032",
+        "name": "Arkansas St",
+        "abbr": "ARST",
+        "rank": null,
+        "score": 17
       }
     },
     {
@@ -699,8 +721,8 @@
     "cfb:401856745": {
       "date": "2026-11-07",
       "fav": "2633",
-      "line": 6,
-      "details": "TENN -6"
+      "line": 6.5,
+      "details": "TENN -6.5"
     },
     "cfb:401871075": {
       "date": "2026-11-07",
@@ -777,8 +799,8 @@
     "cfb:401864532": {
       "date": "2026-11-07",
       "fav": "62",
-      "line": 7.5,
-      "details": "HAW -7.5"
+      "line": 7,
+      "details": "HAW -7"
     },
     "cfb:401860912": {
       "date": "2026-11-07",
@@ -1111,6 +1133,16 @@
       "line": null
     },
     "cbb:401925047": {
+      "date": "2026-11-07",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401928793": {
+      "date": "2026-11-07",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401919824": {
       "date": "2026-11-07",
       "fav": null,
       "line": null
