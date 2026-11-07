@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T16:54:56.720Z",
+  "updated": "2026-11-07T17:20:46.017Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Ousted Paraguayan president appears before prosecutors",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+          "source": "NPR",
+          "published": "2026-11-07T17:14:36.000Z"
+        },
+        {
+          "title": "Italian foreign minister says hackers leaked his personal data",
+          "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-07T16:50:06.000Z"
+        },
+        {
           "title": "No clear winner after tight New Zealand general election",
           "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-07T15:56:28.000Z"
-        },
-        {
-          "title": "A promising new medicine against heart disease fails unexpectedly",
-          "link": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
-          "source": "NPR",
-          "published": "2026-11-07T14:50:00.000Z"
-        },
-        {
-          "title": "Democrats plan to widen their probes of fatal ICE shootings",
-          "link": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
-          "source": "NPR",
-          "published": "2026-11-07T13:19:09.000Z"
         }
       ]
     },
@@ -55,14 +55,14 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-          "link": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+          "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+          "link": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
           "source": "The Verge",
-          "published": "2026-11-07T16:00:00.000Z"
+          "published": "2026-11-07T17:00:00.000Z"
         },
         {
-          "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-          "link": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+          "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+          "link": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
           "source": "The Verge",
           "published": "2026-11-07T16:00:00.000Z"
         },

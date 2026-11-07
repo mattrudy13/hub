@@ -1,37 +1,9 @@
 {
-  "updated": "2026-11-07T16:54:59.194Z",
-  "from": "2026-11-07T16:54:58Z",
-  "to": "2026-11-21T16:54:58Z",
+  "updated": "2026-11-07T17:20:48.141Z",
+  "from": "2026-11-07T17:20:47Z",
+  "to": "2026-11-21T17:20:47Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1A7x8J6",
-      "name": "Norfolk State Spartans Football vs. North Carolina Central Eagles Football",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Miscellaneous",
-      "venue": "William Price Stadium",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x8J6",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/db5/5acfb9a3-4315-40c6-824f-e0fd31bd5db5_723691_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "vv1A8v0JaGAGvTr-",
-      "name": "Monster Jam",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Motorsports/Racing",
-      "venue": "Hampton Coliseum",
-      "city": "Hampton",
-      "url": "https://www.ticketmaster.com/monster-jam-hampton-virginia-11-07-2026/event/010064989C07F7A1",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/648/bee96ceb-7d32-4b5d-bb15-6a8615501648_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv177Z_fGkMzeGV9",
       "name": " Culture Clash: Crowd Karaoke (Ages 21 & Up)",
