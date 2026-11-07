@@ -11,6 +11,8 @@ const REPOS = [
   ["uva-records", "UVA Records", "UVA"],
   ["h2h", "Head to Head", "H2H"],
   ["apartments", "Apartments", "APARTMENTS"],
+  ["cbb-scores", "Hoops Board", "HOOPS"],
+  ["out-and-about", "Out & About", "OUT & ABOUT"],
 ];
 const FEED_KEY = "hub:feed:v1";
 const FEED_TTL = 10 * 60 * 1000;

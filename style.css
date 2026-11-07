@@ -145,9 +145,15 @@ button { font: inherit; color: inherit; }
 }
 @media (min-width: 1040px) {
   .tiles { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-  /* King of the Court (2) + 5 tiles + h2h (2) fills three full rows. */
+  /* King of the Court (2) + 7 tiles + h2h (2) fills four full rows; Out & About sits beside h2h. */
   .tile.h2h-tile { grid-column: span 2; }
 }
+
+/* Out & About: a one-line tile (Rudy's pick: smaller than the others). */
+.tile.compact .tile-body { padding: 12px 16px; }
+.compact-line { font-size: 18px; font-weight: 500; }
+.compact-line b { font-family: var(--font-display); font-weight: 700; font-size: 32px; color: var(--big); margin-right: 2px; }
+.compact-line .muted { color: var(--muted); font-size: 15px; }
 
 .tile {
   --tile-head: var(--strip);

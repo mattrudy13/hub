@@ -254,6 +254,81 @@ const TILES = [
     },
   },
 
+  // cbb-scores (Hoops Board) has no data files: it reads ESPN live. The tile imports Hoops Board's own lib.js
+  // (BOARD_QUERIES, isShown, upsetInfo, parseLine...), so its games and upsets are the app's by construction.
+  {
+    key: "hoops", name: "Hoops Board", arcadeName: "HOOPS BOARD", path: "cbb-scores/", accent: "cyan",
+    staleHours: null, inSeason: inMonths(11, 12, 1, 2, 3, 4),
+    async load() {
+      const lib = await import(appUrl("cbb-scores/lib.js"));
+      const today = lib.etDate();
+      const boards = (await Promise.allSettled(lib.BOARD_QUERIES.map(async (q) => {
+        const res = await fetch(`${lib.ESPN}?dates=${today.replaceAll("-", "")}&limit=400${q}`, { cache: "no-store" });
+        if (!res.ok) throw new Error(`ESPN ${res.status}`);
+        return res.json();
+      }))).filter((r) => r.status === "fulfilled").map((r) => r.value);
+      if (!boards.length) throw new Error("hoops: ESPN didn't answer");
+      const games = lib.mergeBoards(boards).filter(lib.isShown);
+      const live = games.filter((g) => g.state === "in").length;
+      const left = games.filter((g) => g.state !== "post").length;
+
+      // UVA: today's game from the board, else the team's next event (~17 KB; the full schedule is ~300 KB).
+      const uvaGame = games.find(lib.hasUva);
+      let uvaSb = "", uvaAr = "";
+      if (uvaGame) {
+        const us = uvaGame.away.id === lib.UVA_ID ? uvaGame.away : uvaGame.home;
+        const them = us === uvaGame.away ? uvaGame.home : uvaGame.away;
+        const where = us === uvaGame.home ? "vs" : "at";
+        const opp = `${them.rank ? `No. ${them.rank} ` : ""}${them.name}`;
+        if (uvaGame.state === "pre") {
+          uvaSb = `UVA ${where} ${opp} · ${lib.statusText(uvaGame)}${uvaGame.tv ? ` · ${uvaGame.tv}` : ""}`;
+        } else {
+          const score = `${us.score}–${them.score}`;
+          const verb = uvaGame.state === "post" ? (us.winner || us.score > them.score ? "won" : "lost") : us.score >= them.score ? "leads" : "trails";
+          uvaSb = `UVA ${verb} ${score} ${where} ${opp} · ${lib.statusText(uvaGame)}`;
+        }
+        uvaAr = upper(uvaSb.replace(/No\. /, "#"));
+      } else {
+        // The team schedule (regular season + postseason), same as the Daily page's Coming Up. The smaller
+        // teams/258 endpoint sends no CORS header, so a browser can't read it.
+        try {
+          const lists = await Promise.all([2, 3].map(async (type) => {
+            const res = await fetch(`${lib.ESPN.replace("/scoreboard", "")}/teams/${lib.UVA_ID}/schedule?seasontype=${type}`);
+            return res.ok ? (await res.json()).events ?? [] : [];
+          }));
+          const ev = lists.flat().filter((e) => e.competitions?.[0]?.status?.type?.state === "pre").sort((a, b) => a.date.localeCompare(b.date))[0];
+          const comp = ev?.competitions?.[0];
+          const me = comp?.competitors?.find((c) => String(c.id) === lib.UVA_ID);
+          const them = comp?.competitors?.find((c) => String(c.id) !== lib.UVA_ID);
+          if (them) {
+            const where = comp.neutralSite || me?.homeAway === "home" ? "vs" : "at";
+            const day = new Date(ev.date).toLocaleDateString(undefined, { timeZone: "America/New_York", weekday: "short", month: "short", day: "numeric" });
+            uvaSb = `UVA next: ${day} ${where} ${them.team.shortDisplayName}`;
+            uvaAr = upper(uvaSb.replace("next:", "NEXT UP:"));
+          }
+        } catch (e) { console.warn("[hub] hoops: UVA's next game", e); }
+      }
+
+      const nothing = !games.length;
+      const label = nothing ? "No games on the board today" : `Games on the board today${live ? ` · ${live} live` : left < games.length ? ` · ${left} left` : ""}`;
+      const arLabel = nothing ? "COURT CLOSED TODAY" : `GAMES TODAY${live ? ` · ${live} LIVE` : ""}`;
+      return {
+        // Counts as "today" (phone order, subline) while any game is still to play or in progress.
+        live: left > 0,
+        hot: live > 0,
+        when: `Live from ESPN · ${fmtTime(new Date().toISOString())}`,
+        arWhen: "LIVE FEED",
+        tag: dual(live ? "Live" : nothing ? "Off day" : left ? "Today" : "Final", live ? "LIVE!" : nothing ? "REST DAY" : left ? "TODAY" : "FINAL"),
+        body: dual(
+          stat({ big: String(games.length), label: esc(label), subs: [esc(uvaSb), nothing ? "" : `<span class="hoops-upsets">Checking for upsets…</span>`] }),
+          stat({ big: String(games.length), label: esc(arLabel), subs: [esc(uvaAr), nothing ? "" : `<span class="hoops-upsets">SCANNING FOR UPSETS…</span>`] }), "div"),
+        after(el) {
+          if (!nothing) countUpsets(lib, games, el);
+        },
+      };
+    },
+  },
+
   // apartments index.html (renderViable): viable units from viable.json; `monthly` is the same number
   // the site and the email digest rank by.
   {
@@ -279,6 +354,33 @@ const TILES = [
             subs: [`${units.length} viable units at ${complexes} complexes, under ${money(max)}/mo`] }),
           stat({ big: money(best.monthly), label: `${esc(upper(best.complex))} · ${best.beds} BR${upper(fees)}`,
             subs: [`${units.length} UNITS UNLOCKED UNDER ${money(max)}`] }), "div"),
+      };
+    },
+  },
+
+  // out-and-about (Rudy's mom's events page): a compact tile, just this weekend's count. Same events.json the
+  // site reads (markets included, as on the site). Fri–Sun = from today through Sunday; Mon–Thu = the coming
+  // Fri–Sun. The site warns when its data is over 2 days old, so "Running late" does too.
+  {
+    key: "oa", name: "Out & About", arcadeName: "OUT & ABOUT", path: "out-and-about/", accent: "lime", compact: true,
+    staleHours: 48, inSeason: () => true,
+    async load() {
+      const data = await getJson("out-and-about/data/events.json");
+      const today = todayET();
+      const dow = dayOf(today).getDay(); // 0 = Sunday
+      const addDays = (key, n) => { const d = dayOf(key); d.setDate(d.getDate() + n); return etDate(d); };
+      const from = dow === 0 || dow >= 5 ? today : addDays(today, 5 - dow);
+      const to = addDays(today, (7 - dow) % 7);
+      const n = (data.events ?? []).filter((e) => e.date >= from && e.date <= to).length;
+      // "Nov 7–8", or "Oct 30–Nov 1" across a month.
+      const range = from === to ? fmtShortDay(from)
+        : from.slice(5, 7) === to.slice(5, 7) ? `${fmtShortDay(from)}–${Number(to.slice(8))}` : `${fmtShortDay(from)}–${fmtShortDay(to)}`;
+      return {
+        updated: data.updated,
+        tag: dual("VB + Norfolk", "SIDE QUEST"),
+        body: dual(
+          `<p class="compact-line"><b>${n}</b> event${n === 1 ? "" : "s"} this weekend <span class="muted">· ${esc(range)}</span></p>`,
+          `<p class="compact-line"><b>${n}</b> QUEST${n === 1 ? "" : "S"} THIS WEEKEND</p>`, "div"),
       };
     },
   },
@@ -310,8 +412,45 @@ const TILES = [
   },
 ];
 
+// Hoops Board's upsets need each tipped game's pre-game line: one ~7 KB request per game, four at a time.
+// The Board and Hoops Board share an origin (mattrudy13.github.io), so this uses Hoops Board's own cache key:
+// a game either one has looked up is never fetched again. Same shape, because both store lib.parseLine().
+// If Hoops Board bumps its key, update it here too (otherwise this just keeps a separate cache).
+const HOOPS_LINES_KEY = "cbb-scores:lines3";
+
+async function countUpsets(lib, games, el) {
+  let cache = {};
+  try { cache = JSON.parse(localStorage.getItem(HOOPS_LINES_KEY) ?? "{}"); } catch { /* blocked or bad JSON: fetch again */ }
+  const tipped = games.filter((g) => g.state !== "pre");
+  const queue = tipped.filter((g) => !(g.id in cache));
+  let added = 0;
+  const worker = async () => {
+    while (queue.length) {
+      const g = queue.shift();
+      try {
+        const res = await fetch(lib.oddsUrl(g.id));
+        if (res.ok) { cache[g.id] = lib.parseLine(await res.json()); added++; }
+        else if (res.status === 404) { cache[g.id] = null; added++; }
+      } catch { /* network hiccup: that game just can't count as a spread upset this load */ }
+    }
+  };
+  await Promise.all([1, 2, 3, 4].map(worker));
+  if (added) {
+    try { localStorage.setItem(HOOPS_LINES_KEY, JSON.stringify(Object.fromEntries(Object.entries(cache).slice(-1500)))); } catch { /* full or blocked */ }
+  }
+  const states = tipped.map((g) => lib.upsetState(g, cache[g.id]));
+  const upsets = states.filter((s) => s === "upset").length;
+  const watch = states.filter((s) => s === "watch").length;
+  const sb = !upsets && !watch ? "No upsets yet"
+    : [upsets ? `${upsets} upset${upsets === 1 ? "" : "s"}` : "", watch ? `${watch} upset watch${watch === 1 ? "" : "es"}` : ""].filter(Boolean).join(" · ");
+  const ar = !upsets && !watch ? "NO UPSETS YET" : [upsets ? `${upsets} UPSET${upsets === 1 ? "" : "S"}!` : "", watch ? `${watch} ON UPSET WATCH` : ""].filter(Boolean).join(" · ");
+  const [sbEl, arEl] = el.querySelectorAll(".hoops-upsets");
+  if (sbEl) sbEl.textContent = sb;
+  if (arEl) arEl.textContent = ar;
+}
+
 function tileShell(t) {
-  return `<article class="tile${t.wide ? " wide" : ""}${t.h2h ? " h2h-tile" : ""}" id="tile-${t.key}" data-accent="${t.accent}" aria-busy="true">
+  return `<article class="tile${t.wide ? " wide" : ""}${t.h2h ? " h2h-tile" : ""}${t.compact ? " compact" : ""}" id="tile-${t.key}" data-accent="${t.accent}" aria-busy="true">
     <header class="tile-head"><h2>${dual(esc(t.name), esc(t.arcadeName))}</h2><span class="tag"></span></header>
     <div class="tile-body"><p class="sub">${dual("Loading…", "LOADING…")}</p></div>
     <footer class="tile-foot"><span class="when"></span><a href="${appUrl(t.path)}" target="_blank" rel="noopener" aria-label="Open ${esc(t.name)} in a new tab">${dual("Open →", "▶ PLAY")}</a></footer>
