@@ -16,92 +16,107 @@ const inMonths = (...months) => () => months.includes(new Date().getMonth() + 1)
 const upper = (s) => String(s).toUpperCase();
 
 const TILES = [
-  // kotc-tracker index.html: target = tonight's promo, else the next one; picks = the locked p.picks.
+  // Order (Rudy's pick, 2026-11-07): the same on every screen, never reshuffled.
+  // beat-the-model: the Worker's /api/summary, built by summary() in the app's lib/rules.js (same as its
+  // race summary). Everyone is graded on Rudy's picks, so "vs the Model" is a head-to-head.
   {
-    key: "kotc", name: "King of the Court", arcadeName: "KING OF THE COURT", path: "kotc-tracker/", accent: "pink", wide: true,
-    staleHours: 30, inSeason: inMonths(10, 11, 12, 1, 2, 3, 4, 5, 6),
+    key: "btm", name: "Beat the Model", arcadeName: "BEAT THE MODEL", path: "beat-the-model/", accent: "yellow",
+    staleHours: 3, inSeason: inMonths(9, 10, 11, 12),
     async load() {
-      const { data: pred } = await getSeason((y) => `kotc-tracker/data/predictions-${y}.json`);
-      const today = todayET();
-      const promoDays = Object.keys(pred.days).sort().filter((d) => pred.days[d].promo);
-      const target = promoDays.find((d) => d >= today) ?? promoDays.at(-1);
-      if (!target) throw new Error("kotc: no promo nights");
-      const p = pred.days[target];
-      const nameOf = (pid) => pred.names?.[pid]?.n ?? String(pid);
-      const byPid = Object.fromEntries((p.players ?? []).map((x) => [x.pid, x]));
-      const picks = (p.picks ?? []).map((pid) => ({ name: nameOf(pid), team: pred.names?.[pid]?.t ?? byPid[pid]?.tm ?? "", win: byPid[pid]?.win }));
-      const tonight = target === today, over = target < today;
-      const pool = p.pool ? `$${p.pool >= 1e6 ? `${p.pool / 1e6}M` : p.pool.toLocaleString("en-US")} pool` : "";
-      const facts = [`${p.games} games`, pool].filter(Boolean).join(" · ");
-
-      const rows = picks.length
-        ? picks.map((x, i) => `<li><span class="rank">${i + 1}</span>${dual(`${esc(x.name)} <span class="team">${esc(x.team)}</span>`, esc(upper(lastName(x.name))), "span")}<b>${pct(x.win)}</b></li>`).join("")
-        : `<li class="empty">${dual("Picks post once the slate is set.", "PICKS LOADING…")}</li>`;
-
-      // Most recent graded promo night (tonight's counts once its result is in).
-      const last = promoDays.filter((d) => d <= today && pred.days[d].result).at(-1);
-      let lastSb = "", lastAr = "";
-      if (last) {
-        const lp = pred.days[last], r = lp.result;
-        const kings = r.kings.map(nameOf);
-        const hits = r.kings.filter((k) => lp.picks?.includes(k)).map(nameOf);
-        const n = lp.picks?.length ?? 0;
-        const headline = kings.length === 1 ? `${lastName(kings[0])} won` : `${kings.map(lastName).join(" & ")} tied`;
-        const ours = !n ? "" : hits.length ? ` ${hits.map(lastName).join(" and ")} ${hits.length === 1 ? "was" : "were"} one of our ${n} picks.` : ` None of our ${n} picks won.`;
-        lastSb = `<p class="kicker">Last promo · ${esc(fmtShortDay(last))}</p><p class="headline">${esc(headline)}</p>
-          <p>${esc(kings.join(" and "))}, ${r.kingPra} PRA.${esc(ours)}</p>`;
-        const arHead = kings.length === 1 ? `${upper(lastName(kings[0]))} WINS!` : `${kings.map((k) => upper(lastName(k))).join(" + ")} TIE!`;
-        lastAr = `<p class="kicker">LAST ROUND · ${fmtSlashDay(last)}</p><p class="headline">${esc(arHead)}</p>
-          <p>${r.kingPra} PRA. ${n ? (hits.length ? "OUR PICK ✓" : "OUR PICKS MISSED ✗") : ""}</p>`;
-      }
-
+      const res = await fetch("https://beat-the-model.mattrudy13.workers.dev/api/summary", { cache: "no-cache" });
+      if (!res.ok) throw new Error(`btm: HTTP ${res.status}`);
+      const s = await res.json();
+      const diff = s.you.w - s.model.w;
+      const lead = !s.graded ? "No graded picks yet" : diff === 0 ? "Even with the Model" : diff > 0 ? `${diff} up on the Model` : `${-diff} behind the Model`;
+      const arLead = !s.graded ? "PRESS START" : diff === 0 ? "TIED WITH THE MODEL" : diff > 0 ? `${diff} AHEAD OF THE MODEL` : `${-diff} BEHIND THE MODEL`;
+      const week = s.open
+        ? `Week ${s.week}: ${s.pickedOpen} of ${s.open} open games picked${s.nextLock ? ` · next lock ${esc(fmtKick(s.nextLock))}` : ""}`
+        : `Week ${s.week}: no open games`;
+      const arWeek = s.open ? `${s.pickedOpen}/${s.open} PICKED${s.nextLock ? ` · LOCK ${esc(upper(fmtKick(s.nextLock)))}` : ""}` : "NO GAMES OPEN";
+      const today = !!s.nextLock && etDate(new Date(s.nextLock)) === todayET();
       return {
-        live: tonight,
-        updated: pred.updated,
-        tag: dual(tonight ? "Tonight" : over ? "Season over" : `Next · ${esc(fmtDay(target))}`,
-          tonight ? "TONIGHT!" : over ? "GAME OVER" : `NEXT: ${esc(upper(dayOf(target).toLocaleDateString(undefined, { weekday: "short" })))} ${fmtSlashDay(target)}`),
-        hot: tonight,
-        body: `<div class="split">
-          <div>${dual(`<p class="kicker">Value picks · ${esc(facts)}</p>`, `<p class="kicker">HIGH SCORES · ${esc(upper(facts))}</p>`, "div")}
-            <ol class="board">${rows}</ol>
-            ${dual(`<p class="sub">Chance to lead the night in points + rebounds + assists</p>`, `<p class="sub">CHANCE TO LEAD IN PTS + REB + AST</p>`, "div")}</div>
-          ${last ? `<div class="aside">${dual(lastSb, lastAr, "div")}</div>` : ""}
-        </div>`,
+        live: today,
+        hot: today,
+        updated: s.syncedAt,
+        tag: dual(`Week ${s.week}`, `LEVEL: WEEK ${s.week}`),
+        body: dual(
+          stat({ big: wl(s.you.w, s.you.l, s.you.p), label: s.graded ? `${lead} (Model ${wl(s.model.w, s.model.l, s.model.p)} on my games) · rank ${s.rank} of ${s.players}` : `${lead} · vs the Model and 6 bots`, subs: [week] }),
+          stat({ big: wl(s.you.w, s.you.l, s.you.p), label: `${arLead} · RANK ${s.rank}/${s.players}`, subs: [arWeek] }), "div"),
       };
     },
   },
 
-  // nba-first-minute model.html: graded days = days with `result`; Yes games summed over them.
+  // cbb-scores (Hoops Board) has no data files: it reads ESPN live. The tile imports Hoops Board's own lib.js
+  // (BOARD_QUERIES, isShown, upsetInfo, parseLine...), so its games and upsets are the app's by construction.
   {
-    key: "fm", name: "NBA First Minute", arcadeName: "FIRST MINUTE", path: "nba-first-minute/", accent: "cyan",
-    staleHours: 30, inSeason: inMonths(10, 11, 12, 1, 2, 3, 4, 5, 6),
+    key: "hoops", name: "Hoops Board", arcadeName: "HOOPS BOARD", path: "cbb-scores/", accent: "cyan",
+    staleHours: null, inSeason: inMonths(11, 12, 1, 2, 3, 4),
     async load() {
-      const { data: pred } = await getSeason((y) => `nba-first-minute/data/predictions-${y}.json`);
-      const day = pred.days[todayET()];
-      const graded = Object.values(pred.days).filter((x) => x.result);
-      const games = graded.reduce((s, x) => s + x.result.games, 0);
-      const yes = graded.reduce((s, x) => s + x.result.yes, 0);
-      const expected = graded.reduce((s, x) => s + x.yes * x.result.games, 0);
-      const recSb = graded.length ? `Graded ${graded.length} day${graded.length === 1 ? "" : "s"}: Yes in ${yes} of ${games} games (estimate said ${expected.toFixed(1)})` : "No graded days yet";
-      const recAr = graded.length ? `SCORE: ${yes}/${games} HITS · ${graded.length} DAYS` : "NO SCORES YET";
+      const lib = await import(appUrl("cbb-scores/lib.js"));
+      const today = lib.etDate();
+      const boards = (await Promise.allSettled(lib.BOARD_QUERIES.map(async (q) => {
+        const res = await fetch(`${lib.ESPN}?dates=${today.replaceAll("-", "")}&limit=400${q}`, { cache: "no-store" });
+        if (!res.ok) throw new Error(`ESPN ${res.status}`);
+        return res.json();
+      }))).filter((r) => r.status === "fulfilled").map((r) => r.value);
+      if (!boards.length) throw new Error("hoops: ESPN didn't answer");
+      const games = lib.mergeBoards(boards).filter(lib.isShown);
+      const live = games.filter((g) => g.state === "in").length;
+      const left = games.filter((g) => g.state !== "post").length;
 
-      if (!day) {
-        return {
-          updated: pred.updated,
-          tag: dual("Today", "TODAY"),
-          body: dual(stat({ big: "–", label: "No estimate saved for today (no games, or not run yet)", subs: [recSb] }),
-            stat({ big: "–", label: "INSERT COIN: NO ESTIMATE YET", subs: [recAr] }), "div"),
-        };
+      // UVA: today's game from the board, else the team's next event (~17 KB; the full schedule is ~300 KB).
+      const uvaGame = games.find(lib.hasUva);
+      let uvaSb = "", uvaAr = "";
+      if (uvaGame) {
+        const us = uvaGame.away.id === lib.UVA_ID ? uvaGame.away : uvaGame.home;
+        const them = us === uvaGame.away ? uvaGame.home : uvaGame.away;
+        const where = us === uvaGame.home ? "vs" : "at";
+        const opp = `${them.rank ? `No. ${them.rank} ` : ""}${them.name}`;
+        if (uvaGame.state === "pre") {
+          uvaSb = `UVA ${where} ${opp} · ${lib.statusText(uvaGame)}${uvaGame.tv ? ` · ${uvaGame.tv}` : ""}`;
+        } else {
+          const score = `${us.score}–${them.score}`;
+          const verb = uvaGame.state === "post" ? (us.winner || us.score > them.score ? "won" : "lost") : us.score >= them.score ? "leads" : "trails";
+          uvaSb = `UVA ${verb} ${score} ${where} ${opp} · ${lib.statusText(uvaGame)}`;
+        }
+        uvaAr = upper(uvaSb.replace(/No\. /, "#"));
+      } else {
+        // The team schedule (regular season + postseason), same as the Daily page's Coming Up. The smaller
+        // teams/258 endpoint sends no CORS header, so a browser can't read it.
+        try {
+          const lists = await Promise.all([2, 3].map(async (type) => {
+            const res = await fetch(`${lib.ESPN.replace("/scoreboard", "")}/teams/${lib.UVA_ID}/schedule?seasontype=${type}`);
+            return res.ok ? (await res.json()).events ?? [] : [];
+          }));
+          const ev = lists.flat().filter((e) => e.competitions?.[0]?.status?.type?.state === "pre").sort((a, b) => a.date.localeCompare(b.date))[0];
+          const comp = ev?.competitions?.[0];
+          const me = comp?.competitors?.find((c) => String(c.id) === lib.UVA_ID);
+          const them = comp?.competitors?.find((c) => String(c.id) !== lib.UVA_ID);
+          if (them) {
+            const where = comp.neutralSite || me?.homeAway === "home" ? "vs" : "at";
+            const day = new Date(ev.date).toLocaleDateString(undefined, { timeZone: "America/New_York", weekday: "short", month: "short", day: "numeric" });
+            uvaSb = `UVA next: ${day} ${where} ${them.team.shortDisplayName}`;
+            uvaAr = upper(uvaSb.replace("next:", "NEXT UP:"));
+          }
+        } catch (e) { console.warn("[hub] hoops: UVA's next game", e); }
       }
-      const slate = day.games.slice(0, 4).map((g) => `${esc(g.away)} @ ${esc(g.home)} ${esc(fmtTime(g.tip))}`).join(" · ") + (day.games.length > 4 ? ` · +${day.games.length - 4} more` : "");
-      const saved = new Date(day.takenAt) <= new Date(day.firstTip) ? "Saved before tip-off" : "Saved";
+
+      const nothing = !games.length;
+      const label = nothing ? "No games on the board today" : `Games on the board today${live ? ` · ${live} live` : left < games.length ? ` · ${left} left` : ""}`;
+      const arLabel = nothing ? "COURT CLOSED TODAY" : `GAMES TODAY${live ? ` · ${live} LIVE` : ""}`;
       return {
-        live: true, hot: true,
-        updated: pred.updated,
-        tag: dual("Tonight", "TONIGHT"),
+        // Counts as "today" (phone order, subline) while any game is still to play or in progress.
+        live: left > 0,
+        hot: live > 0,
+        when: `Live from ESPN · ${fmtTime(new Date().toISOString())}`,
+        arWhen: "LIVE FEED",
+        tag: dual(live ? "Live" : nothing ? "Off day" : left ? "Today" : "Final", live ? "LIVE!" : nothing ? "REST DAY" : left ? "TODAY" : "FINAL"),
         body: dual(
-          stat({ big: pct(day.yes), label: "Chance both teams score in the first minute", subs: [slate, `${saved} · ${recSb}`] }),
-          stat({ big: pct(day.yes), label: "BOTH TEAMS SCORE IN MINUTE 1", subs: [`${day.games.length} GAME${day.games.length === 1 ? "" : "S"} ON THE BOARD`, recAr] }), "div"),
+          stat({ big: String(games.length), label: esc(label), subs: [esc(uvaSb), nothing ? "" : `<span class="hoops-upsets">Checking for upsets…</span>`] }),
+          stat({ big: String(games.length), label: esc(arLabel), subs: [esc(uvaAr), nothing ? "" : `<span class="hoops-upsets">SCANNING FOR UPSETS…</span>`] }), "div"),
+        after(el) {
+          if (!nothing) countUpsets(lib, games, el);
+        },
       };
     },
   },
@@ -145,35 +160,6 @@ const TILES = [
             subs: [offseason ? "Final record for the season" : `${thisWeek.length} picks this week · ${open.length} open${next ? ` · next kickoff ${esc(fmtKick(next))}` : ""}`] }),
           stat({ big, label: `${esc(upper(model))} · ${pct(rate)} WIN RATE · NEED 52.4%`,
             subs: [offseason ? "FINAL SCORE" : `${open.length} PICKS IN PLAY${next ? ` · KICKOFF ${esc(upper(fmtKick(next)))}` : ""}`] }), "div"),
-      };
-    },
-  },
-
-  // beat-the-model: the Worker's /api/summary, built by summary() in the app's lib/rules.js (same as its
-  // race summary). Everyone is graded on Rudy's picks, so "vs the Model" is a head-to-head.
-  {
-    key: "btm", name: "Beat the Model", arcadeName: "BEAT THE MODEL", path: "beat-the-model/", accent: "yellow",
-    staleHours: 3, inSeason: inMonths(9, 10, 11, 12),
-    async load() {
-      const res = await fetch("https://beat-the-model.mattrudy13.workers.dev/api/summary", { cache: "no-cache" });
-      if (!res.ok) throw new Error(`btm: HTTP ${res.status}`);
-      const s = await res.json();
-      const diff = s.you.w - s.model.w;
-      const lead = !s.graded ? "No graded picks yet" : diff === 0 ? "Even with the Model" : diff > 0 ? `${diff} up on the Model` : `${-diff} behind the Model`;
-      const arLead = !s.graded ? "PRESS START" : diff === 0 ? "TIED WITH THE MODEL" : diff > 0 ? `${diff} AHEAD OF THE MODEL` : `${-diff} BEHIND THE MODEL`;
-      const week = s.open
-        ? `Week ${s.week}: ${s.pickedOpen} of ${s.open} open games picked${s.nextLock ? ` · next lock ${esc(fmtKick(s.nextLock))}` : ""}`
-        : `Week ${s.week}: no open games`;
-      const arWeek = s.open ? `${s.pickedOpen}/${s.open} PICKED${s.nextLock ? ` · LOCK ${esc(upper(fmtKick(s.nextLock)))}` : ""}` : "NO GAMES OPEN";
-      const today = !!s.nextLock && etDate(new Date(s.nextLock)) === todayET();
-      return {
-        live: today,
-        hot: today,
-        updated: s.syncedAt,
-        tag: dual(`Week ${s.week}`, `LEVEL: WEEK ${s.week}`),
-        body: dual(
-          stat({ big: wl(s.you.w, s.you.l, s.you.p), label: s.graded ? `${lead} (Model ${wl(s.model.w, s.model.l, s.model.p)} on my games) · rank ${s.rank} of ${s.players}` : `${lead} · vs the Model and 6 bots`, subs: [week] }),
-          stat({ big: wl(s.you.w, s.you.l, s.you.p), label: `${arLead} · RANK ${s.rank}/${s.players}`, subs: [arWeek] }), "div"),
       };
     },
   },
@@ -258,77 +244,57 @@ const TILES = [
     },
   },
 
-  // cbb-scores (Hoops Board) has no data files: it reads ESPN live. The tile imports Hoops Board's own lib.js
-  // (BOARD_QUERIES, isShown, upsetInfo, parseLine...), so its games and upsets are the app's by construction.
+  // kotc-tracker index.html: target = tonight's promo, else the next one; picks = the locked p.picks.
   {
-    key: "hoops", name: "Hoops Board", arcadeName: "HOOPS BOARD", path: "cbb-scores/", accent: "cyan",
-    staleHours: null, inSeason: inMonths(11, 12, 1, 2, 3, 4),
+    key: "kotc", name: "King of the Court", arcadeName: "KING OF THE COURT", path: "kotc-tracker/", accent: "pink",
+    staleHours: 30, inSeason: inMonths(10, 11, 12, 1, 2, 3, 4, 5, 6),
     async load() {
-      const lib = await import(appUrl("cbb-scores/lib.js"));
-      const today = lib.etDate();
-      const boards = (await Promise.allSettled(lib.BOARD_QUERIES.map(async (q) => {
-        const res = await fetch(`${lib.ESPN}?dates=${today.replaceAll("-", "")}&limit=400${q}`, { cache: "no-store" });
-        if (!res.ok) throw new Error(`ESPN ${res.status}`);
-        return res.json();
-      }))).filter((r) => r.status === "fulfilled").map((r) => r.value);
-      if (!boards.length) throw new Error("hoops: ESPN didn't answer");
-      const games = lib.mergeBoards(boards).filter(lib.isShown);
-      const live = games.filter((g) => g.state === "in").length;
-      const left = games.filter((g) => g.state !== "post").length;
+      const { data: pred } = await getSeason((y) => `kotc-tracker/data/predictions-${y}.json`);
+      const today = todayET();
+      const promoDays = Object.keys(pred.days).sort().filter((d) => pred.days[d].promo);
+      const target = promoDays.find((d) => d >= today) ?? promoDays.at(-1);
+      if (!target) throw new Error("kotc: no promo nights");
+      const p = pred.days[target];
+      const nameOf = (pid) => pred.names?.[pid]?.n ?? String(pid);
+      const byPid = Object.fromEntries((p.players ?? []).map((x) => [x.pid, x]));
+      const picks = (p.picks ?? []).map((pid) => ({ name: nameOf(pid), team: pred.names?.[pid]?.t ?? byPid[pid]?.tm ?? "", win: byPid[pid]?.win }));
+      const tonight = target === today, over = target < today;
+      const pool = p.pool ? `$${p.pool >= 1e6 ? `${p.pool / 1e6}M` : p.pool.toLocaleString("en-US")} pool` : "";
+      const facts = [`${p.games} games`, pool].filter(Boolean).join(" · ");
 
-      // UVA: today's game from the board, else the team's next event (~17 KB; the full schedule is ~300 KB).
-      const uvaGame = games.find(lib.hasUva);
-      let uvaSb = "", uvaAr = "";
-      if (uvaGame) {
-        const us = uvaGame.away.id === lib.UVA_ID ? uvaGame.away : uvaGame.home;
-        const them = us === uvaGame.away ? uvaGame.home : uvaGame.away;
-        const where = us === uvaGame.home ? "vs" : "at";
-        const opp = `${them.rank ? `No. ${them.rank} ` : ""}${them.name}`;
-        if (uvaGame.state === "pre") {
-          uvaSb = `UVA ${where} ${opp} · ${lib.statusText(uvaGame)}${uvaGame.tv ? ` · ${uvaGame.tv}` : ""}`;
-        } else {
-          const score = `${us.score}–${them.score}`;
-          const verb = uvaGame.state === "post" ? (us.winner || us.score > them.score ? "won" : "lost") : us.score >= them.score ? "leads" : "trails";
-          uvaSb = `UVA ${verb} ${score} ${where} ${opp} · ${lib.statusText(uvaGame)}`;
-        }
-        uvaAr = upper(uvaSb.replace(/No\. /, "#"));
-      } else {
-        // The team schedule (regular season + postseason), same as the Daily page's Coming Up. The smaller
-        // teams/258 endpoint sends no CORS header, so a browser can't read it.
-        try {
-          const lists = await Promise.all([2, 3].map(async (type) => {
-            const res = await fetch(`${lib.ESPN.replace("/scoreboard", "")}/teams/${lib.UVA_ID}/schedule?seasontype=${type}`);
-            return res.ok ? (await res.json()).events ?? [] : [];
-          }));
-          const ev = lists.flat().filter((e) => e.competitions?.[0]?.status?.type?.state === "pre").sort((a, b) => a.date.localeCompare(b.date))[0];
-          const comp = ev?.competitions?.[0];
-          const me = comp?.competitors?.find((c) => String(c.id) === lib.UVA_ID);
-          const them = comp?.competitors?.find((c) => String(c.id) !== lib.UVA_ID);
-          if (them) {
-            const where = comp.neutralSite || me?.homeAway === "home" ? "vs" : "at";
-            const day = new Date(ev.date).toLocaleDateString(undefined, { timeZone: "America/New_York", weekday: "short", month: "short", day: "numeric" });
-            uvaSb = `UVA next: ${day} ${where} ${them.team.shortDisplayName}`;
-            uvaAr = upper(uvaSb.replace("next:", "NEXT UP:"));
-          }
-        } catch (e) { console.warn("[hub] hoops: UVA's next game", e); }
+      const rows = picks.length
+        ? picks.map((x, i) => `<li><span class="rank">${i + 1}</span>${dual(`${esc(x.name)} <span class="team">${esc(x.team)}</span>`, esc(upper(lastName(x.name))), "span")}<b>${pct(x.win)}</b></li>`).join("")
+        : `<li class="empty">${dual("Picks post once the slate is set.", "PICKS LOADING…")}</li>`;
+
+      // Most recent graded promo night (tonight's counts once its result is in).
+      const last = promoDays.filter((d) => d <= today && pred.days[d].result).at(-1);
+      let lastSb = "", lastAr = "";
+      if (last) {
+        const lp = pred.days[last], r = lp.result;
+        const kings = r.kings.map(nameOf);
+        const hits = r.kings.filter((k) => lp.picks?.includes(k)).map(nameOf);
+        const n = lp.picks?.length ?? 0;
+        const headline = kings.length === 1 ? `${lastName(kings[0])} won` : `${kings.map(lastName).join(" & ")} tied`;
+        const ours = !n ? "" : hits.length ? ` ${hits.map(lastName).join(" and ")} ${hits.length === 1 ? "was" : "were"} one of our ${n} picks.` : ` None of our ${n} picks won.`;
+        lastSb = `<p class="kicker">Last promo · ${esc(fmtShortDay(last))}</p><p class="headline">${esc(headline)}</p>
+          <p>${esc(kings.join(" and "))}, ${r.kingPra} PRA.${esc(ours)}</p>`;
+        const arHead = kings.length === 1 ? `${upper(lastName(kings[0]))} WINS!` : `${kings.map((k) => upper(lastName(k))).join(" + ")} TIE!`;
+        lastAr = `<p class="kicker">LAST ROUND · ${fmtSlashDay(last)}</p><p class="headline">${esc(arHead)}</p>
+          <p>${r.kingPra} PRA. ${n ? (hits.length ? "OUR PICK ✓" : "OUR PICKS MISSED ✗") : ""}</p>`;
       }
 
-      const nothing = !games.length;
-      const label = nothing ? "No games on the board today" : `Games on the board today${live ? ` · ${live} live` : left < games.length ? ` · ${left} left` : ""}`;
-      const arLabel = nothing ? "COURT CLOSED TODAY" : `GAMES TODAY${live ? ` · ${live} LIVE` : ""}`;
       return {
-        // Counts as "today" (phone order, subline) while any game is still to play or in progress.
-        live: left > 0,
-        hot: live > 0,
-        when: `Live from ESPN · ${fmtTime(new Date().toISOString())}`,
-        arWhen: "LIVE FEED",
-        tag: dual(live ? "Live" : nothing ? "Off day" : left ? "Today" : "Final", live ? "LIVE!" : nothing ? "REST DAY" : left ? "TODAY" : "FINAL"),
-        body: dual(
-          stat({ big: String(games.length), label: esc(label), subs: [esc(uvaSb), nothing ? "" : `<span class="hoops-upsets">Checking for upsets…</span>`] }),
-          stat({ big: String(games.length), label: esc(arLabel), subs: [esc(uvaAr), nothing ? "" : `<span class="hoops-upsets">SCANNING FOR UPSETS…</span>`] }), "div"),
-        after(el) {
-          if (!nothing) countUpsets(lib, games, el);
-        },
+        live: tonight,
+        updated: pred.updated,
+        tag: dual(tonight ? "Tonight" : over ? "Season over" : `Next · ${esc(fmtDay(target))}`,
+          tonight ? "TONIGHT!" : over ? "GAME OVER" : `NEXT: ${esc(upper(dayOf(target).toLocaleDateString(undefined, { weekday: "short" })))} ${fmtSlashDay(target)}`),
+        hot: tonight,
+        body: `<div class="split">
+          <div>${dual(`<p class="kicker">Value picks · ${esc(facts)}</p>`, `<p class="kicker">HIGH SCORES · ${esc(upper(facts))}</p>`, "div")}
+            <ol class="board">${rows}</ol>
+            ${dual(`<p class="sub">Chance to lead the night in points + rebounds + assists</p>`, `<p class="sub">CHANCE TO LEAD IN PTS + REB + AST</p>`, "div")}</div>
+          ${last ? `<div class="aside">${dual(lastSb, lastAr, "div")}</div>` : ""}
+        </div>`,
       };
     },
   },
@@ -366,7 +332,7 @@ const TILES = [
   // site reads (markets included, as on the site). Fri–Sun = from today through Sunday; Mon–Thu = the coming
   // Fri–Sun. The site warns when its data is over 2 days old, so "Running late" does too.
   {
-    key: "oa", name: "Out & About", arcadeName: "OUT & ABOUT", path: "out-and-about/", accent: "lime", compact: true,
+    key: "oa", name: "Out & About", arcadeName: "OUT & ABOUT", path: "out-and-about/", accent: "pink", compact: true,
     staleHours: 48, inSeason: () => true,
     async load() {
       const data = await getJson("out-and-about/data/events.json");
@@ -389,9 +355,44 @@ const TILES = [
     },
   },
 
+  // nba-first-minute model.html: graded days = days with `result`; Yes games summed over them.
+  {
+    key: "fm", name: "NBA First Minute", arcadeName: "FIRST MINUTE", path: "nba-first-minute/", accent: "cyan",
+    staleHours: 30, inSeason: inMonths(10, 11, 12, 1, 2, 3, 4, 5, 6),
+    async load() {
+      const { data: pred } = await getSeason((y) => `nba-first-minute/data/predictions-${y}.json`);
+      const day = pred.days[todayET()];
+      const graded = Object.values(pred.days).filter((x) => x.result);
+      const games = graded.reduce((s, x) => s + x.result.games, 0);
+      const yes = graded.reduce((s, x) => s + x.result.yes, 0);
+      const expected = graded.reduce((s, x) => s + x.yes * x.result.games, 0);
+      const recSb = graded.length ? `Graded ${graded.length} day${graded.length === 1 ? "" : "s"}: Yes in ${yes} of ${games} games (estimate said ${expected.toFixed(1)})` : "No graded days yet";
+      const recAr = graded.length ? `SCORE: ${yes}/${games} HITS · ${graded.length} DAYS` : "NO SCORES YET";
+
+      if (!day) {
+        return {
+          updated: pred.updated,
+          tag: dual("Today", "TODAY"),
+          body: dual(stat({ big: "–", label: "No estimate saved for today (no games, or not run yet)", subs: [recSb] }),
+            stat({ big: "–", label: "INSERT COIN: NO ESTIMATE YET", subs: [recAr] }), "div"),
+        };
+      }
+      const slate = day.games.slice(0, 4).map((g) => `${esc(g.away)} @ ${esc(g.home)} ${esc(fmtTime(g.tip))}`).join(" · ") + (day.games.length > 4 ? ` · +${day.games.length - 4} more` : "");
+      const saved = new Date(day.takenAt) <= new Date(day.firstTip) ? "Saved before tip-off" : "Saved";
+      return {
+        live: true, hot: true,
+        updated: pred.updated,
+        tag: dual("Tonight", "TONIGHT"),
+        body: dual(
+          stat({ big: pct(day.yes), label: "Chance both teams score in the first minute", subs: [slate, `${saved} · ${recSb}`] }),
+          stat({ big: pct(day.yes), label: "BOTH TEAMS SCORE IN MINUTE 1", subs: [`${day.games.length} GAME${day.games.length === 1 ? "" : "S"} ON THE BOARD`, recAr] }), "div"),
+      };
+    },
+  },
+
   // h2h has no daily data: the tile is a lookup that opens the app's own ?t1=&t2= link.
   {
-    key: "h2h", name: "Head to Head", arcadeName: "HEAD TO HEAD", path: "h2h/", accent: "pink", h2h: true,
+    key: "h2h", name: "Head to Head", arcadeName: "HEAD TO HEAD", path: "h2h/", accent: "yellow", h2h: true,
     staleHours: null,
     async load() {
       return {
@@ -454,7 +455,7 @@ async function countUpsets(lib, games, el) {
 }
 
 function tileShell(t) {
-  return `<article class="tile${t.wide ? " wide" : ""}${t.h2h ? " h2h-tile" : ""}${t.compact ? " compact" : ""}" id="tile-${t.key}" data-accent="${t.accent}" aria-busy="true">
+  return `<article class="tile${t.h2h ? " h2h-tile" : ""}${t.compact ? " compact" : ""}" id="tile-${t.key}" data-accent="${t.accent}" aria-busy="true">
     <header class="tile-head"><h2>${dual(esc(t.name), esc(t.arcadeName))}</h2><span class="tag"></span></header>
     <div class="tile-body"><p class="sub">${dual("Loading…", "LOADING…")}</p></div>
     <footer class="tile-foot"><span class="when"></span><a href="${appUrl(t.path)}" target="_blank" rel="noopener" aria-label="Open ${esc(t.name)} in a new tab">${dual("Open →", "▶ PLAY")}</a></footer>
@@ -484,32 +485,10 @@ async function fillTile(t) {
   }
 }
 
-// Phone order (Rudy's pick, 2026-11-07): tiles with games or picks today first, then the usual order, then
-// apps out of season. Wider screens keep TILES order, which the 2- and 3-column grids are laid out around.
-// The DOM itself is reordered (not CSS `order`) so screen readers and Tab follow what's on screen.
-const phoneWidth = matchMedia("(max-width: 699px)");
-let tileResults = null;
-
-function arrangeTiles() {
-  const grid = document.getElementById("tiles");
-  const group = (t, i) => (tileResults?.[i]?.live ? 0 : t.inSeason && !t.inSeason() ? 2 : 1);
-  const order = phoneWidth.matches
-    ? TILES.map((t, i) => ({ t, k: group(t, i) * 100 + i })).sort((a, b) => a.k - b.k).map((x) => x.t)
-    : TILES;
-  const ids = order.map((t) => `tile-${t.key}`);
-  // Moving a node drops its focus, so leave the grid alone when it's already in order.
-  if ([...grid.children].map((el) => el.id).join() === ids.join()) return;
-  ids.forEach((id) => grid.appendChild(document.getElementById(id)));
-}
-phoneWidth.addEventListener("change", arrangeTiles);
-
 async function renderTiles() {
   const grid = document.getElementById("tiles");
   grid.innerHTML = TILES.map(tileShell).join("");
-  arrangeTiles(); // off-season tiles drop to the bottom right away; "today" ones move up once everything loads
   const results = await Promise.all(TILES.map(fillTile));
-  tileResults = results;
-  arrangeTiles();
   const live = results.filter((r) => r?.live).length;
   const day = new Date().toLocaleDateString(undefined, { weekday: "long", month: "short", day: "numeric" });
   document.getElementById("subline").innerHTML = dual(
