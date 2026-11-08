@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T21:14:30.472Z",
+  "updated": "2026-11-08T21:20:46.905Z",
   "minLine": 7,
   "days": [
     "2026-11-07",
@@ -114,6 +114,28 @@
         "abbr": "WIN",
         "rank": null,
         "score": 90
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-08",
+      "id": "401920233",
+      "line": 8.5,
+      "details": "DART -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920233/c-connecticut-dartmouth",
+      "winner": {
+        "id": "2115",
+        "name": "C Connecticut",
+        "abbr": "CCSU",
+        "rank": null,
+        "score": 78
+      },
+      "loser": {
+        "id": "159",
+        "name": "Dartmouth",
+        "abbr": "DART",
+        "rank": null,
+        "score": 71
       }
     },
     {
