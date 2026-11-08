@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T20:20:49.543Z",
+  "updated": "2026-11-08T21:14:30.472Z",
   "minLine": 7,
   "days": [
     "2026-11-07",
@@ -114,6 +114,50 @@
         "abbr": "WIN",
         "rank": null,
         "score": 90
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-08",
+      "id": "401920692",
+      "line": 8.5,
+      "details": "UVM -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920692/quinnipiac-vermont",
+      "winner": {
+        "id": "2514",
+        "name": "Quinnipiac",
+        "abbr": "QUIN",
+        "rank": null,
+        "score": 79
+      },
+      "loser": {
+        "id": "261",
+        "name": "Vermont",
+        "abbr": "UVM",
+        "rank": null,
+        "score": 76
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-08",
+      "id": "401920843",
+      "line": 7.5,
+      "details": "STMN -7.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920843/green-bay-st-thomas",
+      "winner": {
+        "id": "2739",
+        "name": "Green Bay",
+        "abbr": "GB",
+        "rank": null,
+        "score": 76
+      },
+      "loser": {
+        "id": "2900",
+        "name": "St Thomas",
+        "abbr": "STMN",
+        "rank": null,
+        "score": 67
       }
     },
     {
@@ -979,6 +1023,21 @@
       "line": null
     },
     "cbb:401921220": {
+      "date": "2026-11-08",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926210": {
+      "date": "2026-11-08",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401924719": {
+      "date": "2026-11-08",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401920355": {
       "date": "2026-11-08",
       "fav": null,
       "line": null
