@@ -1,37 +1,9 @@
 {
-  "updated": "2026-11-08T00:46:51.885Z",
-  "from": "2026-11-08T00:46:51Z",
-  "to": "2026-11-22T00:46:51Z",
+  "updated": "2026-11-08T01:20:48.445Z",
+  "from": "2026-11-08T01:20:47Z",
+  "to": "2026-11-22T01:20:47Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1A703Cf",
-      "name": "Clutch w/ Slomosa",
-      "date": "2026-11-07",
-      "time": "20:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Rock",
-      "venue": "The Norva",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A703Cf",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/f19/a6f96fa9-e6a4-4fb0-8ce2-f0cb2697cf19_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "vvG17Z_Ck-Wlpl",
-      "name": "CHIEF KEEF",
-      "date": "2026-11-07",
-      "time": "20:00",
-      "status": "rescheduled",
-      "kind": "Music",
-      "genre": "Hip-Hop/Rap",
-      "venue": "The Dome by Rutter Mills",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/chief-keef-virginia-beach-virginia-11-07-2026/event/010064E1A1F6B5AB",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/113/a6487484-f2b3-4bca-a28b-32f016487113_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv117Z_Kj40Mro",
       "name": "Drake & Future Night Virginia Beach: All-Night Dance Party (21+)",
@@ -689,6 +661,34 @@
       "url": "https://www.ticketmaster.com/mannheim-steamroller-christmas-virginia-beach-virginia-11-21-2026/event/010064D7AA74E9BF",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/6ba/48487f5a-ab2b-4208-90bc-d3bbaf7696ba_1121721_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vvG17Z_uKZhJaA",
+      "name": "Colby Acuff with Levi Foster",
+      "date": "2026-11-21",
+      "time": "20:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Country",
+      "venue": "Elevation 27",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/colby-acuff-with-levi-foster-virginia-beach-virginia-11-21-2026/event/010064D4C06E6245",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/968/70a43248-8a42-4401-b95a-2920fef42968_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1A7P0bz",
+      "name": "Gabriel Iglesias: The 1976 Tour",
+      "date": "2026-11-21",
+      "time": "20:00",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": "Miscellaneous",
+      "venue": "Chartway Arena at Ted Constant Convocation Center",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P0bz",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/f02/33a32096-d2fb-45cf-9d95-b71260f94f02_RETINA_PORTRAIT_16_9.jpg"
     },
     {
       "id": "Z7r9jZ1A7x8JF",
