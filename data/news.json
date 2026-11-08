@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T19:20:46.609Z",
+  "updated": "2026-11-08T20:20:47.871Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-08T19:58:02.000Z"
+        },
+        {
+          "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+          "source": "NPR",
+          "published": "2026-11-08T19:25:30.000Z"
+        },
+        {
           "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
           "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-08T18:22:53.000Z"
-        },
-        {
-          "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-08T17:35:13.000Z"
-        },
-        {
-          "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
-          "source": "NPR",
-          "published": "2026-11-08T16:46:15.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Apple is racing to make Siri more agentic",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+          "source": "The Verge",
+          "published": "2026-11-08T19:18:19.000Z"
+        },
+        {
           "title": "Elvis and Eminem rights holders are suing Suno",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
           "source": "The Verge",
           "published": "2026-11-08T17:23:19.000Z"
-        },
-        {
-          "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-          "link": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-          "source": "The Verge",
-          "published": "2026-11-08T16:00:00.000Z"
         },
         {
           "title": "Physicists listened to electrical noise to crack a superconductor mystery",
