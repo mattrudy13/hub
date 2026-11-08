@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T17:20:45.177Z",
+  "updated": "2026-11-08T18:20:46.064Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+          "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-08T18:14:11.000Z"
+        },
+        {
+          "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-08T17:35:13.000Z"
+        },
+        {
           "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
           "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
           "source": "NPR",
           "published": "2026-11-08T16:46:15.000Z"
-        },
-        {
-          "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
-          "source": "NPR",
-          "published": "2026-11-08T16:30:16.000Z"
-        },
-        {
-          "title": "What we know so far after Krakow gun attack",
-          "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-08T14:32:52.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "The U.S. stock market has rarely been this unified. It’s not a good thing.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7bc433c2-d23e-45f5-8a27-21538529fed2&mod=mw_rss_bulletins",
+          "title": "Economic calendar: CPI, PPI and a flotilla of Fed speakers on weekly agenda",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9622b187-7dd2-4086-87d2-b9448dd2298a&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-08T14:32:42.000Z"
+          "published": "2026-11-08T18:14:41.000Z"
+        },
+        {
+          "title": "Demand for standard burial services is in decline. Funeral homes are adapting.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=76efbc77-34ed-442d-9d34-fed91050c7b1&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-08T17:48:33.000Z"
         },
         {
           "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
           "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
           "source": "CNBC",
           "published": "2026-11-08T14:00:01.000Z"
-        },
-        {
-          "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
-          "link": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
-          "source": "CNBC",
-          "published": "2026-11-08T13:00:01.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Elvis and Eminem rights holders are suing Suno",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+          "source": "The Verge",
+          "published": "2026-11-08T17:23:19.000Z"
+        },
+        {
           "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
           "link": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
           "source": "The Verge",
           "published": "2026-11-08T16:00:00.000Z"
-        },
-        {
-          "title": "Chatbots might be coming to Apple’s HomeView",
-          "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-          "source": "The Verge",
-          "published": "2026-11-08T15:00:30.000Z"
         },
         {
           "title": "Physicists listened to electrical noise to crack a superconductor mystery",
