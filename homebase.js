@@ -213,11 +213,62 @@ function renderHousing(h) {
   } else failTile("gas", "no data", "No gas data yet.");
 }
 
+// ---- Paycheck share (data/costs.json, scripts/costs.mjs) ----
+
+const BILLS = {
+  rent: { name: "Rent", note: "Zillow typical, Virginia Beach" },
+  groceries: { name: "Groceries", note: "USDA moderate plan, 1 adult" },
+  electricity: { name: "Electricity", note: "Virginia average home" },
+  gas: { name: "Gas", note: "45 gallons" },
+  insurance: { name: "Car insurance", note: "U.S. average, estimate" },
+};
+const quarterLabel = (q) => q.replace(/^(\d{4})-Q(\d)$/, "Q$2 $1");
+
+function renderPayshare(c) {
+  const months = c.months, last = months.at(-1);
+  // Same month in 2021 for the "since 2021" changes, so gas and electricity aren't compared across seasons.
+  const then = months.find((m) => m.month === `2021${last.month.slice(4)}`) ?? months[0];
+  // Quarterly averages for the trend line: monthly gas swings would otherwise drown out the real movement.
+  const byQ = {};
+  for (const m of months) (byQ[`${m.month.slice(0, 4)}-Q${Math.ceil(Number(m.month.slice(5)) / 3)}`] ??= []).push(m.share);
+  const qs = Object.entries(byQ).map(([q, v]) => ({ q, share: v.reduce((a, b) => a + b, 0) / v.length }));
+  const peak = qs.reduce((a, b) => (b.share > a.share ? b : a));
+  const pct = (v) => `${Math.round(v)}%`;
+
+  const order = Object.keys(BILLS).sort((a, b) => last.bills[b] - last.bills[a]);
+  const bar = order.map((k) => `<span style="--c: var(--c-${k}); width: ${(last.bills[k] / last.total) * 100}%"></span>`).join("");
+  const rows = order.map((k) => {
+    const d = last.bills[k] - then.bills[k];
+    const chg = d === 0 ? "Same as 2021" : `${d > 0 ? "+" : "−"}${money(Math.abs(d))} since 2021`;
+    return `<li class="ps-row"><span class="ps-key" style="--c: var(--c-${k})"></span>
+      <span>${BILLS[k].name} <span class="ps-note">${BILLS[k].note}</span></span>
+      <span class="ps-amt">${money(last.bills[k])}</span><span class="ps-chg">${chg}</span></li>`;
+  }).join("");
+  const peakNote = peak.q !== qs.at(-1).q ? `; highest was ${pct(peak.share)} in ${quarterLabel(peak.q)}` : "";
+
+  const left = `<p class="big">${pct(last.share)}</p>
+    <p class="ps-lead">of a typical Virginia Beach paycheck (before taxes) goes to one renter's basic bills.</p>
+    <p class="sub">${money(last.total)} of ${money(last.pay)} a month. ${moved(last.share, qs[0].share, (d) => `${Math.round(d)} points`, `early ${qs[0].q.slice(0, 4)}`)}${peakNote}.</p>
+    ${sparkline(qs.map((x) => x.share), `Share of pay by quarter, from ${pct(qs[0].share)} in ${quarterLabel(qs[0].q)} to ${pct(qs.at(-1).share)} in ${quarterLabel(qs.at(-1).q)}`)}
+    <p class="ps-axis"><span>${qs[0].q.slice(0, 4)}</span><span>${qs.at(-1).q.slice(0, 4)}</span></p>`;
+  const right = `<p class="trend-label">Where it goes each month</p>
+    <div class="ps-bar" role="img" aria-label="${order.map((k) => `${BILLS[k].name} ${money(last.bills[k])}`).join(", ")}">${bar}</div>
+    <ul class="ps-rows">${rows}</ul>`;
+  const stale = c.failed?.length ? `<p class="sub">Couldn't refresh on the last check; showing the last numbers.</p>` : "";
+  fill("payshare", { tag: monthName(last.month), body: `<div class="ps-grid"><div>${left}</div><div>${right}</div></div>${stale}`,
+    when: `${monthName(last.month)} costs · pay through ${quarterLabel(last.payThrough)}${late(c.updated, HOUSING_STALE_HOURS)}` });
+}
+
 async function renderMoney() {
   try {
     renderHousing(await ownJson("data/housing.json"));
   } catch (e) {
     for (const id of ["mortgage", "rent", "homes", "gas"]) failTile(id, e, "Couldn't load the housing numbers.");
+  }
+  try {
+    renderPayshare(await ownJson("data/costs.json"));
+  } catch (e) {
+    failTile("payshare", e, "Couldn't load the paycheck numbers.");
   }
 }
 
