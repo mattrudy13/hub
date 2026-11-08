@@ -54,6 +54,11 @@ jobs:
         id: housing
         continue-on-error: true
         run: node scripts/housing.mjs
+      # Paycheck share: also skips itself unless its file is 20+ hours old.
+      - name: Costs
+        id: costs
+        continue-on-error: true
+        run: node scripts/costs.mjs
       - name: Commit if changed
         run: |
           # `updated` changes on every run, so ignore it when deciding whether anything changed.
