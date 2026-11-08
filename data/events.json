@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-08T18:20:48.675Z",
-  "from": "2026-11-08T18:20:48Z",
-  "to": "2026-11-22T18:20:48Z",
+  "updated": "2026-11-08T19:20:48.482Z",
+  "from": "2026-11-08T19:20:48Z",
+  "to": "2026-11-22T19:20:48Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1AA7-1k",
-      "name": "Old Dominion Monarchs Womens Basketball vs. Tennessee State Lady Tigers Womens Basketball",
-      "date": "2026-11-08",
-      "time": "14:00",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Miscellaneous",
-      "venue": "Chartway Arena at Ted Constant Convocation Center",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7-1k",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/093/c74cfd95-af21-4e64-9f85-47677b951093_105651_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZkfAGkdpCF0S",
       "name": "Norfolk Admirals vs. Trenton Ironhawks",
