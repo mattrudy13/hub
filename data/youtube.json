@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T16:43:33.494Z",
+  "updated": "2026-11-08T17:20:47.271Z",
   "failed": [],
   "channels": [
     {
@@ -95,6 +95,13 @@
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_nfDvwu14-iN5YZcaLIomwno1_3oFcYTmG5_kn7SMj_nec=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "k9jfDVoM1GU",
+          "title": "THE WELL | REANIMAL - Part 5 (Ending)",
+          "published": "2026-11-08T17:00:15Z",
+          "thumb": "https://i.ytimg.com/vi/k9jfDVoM1GU/mqdefault.jpg",
+          "seen": "2026-11-08T17:20:45.723Z"
+        },
+        {
           "id": "D9imslSDsOg",
           "title": "I Can Smell You From Here",
           "published": "2026-11-07T22:19:05Z",
@@ -121,13 +128,6 @@
           "published": "2026-10-30T16:00:26Z",
           "thumb": "https://i.ytimg.com/vi/AGmCScwyHbo/mqdefault.jpg",
           "seen": "2026-10-30T16:21:06.609Z"
-        },
-        {
-          "id": "42NAtKq6s30",
-          "title": "BARN OF DOOM | REANIMAL - Part 2",
-          "published": "2026-10-28T16:00:01Z",
-          "thumb": "https://i.ytimg.com/vi/42NAtKq6s30/mqdefault.jpg",
-          "seen": "2026-10-28T16:21:04.674Z"
         }
       ]
     },
