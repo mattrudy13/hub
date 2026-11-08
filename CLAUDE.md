@@ -27,7 +27,7 @@ Screen icon instead. Don't add it, and never read its `spending:` storage key fr
 - `daily.html` + `daily.js`: the Daily page (see below).
 - `homebase.html` + `homebase.js`: the Home Base page (see below).
 - `scripts/news.mjs`, `scripts/upsets.mjs`, `scripts/youtube.mjs`: write `data/*.json` for the Daily page;
-  `scripts/events.mjs`, `scripts/housing.mjs` for Home Base. All run hourly by `.github/workflows/update-daily.yml`.
+  `scripts/events.mjs`, `scripts/housing.mjs`, `scripts/costs.mjs` for Home Base. All run hourly by `.github/workflows/update-daily.yml`.
 - `worker/`: the Cloudflare cron Worker that starts the workflow hourly (see Daily page).
 - `channels.txt`: the YouTube channels on the Daily page, one URL or @handle per line.
 
@@ -146,7 +146,7 @@ counts the ones showing into `data-row` on `<main>`: 4 or 2 take halves, 3 third
   fails; changed files are committed as `chore(data): refresh daily data …` (ignoring `updated`), then the
   run fails if any step did, so GitHub emails. "Running late" shows when a file is over 8 h old.
 
-## Home Base page (`homebase.html`, added 2026-10-24, v0.3)
+## Home Base page (`homebase.html`, added 2026-10-24, v0.4)
 
 Rudy lives in Virginia Beach (Chic's Beach / Shore Drive). He wanted an information page, not betting, built
 around **things to do** and **money & housing**. Beach conditions (tides, waves, rip currents) were dropped:
@@ -160,6 +160,7 @@ masthead ("Home Base →") and back ("← Board"); theme toggle only.
 | Mortgage rates | `data/housing.json` ← Freddie Mac `PMMS_history.csv` | 30-year (big) and 15-year, week-over-week change, a year ago. 53 weeks kept. |
 | Rent / Home values | `data/housing.json` ← Zillow city CSVs (ZORI rent index; ZHVI mid-tier home value) | Virginia Beach, VA row, last 25 months, change vs the same month a year earlier. The ZHVI file is ~94 MB, so the script streams it and stops at Virginia Beach's row (sorted by size, near the top). |
 | Gas | `data/housing.json` ← EIA's weekly table page (`pet_pri_gnd_dcus_r1z_w.htm`) | Regular, Lower Atlantic (PADD 1C): EIA doesn't publish Virginia alone, and its API needs a key. The newest week's cell is class `Current2`, the rest `DataB`. |
+| Paycheck share (v0.4, 2026-11-07) | `data/costs.json` ← `costs.mjs` | Share of a typical VB-metro paycheck (before taxes) that one renter with one car spends on rent, groceries, electricity, gas and car insurance, 2021 on. Pay: BLS QCEW avg weekly wage, metro C4726, average of the last 4 published quarters (Q1 has bonuses), × 52/12; quarters are cached in the file and only new ones fetched (~5 months behind). Rent: Zillow ZORI (VB city). Gas: EIA monthly PADD 1C × 45 gal. Groceries: USDA moderate plan Sep 2026, adult 19–50 M/F averaged, +20% one-person (= $441), moved by BLS South food-at-home CPI (CUUR0300SAF11). Electricity: EIA 2024 avg VA residential bill $148.77 (all homes, likely high for an apartment), moved by South electricity CPI (CUUR0300SEHF01). Car insurance: NAIC 2023 U.S. avg $1,281/yr (VA state table blocked, 403), moved by U.S. motor vehicle insurance CPI (CUUR0000SETE); hatched as an estimate; renters insurance left out. Headline = latest month every source has; trend = quarterly averages; "since 2021" compares the same month in 2021. BLS API v1, keyless, 1 call/day. Any source failing keeps the last file. Rudy picked mockup A of three: https://claude.ai/artifact/HM5HKBx33Pm5UmSS82vqqj |
 
 - Changes are written as words ("Up 0.05 pts from last week"), not red/green: a rise isn't good or bad for
   every number. Sparklines have no axis or tooltip (values are in the text); the end dot is a round-capped

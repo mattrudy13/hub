@@ -20,3 +20,9 @@
     and water temperature from NDBC buoy 44099 (Cape Henry), EPA UV by ZIP 23451. All free, checked 2026-10-24.
 12. **Event prices (Home Base).** Ticketmaster rarely sends prices for local venues; SeatGeek's API (free
     client id) has "lowest price" and could fill the gap.
+13. **Paycheck share: better estimates (Home Base).** Three pieces are national or whole-state stand-ins
+    (v0.4, 2026-11-07): car insurance is NAIC's U.S. average because its Virginia table couldn't be downloaded
+    (403) — swap in the VA figure if it can be found; renters insurance is left out; electricity is the average
+    Virginia home's bill, which likely runs high for an apartment (EIA's RECS has usage by housing type).
+14. **Paycheck share: take-home view.** Rudy picked pay before taxes. A take-home line would need a yearly
+    federal + VA + FICA estimate for a single filer.
