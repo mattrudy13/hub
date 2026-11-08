@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T13:20:46.551Z",
+  "updated": "2026-11-08T14:20:45.404Z",
   "failed": [],
   "sections": [
     {
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+          "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+          "source": "CNBC",
+          "published": "2026-11-08T14:00:01.000Z"
+        },
+        {
           "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
           "link": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
           "source": "CNBC",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fb051d31-c4ed-443b-b29a-47cd2e47401e&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-07T16:08:41.000Z"
-        },
-        {
-          "title": "The AI trade is counting on Anthropic’s IPO — but the timing couldn't be worse",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ca491124-f1a8-4fd5-b495-a0595ed1900c&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-07T14:15:22.000Z"
         }
       ]
     },
