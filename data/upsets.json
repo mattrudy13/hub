@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T03:20:47.558Z",
+  "updated": "2026-11-08T04:20:47.216Z",
   "minLine": 7,
   "days": [
     "2026-11-06",
@@ -70,6 +70,28 @@
         "abbr": "ARST",
         "rank": null,
         "score": 17
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-11-07",
+      "id": "401858511",
+      "line": 14,
+      "details": "MICH -14",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858511/michigan-st-michigan",
+      "winner": {
+        "id": "127",
+        "name": "Michigan St",
+        "abbr": "MSU",
+        "rank": null,
+        "score": 15
+      },
+      "loser": {
+        "id": "130",
+        "name": "Michigan",
+        "abbr": "MICH",
+        "rank": null,
+        "score": 6
       }
     },
     {
@@ -1239,6 +1261,11 @@
       "line": null
     },
     "cbb:401931055": {
+      "date": "2026-11-07",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401931195": {
       "date": "2026-11-07",
       "fav": null,
       "line": null
