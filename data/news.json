@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-08T16:20:45.617Z",
+  "updated": "2026-11-08T16:43:31.178Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+          "source": "NPR",
+          "published": "2026-11-08T16:30:16.000Z"
+        },
         {
           "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
           "link": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-08T14:32:52.000Z"
-        },
-        {
-          "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-          "source": "NPR",
-          "published": "2026-11-08T11:00:00.000Z"
         }
       ]
     },
