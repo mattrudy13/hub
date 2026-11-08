@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-08T02:20:46.575Z",
+  "updated": "2026-11-08T03:20:47.558Z",
   "minLine": 7,
   "days": [
     "2026-11-06",
     "2026-11-07"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-07",
+      "id": "401911186",
+      "line": 19.5,
+      "details": "DAY -19.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911186/n-illinois-dayton",
+      "winner": {
+        "id": "2459",
+        "name": "N Illinois",
+        "abbr": "NIU",
+        "rank": null,
+        "score": 81
+      },
+      "loser": {
+        "id": "2168",
+        "name": "Dayton",
+        "abbr": "DAY",
+        "rank": null,
+        "score": 76
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-06",
@@ -48,6 +70,28 @@
         "abbr": "ARST",
         "rank": null,
         "score": 17
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-07",
+      "id": "401920816",
+      "line": 10.5,
+      "details": "LR -10.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920816/se-louisiana-little-rock",
+      "winner": {
+        "id": "2545",
+        "name": "SE Louisiana",
+        "abbr": "SELA",
+        "rank": null,
+        "score": 83
+      },
+      "loser": {
+        "id": "2031",
+        "name": "Little Rock",
+        "abbr": "LR",
+        "rank": null,
+        "score": 79
       }
     },
     {
@@ -827,14 +871,14 @@
     "cfb:401860912": {
       "date": "2026-11-07",
       "fav": "204",
-      "line": 5.5,
-      "details": "ORST -5.5"
+      "line": 4,
+      "details": "ORST -4"
     },
     "cfb:401864535": {
       "date": "2026-11-07",
       "fav": "2439",
-      "line": 3.5,
-      "details": "UNLV -3.5"
+      "line": 3,
+      "details": "UNLV -3"
     },
     "cbb:401929410": {
       "date": "2026-11-06",
@@ -1180,6 +1224,21 @@
       "line": null
     },
     "cbb:401928817": {
+      "date": "2026-11-07",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401925780": {
+      "date": "2026-11-07",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929399": {
+      "date": "2026-11-07",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401931055": {
       "date": "2026-11-07",
       "fav": null,
       "line": null
