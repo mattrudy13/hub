@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-08T01:20:48.445Z",
-  "from": "2026-11-08T01:20:47Z",
-  "to": "2026-11-22T01:20:47Z",
+  "updated": "2026-11-08T02:20:48.870Z",
+  "from": "2026-11-08T02:20:48Z",
+  "to": "2026-11-22T02:20:48Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv117Z_Kj40Mro",
-      "name": "Drake & Future Night Virginia Beach: All-Night Dance Party (21+)",
-      "date": "2026-11-07",
-      "time": "21:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Hip-Hop/Rap",
-      "venue": "Elevation 27",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/drake-future-night-virginia-beach-allnight-virginia-beach-virginia-11-07-2026/event/0100653715937791",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/e/d65/efe6713e-dfec-4004-bc64-78ecb3201d65_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1A8v0JaGAGdLrB",
       "name": "Monster Jam",

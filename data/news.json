@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T01:20:45.509Z",
+  "updated": "2026-11-08T02:20:45.745Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "What we know so far after Krakow gun attack",
+          "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-08T01:47:41.000Z"
+        },
+        {
           "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
           "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
           "source": "NPR",
           "published": "2026-11-08T00:19:52.000Z"
-        },
-        {
-          "title": "What we know so far after Krakow gun attack",
-          "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-07T22:58:49.000Z"
         },
         {
           "title": "Israel's president tasks opposition leader Eisenkot with forming government",
