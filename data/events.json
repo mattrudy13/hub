@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-08T00:20:50.347Z",
-  "from": "2026-11-08T00:20:49Z",
-  "to": "2026-11-22T00:20:49Z",
+  "updated": "2026-11-08T00:46:51.885Z",
+  "from": "2026-11-08T00:46:51Z",
+  "to": "2026-11-22T00:46:51Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vvG17Z_2myRJ5l",
-      "name": "The ABBA REUNION Tribute Show",
-      "date": "2026-11-07",
-      "time": "19:30",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Pop",
-      "venue": "Sandler Center For The Performing Arts",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/the-abba-reunion-tribute-show-virginia-beach-virginia-11-07-2026/event/010064FBB9BE62EB",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/e/7e7/3d180fd9-30fa-466f-b50b-dcd4f847a7e7_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "Z7r9jZ1A703Cf",
       "name": "Clutch w/ Slomosa",
@@ -689,6 +675,20 @@
       "url": "https://www.ticketmaster.com/zach-williams-with-cochren-co-and-virginia-beach-virginia-11-21-2026/event/0100648AA5C0C6B5",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/82e/a67a24ce-b7b1-4e00-857a-ff008b6cf82e_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vvG17Z_urnqCJT",
+      "name": "Mannheim Steamroller Christmas",
+      "date": "2026-11-21",
+      "time": "19:30",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "New Age",
+      "venue": "Sandler Center For The Performing Arts",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/mannheim-steamroller-christmas-virginia-beach-virginia-11-21-2026/event/010064D7AA74E9BF",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/6ba/48487f5a-ab2b-4208-90bc-d3bbaf7696ba_1121721_RETINA_PORTRAIT_16_9.jpg"
     },
     {
       "id": "Z7r9jZ1A7x8JF",

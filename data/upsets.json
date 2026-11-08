@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T00:20:47.360Z",
+  "updated": "2026-11-08T00:46:49.539Z",
   "minLine": 7,
   "days": [
     "2026-11-06",
@@ -70,6 +70,28 @@
         "abbr": "WIN",
         "rank": null,
         "score": 90
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-11-07",
+      "id": "401858514",
+      "line": 7.5,
+      "details": "OSU -7.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858514/oregon-ohio-state",
+      "winner": {
+        "id": "2483",
+        "name": "Oregon",
+        "abbr": "ORE",
+        "rank": 23,
+        "score": 41
+      },
+      "loser": {
+        "id": "194",
+        "name": "Ohio State",
+        "abbr": "OSU",
+        "rank": 12,
+        "score": 28
       }
     }
   ],
