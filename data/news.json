@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T14:20:45.404Z",
+  "updated": "2026-11-08T15:20:46.485Z",
   "failed": [],
   "sections": [
     {
@@ -7,20 +7,20 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+          "source": "NPR",
+          "published": "2026-11-08T15:07:15.000Z"
+        },
+        {
           "title": "What we know so far after Krakow gun attack",
           "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-08T11:22:17.000Z"
+          "published": "2026-11-08T14:32:52.000Z"
         },
         {
           "title": "Climate change is altering the colors we see in the world: an illustrated journey",
           "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-          "source": "NPR",
-          "published": "2026-11-08T11:00:00.000Z"
-        },
-        {
-          "title": "In Maine, a new approach to practicing medicine in the sky",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
           "source": "NPR",
           "published": "2026-11-08T11:00:00.000Z"
         }
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "The U.S. stock market has rarely been this unified. It’s not a good thing.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7bc433c2-d23e-45f5-8a27-21538529fed2&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-08T14:32:42.000Z"
+        },
         {
           "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
           "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
           "source": "CNBC",
           "published": "2026-11-08T13:00:01.000Z"
-        },
-        {
-          "title": "You follow the rules for smart stock trading. But are they the right rules?",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fb051d31-c4ed-443b-b29a-47cd2e47401e&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-07T16:08:41.000Z"
         }
       ]
     },
@@ -54,6 +54,12 @@
       "key": "tech",
       "name": "Tech",
       "items": [
+        {
+          "title": "Chatbots might be coming to Apple’s HomeView",
+          "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+          "source": "The Verge",
+          "published": "2026-11-08T15:00:30.000Z"
+        },
         {
           "title": "There’s no slowing down media’s pivot-to-video 2.0",
           "link": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
           "source": "Ars Technica",
           "published": "2026-11-08T12:15:31.000Z"
-        },
-        {
-          "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
-          "link": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
-          "source": "The Verge",
-          "published": "2026-11-07T17:00:00.000Z"
         }
       ]
     }
