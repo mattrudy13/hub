@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T08:07:24.560Z",
+  "updated": "2026-11-09T11:20:46.253Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Krakow shooting suspect has died in hospital, police say",
-          "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+          "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+          "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-09T07:26:09.000Z"
+          "published": "2026-11-09T10:59:26.000Z"
         },
         {
-          "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-          "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-09T07:10:11.000Z"
-        },
-        {
-          "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
-          "link": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
+          "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
+          "link": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
           "source": "NPR",
-          "published": "2026-11-09T06:20:44.000Z"
+          "published": "2026-11-09T10:47:00.000Z"
+        },
+        {
+          "title": "Democrats won big on issues like immigration. But ICE still has the money",
+          "link": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
+          "source": "NPR",
+          "published": "2026-11-09T10:00:00.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Torrent underground",
+          "link": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
+          "source": "The Verge",
+          "published": "2026-11-09T11:00:05.000Z"
+        },
+        {
           "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
           "source": "The Verge",
           "published": "2026-11-08T22:54:50.000Z"
-        },
-        {
-          "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-          "link": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
-          "source": "The Verge",
-          "published": "2026-11-08T22:37:22.000Z"
         },
         {
           "title": "Physicists listened to electrical noise to crack a superconductor mystery",
