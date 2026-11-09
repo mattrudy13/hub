@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T17:20:48.455Z",
+  "updated": "2026-11-09T18:21:19.763Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Trump questions midterm elections integrity after previously accepting results",
-          "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+          "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-09T17:16:42.000Z"
+          "published": "2026-11-09T18:11:11.000Z"
         },
         {
-          "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+          "title": "Russia's leading independent newspaper closes after eviction",
+          "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-09T17:06:18.000Z"
+          "published": "2026-11-09T18:08:07.000Z"
         },
         {
           "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Dow's surge hits 1,000 points today; S&P 500 and Nasdaq also see big gains",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f693cd99-53c6-461d-8cf2-0ae8093a010a&mod=mw_rss_bulletins",
+          "title": "Boeing to cut 5% of commercial airplane workers as production increase takes longer than expected",
+          "link": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
+          "source": "CNBC",
+          "published": "2026-11-09T18:16:37.000Z"
+        },
+        {
+          "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+          "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+          "source": "CNBC",
+          "published": "2026-11-09T18:14:47.000Z"
+        },
+        {
+          "title": "There is no one at Nvidia who would be ready to replace Jensen Huang",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f6935744-32fa-48ad-9af3-43c01773ffba&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-09T17:12:51.000Z"
-        },
-        {
-          "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
-          "link": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
-          "source": "CNBC",
-          "published": "2026-11-09T16:39:12.000Z"
-        },
-        {
-          "title": "Goodyear Tire CEO Mark Stewart steps down as company continues turnaround plan",
-          "link": "https://www.cnbc.com/2026/11/09/goodyear-roger-wood-interim-ceo.html",
-          "source": "CNBC",
-          "published": "2026-11-09T14:56:47.000Z"
+          "published": "2026-11-09T18:04:13.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage",
-          "link": "https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage",
+          "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+          "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
           "source": "The Verge",
-          "published": "2026-11-09T16:23:31.000Z"
+          "published": "2026-11-09T18:07:23.000Z"
         },
         {
-          "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+          "title": "James Gunn is out as DC movie leader",
+          "link": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
           "source": "The Verge",
-          "published": "2026-11-09T15:50:38.000Z"
+          "published": "2026-11-09T17:39:57.000Z"
         },
         {
-          "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
-          "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+          "title": "Claude Code is accidentally exposing secrets all over GitHub",
+          "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
           "source": "Ars Technica",
-          "published": "2026-11-09T15:39:21.000Z"
+          "published": "2026-11-09T17:24:26.000Z"
         }
       ]
     }
