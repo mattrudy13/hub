@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T21:20:47.762Z",
+  "updated": "2026-11-09T22:20:46.419Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Judge denies motion to dismiss Lindsay Clancy's murder case - media reports",
+          "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
           "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-09T21:14:52.000Z"
+          "published": "2026-11-09T22:17:23.000Z"
         },
         {
-          "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-          "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+          "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+          "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-09T21:04:36.000Z"
+          "published": "2026-11-09T21:52:28.000Z"
         },
         {
-          "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
-          "link": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+          "title": "Supreme Court says border wall construction can continue in west Texas",
+          "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
           "source": "NPR",
-          "published": "2026-11-09T20:52:24.000Z"
+          "published": "2026-11-09T21:47:39.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
-          "link": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
-          "source": "CNBC",
-          "published": "2026-11-09T21:06:31.000Z"
-        },
-        {
-          "title": "Dow ends 1,100 points higher, S&P 500 books best day since April as stocks surge",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=26718b07-7903-412e-a364-a91934f92285&mod=mw_rss_bulletins",
+          "title": "Dow sees third 1,000-point swing in four days. Why the volatility isn’t over yet",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ae6f3a14-ea52-4804-beca-022eac7e3d9a&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-09T21:05:15.000Z"
+          "published": "2026-11-09T22:11:16.000Z"
         },
         {
-          "title": "Children’s Place files for bankruptcy protection, seeks buyer",
-          "link": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
+          "title": "As Nvidia shares fall on CEO spy scandal, these chip stocks may be bargains",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=701b1c43-8b4b-460e-a858-b76f25a5d0c8&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-09T21:28:41.000Z"
+        },
+        {
+          "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+          "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
           "source": "CNBC",
-          "published": "2026-11-09T20:57:46.000Z"
+          "published": "2026-11-09T21:28:40.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The global pledge to use AI for climate good is a cruel joke",
-          "link": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
-          "source": "The Verge",
-          "published": "2026-11-09T21:13:16.000Z"
-        },
-        {
-          "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-          "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+          "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+          "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
           "source": "Ars Technica",
-          "published": "2026-11-09T19:41:34.000Z"
+          "published": "2026-11-09T21:55:35.000Z"
         },
         {
-          "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-          "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+          "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+          "link": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-09T19:09:58.000Z"
+          "published": "2026-11-09T21:43:41.000Z"
+        },
+        {
+          "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+          "link": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+          "source": "Ars Technica",
+          "published": "2026-11-09T21:13:39.000Z"
         }
       ]
     }
