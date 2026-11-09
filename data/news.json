@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-09T00:20:45.151Z",
+  "updated": "2026-11-09T01:00:29.346Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+          "source": "NPR",
+          "published": "2026-11-09T00:17:43.000Z"
+        },
         {
           "title": "NASA is looking for astronauts to live and work on the Moon",
           "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-08T23:34:18.000Z"
-        },
-        {
-          "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
-          "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-08T22:05:12.000Z"
         }
       ]
     },
