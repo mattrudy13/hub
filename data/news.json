@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-09T03:20:46.767Z",
+  "updated": "2026-11-09T04:20:46.029Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-09T02:50:13.000Z"
+        },
         {
           "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
           "link": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
           "source": "NPR",
           "published": "2026-11-08T23:36:47.000Z"
-        },
-        {
-          "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-          "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-08T23:34:18.000Z"
         }
       ]
     },
