@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-09T15:20:46.904Z",
+  "updated": "2026-11-09T16:20:46.748Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-09T15:46:20.000Z"
+        },
         {
           "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
           "link": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-09T14:50:35.000Z"
-        },
-        {
-          "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
-          "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-09T14:44:47.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
+          "link": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
+          "source": "CNBC",
+          "published": "2026-11-09T16:10:33.000Z"
+        },
         {
           "title": "Goodyear Tire CEO Mark Stewart steps down as company continues turnaround plan",
           "link": "https://www.cnbc.com/2026/11/09/goodyear-roger-wood-interim-ceo.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e7b77823-406d-44ff-abc4-686eb36ce579&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-09T14:31:46.000Z"
-        },
-        {
-          "title": "Eli Lilly’s Foundayo obesity pill eases sleep apnea in late-stage trial, paving way for approval",
-          "link": "https://www.cnbc.com/2026/11/09/eli-lilly-foundayo-sleep-apnea-trial.html",
-          "source": "CNBC",
-          "published": "2026-11-09T14:30:01.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Medium is launching a new note-taking app called TK",
-          "link": "https://www.theverge.com/tech/1029676/medium-tk-notes-app",
-          "source": "The Verge",
-          "published": "2026-11-09T15:04:45.000Z"
-        },
-        {
-          "title": "How to shop like a pro during Black Friday and Cyber Monday",
-          "link": "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find",
-          "source": "The Verge",
-          "published": "2026-11-09T15:00:00.000Z"
-        },
-        {
-          "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
-          "link": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+          "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+          "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
           "source": "Ars Technica",
-          "published": "2026-11-09T12:00:05.000Z"
+          "published": "2026-11-09T15:39:21.000Z"
+        },
+        {
+          "title": "Disney and Adobe are building generative AI tools together",
+          "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+          "source": "The Verge",
+          "published": "2026-11-09T15:38:56.000Z"
+        },
+        {
+          "title": "Hold up — I had a great time talking to the RIAA guy",
+          "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+          "source": "The Verge",
+          "published": "2026-11-09T15:30:00.000Z"
         }
       ]
     }
