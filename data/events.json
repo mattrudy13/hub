@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-08T23:20:48.700Z",
-  "from": "2026-11-08T23:20:48Z",
-  "to": "2026-11-22T23:20:48Z",
+  "updated": "2026-11-09T00:20:47.748Z",
+  "from": "2026-11-09T00:20:47Z",
+  "to": "2026-11-23T00:20:47Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -675,6 +675,20 @@
       "url": "https://www.ticketmaster.com/mutts-gone-nuts-hampton-virginia-11-22-2026/event/0100651FCDDE4E70",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/7cb/310d442f-26fa-49d9-8b5c-580bf46437cb_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1A7PK7f",
+      "name": "Wage War w/ We Came As Romans",
+      "date": "2026-11-22",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": null,
+      "venue": "The Norva",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PK7f",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/762/707b5aed-2537-4fc0-9f79-57789bbcd762_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
