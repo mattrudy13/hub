@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T14:20:51.969Z",
+  "updated": "2026-11-09T15:20:46.904Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Thirteen migrants die after boat sinks off Crete",
-          "link": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-09T13:50:01.000Z"
-        },
-        {
-          "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-          "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-09T13:10:32.000Z"
-        },
-        {
-          "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
-          "link": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+          "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+          "link": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
           "source": "NPR",
-          "published": "2026-11-09T12:45:14.000Z"
+          "published": "2026-11-09T15:09:53.000Z"
+        },
+        {
+          "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+          "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-09T14:50:35.000Z"
+        },
+        {
+          "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+          "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-09T14:44:47.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Here’s what Wall Street has to say about the Jensen Huang scandal",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2d3e0218-7979-4e04-adf5-8490c2100440&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-09T14:13:40.000Z"
-        },
-        {
-          "title": "Economic calendar: Consumer- and producer-price indexes highlight the week",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4dfb1633-b86c-40cf-aae8-d3f934f8737c&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-09T12:32:21.000Z"
-        },
-        {
-          "title": "Restaurant chains refocus on food quality to bring back diners",
-          "link": "https://www.cnbc.com/2026/11/09/restaurant-chains-better-food-diners.html",
+          "title": "Goodyear Tire CEO Mark Stewart steps down as company continues turnaround plan",
+          "link": "https://www.cnbc.com/2026/11/09/goodyear-roger-wood-interim-ceo.html",
           "source": "CNBC",
-          "published": "2026-11-09T12:00:01.000Z"
+          "published": "2026-11-09T14:56:47.000Z"
+        },
+        {
+          "title": "Dow, S&P 500 and Nasdaq open higher after last week’s selloff",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e7b77823-406d-44ff-abc4-686eb36ce579&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-09T14:31:46.000Z"
+        },
+        {
+          "title": "Eli Lilly’s Foundayo obesity pill eases sleep apnea in late-stage trial, paving way for approval",
+          "link": "https://www.cnbc.com/2026/11/09/eli-lilly-foundayo-sleep-apnea-trial.html",
+          "source": "CNBC",
+          "published": "2026-11-09T14:30:01.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Pomera’s sleek distraction-free writing machine is just too small",
-          "link": "https://www.theverge.com/gadgets/1029603/pomeras-dm25us-distraction-free-writing-review",
+          "title": "Medium is launching a new note-taking app called TK",
+          "link": "https://www.theverge.com/tech/1029676/medium-tk-notes-app",
           "source": "The Verge",
-          "published": "2026-11-09T14:00:00.000Z"
+          "published": "2026-11-09T15:04:45.000Z"
+        },
+        {
+          "title": "How to shop like a pro during Black Friday and Cyber Monday",
+          "link": "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find",
+          "source": "The Verge",
+          "published": "2026-11-09T15:00:00.000Z"
         },
         {
           "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
           "link": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
           "source": "Ars Technica",
           "published": "2026-11-09T12:00:05.000Z"
-        },
-        {
-          "title": "Instagram’s AI age detection is expanding globally",
-          "link": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
-          "source": "The Verge",
-          "published": "2026-11-09T12:00:00.000Z"
         }
       ]
     }
