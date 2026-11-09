@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-09T13:20:45.489Z",
+  "updated": "2026-11-09T14:20:51.969Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Thirteen migrants die after boat sinks off Crete",
+          "link": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-09T13:50:01.000Z"
+        },
         {
           "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
           "source": "NPR",
           "published": "2026-11-09T12:45:14.000Z"
-        },
-        {
-          "title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-09T12:33:24.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Here’s what Wall Street has to say about the Jensen Huang scandal",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2d3e0218-7979-4e04-adf5-8490c2100440&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-09T14:13:40.000Z"
+        },
         {
           "title": "Economic calendar: Consumer- and producer-price indexes highlight the week",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4dfb1633-b86c-40cf-aae8-d3f934f8737c&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/11/09/restaurant-chains-better-food-diners.html",
           "source": "CNBC",
           "published": "2026-11-09T12:00:01.000Z"
-        },
-        {
-          "title": "S&P 500 futures move to session highs: live updates",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1f808902-55a8-485b-9d87-722088eca855&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-09T11:54:54.000Z"
         }
       ]
     },
@@ -54,6 +54,12 @@
       "key": "tech",
       "name": "Tech",
       "items": [
+        {
+          "title": "Pomera’s sleek distraction-free writing machine is just too small",
+          "link": "https://www.theverge.com/gadgets/1029603/pomeras-dm25us-distraction-free-writing-review",
+          "source": "The Verge",
+          "published": "2026-11-09T14:00:00.000Z"
+        },
         {
           "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
           "link": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
           "source": "The Verge",
           "published": "2026-11-09T12:00:00.000Z"
-        },
-        {
-          "title": "Torrent underground",
-          "link": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
-          "source": "The Verge",
-          "published": "2026-11-09T11:00:05.000Z"
         }
       ]
     }
