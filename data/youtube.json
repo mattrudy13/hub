@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T05:20:50.293Z",
+  "updated": "2026-11-09T08:07:26.377Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "jBv83nsOGr0",
+          "title": "I Am Her.",
+          "published": "2026-11-09T06:58:00Z",
+          "thumb": "https://i.ytimg.com/vi/jBv83nsOGr0/mqdefault.jpg",
+          "seen": "2026-11-09T08:07:24.949Z"
+        },
         {
           "id": "nnWe6MbohmU",
           "title": "The Ocarina of Time Remake is MAGICAL",
@@ -35,13 +42,6 @@
           "published": "2026-11-05T21:54:01Z",
           "thumb": "https://i.ytimg.com/vi/9gu2_lSkdsw/mqdefault.jpg",
           "seen": "2026-11-05T22:20:47.696Z"
-        },
-        {
-          "id": "y1t_0epcVLA",
-          "title": "Deadlock has never been better",
-          "published": "2026-11-05T07:59:31Z",
-          "thumb": "https://i.ytimg.com/vi/y1t_0epcVLA/mqdefault.jpg",
-          "seen": "2026-11-05T11:20:48.340Z"
         }
       ]
     },
