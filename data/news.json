@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T22:20:46.419Z",
+  "updated": "2026-11-09T23:20:45.937Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-          "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-09T22:17:23.000Z"
+          "published": "2026-11-09T23:01:32.000Z"
         },
         {
-          "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-          "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+          "title": "Dana White declines Trump’s offer to be White House press secretary",
+          "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-09T21:52:28.000Z"
+          "published": "2026-11-09T22:46:27.000Z"
         },
         {
-          "title": "Supreme Court says border wall construction can continue in west Texas",
-          "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+          "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+          "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
           "source": "NPR",
-          "published": "2026-11-09T21:47:39.000Z"
+          "published": "2026-11-09T22:30:49.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+          "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+          "source": "CNBC",
+          "published": "2026-11-09T23:14:38.000Z"
+        },
+        {
+          "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+          "link": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+          "source": "CNBC",
+          "published": "2026-11-09T23:05:53.000Z"
+        },
+        {
           "title": "Dow sees third 1,000-point swing in four days. Why the volatility isn’t over yet",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ae6f3a14-ea52-4804-beca-022eac7e3d9a&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-09T22:11:16.000Z"
-        },
-        {
-          "title": "As Nvidia shares fall on CEO spy scandal, these chip stocks may be bargains",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=701b1c43-8b4b-460e-a858-b76f25a5d0c8&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-09T21:28:41.000Z"
-        },
-        {
-          "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
-          "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
-          "source": "CNBC",
-          "published": "2026-11-09T21:28:40.000Z"
         }
       ]
     },
@@ -54,6 +54,12 @@
       "key": "tech",
       "name": "Tech",
       "items": [
+        {
+          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "source": "The Verge",
+          "published": "2026-11-09T23:07:59.000Z"
+        },
         {
           "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
           "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
           "source": "The Verge",
           "published": "2026-11-09T21:43:41.000Z"
-        },
-        {
-          "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
-          "link": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
-          "source": "Ars Technica",
-          "published": "2026-11-09T21:13:39.000Z"
         }
       ]
     }
