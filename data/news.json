@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-09T11:20:46.253Z",
+  "updated": "2026-11-09T12:20:46.752Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Krakow shooting suspect has died in hospital, police say",
+          "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-09T11:56:25.000Z"
+        },
         {
           "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
           "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
           "source": "NPR",
           "published": "2026-11-09T10:47:00.000Z"
-        },
-        {
-          "title": "Democrats won big on issues like immigration. But ICE still has the money",
-          "link": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
-          "source": "NPR",
-          "published": "2026-11-09T10:00:00.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Restaurant chains refocus on food quality to bring back diners",
+          "link": "https://www.cnbc.com/2026/11/09/restaurant-chains-better-food-diners.html",
+          "source": "CNBC",
+          "published": "2026-11-09T12:00:01.000Z"
+        },
+        {
+          "title": "S&P 500 futures move to session highs: live updates",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1f808902-55a8-485b-9d87-722088eca855&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-09T11:54:54.000Z"
+        },
+        {
           "title": "Economic calendar: CPI, PPI and a flotilla of Fed speakers on weekly agenda",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9622b187-7dd2-4086-87d2-b9448dd2298a&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-08T18:14:41.000Z"
-        },
-        {
-          "title": "Demand for standard burial services is in decline. Funeral homes are adapting.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=76efbc77-34ed-442d-9d34-fed91050c7b1&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-08T17:48:33.000Z"
-        },
-        {
-          "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
-          "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
-          "source": "CNBC",
-          "published": "2026-11-08T14:00:01.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+          "link": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+          "source": "Ars Technica",
+          "published": "2026-11-09T12:00:05.000Z"
+        },
+        {
+          "title": "Instagram’s AI age detection is expanding globally",
+          "link": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+          "source": "The Verge",
+          "published": "2026-11-09T12:00:00.000Z"
+        },
+        {
           "title": "Torrent underground",
           "link": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
           "source": "The Verge",
           "published": "2026-11-09T11:00:05.000Z"
-        },
-        {
-          "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-          "source": "The Verge",
-          "published": "2026-11-08T22:54:50.000Z"
-        },
-        {
-          "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-          "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-          "source": "Ars Technica",
-          "published": "2026-11-08T12:15:31.000Z"
         }
       ]
     }
