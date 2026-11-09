@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T12:20:46.752Z",
+  "updated": "2026-11-09T13:20:45.489Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Krakow shooting suspect has died in hospital, police say",
-          "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+          "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-09T11:56:25.000Z"
+          "published": "2026-11-09T13:10:32.000Z"
         },
         {
-          "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-          "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-09T10:59:26.000Z"
-        },
-        {
-          "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
-          "link": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
+          "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
+          "link": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
           "source": "NPR",
-          "published": "2026-11-09T10:47:00.000Z"
+          "published": "2026-11-09T12:45:14.000Z"
+        },
+        {
+          "title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-09T12:33:24.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Economic calendar: Consumer- and producer-price indexes highlight the week",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4dfb1633-b86c-40cf-aae8-d3f934f8737c&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-09T12:32:21.000Z"
+        },
         {
           "title": "Restaurant chains refocus on food quality to bring back diners",
           "link": "https://www.cnbc.com/2026/11/09/restaurant-chains-better-food-diners.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1f808902-55a8-485b-9d87-722088eca855&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-09T11:54:54.000Z"
-        },
-        {
-          "title": "Economic calendar: CPI, PPI and a flotilla of Fed speakers on weekly agenda",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9622b187-7dd2-4086-87d2-b9448dd2298a&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-08T18:14:41.000Z"
         }
       ]
     },
