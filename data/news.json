@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T16:20:46.748Z",
+  "updated": "2026-11-09T17:20:48.455Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-          "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "title": "Trump questions midterm elections integrity after previously accepting results",
+          "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-09T15:46:20.000Z"
+          "published": "2026-11-09T17:16:42.000Z"
+        },
+        {
+          "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-09T17:06:18.000Z"
         },
         {
           "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
           "link": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
           "source": "NPR",
           "published": "2026-11-09T15:09:53.000Z"
-        },
-        {
-          "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-          "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-09T14:50:35.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Dow's surge hits 1,000 points today; S&P 500 and Nasdaq also see big gains",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f693cd99-53c6-461d-8cf2-0ae8093a010a&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-09T17:12:51.000Z"
+        },
+        {
           "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
           "link": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
           "source": "CNBC",
-          "published": "2026-11-09T16:10:33.000Z"
+          "published": "2026-11-09T16:39:12.000Z"
         },
         {
           "title": "Goodyear Tire CEO Mark Stewart steps down as company continues turnaround plan",
           "link": "https://www.cnbc.com/2026/11/09/goodyear-roger-wood-interim-ceo.html",
           "source": "CNBC",
           "published": "2026-11-09T14:56:47.000Z"
-        },
-        {
-          "title": "Dow, S&P 500 and Nasdaq open higher after last week’s selloff",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e7b77823-406d-44ff-abc4-686eb36ce579&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-09T14:31:46.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage",
+          "link": "https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage",
+          "source": "The Verge",
+          "published": "2026-11-09T16:23:31.000Z"
+        },
+        {
+          "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+          "source": "The Verge",
+          "published": "2026-11-09T15:50:38.000Z"
+        },
+        {
           "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
           "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
           "source": "Ars Technica",
           "published": "2026-11-09T15:39:21.000Z"
-        },
-        {
-          "title": "Disney and Adobe are building generative AI tools together",
-          "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-          "source": "The Verge",
-          "published": "2026-11-09T15:38:56.000Z"
-        },
-        {
-          "title": "Hold up — I had a great time talking to the RIAA guy",
-          "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
-          "source": "The Verge",
-          "published": "2026-11-09T15:30:00.000Z"
         }
       ]
     }
