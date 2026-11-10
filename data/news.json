@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T00:20:46.312Z",
+  "updated": "2026-11-10T01:20:51.179Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-10T00:34:53.000Z"
+        },
+        {
           "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
           "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-10T00:14:03.000Z"
-        },
-        {
-          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-10T00:09:49.000Z"
         },
         {
           "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Short seller claims Nvidia's China scandal runs deeper than Megaspeed",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6e04b5eb-b807-4968-90fc-2a422a290a4f&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-10T00:57:07.000Z"
+        },
+        {
           "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
           "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
           "source": "CNBC",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b7d9ad4a-fcbe-4b1d-9474-e77598af01ef&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-09T23:26:46.000Z"
-        },
-        {
-          "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
-          "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
-          "source": "CNBC",
-          "published": "2026-11-09T23:14:38.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+          "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+          "source": "The Verge",
+          "published": "2026-11-10T00:28:49.000Z"
+        },
+        {
           "title": "What could China get from Jensen Huang?",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
           "source": "The Verge",
           "published": "2026-11-09T23:51:58.000Z"
-        },
-        {
-          "title": "Here’s what Trump said he knew about Jensen Huang",
-          "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-          "source": "The Verge",
-          "published": "2026-11-09T23:47:46.000Z"
         },
         {
           "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
