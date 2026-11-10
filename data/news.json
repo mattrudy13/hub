@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T17:20:46.757Z",
+  "updated": "2026-11-10T18:20:47.517Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Israel's new parliament sworn in as leaders compete to form government",
-          "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+          "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+          "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-10T17:03:16.000Z"
+          "published": "2026-11-10T18:04:18.000Z"
         },
         {
-          "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+          "title": "Why are these purple flowers shutting down streets in Sydney?",
+          "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-10T16:19:48.000Z"
+          "published": "2026-11-10T18:03:52.000Z"
         },
         {
-          "title": "Gas prices dip below $4 but inflation remains stubbornly high",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices",
+          "title": "Americans across the economic spectrum feel a 'panic' about finances, author says",
+          "link": "https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives",
           "source": "NPR",
-          "published": "2026-11-10T14:35:50.000Z"
+          "published": "2026-11-10T17:46:25.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Wall Street’s only Nvidia bear says forcing out CEO Huang ‘would be a mistake’",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=981c1c64-e735-4049-bc05-60fa26241216&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-10T18:10:02.000Z"
+        },
         {
           "title": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
           "link": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c05bed66-3713-4d30-8393-fa348b112099&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-10T13:46:53.000Z"
-        },
-        {
-          "title": "Sharp rise in consumer prices may cement Fed hike next month — live updates",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0759efab-11b1-49b1-a4a6-6462a4a4392c&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-10T13:39:10.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "ChatGPT is getting verified AI ‘Business Agents’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+          "source": "The Verge",
+          "published": "2026-11-10T18:00:00.000Z"
+        },
+        {
+          "title": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
+          "link": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw",
+          "source": "The Verge",
+          "published": "2026-11-10T17:43:49.000Z"
+        },
+        {
           "title": "High oil prices have led to a dip in global carbon emissions",
           "link": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
           "source": "Ars Technica",
           "published": "2026-11-10T16:29:27.000Z"
-        },
-        {
-          "title": "eBay appears to have shut the door on third-party AI agents",
-          "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-          "source": "The Verge",
-          "published": "2026-11-10T16:20:30.000Z"
-        },
-        {
-          "title": "One space station company sues another for copying its work",
-          "link": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
-          "source": "Ars Technica",
-          "published": "2026-11-10T16:17:51.000Z"
         }
       ]
     }
