@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-10T05:20:46.357Z",
+  "updated": "2026-11-10T11:20:48.356Z",
   "minLine": 7,
   "days": [
     "2026-11-09",
     "2026-11-10"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-09",
+      "id": "401929003",
+      "line": 8.5,
+      "details": "HAW -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401929003/portland-hawaii",
+      "winner": {
+        "id": "2501",
+        "name": "Portland",
+        "abbr": "PORT",
+        "rank": null,
+        "score": 73
+      },
+      "loser": {
+        "id": "62",
+        "name": "Hawai'i",
+        "abbr": "HAW",
+        "rank": null,
+        "score": 66
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-09",
@@ -383,8 +405,8 @@
     "cbb:401921774": {
       "date": "2026-11-10",
       "fav": "222",
-      "line": 23.5,
-      "details": "VILL -23.5"
+      "line": 22.5,
+      "details": "VILL -22.5"
     },
     "cbb:401921755": {
       "date": "2026-11-10",
@@ -419,8 +441,8 @@
     "cbb:401920063": {
       "date": "2026-11-10",
       "fav": "227",
-      "line": 18.5,
-      "details": "URI -18.5"
+      "line": 20.5,
+      "details": "URI -20.5"
     },
     "cbb:401918957": {
       "date": "2026-11-10",
@@ -509,14 +531,14 @@
     "cbb:401925107": {
       "date": "2026-11-10",
       "fav": "326",
-      "line": 7.5,
-      "details": "TXST -7.5"
+      "line": 6.5,
+      "details": "TXST -6.5"
     },
     "cbb:401919003": {
       "date": "2026-11-10",
       "fav": "2655",
-      "line": 9.5,
-      "details": "TULN -9.5"
+      "line": 7.5,
+      "details": "TULN -7.5"
     },
     "cbb:401913527": {
       "date": "2026-11-10",
@@ -539,8 +561,8 @@
     "cbb:401925685": {
       "date": "2026-11-10",
       "fav": "93",
-      "line": 25.5,
-      "details": "MUR -25.5"
+      "line": 26.5,
+      "details": "MUR -26.5"
     },
     "cbb:401924952": {
       "date": "2026-11-10",
@@ -569,8 +591,8 @@
     "cbb:401909773": {
       "date": "2026-11-10",
       "fav": "66",
-      "line": 34.5,
-      "details": "ISU -34.5"
+      "line": 35.5,
+      "details": "ISU -35.5"
     },
     "cbb:401909752": {
       "date": "2026-11-10",
@@ -605,8 +627,8 @@
     "cbb:401921740": {
       "date": "2026-11-10",
       "fav": "252",
-      "line": 27.5,
-      "details": "BYU -27.5"
+      "line": 28.5,
+      "details": "BYU -28.5"
     },
     "cbb:401929180": {
       "date": "2026-11-10",
@@ -629,8 +651,8 @@
     "cbb:401921733": {
       "date": "2026-11-10",
       "fav": "9",
-      "line": 17.5,
-      "details": "ASU -17.5"
+      "line": 16.5,
+      "details": "ASU -16.5"
     },
     "cbb:401921699": {
       "date": "2026-11-10",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T05:20:45.936Z",
+  "updated": "2026-11-10T11:20:47.748Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Trump says more US attacks on Iran 'highly unlikely'",
-          "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-10T04:09:16.000Z"
-        },
-        {
-          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-10T03:58:13.000Z"
-        },
-        {
-          "title": "California voters defeat billionaire tax proposal that divided Democrats",
-          "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
+          "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+          "link": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
           "source": "NPR",
-          "published": "2026-11-10T03:05:39.000Z"
+          "published": "2026-11-10T10:58:18.000Z"
+        },
+        {
+          "title": "Police officer dies and another injured after backpack explosion in Oviedo",
+          "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-10T10:57:21.000Z"
+        },
+        {
+          "title": "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
+          "link": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
+          "source": "NPR",
+          "published": "2026-11-10T10:01:00.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Fed governor says a half-point hike may be needed if Oct. CPI is hot",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6946b21e-6923-4e1a-b20a-53d3d433289f&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-10T09:29:22.000Z"
+        },
         {
           "title": "Short seller claims Nvidia's China scandal runs deeper than Megaspeed",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6e04b5eb-b807-4968-90fc-2a422a290a4f&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
           "source": "CNBC",
           "published": "2026-11-09T23:31:17.000Z"
-        },
-        {
-          "title": "October inflation data could put stock market's broad-based rally to the test",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b7d9ad4a-fcbe-4b1d-9474-e77598af01ef&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-09T23:26:46.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-          "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+          "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
+          "link": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
           "source": "The Verge",
-          "published": "2026-11-10T00:28:49.000Z"
+          "published": "2026-11-10T11:01:00.000Z"
         },
         {
-          "title": "What could China get from Jensen Huang?",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+          "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
+          "link": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
           "source": "The Verge",
-          "published": "2026-11-09T23:51:58.000Z"
+          "published": "2026-11-10T11:00:00.000Z"
         },
         {
           "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
