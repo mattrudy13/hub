@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T03:38:35.600Z",
+  "updated": "2026-11-10T04:20:47.440Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "California voters defeat billionaire tax proposal that divided Democrats",
-          "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
-          "source": "NPR",
-          "published": "2026-11-10T03:05:39.000Z"
-        },
-        {
-          "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-          "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+          "title": "Trump says more US attacks on Iran 'highly unlikely'",
+          "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-10T01:55:22.000Z"
+          "published": "2026-11-10T04:09:16.000Z"
         },
         {
           "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-10T01:44:53.000Z"
+          "published": "2026-11-10T03:58:13.000Z"
+        },
+        {
+          "title": "California voters defeat billionaire tax proposal that divided Democrats",
+          "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
+          "source": "NPR",
+          "published": "2026-11-10T03:05:39.000Z"
         }
       ]
     },
