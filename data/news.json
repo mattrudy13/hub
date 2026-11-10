@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T14:20:46.818Z",
+  "updated": "2026-11-10T15:20:49.754Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
-          "link": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
-          "source": "NPR",
-          "published": "2026-11-10T14:16:53.000Z"
-        },
-        {
-          "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+          "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
           "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-10T14:04:22.000Z"
+          "published": "2026-11-10T14:46:50.000Z"
         },
         {
-          "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
-          "link": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
+          "title": "First day of Ukraine peace talks 'very productive', US says",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-10T14:36:57.000Z"
+        },
+        {
+          "title": "Gas prices dip below $4 but inflation remains stubbornly high",
+          "link": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices",
           "source": "NPR",
-          "published": "2026-11-10T14:01:14.000Z"
+          "published": "2026-11-10T14:35:50.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
+          "link": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
+          "source": "CNBC",
+          "published": "2026-11-10T15:11:48.000Z"
+        },
         {
           "title": "Stocks set for lower open as bond yields jump after inflation data — follow live",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c05bed66-3713-4d30-8393-fa348b112099&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0759efab-11b1-49b1-a4a6-6462a4a4392c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-10T13:39:10.000Z"
-        },
-        {
-          "title": "How GM is trying to talk used car shoppers into buying new vehicles",
-          "link": "https://www.cnbc.com/2026/11/10/gm-carbravo-used-car-shoppers.html",
-          "source": "CNBC",
-          "published": "2026-11-10T13:00:01.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Anthropic targets $1.4 trillion IPO",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+          "title": "Reddit wants to guide your next purchase",
+          "link": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
           "source": "The Verge",
-          "published": "2026-11-10T14:06:54.000Z"
+          "published": "2026-11-10T15:00:00.000Z"
         },
         {
-          "title": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
-          "link": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
+          "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
+          "link": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
           "source": "The Verge",
-          "published": "2026-11-10T14:00:00.000Z"
+          "published": "2026-11-10T14:37:09.000Z"
         },
         {
           "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
