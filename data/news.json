@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T16:20:47.889Z",
+  "updated": "2026-11-10T17:20:46.757Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Israel's new parliament sworn in as leaders compete to form government",
+          "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-10T17:03:16.000Z"
+        },
+        {
           "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-10T16:19:48.000Z"
-        },
-        {
-          "title": "Israel's new parliament sworn in as leaders compete to form government",
-          "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-10T15:51:09.000Z"
         },
         {
           "title": "Gas prices dip below $4 but inflation remains stubbornly high",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The Verge’s 2026 holiday gift guide for moms",
-          "link": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
-          "source": "The Verge",
-          "published": "2026-11-10T16:00:00.000Z"
-        },
-        {
-          "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-          "source": "The Verge",
-          "published": "2026-11-10T16:00:00.000Z"
-        },
-        {
-          "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-          "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+          "title": "High oil prices have led to a dip in global carbon emissions",
+          "link": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
           "source": "Ars Technica",
-          "published": "2026-11-10T15:00:39.000Z"
+          "published": "2026-11-10T16:29:27.000Z"
+        },
+        {
+          "title": "eBay appears to have shut the door on third-party AI agents",
+          "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+          "source": "The Verge",
+          "published": "2026-11-10T16:20:30.000Z"
+        },
+        {
+          "title": "One space station company sues another for copying its work",
+          "link": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
+          "source": "Ars Technica",
+          "published": "2026-11-10T16:17:51.000Z"
         }
       ]
     }
