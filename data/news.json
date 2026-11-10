@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T22:20:46.373Z",
+  "updated": "2026-11-10T23:20:48.390Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-10T22:52:15.000Z"
+        },
+        {
           "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
           "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-10T22:17:45.000Z"
         },
         {
-          "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-10T21:59:54.000Z"
-        },
-        {
-          "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
+          "title": "Should you trust new AI agents with your money and data?",
+          "link": "https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data",
           "source": "NPR",
-          "published": "2026-11-10T19:00:00.000Z"
+          "published": "2026-11-10T21:44:32.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Meet the former prosecutor Nvidia hired to investigate Jensen Huang spy scandal",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=18607409-9e4a-47ef-b5fa-bcceb028dd0b&mod=mw_rss_bulletins",
+          "title": "How the stock market has performed after Veterans Day over the past decade",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b30663e8-4b55-454c-a4f3-c643fc681162&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-10T22:13:13.000Z"
-        },
-        {
-          "title": "CoreWeave earnings: Neocloud lifts its revenue forecast — and its capex guidance",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=033c3e8e-9278-4681-9ba2-8e7a6ecb367c&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-10T21:52:15.000Z"
+          "published": "2026-11-10T22:43:47.000Z"
         },
         {
           "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
           "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
           "source": "CNBC",
-          "published": "2026-11-10T21:22:44.000Z"
+          "published": "2026-11-10T22:39:30.000Z"
+        },
+        {
+          "title": "Meet the former prosecutor Nvidia hired to investigate Jensen Huang spy scandal",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=18607409-9e4a-47ef-b5fa-bcceb028dd0b&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-10T22:13:13.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "The US military seems to be getting nervous about the launch supply crunch",
+          "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+          "source": "Ars Technica",
+          "published": "2026-11-10T23:02:39.000Z"
+        },
+        {
+          "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+          "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+          "source": "Ars Technica",
+          "published": "2026-11-10T22:35:01.000Z"
+        },
+        {
           "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
           "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
           "source": "The Verge",
           "published": "2026-11-10T22:00:00.000Z"
-        },
-        {
-          "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-          "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
-          "source": "The Verge",
-          "published": "2026-11-10T21:40:31.000Z"
-        },
-        {
-          "title": "Google Fi adds support for a second 5G network, won't say which one",
-          "link": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
-          "source": "Ars Technica",
-          "published": "2026-11-10T19:35:59.000Z"
         }
       ]
     }
