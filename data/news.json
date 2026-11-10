@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T23:20:45.937Z",
+  "updated": "2026-11-10T00:20:46.312Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+          "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-09T23:01:32.000Z"
+          "published": "2026-11-10T00:14:03.000Z"
         },
         {
-          "title": "Dana White declines Trump’s offer to be White House press secretary",
-          "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-09T22:46:27.000Z"
+          "published": "2026-11-10T00:09:49.000Z"
         },
         {
           "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+          "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+          "source": "CNBC",
+          "published": "2026-11-09T23:31:17.000Z"
+        },
+        {
+          "title": "October inflation data could put stock market's broad-based rally to the test",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b7d9ad4a-fcbe-4b1d-9474-e77598af01ef&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-09T23:26:46.000Z"
+        },
+        {
           "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
           "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
           "source": "CNBC",
           "published": "2026-11-09T23:14:38.000Z"
-        },
-        {
-          "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
-          "link": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
-          "source": "CNBC",
-          "published": "2026-11-09T23:05:53.000Z"
-        },
-        {
-          "title": "Dow sees third 1,000-point swing in four days. Why the volatility isn’t over yet",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ae6f3a14-ea52-4804-beca-022eac7e3d9a&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-09T22:11:16.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "title": "What could China get from Jensen Huang?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
           "source": "The Verge",
-          "published": "2026-11-09T23:07:59.000Z"
+          "published": "2026-11-09T23:51:58.000Z"
+        },
+        {
+          "title": "Here’s what Trump said he knew about Jensen Huang",
+          "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+          "source": "The Verge",
+          "published": "2026-11-09T23:47:46.000Z"
         },
         {
           "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
           "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
           "source": "Ars Technica",
           "published": "2026-11-09T21:55:35.000Z"
-        },
-        {
-          "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
-          "link": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
-          "source": "The Verge",
-          "published": "2026-11-09T21:43:41.000Z"
         }
       ]
     }
