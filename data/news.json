@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T20:29:37.143Z",
+  "updated": "2026-11-10T21:20:46.663Z",
   "failed": [],
   "sections": [
     {
@@ -10,13 +10,13 @@
           "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-10T20:03:41.000Z"
+          "published": "2026-11-10T21:06:04.000Z"
         },
         {
-          "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-          "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+          "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-10T19:26:42.000Z"
+          "published": "2026-11-10T20:53:33.000Z"
         },
         {
           "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "An overzealous Fed is quickly becoming the biggest risk to stocks in 2027",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=261120c3-7ff6-4d71-923a-3023fed3584a&mod=mw_rss_bulletins",
+          "title": "Coreweave's stock pops as earnings show revenue beat, swelling backlog — live",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=184ba108-da64-4e16-b193-a01a190321d3&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-10T20:15:58.000Z"
+          "published": "2026-11-10T21:18:08.000Z"
         },
         {
-          "title": "Fed could hike rates at each of its next three meetings, Deutsche Bank says",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7e8d66eb-3764-46ca-90ca-80cd5e6e616c&mod=mw_rss_bulletins",
+          "title": "CoreWeave's stock pops after earnings. Here's what investors need to know.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3d0585d5-5fec-4d93-a7a8-f8ba9c70806e&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-10T19:32:41.000Z"
+          "published": "2026-11-10T21:10:33.000Z"
         },
         {
           "title": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Sony cancels live-service shooter Fairgames",
+          "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+          "source": "The Verge",
+          "published": "2026-11-10T21:06:12.000Z"
+        },
+        {
           "title": "The PlayStation Plus PC app is shutting down next month",
           "link": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
           "source": "The Verge",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
           "source": "Ars Technica",
           "published": "2026-11-10T19:35:59.000Z"
-        },
-        {
-          "title": "Starlink Mini 2 adds a swappable battery",
-          "link": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
-          "source": "The Verge",
-          "published": "2026-11-10T19:19:12.000Z"
         }
       ]
     }
