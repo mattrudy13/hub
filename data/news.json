@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T18:20:47.517Z",
+  "updated": "2026-11-10T19:20:46.066Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-          "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-10T18:04:18.000Z"
-        },
-        {
-          "title": "Why are these purple flowers shutting down streets in Sydney?",
-          "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-10T18:03:52.000Z"
-        },
-        {
-          "title": "Americans across the economic spectrum feel a 'panic' about finances, author says",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives",
+          "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
+          "link": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
           "source": "NPR",
-          "published": "2026-11-10T17:46:25.000Z"
+          "published": "2026-11-10T19:00:00.000Z"
+        },
+        {
+          "title": "U.S. boycotts U.N. human rights review for second year running",
+          "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+          "source": "NPR",
+          "published": "2026-11-10T18:53:34.000Z"
+        },
+        {
+          "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+          "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-10T18:35:35.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "10-year Treasury yield back at 5% as inflation data point to more Fed rate hikes",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9ade5d03-5ac3-4cf0-9d6d-5ef05b44c794&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-10T18:53:49.000Z"
+        },
         {
           "title": "Wall Street’s only Nvidia bear says forcing out CEO Huang ‘would be a mistake’",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=981c1c64-e735-4049-bc05-60fa26241216&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
           "source": "CNBC",
           "published": "2026-11-10T15:11:48.000Z"
-        },
-        {
-          "title": "Stocks set for lower open as bond yields jump after inflation data — follow live",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c05bed66-3713-4d30-8393-fa348b112099&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-10T13:46:53.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "ChatGPT is getting verified AI ‘Business Agents’",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+          "title": "The US is winning the AI race. Jensen Huang could have blown it",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
           "source": "The Verge",
-          "published": "2026-11-10T18:00:00.000Z"
+          "published": "2026-11-10T19:04:05.000Z"
         },
         {
-          "title": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
-          "link": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw",
+          "title": "Google’s Pixel Tag tracker is now available",
+          "link": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
           "source": "The Verge",
-          "published": "2026-11-10T17:43:49.000Z"
+          "published": "2026-11-10T19:00:00.000Z"
         },
         {
-          "title": "High oil prices have led to a dip in global carbon emissions",
-          "link": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
+          "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
+          "link": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
           "source": "Ars Technica",
-          "published": "2026-11-10T16:29:27.000Z"
+          "published": "2026-11-10T17:26:44.000Z"
         }
       ]
     }
