@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T12:20:46.272Z",
+  "updated": "2026-11-10T12:46:47.669Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you",
+          "link": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
+          "source": "NPR",
+          "published": "2026-11-10T12:28:36.000Z"
+        },
+        {
+          "title": "Israel's new parliament to be sworn in as leaders compete to form government",
+          "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-10T12:25:48.000Z"
+        },
+        {
           "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
           "link": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
           "source": "NPR",
           "published": "2026-11-10T12:01:04.000Z"
-        },
-        {
-          "title": "Why did California's billionaire tax fail to surf the blue wave?",
-          "link": "https://www.npr.org/sections/planet-money/2026/11/10/g-s1-152755/why-did-californias-billionaire-tax-fail-to-surf-the-blue-wave",
-          "source": "NPR",
-          "published": "2026-11-10T11:30:00.000Z"
-        },
-        {
-          "title": "Police officer dies and another injured after backpack explosion in Oviedo",
-          "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-10T11:25:46.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Economic calendar: Inflation data; later, it's several Fed speakers",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0eafb7a5-fb84-4034-9d42-7cc05e5705b9&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-10T12:33:40.000Z"
+        },
+        {
           "title": "Fed governor says a half-point hike may be needed if Oct. CPI is hot",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6946b21e-6923-4e1a-b20a-53d3d433289f&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-10T09:29:22.000Z"
-        },
-        {
-          "title": "Short seller claims Nvidia's China scandal runs deeper than Megaspeed",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6e04b5eb-b807-4968-90fc-2a422a290a4f&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-10T00:57:07.000Z"
         },
         {
           "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+          "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+          "source": "Ars Technica",
+          "published": "2026-11-10T12:15:32.000Z"
+        },
+        {
+          "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
+          "link": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+          "source": "Ars Technica",
+          "published": "2026-11-10T12:00:21.000Z"
+        },
+        {
           "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
           "link": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
           "source": "The Verge",
           "published": "2026-11-10T11:01:00.000Z"
-        },
-        {
-          "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
-          "link": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
-          "source": "The Verge",
-          "published": "2026-11-10T11:00:00.000Z"
-        },
-        {
-          "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
-          "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
-          "source": "Ars Technica",
-          "published": "2026-11-09T21:55:35.000Z"
         }
       ]
     }
