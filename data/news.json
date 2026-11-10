@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T12:46:47.669Z",
+  "updated": "2026-11-10T13:20:49.372Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Anthropic to raise $64bn in major stock market listing",
+          "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-10T13:19:37.000Z"
+        },
+        {
+          "title": "Seven days of chaos in the ER: How this country's healthcare system is unraveling",
+          "link": "https://www.npr.org/2026/11/10/g-s1-152693/healthcare-ethiopia-conflict-emergency-room",
+          "source": "NPR",
+          "published": "2026-11-10T12:48:48.000Z"
+        },
+        {
           "title": "Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you",
           "link": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
           "source": "NPR",
           "published": "2026-11-10T12:28:36.000Z"
-        },
-        {
-          "title": "Israel's new parliament to be sworn in as leaders compete to form government",
-          "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-10T12:25:48.000Z"
-        },
-        {
-          "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
-          "link": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
-          "source": "NPR",
-          "published": "2026-11-10T12:01:04.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Anthropic backs away from $2 trillion ambition in new IPO filing",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1319f7e6-f310-40ba-89d8-d9ed63936a61&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-10T13:14:02.000Z"
+        },
+        {
+          "title": "How GM is trying to talk used car shoppers into buying new vehicles",
+          "link": "https://www.cnbc.com/2026/11/10/gm-carbravo-used-car-shoppers.html",
+          "source": "CNBC",
+          "published": "2026-11-10T13:00:01.000Z"
+        },
+        {
           "title": "Economic calendar: Inflation data; later, it's several Fed speakers",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0eafb7a5-fb84-4034-9d42-7cc05e5705b9&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-10T12:33:40.000Z"
-        },
-        {
-          "title": "Fed governor says a half-point hike may be needed if Oct. CPI is hot",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6946b21e-6923-4e1a-b20a-53d3d433289f&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-10T09:29:22.000Z"
-        },
-        {
-          "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
-          "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
-          "source": "CNBC",
-          "published": "2026-11-09T23:31:17.000Z"
         }
       ]
     },
