@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T19:20:46.066Z",
+  "updated": "2026-11-10T20:20:49.125Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "US Army soldier suspected of spying for Russia arrested in UK",
+          "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-10T20:20:04.000Z"
+        },
+        {
+          "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-10T20:03:41.000Z"
+        },
+        {
           "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
           "link": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
           "source": "NPR",
           "published": "2026-11-10T19:00:00.000Z"
-        },
-        {
-          "title": "U.S. boycotts U.N. human rights review for second year running",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
-          "source": "NPR",
-          "published": "2026-11-10T18:53:34.000Z"
-        },
-        {
-          "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
-          "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-10T18:35:35.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "10-year Treasury yield back at 5% as inflation data point to more Fed rate hikes",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9ade5d03-5ac3-4cf0-9d6d-5ef05b44c794&mod=mw_rss_bulletins",
+          "title": "An overzealous Fed is quickly becoming the biggest risk to stocks in 2027",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=261120c3-7ff6-4d71-923a-3023fed3584a&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-10T18:53:49.000Z"
+          "published": "2026-11-10T20:15:58.000Z"
         },
         {
-          "title": "Wall Street’s only Nvidia bear says forcing out CEO Huang ‘would be a mistake’",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=981c1c64-e735-4049-bc05-60fa26241216&mod=mw_rss_bulletins",
+          "title": "Fed could hike rates at each of its next three meetings, Deutsche Bank says",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7e8d66eb-3764-46ca-90ca-80cd5e6e616c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-10T18:10:02.000Z"
+          "published": "2026-11-10T19:32:41.000Z"
         },
         {
           "title": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The US is winning the AI race. Jensen Huang could have blown it",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+          "title": "The PlayStation Plus PC app is shutting down next month",
+          "link": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
           "source": "The Verge",
-          "published": "2026-11-10T19:04:05.000Z"
+          "published": "2026-11-10T19:40:52.000Z"
         },
         {
-          "title": "Google’s Pixel Tag tracker is now available",
-          "link": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+          "title": "Starlink Mini 2 adds a swappable battery",
+          "link": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
           "source": "The Verge",
-          "published": "2026-11-10T19:00:00.000Z"
+          "published": "2026-11-10T19:19:12.000Z"
         },
         {
           "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
