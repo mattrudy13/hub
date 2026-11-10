@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-10T02:20:46.541Z",
+  "updated": "2026-11-10T03:20:47.382Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "California voters defeat billionaire tax proposal that divided Democrats",
+          "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
+          "source": "NPR",
+          "published": "2026-11-10T03:05:39.000Z"
+        },
         {
           "title": "Qantas to outsource 850 local jobs with most roles moving to India",
           "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-10T01:44:53.000Z"
-        },
-        {
-          "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-          "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-          "source": "NPR",
-          "published": "2026-11-09T22:30:49.000Z"
         }
       ]
     },
