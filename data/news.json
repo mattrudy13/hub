@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T20:20:49.125Z",
+  "updated": "2026-11-10T20:29:37.143Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "US Army soldier suspected of spying for Russia arrested in UK",
-          "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-10T20:20:04.000Z"
-        },
-        {
           "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-10T20:03:41.000Z"
+        },
+        {
+          "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+          "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-10T19:26:42.000Z"
         },
         {
           "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
@@ -61,16 +61,16 @@
           "published": "2026-11-10T19:40:52.000Z"
         },
         {
+          "title": "Google Fi adds support for a second 5G network, won't say which one",
+          "link": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+          "source": "Ars Technica",
+          "published": "2026-11-10T19:35:59.000Z"
+        },
+        {
           "title": "Starlink Mini 2 adds a swappable battery",
           "link": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
           "source": "The Verge",
           "published": "2026-11-10T19:19:12.000Z"
-        },
-        {
-          "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
-          "link": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
-          "source": "Ars Technica",
-          "published": "2026-11-10T17:26:44.000Z"
         }
       ]
     }
