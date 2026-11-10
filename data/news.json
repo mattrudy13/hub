@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T21:20:46.663Z",
+  "updated": "2026-11-10T22:20:46.373Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+          "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-10T22:17:45.000Z"
+        },
+        {
           "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-10T21:06:04.000Z"
-        },
-        {
-          "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-10T20:53:33.000Z"
+          "published": "2026-11-10T21:59:54.000Z"
         },
         {
           "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Coreweave's stock pops as earnings show revenue beat, swelling backlog — live",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=184ba108-da64-4e16-b193-a01a190321d3&mod=mw_rss_bulletins",
+          "title": "Meet the former prosecutor Nvidia hired to investigate Jensen Huang spy scandal",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=18607409-9e4a-47ef-b5fa-bcceb028dd0b&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-10T21:18:08.000Z"
+          "published": "2026-11-10T22:13:13.000Z"
         },
         {
-          "title": "CoreWeave's stock pops after earnings. Here's what investors need to know.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3d0585d5-5fec-4d93-a7a8-f8ba9c70806e&mod=mw_rss_bulletins",
+          "title": "CoreWeave earnings: Neocloud lifts its revenue forecast — and its capex guidance",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=033c3e8e-9278-4681-9ba2-8e7a6ecb367c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-10T21:10:33.000Z"
+          "published": "2026-11-10T21:52:15.000Z"
         },
         {
-          "title": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
-          "link": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
+          "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
+          "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
           "source": "CNBC",
-          "published": "2026-11-10T15:11:48.000Z"
+          "published": "2026-11-10T21:22:44.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Sony cancels live-service shooter Fairgames",
-          "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+          "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+          "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
           "source": "The Verge",
-          "published": "2026-11-10T21:06:12.000Z"
+          "published": "2026-11-10T22:00:00.000Z"
         },
         {
-          "title": "The PlayStation Plus PC app is shutting down next month",
-          "link": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+          "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+          "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
           "source": "The Verge",
-          "published": "2026-11-10T19:40:52.000Z"
+          "published": "2026-11-10T21:40:31.000Z"
         },
         {
           "title": "Google Fi adds support for a second 5G network, won't say which one",
