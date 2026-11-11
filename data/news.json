@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T21:20:50.415Z",
+  "updated": "2026-11-11T22:20:47.667Z",
   "failed": [],
   "sections": [
     {
@@ -7,10 +7,10 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Clashes erupt in Barcelona as thousands join Spain general strike",
+          "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
           "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-11T20:52:52.000Z"
+          "published": "2026-11-11T22:07:37.000Z"
         },
         {
           "title": "African writing award probe finds 'no evidence' winning story was AI generated",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Nasdaq, S&P 500 close sharply higher as AI stocks surge; Dow gains 250 points",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=caec7b76-7232-4e83-890b-5e239b00fb29&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-11T21:06:06.000Z"
-        },
-        {
           "title": "JetBlue unveils new first-class seats to bring back profits",
           "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
           "source": "CNBC",
-          "published": "2026-11-11T20:35:45.000Z"
+          "published": "2026-11-11T22:10:50.000Z"
         },
         {
-          "title": "Nasdaq and S&P 500 surging, Dow up 250 points in final hour as AI stocks rally",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d51ab228-ee4a-40dd-bf2d-fcebbc0790ff&mod=mw_rss_bulletins",
+          "title": "Lower oil prices aren't bringing down bond yields. What it means for inflation.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ec87fcea-3112-47c2-b9d9-9c3e2d0e9c33&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-11T20:21:24.000Z"
+          "published": "2026-11-11T21:53:40.000Z"
+        },
+        {
+          "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
+          "link": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
+          "source": "CNBC",
+          "published": "2026-11-11T21:33:17.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says",
+          "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+          "link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+          "source": "The Verge",
+          "published": "2026-11-11T22:00:00.000Z"
+        },
+        {
+          "title": "United won’t let your AI agent book your flight",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+          "source": "The Verge",
+          "published": "2026-11-11T21:54:21.000Z"
+        },
+        {
+          "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
           "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
           "source": "Ars Technica",
           "published": "2026-11-11T20:32:21.000Z"
-        },
-        {
-          "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
-          "link": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
-          "source": "Ars Technica",
-          "published": "2026-11-11T20:22:03.000Z"
-        },
-        {
-          "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
-          "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
-          "source": "The Verge",
-          "published": "2026-11-11T18:13:52.000Z"
         }
       ]
     }

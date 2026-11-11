@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T21:20:51.288Z",
+  "updated": "2026-11-11T22:20:48.140Z",
   "minLine": 7,
   "days": [
     "2026-11-10",
@@ -48,6 +48,28 @@
         "abbr": "ETAM",
         "rank": null,
         "score": 76
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-11",
+      "id": "401911230",
+      "line": 10.5,
+      "details": "LUC -10.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911230/loyola-chicago-air-force",
+      "winner": {
+        "id": "2005",
+        "name": "Air Force",
+        "abbr": "AF",
+        "rank": null,
+        "score": 107
+      },
+      "loser": {
+        "id": "2350",
+        "name": "Loyola Chicago",
+        "abbr": "LUC",
+        "rank": null,
+        "score": 93
       }
     },
     {
@@ -568,8 +590,8 @@
     "cbb:401926202": {
       "date": "2026-11-11",
       "fav": "2678",
-      "line": 8.5,
-      "details": "VMI -8.5"
+      "line": 7.5,
+      "details": "VMI -7.5"
     },
     "cbb:401925858": {
       "date": "2026-11-11",
@@ -652,8 +674,8 @@
     "cbb:401920202": {
       "date": "2026-11-11",
       "fav": "2670",
-      "line": 33.5,
-      "details": "VCU -33.5"
+      "line": 34.5,
+      "details": "VCU -34.5"
     },
     "cbb:401918452": {
       "date": "2026-11-11",
@@ -790,8 +812,8 @@
     "cbb:401917521": {
       "date": "2026-11-11",
       "fav": "2547",
-      "line": 17.5,
-      "details": "SEA -17.5"
+      "line": 16.5,
+      "details": "SEA -16.5"
     },
     "cbb:401918054": {
       "date": "2026-11-11",
