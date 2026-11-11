@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-11T19:20:48.200Z",
-  "from": "2026-11-11T19:20:47Z",
-  "to": "2026-11-25T19:20:47Z",
+  "updated": "2026-11-11T21:20:52.836Z",
+  "from": "2026-11-11T21:20:52Z",
+  "to": "2026-11-25T21:20:52Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -745,6 +745,20 @@
       "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-11-24-2026/event/01006535D8C68C78",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv177Z_FGkUN7iB_",
+      "name": "NUTCRACKER! Magical Christmas Ballet",
+      "date": "2026-11-25",
+      "time": "15:00",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": "Dance",
+      "venue": "Sandler Center For The Performing Arts",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/nutcracker-magical-christmas-ballet-virginia-beach-virginia-11-25-2026/event/0100648DA312CE99",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/cc1/0e35525a-c00e-494a-b080-a31c3deaccc1_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }

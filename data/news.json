@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T19:20:45.674Z",
+  "updated": "2026-11-11T21:20:50.415Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+          "title": "Clashes erupt in Barcelona as thousands join Spain general strike",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-11T18:38:45.000Z"
+          "published": "2026-11-11T20:52:52.000Z"
         },
         {
-          "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
-          "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
+          "title": "African writing award probe finds 'no evidence' winning story was AI generated",
+          "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-11T18:10:57.000Z"
+          "published": "2026-11-11T20:00:54.000Z"
         },
         {
-          "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
-          "link": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
+          "title": "Why is gasoline suddenly under $4 a gallon?",
+          "link": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
           "source": "NPR",
-          "published": "2026-11-11T17:23:10.000Z"
+          "published": "2026-11-11T19:59:14.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Has Nvidia flown too close to the sun? An analyst warns of major scrutiny ahead.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3a73ab56-6eac-4199-8a0a-d4fcb4b5fee9&mod=mw_rss_bulletins",
+          "title": "Nasdaq, S&P 500 close sharply higher as AI stocks surge; Dow gains 250 points",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=caec7b76-7232-4e83-890b-5e239b00fb29&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-11T18:27:38.000Z"
+          "published": "2026-11-11T21:06:06.000Z"
         },
         {
-          "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
-          "link": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
-          "source": "CNBC",
-          "published": "2026-11-11T17:34:18.000Z"
-        },
-        {
-          "title": "JetBlue unveils new first class seats to bring back profits",
+          "title": "JetBlue unveils new first-class seats to bring back profits",
           "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
           "source": "CNBC",
-          "published": "2026-11-11T17:20:41.000Z"
+          "published": "2026-11-11T20:35:45.000Z"
+        },
+        {
+          "title": "Nasdaq and S&P 500 surging, Dow up 250 points in final hour as AI stocks rally",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d51ab228-ee4a-40dd-bf2d-fcebbc0790ff&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-11T20:21:24.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says",
+          "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+          "source": "Ars Technica",
+          "published": "2026-11-11T20:32:21.000Z"
+        },
+        {
+          "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+          "link": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+          "source": "Ars Technica",
+          "published": "2026-11-11T20:22:03.000Z"
+        },
+        {
           "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
           "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
           "source": "The Verge",
           "published": "2026-11-11T18:13:52.000Z"
-        },
-        {
-          "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-          "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-          "source": "Ars Technica",
-          "published": "2026-11-11T17:37:32.000Z"
-        },
-        {
-          "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
-          "link": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
-          "source": "The Verge",
-          "published": "2026-11-11T17:09:58.000Z"
         }
       ]
     }
