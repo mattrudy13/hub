@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-11T17:57:06.762Z",
+  "updated": "2026-11-11T18:20:47.113Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-11T18:04:58.000Z"
+        },
         {
           "title": "Spain sees widespread disruption in first general strike for 14 years",
           "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
           "source": "NPR",
           "published": "2026-11-11T17:23:10.000Z"
-        },
-        {
-          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-          "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-11T16:59:34.000Z"
         }
       ]
     },
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+          "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+          "source": "The Verge",
+          "published": "2026-11-11T18:13:52.000Z"
+        },
+        {
           "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
           "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
           "source": "Ars Technica",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
           "source": "The Verge",
           "published": "2026-11-11T17:09:58.000Z"
-        },
-        {
-          "title": "Apple is shuttering its 28-year-old online community forum",
-          "link": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
-          "source": "Ars Technica",
-          "published": "2026-11-11T17:04:26.000Z"
         }
       ]
     }
