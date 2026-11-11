@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T17:20:55.956Z",
+  "updated": "2026-11-11T17:57:06.762Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Spain sees widespread disruption in first general strike for 14 years",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-11T17:44:32.000Z"
+        },
+        {
+          "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
+          "link": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
+          "source": "NPR",
+          "published": "2026-11-11T17:23:10.000Z"
+        },
+        {
           "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
           "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-11T16:59:34.000Z"
-        },
-        {
-          "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
-          "link": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
-          "source": "NPR",
-          "published": "2026-11-11T16:59:32.000Z"
-        },
-        {
-          "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-          "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-11T16:45:11.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+          "link": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
+          "source": "CNBC",
+          "published": "2026-11-11T17:34:18.000Z"
+        },
         {
           "title": "JetBlue unveils new first class seats to bring back profits",
           "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=022a4f94-3eda-43d3-acad-361a6c61317c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-11T16:13:33.000Z"
-        },
-        {
-          "title": "A single stock is responsible for Dow’s decline amid rally by S&P and Nasdaq",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=601402b5-aced-4c96-8300-9aaab26af858&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-11T16:11:20.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+          "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+          "source": "Ars Technica",
+          "published": "2026-11-11T17:37:32.000Z"
+        },
+        {
           "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
           "link": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
           "source": "The Verge",
           "published": "2026-11-11T17:09:58.000Z"
         },
         {
-          "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-          "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-          "source": "The Verge",
-          "published": "2026-11-11T16:00:00.000Z"
-        },
-        {
-          "title": "Trump wanted little Kei trucks for America, Toyota makes it happen",
-          "link": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
+          "title": "Apple is shuttering its 28-year-old online community forum",
+          "link": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
           "source": "Ars Technica",
-          "published": "2026-11-11T15:25:44.000Z"
+          "published": "2026-11-11T17:04:26.000Z"
         }
       ]
     }
