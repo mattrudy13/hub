@@ -85,7 +85,7 @@ jobs:
           git push
       # Fail the run (GitHub emails) after pushing whatever did work.
       - name: Report failures
-        if: steps.news.outcome == 'failure' || steps.upsets.outcome == 'failure' || steps.youtube.outcome == 'failure' || steps.events.outcome == 'failure' || steps.housing.outcome == 'failure'
+        if: steps.news.outcome == 'failure' || steps.upsets.outcome == 'failure' || steps.youtube.outcome == 'failure' || steps.events.outcome == 'failure' || steps.housing.outcome == 'failure' || steps.costs.outcome == 'failure'
         run: |
-          echo "news=${{ steps.news.outcome }} upsets=${{ steps.upsets.outcome }} youtube=${{ steps.youtube.outcome }} events=${{ steps.events.outcome }} housing=${{ steps.housing.outcome }}"
+          echo "news=${{ steps.news.outcome }} upsets=${{ steps.upsets.outcome }} youtube=${{ steps.youtube.outcome }} events=${{ steps.events.outcome }} housing=${{ steps.housing.outcome }} costs=${{ steps.costs.outcome }}"
           exit 1
