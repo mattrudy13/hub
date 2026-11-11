@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T11:20:45.890Z",
+  "updated": "2026-11-11T12:20:46.596Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+          "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-11T12:14:12.000Z"
+        },
+        {
           "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
           "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-11T10:15:12.000Z"
+          "published": "2026-11-11T11:47:22.000Z"
         },
         {
           "title": "Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets",
           "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
           "source": "NPR",
           "published": "2026-11-11T10:02:54.000Z"
-        },
-        {
-          "title": "Morning News Brief: Hegseth impeachment, new House GOP leader, UK probes base plot",
-          "link": "https://www.npr.org/2026/11/11/nx-s1-6035568/morning-news-brief-hegseth-impeachment-new-house-gop-leader-uk-probes-base-plot",
-          "source": "NPR",
-          "published": "2026-11-11T10:02:44.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Economic calendar: Producer-price index to highlight post-holiday data",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=33b650a2-2042-427a-9cd9-8a4153c73261&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-11T12:16:52.000Z"
+        },
+        {
+          "title": "Measles is surging in the U.S. — and outbreaks can cost millions",
+          "link": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
+          "source": "CNBC",
+          "published": "2026-11-11T12:00:01.000Z"
+        },
+        {
           "title": "What Goldman Sachs now sees from the Fed after hot CPI data",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7195ab29-1b0c-4b7b-8307-e6b0954b7df0&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-11T10:43:06.000Z"
-        },
-        {
-          "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=57e75fb0-7b47-4f4c-9ffe-0f3f0fb0b301&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-11T01:16:50.000Z"
-        },
-        {
-          "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
-          "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
-          "source": "CNBC",
-          "published": "2026-11-10T22:39:30.000Z"
         }
       ]
     },
@@ -54,6 +54,12 @@
       "key": "tech",
       "name": "Tech",
       "items": [
+        {
+          "title": "Apple is killing its Support Community forum next week",
+          "link": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+          "source": "The Verge",
+          "published": "2026-11-11T12:19:10.000Z"
+        },
         {
           "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
           "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
           "source": "Ars Technica",
           "published": "2026-11-10T23:30:56.000Z"
-        },
-        {
-          "title": "The US military seems to be getting nervous about the launch supply crunch",
-          "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
-          "source": "Ars Technica",
-          "published": "2026-11-10T23:02:39.000Z"
         }
       ]
     }
