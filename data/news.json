@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T07:51:05.339Z",
+  "updated": "2026-11-11T11:20:45.890Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-          "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-11T03:44:06.000Z"
-        },
-        {
           "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
           "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-11T03:26:42.000Z"
+          "published": "2026-11-11T10:15:12.000Z"
         },
         {
-          "title": "Federal government failed to hold Epstein accountable, Republican committee says",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6036135/federal-government-failed-to-hold-epstein-accountable-republican-committee-says",
+          "title": "Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets",
+          "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
           "source": "NPR",
-          "published": "2026-11-11T01:51:23.000Z"
+          "published": "2026-11-11T10:02:54.000Z"
+        },
+        {
+          "title": "Morning News Brief: Hegseth impeachment, new House GOP leader, UK probes base plot",
+          "link": "https://www.npr.org/2026/11/11/nx-s1-6035568/morning-news-brief-hegseth-impeachment-new-house-gop-leader-uk-probes-base-plot",
+          "source": "NPR",
+          "published": "2026-11-11T10:02:44.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "What Goldman Sachs now sees from the Fed after hot CPI data",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7195ab29-1b0c-4b7b-8307-e6b0954b7df0&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-11T10:43:06.000Z"
+        },
+        {
           "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=57e75fb0-7b47-4f4c-9ffe-0f3f0fb0b301&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-11T01:16:50.000Z"
-        },
-        {
-          "title": "Forget happy hour. ‘Money parties’ are having a moment.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6625d3b8-8ade-4a30-81e4-200bc71278c8&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-11T00:18:48.000Z"
         },
         {
           "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
