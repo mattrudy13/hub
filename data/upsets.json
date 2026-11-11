@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-11T01:20:48.065Z",
+  "updated": "2026-11-11T02:20:47.586Z",
   "minLine": 7,
   "days": [
     "2026-11-09",
     "2026-11-10"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-10",
+      "id": "401911187",
+      "line": 14.5,
+      "details": "DAY -14.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911187/siena-dayton",
+      "winner": {
+        "id": "2561",
+        "name": "Siena",
+        "abbr": "SIE",
+        "rank": null,
+        "score": 99
+      },
+      "loser": {
+        "id": "2168",
+        "name": "Dayton",
+        "abbr": "DAY",
+        "rank": null,
+        "score": 89
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-09",
@@ -689,6 +711,26 @@
       "fav": "2539",
       "line": 11.5,
       "details": "SF -11.5"
+    },
+    "cbb:401922045": {
+      "date": "2026-11-10",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926826": {
+      "date": "2026-11-10",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926162": {
+      "date": "2026-11-10",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401924949": {
+      "date": "2026-11-10",
+      "fav": null,
+      "line": null
     }
   }
 }
