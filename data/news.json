@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T16:20:46.997Z",
+  "updated": "2026-11-11T17:20:55.956Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+          "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-11T15:05:11.000Z"
+          "published": "2026-11-11T16:59:34.000Z"
         },
         {
-          "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-          "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-11T14:56:11.000Z"
-        },
-        {
-          "title": "Following big Democratic wins, these swing voters are looking for results",
-          "link": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
+          "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
+          "link": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
           "source": "NPR",
-          "published": "2026-11-11T14:19:42.000Z"
+          "published": "2026-11-11T16:59:32.000Z"
+        },
+        {
+          "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+          "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-11T16:45:11.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "JetBlue unveils new first class seats to bring back profits",
+          "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+          "source": "CNBC",
+          "published": "2026-11-11T17:20:41.000Z"
+        },
         {
           "title": "Anthropic has embarked on its pre-IPO road show",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=022a4f94-3eda-43d3-acad-361a6c61317c&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=601402b5-aced-4c96-8300-9aaab26af858&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-11T16:11:20.000Z"
-        },
-        {
-          "title": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability",
-          "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
-          "source": "CNBC",
-          "published": "2026-11-11T15:57:44.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+          "link": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+          "source": "The Verge",
+          "published": "2026-11-11T17:09:58.000Z"
+        },
+        {
           "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
           "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
           "source": "The Verge",
           "published": "2026-11-11T16:00:00.000Z"
-        },
-        {
-          "title": "The best early Black Friday deals you can already shop",
-          "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-          "source": "The Verge",
-          "published": "2026-11-11T15:53:55.000Z"
         },
         {
           "title": "Trump wanted little Kei trucks for America, Toyota makes it happen",
