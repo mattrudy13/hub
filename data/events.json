@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-10T23:20:51.186Z",
-  "from": "2026-11-10T23:20:50Z",
-  "to": "2026-11-24T23:20:50Z",
+  "updated": "2026-11-11T00:20:51.821Z",
+  "from": "2026-11-11T00:20:51Z",
+  "to": "2026-11-25T00:20:51Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vvG17Z_u5xKYIG",
-      "name": "Free Throw + Microwave",
-      "date": "2026-11-10",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Rock",
-      "venue": "Elevation 27",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/free-throw-microwave-virginia-beach-virginia-11-10-2026/event/010064D2E24F0A0C",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/e/014/99844ea6-16a7-4b46-b6d9-c674edfd1014_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZkoyGkeWiV_5",
       "name": "The Bodyguard (Touring)",
@@ -45,6 +31,20 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70tu9",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/a9f/a8db3df5-7fdb-4d54-9810-8ca8eaaa5a9f_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1AAAFZz",
+      "name": "Norfolk State Spartans Mens Basketball vs. Old Dominion Monarchs Mens Basketball",
+      "date": "2026-11-11",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Basketball",
+      "venue": "Joseph G Echols Hall",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAFZz",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_RETINA_PORTRAIT_16_9.jpg"
     },
     {
       "id": "Z7r9jZ1A7PvCF",
@@ -579,6 +579,20 @@
       "image": "https://s1.ticketm.net/dam/a/6ba/48487f5a-ab2b-4208-90bc-d3bbaf7696ba_1121721_RETINA_PORTRAIT_16_9.jpg"
     },
     {
+      "id": "Z7r9jZ1AAAFZy",
+      "name": "Norfolk State Spartans Mens Basketball vs. UNC Wilmington Seahawks Mens Basketball",
+      "date": "2026-11-21",
+      "time": "18:00",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Basketball",
+      "venue": "Joseph G Echols Hall",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAFZy",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
       "id": "vv177Z_FGknPYGQg",
       "name": "Zach Williams With Cochren & Co. And Christian Hohn: Revival Nights",
       "date": "2026-11-21",
@@ -717,6 +731,20 @@
       "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-11-23-2026/event/010065341A2E9E5F",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1AA7d8M",
+      "name": "Old Dominion Monarchs Mens Basketball vs. Hampton Pirates Mens Basketball",
+      "date": "2026-11-24",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Basketball",
+      "venue": "Chartway Arena at Ted Constant Convocation Center",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7d8M",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }

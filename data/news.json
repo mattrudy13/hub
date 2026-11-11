@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-10T23:20:48.390Z",
+  "updated": "2026-11-11T00:20:47.984Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
+          "link": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+          "source": "NPR",
+          "published": "2026-11-10T23:43:11.000Z"
+        },
         {
           "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-10T22:17:45.000Z"
-        },
-        {
-          "title": "Should you trust new AI agents with your money and data?",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data",
-          "source": "NPR",
-          "published": "2026-11-10T21:44:32.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Forget happy hour. ‘Money parties’ are having a moment.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6625d3b8-8ade-4a30-81e4-200bc71278c8&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-11T00:18:48.000Z"
+        },
         {
           "title": "How the stock market has performed after Veterans Day over the past decade",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b30663e8-4b55-454c-a4f3-c643fc681162&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
           "source": "CNBC",
           "published": "2026-11-10T22:39:30.000Z"
-        },
-        {
-          "title": "Meet the former prosecutor Nvidia hired to investigate Jensen Huang spy scandal",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=18607409-9e4a-47ef-b5fa-bcceb028dd0b&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-10T22:13:13.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Seagate's new hybrid drive raises some old questions",
+          "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+          "source": "Ars Technica",
+          "published": "2026-11-10T23:30:56.000Z"
+        },
+        {
           "title": "The US military seems to be getting nervous about the launch supply crunch",
           "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
           "source": "Ars Technica",
           "published": "2026-11-10T23:02:39.000Z"
-        },
-        {
-          "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-          "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-          "source": "Ars Technica",
-          "published": "2026-11-10T22:35:01.000Z"
         },
         {
           "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
