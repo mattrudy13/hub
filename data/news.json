@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T15:20:47.495Z",
+  "updated": "2026-11-11T16:20:46.997Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-11T15:05:11.000Z"
+        },
+        {
           "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
           "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-11T14:56:11.000Z"
-        },
-        {
-          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-          "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-11T14:51:26.000Z"
         },
         {
           "title": "Following big Democratic wins, these swing voters are looking for results",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Measles is surging in the U.S. — and outbreaks can cost millions",
-          "link": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
-          "source": "CNBC",
-          "published": "2026-11-11T15:14:53.000Z"
+          "title": "Anthropic has embarked on its pre-IPO road show",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=022a4f94-3eda-43d3-acad-361a6c61317c&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-11T16:13:33.000Z"
+        },
+        {
+          "title": "A single stock is responsible for Dow’s decline amid rally by S&P and Nasdaq",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=601402b5-aced-4c96-8300-9aaab26af858&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-11T16:11:20.000Z"
         },
         {
           "title": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability",
           "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
           "source": "CNBC",
-          "published": "2026-11-11T15:00:02.000Z"
-        },
-        {
-          "title": "Nasdaq opens sharply higher; S&P 500, Dow rise amid tech rebound",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=cc04292d-1986-43f1-8fbf-49b180848151&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-11T14:30:38.000Z"
+          "published": "2026-11-11T15:57:44.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Ocarina of Time is even better if you use a smartphone app",
-          "link": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
+          "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+          "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
           "source": "The Verge",
-          "published": "2026-11-11T15:00:00.000Z"
+          "published": "2026-11-11T16:00:00.000Z"
         },
         {
-          "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+          "title": "The best early Black Friday deals you can already shop",
+          "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
           "source": "The Verge",
-          "published": "2026-11-11T15:00:00.000Z"
+          "published": "2026-11-11T15:53:55.000Z"
         },
         {
-          "title": "Google DeepMind just mathematically verified key parts of Signal",
-          "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+          "title": "Trump wanted little Kei trucks for America, Toyota makes it happen",
+          "link": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
           "source": "Ars Technica",
-          "published": "2026-11-11T14:08:57.000Z"
+          "published": "2026-11-11T15:25:44.000Z"
         }
       ]
     }
