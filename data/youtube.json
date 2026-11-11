@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T18:20:49.716Z",
+  "updated": "2026-11-11T19:20:47.747Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "8VBLjBybTcM",
+          "title": "It's not nostalgia slop... it's a MASTERPIECE.",
+          "published": "2026-11-11T19:17:08Z",
+          "thumb": "https://i.ytimg.com/vi/8VBLjBybTcM/mqdefault.jpg",
+          "seen": "2026-11-11T19:20:46.229Z"
+        },
         {
           "id": "jBv83nsOGr0",
           "title": "I Am Her.",
@@ -35,13 +42,6 @@
           "published": "2026-11-05T23:58:28Z",
           "thumb": "https://i.ytimg.com/vi/sMuYnXBFHW0/mqdefault.jpg",
           "seen": "2026-11-06T00:20:46.928Z"
-        },
-        {
-          "id": "9gu2_lSkdsw",
-          "title": "Is the Ocarina of Time Remake perfect (even with its flaws)?",
-          "published": "2026-11-05T21:54:01Z",
-          "thumb": "https://i.ytimg.com/vi/9gu2_lSkdsw/mqdefault.jpg",
-          "seen": "2026-11-05T22:20:47.696Z"
         }
       ]
     },

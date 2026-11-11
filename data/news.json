@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T18:20:47.113Z",
+  "updated": "2026-11-11T19:20:45.674Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+          "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-11T18:04:58.000Z"
+          "published": "2026-11-11T18:38:45.000Z"
         },
         {
-          "title": "Spain sees widespread disruption in first general strike for 14 years",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+          "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+          "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-11T17:44:32.000Z"
+          "published": "2026-11-11T18:10:57.000Z"
         },
         {
           "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Has Nvidia flown too close to the sun? An analyst warns of major scrutiny ahead.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3a73ab56-6eac-4199-8a0a-d4fcb4b5fee9&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-11T18:27:38.000Z"
+        },
+        {
           "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
           "link": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
           "source": "CNBC",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
           "source": "CNBC",
           "published": "2026-11-11T17:20:41.000Z"
-        },
-        {
-          "title": "Anthropic has embarked on its pre-IPO road show",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=022a4f94-3eda-43d3-acad-361a6c61317c&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-11T16:13:33.000Z"
         }
       ]
     },

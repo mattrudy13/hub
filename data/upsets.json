@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T18:20:47.882Z",
+  "updated": "2026-11-11T19:20:46.171Z",
   "minLine": 7,
   "days": [
     "2026-11-10",
@@ -26,6 +26,28 @@
         "abbr": "DAY",
         "rank": null,
         "score": 89
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-11",
+      "id": "401919759",
+      "line": 11.5,
+      "details": "ETAM -11.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401919759/fdu-east-texas-am",
+      "winner": {
+        "id": "161",
+        "name": "FDU",
+        "abbr": "FDU",
+        "rank": null,
+        "score": 80
+      },
+      "loser": {
+        "id": "2837",
+        "name": "East Texas A&M",
+        "abbr": "ETAM",
+        "rank": null,
+        "score": 76
       }
     },
     {
@@ -600,20 +622,20 @@
     "cbb:401924735": {
       "date": "2026-11-11",
       "fav": "163",
-      "line": 4.5,
-      "details": "PRIN -4.5"
+      "line": 5.5,
+      "details": "PRIN -5.5"
     },
     "cbb:401921821": {
       "date": "2026-11-11",
       "fav": "2579",
-      "line": 22.5,
-      "details": "SC -22.5"
+      "line": 21.5,
+      "details": "SC -21.5"
     },
     "cbb:401921286": {
       "date": "2026-11-11",
       "fav": "231",
-      "line": 11.5,
-      "details": "FUR -11.5"
+      "line": 12.5,
+      "details": "FUR -12.5"
     },
     "cbb:401920903": {
       "date": "2026-11-11",
@@ -660,8 +682,8 @@
     "cbb:401911012": {
       "date": "2026-11-11",
       "fav": "113",
-      "line": 8.5,
-      "details": "MASS -8.5"
+      "line": 7.5,
+      "details": "MASS -7.5"
     },
     "cbb:401928794": {
       "date": "2026-11-11",
@@ -768,8 +790,8 @@
     "cbb:401917521": {
       "date": "2026-11-11",
       "fav": "2547",
-      "line": 16.5,
-      "details": "SEA -16.5"
+      "line": 17.5,
+      "details": "SEA -17.5"
     },
     "cbb:401918054": {
       "date": "2026-11-11",
