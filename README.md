@@ -30,8 +30,12 @@ refreshes the headlines, upsets and videos hourly; the rest comes live from CNBC
 **Home Base** (https://mattrudy13.github.io/hub/homebase.html) covers Virginia Beach: concerts, sports and
 shows around Hampton Roads for the next two weeks (Ticketmaster), the apartment tracker's cheapest viable
 unit, and Virginia Beach rent and home values (Zillow), mortgage rates (Freddie Mac) and gas prices (EIA).
+A **Paycheck share** tile shows how much of a typical Virginia Beach paycheck goes to one renter's basic
+bills (rent, groceries, gas, electricity, car insurance), from 2021 on.
 
-Plain HTML, CSS and JavaScript. No build step and no server: the Action is the only backend.
+Plain HTML, CSS and JavaScript, with no build step. The hourly GitHub Action writes the data files, and two
+small Cloudflare Workers sit beside it: `worker/` starts the Action on time (GitHub's own schedule skips
+runs) and `push/` sends push alerts to my own devices.
 
 ## Run locally
 
