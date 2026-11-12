@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-12T04:20:48.975Z",
-  "from": "2026-11-12T04:20:48Z",
-  "to": "2026-11-26T04:20:48Z",
+  "updated": "2026-11-12T05:20:49.501Z",
+  "from": "2026-11-12T05:20:49Z",
+  "to": "2026-11-26T05:20:49Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -745,6 +745,20 @@
       "url": "https://www.ticketmaster.com/dj-gabe-niles-dance-party-disco-virginia-beach-virginia-11-25-2026/event/010064BAE6E8C02B",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/e/3b9/b5fccc23-7e68-438c-a733-ce2d2a2c53b9_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkfgGkdbwbw7",
+      "name": "BayPort Credit Union Holiday Trail of Lights",
+      "date": "2026-11-25",
+      "time": null,
+      "status": "onsale",
+      "kind": "Other",
+      "genre": "Holiday",
+      "venue": "Virginia Aquarium",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-11-25-2026/event/01006535D8C98C84",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
