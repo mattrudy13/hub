@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T13:20:47.013Z",
+  "updated": "2026-11-12T14:20:46.909Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+          "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-12T14:11:51.000Z"
+        },
+        {
           "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
           "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-12T13:02:46.000Z"
-        },
-        {
-          "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
-          "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-12T13:02:37.000Z"
         },
         {
           "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Economic calendar: Jobless-claims data and existing-home sales due Thursday",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aa7cc5e1-7238-406c-b87f-5d1134f7243b&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-12T12:57:44.000Z"
-        },
-        {
-          "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
-          "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
+          "title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
+          "link": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html",
           "source": "CNBC",
-          "published": "2026-11-12T11:30:01.000Z"
+          "published": "2026-11-12T14:00:01.000Z"
         },
         {
-          "title": "Markets price a 50-50 chance that a Jensen Huang announcement will come Thursday",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=488cbf98-474a-49ce-8bf5-5cff67963a5b&mod=mw_rss_bulletins",
+          "title": "Jensen Huang has just resigned as Nvidia CEO — live updates",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f8a02e06-6709-44bd-b7e8-07aa302c1eba&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-12T09:20:16.000Z"
+          "published": "2026-11-12T13:56:39.000Z"
+        },
+        {
+          "title": "Treasury yields and oil prices rise after Trump remarks on Iran",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=814a1c31-9818-4999-a38e-d46ed1868a77&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-12T13:42:59.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
-          "link": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
-          "source": "Ars Technica",
-          "published": "2026-11-12T12:00:37.000Z"
-        },
-        {
-          "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
-          "link": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+          "title": "Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’",
+          "link": "https://www.theverge.com/tech/1031889/lego-bricklink-marketplace-offline-unusual-activity",
           "source": "The Verge",
-          "published": "2026-11-12T11:12:32.000Z"
+          "published": "2026-11-12T14:13:58.000Z"
         },
         {
-          "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+          "title": "I reviewed the Apple HomeView, ask me anything",
+          "link": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+          "source": "The Verge",
+          "published": "2026-11-12T14:10:00.000Z"
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang has resigned",
           "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
           "source": "Ars Technica",
-          "published": "2026-11-11T23:10:17.000Z"
+          "published": "2026-11-12T14:05:17.000Z"
         }
       ]
     }
