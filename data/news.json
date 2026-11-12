@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T22:20:46.821Z",
+  "updated": "2026-11-12T23:20:46.108Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+          "link": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
+          "source": "NPR",
+          "published": "2026-11-12T22:52:49.000Z"
+        },
+        {
+          "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
+          "source": "NPR",
+          "published": "2026-11-12T22:45:40.000Z"
+        },
+        {
           "title": "Search for British woman missing from Tui cruise in Atlantic called off",
           "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-12T21:27:21.000Z"
-        },
-        {
-          "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-12T21:00:42.000Z"
-        },
-        {
-          "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
-          "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
-          "source": "NPR",
-          "published": "2026-11-12T18:44:00.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c4650e4a-cc10-4ecd-a7d9-c570f52778a1&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-12T23:02:22.000Z"
+        },
+        {
+          "title": "Bond yields just saw their biggest surge since 2022 amid Fed rate-hike fears",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=04436e19-d448-4154-8553-06e5ef7cdbd6&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-12T22:21:32.000Z"
+        },
+        {
           "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
           "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
           "source": "CNBC",
           "published": "2026-11-12T22:17:05.000Z"
-        },
-        {
-          "title": "Nvidia’s stock trims early losses, ends 4% lower after CEO Jensen Huang quits",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2822dc61-2aea-4a0f-8871-a0dc769a953b&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-12T21:23:04.000Z"
-        },
-        {
-          "title": "Stocks end lower, bond yields jump as Wall Street weighs Nvidia CEO's shock exit",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=94eb182e-600f-4f8f-8440-3ca082f2159c&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-12T21:04:17.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Google’s new Gemini model is better at understanding complicated questions",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+          "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+          "link": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
           "source": "The Verge",
-          "published": "2026-11-12T21:55:32.000Z"
+          "published": "2026-11-12T23:00:00.000Z"
         },
         {
-          "title": "‘It’s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation",
-          "link": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
-          "source": "The Verge",
-          "published": "2026-11-12T21:45:00.000Z"
-        },
-        {
-          "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-          "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+          "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+          "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
           "source": "Ars Technica",
-          "published": "2026-11-12T19:59:59.000Z"
+          "published": "2026-11-12T22:59:51.000Z"
+        },
+        {
+          "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+          "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+          "source": "Ars Technica",
+          "published": "2026-11-12T22:28:47.000Z"
         }
       ]
     }
