@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T11:20:46.743Z",
+  "updated": "2026-11-12T12:20:48.682Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "New York building collapse kills at least two, officials say",
+          "title": "New York building collapse kills several people",
           "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-12T10:40:49.000Z"
+          "published": "2026-11-12T12:17:47.000Z"
         },
         {
-          "title": "British woman missing from cruise ship in Atlantic",
-          "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-12T10:13:35.000Z"
-        },
-        {
-          "title": "At least 23 states considered laws governing ICE and schools this year",
-          "link": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
+          "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+          "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
           "source": "NPR",
-          "published": "2026-11-12T10:00:00.000Z"
+          "published": "2026-11-12T12:15:48.000Z"
+        },
+        {
+          "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-12T12:14:51.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
+          "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
+          "source": "CNBC",
+          "published": "2026-11-12T11:30:01.000Z"
+        },
         {
           "title": "Markets price a 50-50 chance that a Jensen Huang announcement will come Thursday",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=488cbf98-474a-49ce-8bf5-5cff67963a5b&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=23108dc4-f5b9-4deb-83fc-25c46ea9fa51&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-12T08:38:45.000Z"
-        },
-        {
-          "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
-          "link": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
-          "source": "CNBC",
-          "published": "2026-11-11T22:58:11.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
+          "link": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
+          "source": "Ars Technica",
+          "published": "2026-11-12T12:00:37.000Z"
+        },
+        {
+          "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+          "link": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+          "source": "The Verge",
+          "published": "2026-11-12T11:12:32.000Z"
+        },
+        {
           "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
           "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
           "source": "Ars Technica",
           "published": "2026-11-11T23:10:17.000Z"
-        },
-        {
-          "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-          "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-          "source": "The Verge",
-          "published": "2026-11-11T22:44:36.000Z"
-        },
-        {
-          "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-          "link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-          "source": "The Verge",
-          "published": "2026-11-11T22:00:00.000Z"
         }
       ]
     }
