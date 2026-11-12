@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T08:26:11.916Z",
+  "updated": "2026-11-12T11:20:46.743Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-          "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+          "title": "New York building collapse kills at least two, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-12T07:59:33.000Z"
+          "published": "2026-11-12T10:40:49.000Z"
         },
         {
-          "title": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
-          "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
+          "title": "British woman missing from cruise ship in Atlantic",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-12T07:45:52.000Z"
+          "published": "2026-11-12T10:13:35.000Z"
         },
         {
-          "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
-          "link": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
+          "title": "At least 23 states considered laws governing ICE and schools this year",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
           "source": "NPR",
-          "published": "2026-11-12T03:10:32.000Z"
+          "published": "2026-11-12T10:00:00.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust CEO",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5976a0c3-32ab-4cf4-9b8a-c3cec018252f&mod=mw_rss_bulletins",
+          "title": "Markets price a 50-50 chance that a Jensen Huang announcement will come Thursday",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=488cbf98-474a-49ce-8bf5-5cff67963a5b&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-12T01:18:55.000Z"
+          "published": "2026-11-12T09:20:16.000Z"
+        },
+        {
+          "title": "Nasdaq futures slump as Nvidia weighs Jensen Huang fate: live updates",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=23108dc4-f5b9-4deb-83fc-25c46ea9fa51&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-12T08:38:45.000Z"
         },
         {
           "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
           "link": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
           "source": "CNBC",
           "published": "2026-11-11T22:58:11.000Z"
-        },
-        {
-          "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e5452e7e-073e-4c9a-8aa8-abdfe88a0ea1&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-11T22:52:41.000Z"
         }
       ]
     },
