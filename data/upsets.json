@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T00:51:07.585Z",
+  "updated": "2026-11-12T01:20:45.813Z",
   "minLine": 7,
   "days": [
     "2026-11-10",
@@ -70,6 +70,28 @@
         "abbr": "LUC",
         "rank": null,
         "score": 93
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-11",
+      "id": "401921181",
+      "line": 7.5,
+      "details": "PENN -7.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921181/penn-navy",
+      "winner": {
+        "id": "2426",
+        "name": "Navy",
+        "abbr": "NAVY",
+        "rank": null,
+        "score": 81
+      },
+      "loser": {
+        "id": "219",
+        "name": "Penn",
+        "abbr": "PENN",
+        "rank": null,
+        "score": 76
       }
     },
     {
@@ -827,6 +849,11 @@
       "line": null
     },
     "cbb:401923311": {
+      "date": "2026-11-11",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926206": {
       "date": "2026-11-11",
       "fav": null,
       "line": null
