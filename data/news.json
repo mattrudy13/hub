@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T21:20:46.868Z",
+  "updated": "2026-11-12T22:20:46.821Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+          "title": "Search for British woman missing from Tui cruise in Atlantic called off",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-12T21:27:21.000Z"
+        },
+        {
+          "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
           "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-12T21:00:42.000Z"
-        },
-        {
-          "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-          "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-12T20:09:16.000Z"
         },
         {
           "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
+          "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
+          "source": "CNBC",
+          "published": "2026-11-12T22:17:05.000Z"
+        },
+        {
+          "title": "Nvidia’s stock trims early losses, ends 4% lower after CEO Jensen Huang quits",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2822dc61-2aea-4a0f-8871-a0dc769a953b&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-12T21:23:04.000Z"
+        },
+        {
           "title": "Stocks end lower, bond yields jump as Wall Street weighs Nvidia CEO's shock exit",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=94eb182e-600f-4f8f-8440-3ca082f2159c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-12T21:04:17.000Z"
-        },
-        {
-          "title": "Stocks give up gains, trade lower in final hour after Huang quits Nvidia — live",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5eaae4fe-4dd0-4ab8-88fd-b3fdaf751417&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-12T20:25:33.000Z"
-        },
-        {
-          "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
-          "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
-          "source": "CNBC",
-          "published": "2026-11-12T17:49:47.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Here are the 25 original Xbox games you can now play on PC",
-          "link": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
+          "title": "Google’s new Gemini model is better at understanding complicated questions",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
           "source": "The Verge",
-          "published": "2026-11-12T21:00:00.000Z"
+          "published": "2026-11-12T21:55:32.000Z"
         },
         {
-          "title": "Microsoft Outlook is down",
-          "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+          "title": "‘It’s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation",
+          "link": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
           "source": "The Verge",
-          "published": "2026-11-12T20:43:02.000Z"
+          "published": "2026-11-12T21:45:00.000Z"
         },
         {
           "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
