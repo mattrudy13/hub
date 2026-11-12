@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T12:20:48.682Z",
+  "updated": "2026-11-12T13:20:47.013Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "New York building collapse kills several people",
-          "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+          "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+          "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-12T12:17:47.000Z"
+          "published": "2026-11-12T13:02:46.000Z"
+        },
+        {
+          "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+          "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-12T13:02:37.000Z"
         },
         {
           "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
           "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
           "source": "NPR",
           "published": "2026-11-12T12:15:48.000Z"
-        },
-        {
-          "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-12T12:14:51.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Economic calendar: Jobless-claims data and existing-home sales due Thursday",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aa7cc5e1-7238-406c-b87f-5d1134f7243b&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-12T12:57:44.000Z"
+        },
         {
           "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
           "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=488cbf98-474a-49ce-8bf5-5cff67963a5b&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-12T09:20:16.000Z"
-        },
-        {
-          "title": "Nasdaq futures slump as Nvidia weighs Jensen Huang fate: live updates",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=23108dc4-f5b9-4deb-83fc-25c46ea9fa51&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-12T08:38:45.000Z"
         }
       ]
     },
