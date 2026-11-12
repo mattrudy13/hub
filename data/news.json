@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-12T17:20:50.053Z",
+  "updated": "2026-11-12T18:20:48.087Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
+          "source": "NPR",
+          "published": "2026-11-12T17:13:54.000Z"
+        },
         {
           "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
           "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-12T16:54:12.000Z"
-        },
-        {
-          "title": "The SS United States takes its final voyage to the bottom of the Gulf of Mexico",
-          "link": "https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states",
-          "source": "NPR",
-          "published": "2026-11-12T16:20:04.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "U.S. stock indexes turn positive for day as chip stocks rebound — live coverage",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8dc215e0-81e5-45b0-9c01-0eeb66dced27&mod=mw_rss_bulletins",
+          "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
+          "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
+          "source": "CNBC",
+          "published": "2026-11-12T17:49:47.000Z"
+        },
+        {
+          "title": "The bond market now has an even bigger fear than the AI fallout",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=69f37dc6-7696-4b23-bf1c-69fa93b8bab4&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-12T16:28:50.000Z"
+          "published": "2026-11-12T17:25:57.000Z"
         },
         {
           "title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
           "link": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html",
           "source": "CNBC",
-          "published": "2026-11-12T15:36:02.000Z"
-        },
-        {
-          "title": "U.S. existing-home sales plummet to lowest level since 2010",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0c6c6e7b-e4b4-411f-94df-df6777c2a218&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-12T15:08:51.000Z"
+          "published": "2026-11-12T17:23:25.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
+          "link": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
+          "source": "Ars Technica",
+          "published": "2026-11-12T18:17:19.000Z"
+        },
+        {
+          "title": "The Jensen Huang scandal is hardly over",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+          "source": "The Verge",
+          "published": "2026-11-12T17:44:33.000Z"
+        },
+        {
           "title": "The amazing disappearing exoplanet",
           "link": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
           "source": "Ars Technica",
           "published": "2026-11-12T17:18:10.000Z"
-        },
-        {
-          "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
-          "link": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
-          "source": "The Verge",
-          "published": "2026-11-12T17:00:17.000Z"
-        },
-        {
-          "title": "25 years later, Xbox is trying to reinvent itself again",
-          "link": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
-          "source": "The Verge",
-          "published": "2026-11-12T17:00:00.000Z"
         }
       ]
     }
