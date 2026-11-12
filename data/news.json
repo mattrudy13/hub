@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T19:20:47.104Z",
+  "updated": "2026-11-12T20:20:48.227Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-          "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+          "title": "Jensen Huang has resigned, what's next for Nvidia?",
+          "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-12T18:47:35.000Z"
+          "published": "2026-11-12T19:33:37.000Z"
+        },
+        {
+          "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+          "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-12T19:23:02.000Z"
         },
         {
           "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
           "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
           "source": "NPR",
           "published": "2026-11-12T18:44:00.000Z"
-        },
-        {
-          "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
-          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-12T18:28:59.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Trump admin hiring debt collectors to go after defaulted student-loan borrowers",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a7329276-faa5-4a14-ad59-7cfd70540163&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-12T19:55:35.000Z"
+        },
+        {
           "title": "Nvidia stock is on sale after Jensen Huang’s exit. Is the selloff just starting?",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=889aa63f-d126-4844-bd1e-edfa4bfa6a4c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-12T18:46:12.000Z"
-        },
-        {
-          "title": "The 2027 401(k) limits are here. See how much more you can save next year.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5b1c884d-82f4-4b92-8bb1-ebfa8bd8cd85&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-12T18:21:50.000Z"
         },
         {
           "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Ukraine says SpaceX Starshield is restricted again; SpaceX claims it isn’t",
-          "link": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
-          "source": "Ars Technica",
-          "published": "2026-11-12T19:09:57.000Z"
-        },
-        {
-          "title": "Microsoft Outlook is down",
-          "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+          "title": "Meet the people who want peptides to be made in America",
+          "link": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha",
           "source": "The Verge",
-          "published": "2026-11-12T19:07:21.000Z"
+          "published": "2026-11-12T20:00:00.000Z"
         },
         {
-          "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-          "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+          "title": "Ars Live: Can the cloud survive drone strikes on data centers?",
+          "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
           "source": "Ars Technica",
-          "published": "2026-11-12T18:57:45.000Z"
+          "published": "2026-11-12T19:59:59.000Z"
+        },
+        {
+          "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
+          "link": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
+          "source": "Ars Technica",
+          "published": "2026-11-12T19:49:11.000Z"
         }
       ]
     }
