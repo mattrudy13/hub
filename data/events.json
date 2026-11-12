@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-12T02:21:02.776Z",
-  "from": "2026-11-12T02:21:02Z",
-  "to": "2026-11-26T02:21:02Z",
+  "updated": "2026-11-12T03:20:53.148Z",
+  "from": "2026-11-12T03:20:52Z",
+  "to": "2026-11-26T03:20:52Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -731,6 +731,20 @@
       "url": "https://www.ticketmaster.com/nutcracker-magical-christmas-ballet-virginia-beach-virginia-11-25-2026/event/0100648DA313CEA2",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cc1/0e35525a-c00e-494a-b080-a31c3deaccc1_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vvG17Z_5lJBGZl",
+      "name": "DJ Gabe Niles Dance Party: Disco & Beyond (Ages 21 & Up)",
+      "date": "2026-11-25",
+      "time": "22:00",
+      "status": "rescheduled",
+      "kind": "Music",
+      "genre": "Hip-Hop/Rap",
+      "venue": "Elevation 27",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/dj-gabe-niles-dance-party-disco-virginia-beach-virginia-11-25-2026/event/010064BAE6E8C02B",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/3b9/b5fccc23-7e68-438c-a733-ce2d2a2c53b9_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
