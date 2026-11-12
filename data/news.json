@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-12T18:20:48.087Z",
+  "updated": "2026-11-12T18:24:52.778Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Casualties continue to rise after Brooklyn building collapses",
+          "link": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
+          "source": "NPR",
+          "published": "2026-11-12T18:15:00.000Z"
+        },
         {
           "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
           "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-12T17:11:48.000Z"
-        },
-        {
-          "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-          "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-12T16:54:12.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "The 2027 401(k) limits are here. See how much more you can save next year.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5b1c884d-82f4-4b92-8bb1-ebfa8bd8cd85&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-12T18:21:50.000Z"
+        },
         {
           "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
           "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=69f37dc6-7696-4b23-bf1c-69fa93b8bab4&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-12T17:25:57.000Z"
-        },
-        {
-          "title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
-          "link": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html",
-          "source": "CNBC",
-          "published": "2026-11-12T17:23:25.000Z"
         }
       ]
     },
@@ -61,16 +61,16 @@
           "published": "2026-11-12T18:17:19.000Z"
         },
         {
+          "title": "Oh, Palantir is ‘progressive’ now, is it?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+          "source": "The Verge",
+          "published": "2026-11-12T18:06:54.000Z"
+        },
+        {
           "title": "The Jensen Huang scandal is hardly over",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
           "source": "The Verge",
           "published": "2026-11-12T17:44:33.000Z"
-        },
-        {
-          "title": "The amazing disappearing exoplanet",
-          "link": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
-          "source": "Ars Technica",
-          "published": "2026-11-12T17:18:10.000Z"
         }
       ]
     }
