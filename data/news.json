@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T03:20:48.145Z",
+  "updated": "2026-11-12T04:20:45.788Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Famed ship SS United States sunk off coast of Florida",
+          "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-12T04:03:13.000Z"
+        },
+        {
+          "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+          "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-12T04:00:30.000Z"
+        },
+        {
           "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
           "link": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
           "source": "NPR",
           "published": "2026-11-12T03:10:32.000Z"
-        },
-        {
-          "title": "Australian teen missing in bush for six days rescued alive",
-          "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-12T02:40:18.000Z"
-        },
-        {
-          "title": "New York building collapse kills one person and injures 12",
-          "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-12T02:33:12.000Z"
         }
       ]
     },
