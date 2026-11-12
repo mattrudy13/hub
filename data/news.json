@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T01:20:45.429Z",
+  "updated": "2026-11-12T02:20:57.909Z",
   "failed": [],
   "sections": [
     {
@@ -10,13 +10,13 @@
           "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
           "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-12T01:00:04.000Z"
+          "published": "2026-11-12T02:09:08.000Z"
         },
         {
-          "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+          "title": "New York building collapse kills one person and injures 12",
+          "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-12T00:36:11.000Z"
+          "published": "2026-11-12T01:34:58.000Z"
         },
         {
           "title": "Democrat Scott Colom wins the closest Senate race in the country",
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust CEO",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5976a0c3-32ab-4cf4-9b8a-c3cec018252f&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-12T01:18:55.000Z"
+        },
+        {
           "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
           "link": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
           "source": "CNBC",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e5452e7e-073e-4c9a-8aa8-abdfe88a0ea1&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-11T22:52:41.000Z"
-        },
-        {
-          "title": "What ‘Medicare for More’ could mean for workers over 50",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2ddcddb1-6ff3-4368-816c-75bb51e8f73b&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-11T22:33:21.000Z"
         }
       ]
     },

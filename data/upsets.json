@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T01:20:45.813Z",
+  "updated": "2026-11-12T02:21:00.813Z",
   "minLine": 7,
   "days": [
     "2026-11-10",
@@ -834,8 +834,8 @@
     "cbb:401917521": {
       "date": "2026-11-11",
       "fav": "2547",
-      "line": 16.5,
-      "details": "SEA -16.5"
+      "line": 17.5,
+      "details": "SEA -17.5"
     },
     "cbb:401918054": {
       "date": "2026-11-11",
@@ -854,6 +854,61 @@
       "line": null
     },
     "cbb:401926206": {
+      "date": "2026-11-11",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926182": {
+      "date": "2026-11-11",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401925663": {
+      "date": "2026-11-11",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401928801": {
+      "date": "2026-11-11",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401919030": {
+      "date": "2026-11-11",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401911275": {
+      "date": "2026-11-11",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401922282": {
+      "date": "2026-11-11",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401920946": {
+      "date": "2026-11-11",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926060": {
+      "date": "2026-11-11",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401925011": {
+      "date": "2026-11-11",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401924870": {
+      "date": "2026-11-11",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401920914": {
       "date": "2026-11-11",
       "fav": null,
       "line": null
