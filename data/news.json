@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-12T00:20:47.219Z",
+  "updated": "2026-11-12T00:51:07.102Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-12T00:36:11.000Z"
+        },
         {
           "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
           "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
           "source": "NPR",
           "published": "2026-11-11T23:33:59.000Z"
-        },
-        {
-          "title": "Democrat Scott Colom wins Mississippi Senate race",
-          "link": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
-          "source": "NPR",
-          "published": "2026-11-11T23:04:51.000Z"
         }
       ]
     },
