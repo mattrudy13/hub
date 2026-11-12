@@ -1,37 +1,9 @@
 {
-  "updated": "2026-11-11T23:20:51.050Z",
-  "from": "2026-11-11T23:20:50Z",
-  "to": "2026-11-25T23:20:50Z",
+  "updated": "2026-11-12T00:20:50.202Z",
+  "from": "2026-11-12T00:20:49Z",
+  "to": "2026-11-26T00:20:49Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1AAAFZz",
-      "name": "Norfolk State Spartans Mens Basketball vs. Old Dominion Monarchs Mens Basketball",
-      "date": "2026-11-11",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Basketball",
-      "venue": "Joseph G Echols Hall",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAFZz",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "Z7r9jZ1A7PvCF",
-      "name": "Catch Your Breath w/ TX2",
-      "date": "2026-11-11",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Alternative",
-      "venue": "The Norva",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PvCF",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/b79/fad89e83-5f7e-4a7f-9319-052c08101b79_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZkoyGkeWc7_x",
       "name": "The Bodyguard (Touring)",
@@ -757,6 +729,20 @@
       "venue": "Sandler Center For The Performing Arts",
       "city": "Virginia Beach",
       "url": "https://www.ticketmaster.com/nutcracker-magical-christmas-ballet-virginia-beach-virginia-11-25-2026/event/0100648DA312CE99",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/cc1/0e35525a-c00e-494a-b080-a31c3deaccc1_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv177Z_FGkUN7HBx",
+      "name": "NUTCRACKER! Magical Christmas Ballet",
+      "date": "2026-11-25",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": "Dance",
+      "venue": "Sandler Center For The Performing Arts",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/nutcracker-magical-christmas-ballet-virginia-beach-virginia-11-25-2026/event/0100648DA313CEA2",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cc1/0e35525a-c00e-494a-b080-a31c3deaccc1_RETINA_PORTRAIT_16_9.jpg"
     }
