@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-13T19:20:51.951Z",
+  "updated": "2026-11-13T20:20:47.065Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-13T19:53:57.000Z"
+        },
         {
           "title": "Democratic Senate leader Schumer set to face leadership challenge",
           "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
           "source": "NPR",
           "published": "2026-11-13T19:02:04.000Z"
-        },
-        {
-          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-13T18:36:57.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Nasdaq, S&P 500 down in final hour as tech stocks slide and Nvidia keeps falling",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d6acf0f0-1941-43fe-a6b9-d2296163b7ba&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-13T20:20:10.000Z"
+        },
+        {
           "title": "‘Strangely calming and unnerving’: How Microsoft’s outage upended the workday",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f4cdc645-ef47-4e32-ad35-4bdba8903a85&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-13T19:09:30.000Z"
-        },
-        {
-          "title": "Nasdaq down sharply, tech leads S&P 500's declines as Nvidia shares fall — live",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e62073cb-a9c5-485a-b3e1-f28e649a3e08&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-13T18:14:27.000Z"
         },
         {
           "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Here’s how you can save on GTA VI ahead of launch",
+          "title": "In elephants, the resilience of communities has its limits",
+          "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+          "source": "Ars Technica",
+          "published": "2026-11-13T20:03:13.000Z"
+        },
+        {
+          "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+          "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+          "source": "Ars Technica",
+          "published": "2026-11-13T19:49:16.000Z"
+        },
+        {
+          "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
           "link": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
           "source": "The Verge",
           "published": "2026-11-13T19:14:38.000Z"
-        },
-        {
-          "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
-          "link": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
-          "source": "The Verge",
-          "published": "2026-11-13T18:10:41.000Z"
-        },
-        {
-          "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-          "link": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-          "source": "Ars Technica",
-          "published": "2026-11-13T17:25:45.000Z"
         }
       ]
     }
