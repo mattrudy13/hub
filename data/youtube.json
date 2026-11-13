@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T15:20:51.073Z",
+  "updated": "2026-11-13T16:20:52.212Z",
   "failed": [],
   "channels": [
     {
@@ -52,6 +52,13 @@
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_kuXNVNDCc9eo0GH_AXQcDfAGPJuph3Mny_EcLfsUHzCkc=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "zLhoYgAwK2o",
+          "title": "Third Times The Klein in GTA RP",
+          "published": "2026-11-13T16:00:31Z",
+          "thumb": "https://i.ytimg.com/vi/zLhoYgAwK2o/mqdefault.jpg",
+          "seen": "2026-11-13T16:20:48.897Z"
+        },
+        {
           "id": "d9vVBGhOJq8",
           "title": "It's The End of The World in GTA RP",
           "published": "2026-11-06T16:00:34Z",
@@ -78,13 +85,6 @@
           "published": "2026-10-16T15:00:02Z",
           "thumb": "https://i.ytimg.com/vi/dIJzbIwvBXc/mqdefault.jpg",
           "seen": "2026-10-16T15:00:02Z"
-        },
-        {
-          "id": "BX-RYrQeAfM",
-          "title": "They'll Never Know our Plan in GTA RP",
-          "published": "2026-10-09T15:00:19Z",
-          "thumb": "https://i.ytimg.com/vi/BX-RYrQeAfM/mqdefault.jpg",
-          "seen": "2026-10-09T15:00:19Z"
         }
       ]
     },

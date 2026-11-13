@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-13T15:20:46.942Z",
+  "updated": "2026-11-13T16:20:48.210Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
+          "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
+          "source": "NPR",
+          "published": "2026-11-13T15:46:35.000Z"
+        },
         {
           "title": "Why is the Microsoft outage lasting so long?",
           "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/13/nx-s1-6038917/remembering-singer-and-actor-peggy-king",
           "source": "NPR",
           "published": "2026-11-13T13:35:22.000Z"
-        },
-        {
-          "title": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
-          "source": "NPR",
-          "published": "2026-11-13T13:32:23.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
-          "link": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
-          "source": "Ars Technica",
-          "published": "2026-11-13T15:09:39.000Z"
-        },
-        {
-          "title": "What’s really at stake in the Jensen Huang saga",
-          "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+          "title": "Microsoft’s massive Outlook outage continues",
+          "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
           "source": "The Verge",
-          "published": "2026-11-13T14:47:16.000Z"
+          "published": "2026-11-13T16:17:11.000Z"
         },
         {
-          "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
-          "link": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
+          "title": "The Verge’s 2026 gift guide for dads",
+          "link": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+          "source": "The Verge",
+          "published": "2026-11-13T16:00:00.000Z"
+        },
+        {
+          "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+          "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
           "source": "Ars Technica",
-          "published": "2026-11-13T14:45:04.000Z"
+          "published": "2026-11-13T15:26:53.000Z"
         }
       ]
     }
