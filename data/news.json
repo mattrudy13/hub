@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T22:20:46.203Z",
+  "updated": "2026-11-13T23:20:50.998Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "FAA issues nationwide ground stop for all U.S. airports",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
+          "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+          "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-13T23:00:31.000Z"
+        },
+        {
+          "title": "DHS head Mark Waye Mullin says there is not a threat to the U.S. amid FAA ground stop",
+          "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-mark-waye-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
           "source": "NPR",
-          "published": "2026-11-13T21:55:13.000Z"
+          "published": "2026-11-13T22:36:46.000Z"
         },
         {
-          "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-13T21:14:22.000Z"
-        },
-        {
-          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-13T19:53:57.000Z"
+          "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
+          "link": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
+          "source": "NPR",
+          "published": "2026-11-13T22:18:55.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Nearly 10,000 flights delayed after FAA orders nationwide airport ground stop",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=296b1b9b-8b6a-4744-8d1e-4c8fb35c65ad&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-13T22:49:59.000Z"
+        },
+        {
           "title": "FAA declares rare, nationwide ground stop on flights",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ec7dabbe-33f8-48ee-842d-812973ca3947&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-13T22:06:31.000Z"
-        },
-        {
-          "title": "AMD, other chip stocks slide as Wall Street weighs AI trade without Jensen Huang",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=19e3d444-2e17-4f91-bbc6-07eaa7b150f7&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-13T21:55:22.000Z"
         },
         {
           "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "FAA orders third nationwide ground stop in its history",
+          "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+          "source": "Ars Technica",
+          "published": "2026-11-13T23:17:38.000Z"
+        },
+        {
           "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
           "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
           "source": "Ars Technica",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
           "source": "The Verge",
           "published": "2026-11-13T21:38:25.000Z"
-        },
-        {
-          "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-          "source": "The Verge",
-          "published": "2026-11-13T20:45:10.000Z"
         }
       ]
     }
