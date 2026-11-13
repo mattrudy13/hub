@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T18:20:46.534Z",
+  "updated": "2026-11-13T19:20:51.951Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Democratic Senate leader Schumer set to face leadership challenge",
+          "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-13T19:03:10.000Z"
+        },
+        {
+          "title": "What's Trump's strategy now with Iran? To keep things as they are",
+          "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+          "source": "NPR",
+          "published": "2026-11-13T19:02:04.000Z"
+        },
+        {
           "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
           "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-13T17:12:46.000Z"
-        },
-        {
-          "title": "The Trump administration's voter roll crusade could continue",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
-          "source": "NPR",
-          "published": "2026-11-13T17:00:00.000Z"
-        },
-        {
-          "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-13T16:40:31.000Z"
+          "published": "2026-11-13T18:36:57.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "‘Strangely calming and unnerving’: How Microsoft’s outage upended the workday",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f4cdc645-ef47-4e32-ad35-4bdba8903a85&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-13T19:09:30.000Z"
+        },
+        {
           "title": "Nasdaq down sharply, tech leads S&P 500's declines as Nvidia shares fall — live",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e62073cb-a9c5-485a-b3e1-f28e649a3e08&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-13T18:14:27.000Z"
-        },
-        {
-          "title": "Nvidia has now shed $657 billion in market capitalization this week",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=302353a3-69b3-4c15-9535-43e6f605ba39&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-13T16:39:07.000Z"
         },
         {
           "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
@@ -55,20 +55,20 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Here’s how you can save on GTA VI ahead of launch",
+          "link": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+          "source": "The Verge",
+          "published": "2026-11-13T19:14:38.000Z"
+        },
+        {
           "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
           "link": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
           "source": "The Verge",
           "published": "2026-11-13T18:10:41.000Z"
         },
         {
-          "title": "Jensen Huang was reckless with the environment, too",
-          "link": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
-          "source": "The Verge",
-          "published": "2026-11-13T17:44:22.000Z"
-        },
-        {
           "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-          "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+          "link": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
           "source": "Ars Technica",
           "published": "2026-11-13T17:25:45.000Z"
         }
