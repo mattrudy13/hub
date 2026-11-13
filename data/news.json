@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T12:20:49.590Z",
+  "updated": "2026-11-13T13:20:46.346Z",
   "failed": [],
   "sections": [
     {
@@ -10,19 +10,19 @@
           "title": "What we know about the global Microsoft outage",
           "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-13T12:09:57.000Z"
+          "published": "2026-11-13T12:31:49.000Z"
+        },
+        {
+          "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
+          "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-13T12:28:28.000Z"
         },
         {
           "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
           "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
           "source": "NPR",
           "published": "2026-11-13T12:07:12.000Z"
-        },
-        {
-          "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
-          "link": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
-          "source": "NPR",
-          "published": "2026-11-13T12:06:28.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Nvidia shares recovery to $170 helps turn around Nasdaq futures: live updates",
+          "title": "Economic calendar: Wholesale-inflation report is Friday’s main event",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=84e9759d-6026-4ca9-b73d-aec5a99fb02d&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-13T12:54:57.000Z"
+        },
+        {
+          "title": "Nvidia shares’ recovery to $170 helps turn around Nasdaq futures: live updates",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7d899d77-90a2-4cae-818b-4cd8e2fcae62&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-13T11:30:02.000Z"
-        },
-        {
-          "title": "Goldman Sachs sets 8,700 target on S&P 500 for end of 2027",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=099017ab-c359-4d1e-859b-ef7cba7ad3a7&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-13T11:04:53.000Z"
         },
         {
           "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Apple should have made the MacBook logo RGB",
+          "link": "https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors",
+          "source": "The Verge",
+          "published": "2026-11-13T13:00:00.000Z"
+        },
+        {
+          "title": "Microsoft’s massive Outlook outage continues",
+          "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+          "source": "The Verge",
+          "published": "2026-11-13T12:48:03.000Z"
+        },
+        {
           "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
           "link": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
           "source": "Ars Technica",
           "published": "2026-11-13T12:00:40.000Z"
-        },
-        {
-          "title": "Let’s talk about Jensen Huang’s many affairs!",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-          "source": "The Verge",
-          "published": "2026-11-13T12:00:00.000Z"
-        },
-        {
-          "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
-          "link": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/",
-          "source": "Ars Technica",
-          "published": "2026-11-13T11:50:38.000Z"
         }
       ]
     }
