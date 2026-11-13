@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-13T00:20:47.009Z",
+  "updated": "2026-11-13T00:34:23.943Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+          "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-13T00:20:24.000Z"
+        },
         {
           "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
           "link": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-12T23:34:05.000Z"
-        },
-        {
-          "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
-          "link": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
-          "source": "NPR",
-          "published": "2026-11-12T22:45:40.000Z"
         }
       ]
     },
