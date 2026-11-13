@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T20:20:47.065Z",
+  "updated": "2026-11-13T21:20:46.410Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-13T21:14:22.000Z"
+        },
+        {
           "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
           "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-13T19:53:57.000Z"
-        },
-        {
-          "title": "Democratic Senate leader Schumer set to face leadership challenge",
-          "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-13T19:03:10.000Z"
         },
         {
           "title": "What's Trump's strategy now with Iran? To keep things as they are",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Nasdaq and S&P 500 end lower as Nvidia, chip stocks fall; Dow books slight gain",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c1bc948a-e8fd-45a8-a6a9-3f201c11cb68&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-13T21:05:29.000Z"
+        },
+        {
           "title": "Nasdaq, S&P 500 down in final hour as tech stocks slide and Nvidia keeps falling",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d6acf0f0-1941-43fe-a6b9-d2296163b7ba&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-13T20:20:10.000Z"
-        },
-        {
-          "title": "‘Strangely calming and unnerving’: How Microsoft’s outage upended the workday",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f4cdc645-ef47-4e32-ad35-4bdba8903a85&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-13T19:09:30.000Z"
         },
         {
           "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+          "source": "The Verge",
+          "published": "2026-11-13T20:45:10.000Z"
+        },
+        {
+          "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+          "link": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+          "source": "The Verge",
+          "published": "2026-11-13T20:30:00.000Z"
+        },
+        {
           "title": "In elephants, the resilience of communities has its limits",
           "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
           "source": "Ars Technica",
           "published": "2026-11-13T20:03:13.000Z"
-        },
-        {
-          "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
-          "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
-          "source": "Ars Technica",
-          "published": "2026-11-13T19:49:16.000Z"
-        },
-        {
-          "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
-          "link": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
-          "source": "The Verge",
-          "published": "2026-11-13T19:14:38.000Z"
         }
       ]
     }
