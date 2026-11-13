@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T23:20:46.108Z",
+  "updated": "2026-11-13T00:20:47.009Z",
   "failed": [],
   "sections": [
     {
@@ -8,21 +8,21 @@
       "items": [
         {
           "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
-          "link": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
+          "link": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
           "source": "NPR",
-          "published": "2026-11-12T22:52:49.000Z"
+          "published": "2026-11-12T23:36:19.000Z"
+        },
+        {
+          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-12T23:34:05.000Z"
         },
         {
           "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
           "link": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
           "source": "NPR",
           "published": "2026-11-12T22:45:40.000Z"
-        },
-        {
-          "title": "Search for British woman missing from Tui cruise in Atlantic called off",
-          "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-12T21:27:21.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
-          "link": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
+          "title": "Xbox announces Wolfenstein 3",
+          "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
           "source": "The Verge",
-          "published": "2026-11-12T23:00:00.000Z"
+          "published": "2026-11-13T00:11:44.000Z"
+        },
+        {
+          "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+          "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+          "source": "The Verge",
+          "published": "2026-11-12T23:43:22.000Z"
         },
         {
           "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
           "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
           "source": "Ars Technica",
           "published": "2026-11-12T22:59:51.000Z"
-        },
-        {
-          "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-          "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-          "source": "Ars Technica",
-          "published": "2026-11-12T22:28:47.000Z"
         }
       ]
     }

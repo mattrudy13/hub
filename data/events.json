@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-12T23:20:48.706Z",
-  "from": "2026-11-12T23:20:48Z",
-  "to": "2026-11-26T23:20:48Z",
+  "updated": "2026-11-13T00:20:50.930Z",
+  "from": "2026-11-13T00:20:50Z",
+  "to": "2026-11-27T00:20:50Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv177Z_kGkmNiX6j",
-      "name": "John Crist Live!",
-      "date": "2026-11-12",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Comedy",
-      "genre": "Comedy",
-      "venue": "Sandler Center For The Performing Arts",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/john-crist-live-virginia-beach-virginia-11-12-2026/event/0100646BA3B3E1DC",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/544/33c53e82-16ab-4677-8ab9-d88c8529a544_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZkoyGkeWc0_n",
       "name": "The Bodyguard (Touring)",
