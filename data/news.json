@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T13:20:46.346Z",
+  "updated": "2026-11-13T14:20:46.301Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Remembering singer and actor Peggy King",
+          "link": "https://www.npr.org/2026/11/13/nx-s1-6038917/remembering-singer-and-actor-peggy-king",
+          "source": "NPR",
+          "published": "2026-11-13T13:35:22.000Z"
+        },
+        {
           "title": "What we know about the global Microsoft outage",
           "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-13T12:31:49.000Z"
+          "published": "2026-11-13T13:34:53.000Z"
         },
         {
-          "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
-          "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-13T12:28:28.000Z"
-        },
-        {
-          "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
-          "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+          "title": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
+          "link": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
           "source": "NPR",
-          "published": "2026-11-13T12:07:12.000Z"
+          "published": "2026-11-13T13:32:23.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Economic calendar: Wholesale-inflation report is Friday’s main event",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=84e9759d-6026-4ca9-b73d-aec5a99fb02d&mod=mw_rss_bulletins",
+          "title": "Stocks jump after inflation data, with Nvidia rebound spotlighted — follow live",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e34131eb-0d87-470b-90d2-07059f128dfa&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-13T12:54:57.000Z"
+          "published": "2026-11-13T13:53:21.000Z"
         },
         {
-          "title": "Nvidia shares’ recovery to $170 helps turn around Nasdaq futures: live updates",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7d899d77-90a2-4cae-818b-4cd8e2fcae62&mod=mw_rss_bulletins",
+          "title": "PPI report puts wholesale-inflation rate at four-year high — live coverage",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d6266f33-f8a1-4c39-a070-3b54fcf389d1&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-13T11:30:02.000Z"
+          "published": "2026-11-13T13:34:34.000Z"
         },
         {
           "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+          "source": "The Verge",
+          "published": "2026-11-13T14:00:00.000Z"
+        },
+        {
           "title": "Apple should have made the MacBook logo RGB",
           "link": "https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors",
           "source": "The Verge",
           "published": "2026-11-13T13:00:00.000Z"
-        },
-        {
-          "title": "Microsoft’s massive Outlook outage continues",
-          "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-          "source": "The Verge",
-          "published": "2026-11-13T12:48:03.000Z"
         },
         {
           "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
