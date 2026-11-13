@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T17:20:47.747Z",
+  "updated": "2026-11-13T17:52:32.974Z",
   "failed": [],
   "sections": [
     {
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+          "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+          "source": "Ars Technica",
+          "published": "2026-11-13T17:25:45.000Z"
+        },
+        {
           "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
           "link": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
           "source": "The Verge",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
           "source": "The Verge",
           "published": "2026-11-13T16:55:57.000Z"
-        },
-        {
-          "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-          "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-          "source": "Ars Technica",
-          "published": "2026-11-13T16:26:32.000Z"
         }
       ]
     }
