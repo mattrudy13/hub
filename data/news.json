@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T11:20:47.620Z",
+  "updated": "2026-11-13T12:20:49.590Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Kratom and 7-OH can feel like 'a miracle.' They can also be addictive",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
-          "source": "NPR",
-          "published": "2026-11-13T11:00:00.000Z"
-        },
-        {
           "title": "What we know about the global Microsoft outage",
           "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-13T10:53:40.000Z"
+          "published": "2026-11-13T12:09:57.000Z"
         },
         {
-          "title": "Hegseth awards medal to soldier who chastised him",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
+          "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+          "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
           "source": "NPR",
-          "published": "2026-11-13T10:27:08.000Z"
+          "published": "2026-11-13T12:07:12.000Z"
+        },
+        {
+          "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
+          "link": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
+          "source": "NPR",
+          "published": "2026-11-13T12:06:28.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Nvidia shares recovery to $170 helps turn around Nasdaq futures: live updates",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7d899d77-90a2-4cae-818b-4cd8e2fcae62&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-13T11:30:02.000Z"
+        },
+        {
           "title": "Goldman Sachs sets 8,700 target on S&P 500 for end of 2027",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=099017ab-c359-4d1e-859b-ef7cba7ad3a7&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-13T11:04:53.000Z"
-        },
-        {
-          "title": "Microsoft stock is dropping amid continued outage of key services: live updates",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=dd9bb60f-b504-4f37-a83a-80d0ddad3c82&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-13T09:32:51.000Z"
         },
         {
           "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Donald Trump really wants Tim Cook to run Nvidia",
-          "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
-          "source": "The Verge",
-          "published": "2026-11-13T00:46:07.000Z"
-        },
-        {
-          "title": "Xbox announces Wolfenstein 3",
-          "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
-          "source": "The Verge",
-          "published": "2026-11-13T00:11:44.000Z"
-        },
-        {
-          "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
-          "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+          "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
+          "link": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
           "source": "Ars Technica",
-          "published": "2026-11-12T22:59:51.000Z"
+          "published": "2026-11-13T12:00:40.000Z"
+        },
+        {
+          "title": "Let’s talk about Jensen Huang’s many affairs!",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+          "source": "The Verge",
+          "published": "2026-11-13T12:00:00.000Z"
+        },
+        {
+          "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
+          "link": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/",
+          "source": "Ars Technica",
+          "published": "2026-11-13T11:50:38.000Z"
         }
       ]
     }
