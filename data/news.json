@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-13T21:20:46.410Z",
+  "updated": "2026-11-13T22:20:46.203Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "FAA issues nationwide ground stop for all U.S. airports",
+          "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
+          "source": "NPR",
+          "published": "2026-11-13T21:55:13.000Z"
+        },
         {
           "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
           "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-13T19:53:57.000Z"
-        },
-        {
-          "title": "What's Trump's strategy now with Iran? To keep things as they are",
-          "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-          "source": "NPR",
-          "published": "2026-11-13T19:02:04.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Nasdaq and S&P 500 end lower as Nvidia, chip stocks fall; Dow books slight gain",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c1bc948a-e8fd-45a8-a6a9-3f201c11cb68&mod=mw_rss_bulletins",
+          "title": "FAA declares rare, nationwide ground stop on flights",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ec7dabbe-33f8-48ee-842d-812973ca3947&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-13T21:05:29.000Z"
+          "published": "2026-11-13T22:06:31.000Z"
         },
         {
-          "title": "Nasdaq, S&P 500 down in final hour as tech stocks slide and Nvidia keeps falling",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d6acf0f0-1941-43fe-a6b9-d2296163b7ba&mod=mw_rss_bulletins",
+          "title": "AMD, other chip stocks slide as Wall Street weighs AI trade without Jensen Huang",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=19e3d444-2e17-4f91-bbc6-07eaa7b150f7&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-13T20:20:10.000Z"
+          "published": "2026-11-13T21:55:22.000Z"
         },
         {
           "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+          "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+          "source": "Ars Technica",
+          "published": "2026-11-13T21:59:01.000Z"
+        },
+        {
+          "title": "FAA ground stop shuts down flights nationwide",
+          "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
+          "source": "The Verge",
+          "published": "2026-11-13T21:38:25.000Z"
+        },
+        {
           "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
           "source": "The Verge",
           "published": "2026-11-13T20:45:10.000Z"
-        },
-        {
-          "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-          "link": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-          "source": "The Verge",
-          "published": "2026-11-13T20:30:00.000Z"
-        },
-        {
-          "title": "In elephants, the resilience of communities has its limits",
-          "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
-          "source": "Ars Technica",
-          "published": "2026-11-13T20:03:13.000Z"
         }
       ]
     }
