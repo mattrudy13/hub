@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-13T04:20:50.089Z",
-  "from": "2026-11-13T04:20:49Z",
-  "to": "2026-11-27T04:20:49Z",
+  "updated": "2026-11-13T05:20:51.037Z",
+  "from": "2026-11-13T05:20:50Z",
+  "to": "2026-11-27T05:20:50Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -729,6 +729,20 @@
       "venue": "Virginia Aquarium",
       "city": "Virginia Beach",
       "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-11-25-2026/event/01006535D8C98C84",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkfgGkdbSbwq",
+      "name": "BayPort Credit Union Holiday Trail of Lights",
+      "date": "2026-11-26",
+      "time": null,
+      "status": "onsale",
+      "kind": "Other",
+      "genre": "Holiday",
+      "venue": "Virginia Aquarium",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-11-26-2026/event/01006535D8CD8C9D",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
     }

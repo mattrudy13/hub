@@ -1,33 +1,11 @@
 {
-  "updated": "2026-11-13T04:20:47.217Z",
+  "updated": "2026-11-13T05:20:47.938Z",
   "minLine": 7,
   "days": [
-    "2026-11-11",
-    "2026-11-12"
+    "2026-11-12",
+    "2026-11-13"
   ],
   "upsets": [
-    {
-      "league": "cbb",
-      "date": "2026-11-11",
-      "id": "401917521",
-      "line": 17.5,
-      "details": "SEA -17.5",
-      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401917521/utsa-seattle-u",
-      "winner": {
-        "id": "2636",
-        "name": "UTSA",
-        "abbr": "UTSA",
-        "rank": null,
-        "score": 86
-      },
-      "loser": {
-        "id": "2547",
-        "name": "Seattle U",
-        "abbr": "SEA",
-        "rank": null,
-        "score": 59
-      }
-    },
     {
       "league": "cbb",
       "date": "2026-11-12",
@@ -52,490 +30,28 @@
     },
     {
       "league": "cbb",
-      "date": "2026-11-11",
-      "id": "401919759",
-      "line": 11.5,
-      "details": "ETAM -11.5",
-      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401919759/fdu-east-texas-am",
+      "date": "2026-11-12",
+      "id": "401911471",
+      "line": 8.5,
+      "details": "SJSU -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911471/uc-riverside-san-jose-st",
       "winner": {
-        "id": "161",
-        "name": "FDU",
-        "abbr": "FDU",
+        "id": "27",
+        "name": "UC Riverside",
+        "abbr": "UCR",
         "rank": null,
         "score": 80
       },
       "loser": {
-        "id": "2837",
-        "name": "East Texas A&M",
-        "abbr": "ETAM",
+        "id": "23",
+        "name": "San José St",
+        "abbr": "SJSU",
         "rank": null,
-        "score": 76
-      }
-    },
-    {
-      "league": "cbb",
-      "date": "2026-11-11",
-      "id": "401919734",
-      "line": 11.5,
-      "details": "CBU -11.5",
-      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401919734/chicago-st-ca-baptist",
-      "winner": {
-        "id": "2130",
-        "name": "Chicago St",
-        "abbr": "CHST",
-        "rank": null,
-        "score": 81
-      },
-      "loser": {
-        "id": "2856",
-        "name": "CA Baptist",
-        "abbr": "CBU",
-        "rank": null,
-        "score": 62
-      }
-    },
-    {
-      "league": "cbb",
-      "date": "2026-11-11",
-      "id": "401911230",
-      "line": 10.5,
-      "details": "LUC -10.5",
-      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911230/loyola-chicago-air-force",
-      "winner": {
-        "id": "2005",
-        "name": "Air Force",
-        "abbr": "AF",
-        "rank": null,
-        "score": 107
-      },
-      "loser": {
-        "id": "2350",
-        "name": "Loyola Chicago",
-        "abbr": "LUC",
-        "rank": null,
-        "score": 93
-      }
-    },
-    {
-      "league": "cbb",
-      "date": "2026-11-11",
-      "id": "401921181",
-      "line": 7.5,
-      "details": "PENN -7.5",
-      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921181/penn-navy",
-      "winner": {
-        "id": "2426",
-        "name": "Navy",
-        "abbr": "NAVY",
-        "rank": null,
-        "score": 81
-      },
-      "loser": {
-        "id": "219",
-        "name": "Penn",
-        "abbr": "PENN",
-        "rank": null,
-        "score": 76
+        "score": 75
       }
     }
   ],
   "lines": {
-    "cfb:401866461": {
-      "date": "2026-11-11",
-      "fav": "2084",
-      "line": 1.5,
-      "details": "BUF -1.5"
-    },
-    "cfb:401866462": {
-      "date": "2026-11-11",
-      "fav": "2117",
-      "line": 17.5,
-      "details": "CMU -17.5"
-    },
-    "cfb:401866463": {
-      "date": "2026-11-11",
-      "fav": "2649",
-      "line": 14,
-      "details": "TOL -14"
-    },
-    "cbb:401919759": {
-      "date": "2026-11-11",
-      "fav": "2837",
-      "line": 11.5,
-      "details": "ETAM -11.5"
-    },
-    "cbb:401921005": {
-      "date": "2026-11-11",
-      "fav": "140",
-      "line": 8.5,
-      "details": "KC -8.5"
-    },
-    "cbb:401920234": {
-      "date": "2026-11-11",
-      "fav": "159",
-      "line": 1.5,
-      "details": "DART -1.5"
-    },
-    "cbb:401911519": {
-      "date": "2026-11-11",
-      "fav": "302",
-      "line": 11.5,
-      "details": "UCD -11.5"
-    },
-    "cbb:401918992": {
-      "date": "2026-11-11",
-      "fav": "58",
-      "line": 6.5,
-      "details": "USF -6.5"
-    },
-    "cbb:401911230": {
-      "date": "2026-11-11",
-      "fav": "2350",
-      "line": 10.5,
-      "details": "LUC -10.5"
-    },
-    "cbb:401918978": {
-      "date": "2026-11-11",
-      "fav": "151",
-      "line": 11.5,
-      "details": "ECU -11.5"
-    },
-    "cbb:401925717": {
-      "date": "2026-11-11",
-      "fav": "21",
-      "line": 18.5,
-      "details": "SDSU -18.5"
-    },
-    "cbb:401921181": {
-      "date": "2026-11-11",
-      "fav": "219",
-      "line": 7.5,
-      "details": "PENN -7.5"
-    },
-    "cbb:401926202": {
-      "date": "2026-11-11",
-      "fav": "2678",
-      "line": 7.5,
-      "details": "VMI -7.5"
-    },
-    "cbb:401925858": {
-      "date": "2026-11-11",
-      "fav": "232",
-      "line": 1.5,
-      "details": "COFC -1.5"
-    },
-    "cbb:401921175": {
-      "date": "2026-11-11",
-      "fav": "85",
-      "line": 8.5,
-      "details": "IUIN -8.5"
-    },
-    "cbb:401920680": {
-      "date": "2026-11-11",
-      "fav": "2599",
-      "line": 29.5,
-      "details": "SJU -29.5"
-    },
-    "cbb:401909524": {
-      "date": "2026-11-11",
-      "fav": "130",
-      "line": 3.5,
-      "details": "MICH -3.5"
-    },
-    "cbb:401926868": {
-      "date": "2026-11-11",
-      "fav": "282",
-      "line": 4.5,
-      "details": "INST -4.5"
-    },
-    "cbb:401926863": {
-      "date": "2026-11-11",
-      "fav": "350",
-      "line": 7.5,
-      "details": "UNCW -7.5"
-    },
-    "cbb:401925895": {
-      "date": "2026-11-11",
-      "fav": "295",
-      "line": 6.5,
-      "details": "ODU -6.5"
-    },
-    "cbb:401925682": {
-      "date": "2026-11-11",
-      "fav": "87",
-      "line": 26.5,
-      "details": "ND -26.5"
-    },
-    "cbb:401924735": {
-      "date": "2026-11-11",
-      "fav": "163",
-      "line": 5.5,
-      "details": "PRIN -5.5"
-    },
-    "cbb:401921821": {
-      "date": "2026-11-11",
-      "fav": "2579",
-      "line": 21.5,
-      "details": "SC -21.5"
-    },
-    "cbb:401921286": {
-      "date": "2026-11-11",
-      "fav": "231",
-      "line": 13.5,
-      "details": "FUR -13.5"
-    },
-    "cbb:401920903": {
-      "date": "2026-11-11",
-      "fav": "256",
-      "line": 3.5,
-      "details": "JMU -3.5"
-    },
-    "cbb:401920740": {
-      "date": "2026-11-11",
-      "fav": "2193",
-      "line": 4.5,
-      "details": "ETSU -4.5"
-    },
-    "cbb:401920202": {
-      "date": "2026-11-11",
-      "fav": "2670",
-      "line": 33.5,
-      "details": "VCU -33.5"
-    },
-    "cbb:401918452": {
-      "date": "2026-11-11",
-      "fav": "2226",
-      "line": 5.5,
-      "details": "FAU -5.5"
-    },
-    "cbb:401917901": {
-      "date": "2026-11-11",
-      "fav": "2698",
-      "line": 1.5,
-      "details": "WGA -1.5"
-    },
-    "cbb:401912209": {
-      "date": "2026-11-11",
-      "fav": "2182",
-      "line": 1.5,
-      "details": "DREX -1.5"
-    },
-    "cbb:401911263": {
-      "date": "2026-11-11",
-      "fav": "179",
-      "line": 7.5,
-      "details": "SBU -7.5"
-    },
-    "cbb:401911012": {
-      "date": "2026-11-11",
-      "fav": "113",
-      "line": 7.5,
-      "details": "MASS -7.5"
-    },
-    "cbb:401928794": {
-      "date": "2026-11-11",
-      "fav": "2492",
-      "line": 2.5,
-      "details": "PEPP -2.5"
-    },
-    "cbb:401925702": {
-      "date": "2026-11-11",
-      "fav": "248",
-      "line": 33.5,
-      "details": "HOU -33.5"
-    },
-    "cbb:401928824": {
-      "date": "2026-11-11",
-      "fav": "8",
-      "line": 29.5,
-      "details": "ARK -29.5"
-    },
-    "cbb:401928996": {
-      "date": "2026-11-11",
-      "fav": "2674",
-      "line": 2.5,
-      "details": "VAL -2.5"
-    },
-    "cbb:401925863": {
-      "date": "2026-11-11",
-      "fav": "202",
-      "line": 18.5,
-      "details": "TLSA -18.5"
-    },
-    "cbb:401921037": {
-      "date": "2026-11-11",
-      "fav": "2572",
-      "line": 8.5,
-      "details": "USM -8.5"
-    },
-    "cbb:401917963": {
-      "date": "2026-11-11",
-      "fav": "2617",
-      "line": 6.5,
-      "details": "SFA -6.5"
-    },
-    "cbb:401917522": {
-      "date": "2026-11-11",
-      "fav": "2541",
-      "line": 1.5,
-      "details": "SCU -1.5"
-    },
-    "cbb:401930177": {
-      "date": "2026-11-11",
-      "fav": "26",
-      "line": 47.5,
-      "details": "UCLA -47.5"
-    },
-    "cbb:401926062": {
-      "date": "2026-11-11",
-      "fav": "158",
-      "line": 34.5,
-      "details": "NEB -34.5"
-    },
-    "cbb:401928814": {
-      "date": "2026-11-11",
-      "fav": "68",
-      "line": 16.5,
-      "details": "BOIS -16.5"
-    },
-    "cbb:401925915": {
-      "date": "2026-11-11",
-      "fav": "36",
-      "line": 16.5,
-      "details": "CSU -16.5"
-    },
-    "cbb:401911454": {
-      "date": "2026-11-11",
-      "fav": "2440",
-      "line": 1.5,
-      "details": "NEV -1.5"
-    },
-    "cbb:401911346": {
-      "date": "2026-11-11",
-      "fav": "2253",
-      "line": 18.5,
-      "details": "GCU -18.5"
-    },
-    "cbb:401925738": {
-      "date": "2026-11-11",
-      "fav": "2483",
-      "line": 33.5,
-      "details": "ORE -33.5"
-    },
-    "cbb:401919734": {
-      "date": "2026-11-11",
-      "fav": "2856",
-      "line": 11.5,
-      "details": "CBU -11.5"
-    },
-    "cbb:401917523": {
-      "date": "2026-11-11",
-      "fav": "279",
-      "line": 5.5,
-      "details": "PAC -5.5"
-    },
-    "cbb:401917521": {
-      "date": "2026-11-11",
-      "fav": "2547",
-      "line": 17.5,
-      "details": "SEA -17.5"
-    },
-    "cbb:401918054": {
-      "date": "2026-11-11",
-      "fav": "30",
-      "line": 8.5,
-      "details": "USC -8.5"
-    },
-    "cbb:401926211": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401923311": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401926206": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401926182": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401925663": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401928801": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401919030": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401911275": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401922282": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401920946": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401926060": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401925011": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401924870": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401920914": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401921105": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401926067": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401920844": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
-    "cbb:401911391": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
-    },
     "cfb:401862824": {
       "date": "2026-11-12",
       "fav": "235",
@@ -547,11 +63,6 @@
       "fav": "309",
       "line": 10,
       "details": "UL -10"
-    },
-    "cbb:401929625": {
-      "date": "2026-11-11",
-      "fav": null,
-      "line": null
     },
     "cbb:401920073": {
       "date": "2026-11-12",
@@ -716,6 +227,353 @@
       "date": "2026-11-12",
       "fav": null,
       "line": null
+    },
+    "cfb:401858293": {
+      "date": "2026-11-13",
+      "fav": "221",
+      "line": 3.5,
+      "details": "PITT -3.5"
+    },
+    "cfb:401858526": {
+      "date": "2026-11-13",
+      "fav": "26",
+      "line": 10,
+      "details": "UCLA -10"
+    },
+    "cfb:401856860": {
+      "date": "2026-11-13",
+      "fav": "248",
+      "line": 9.5,
+      "details": "HOU -9.5"
+    },
+    "cbb:401920296": {
+      "date": "2026-11-12",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401921167": {
+      "date": "2026-11-13",
+      "fav": "325",
+      "line": 3.5,
+      "details": "CLE -3.5"
+    },
+    "cbb:401921721": {
+      "date": "2026-11-13",
+      "fav": "2390",
+      "line": 34.5,
+      "details": "MIA -34.5"
+    },
+    "cbb:401909696": {
+      "date": "2026-11-13",
+      "fav": "52",
+      "line": 21.5,
+      "details": "FSU -21.5"
+    },
+    "cbb:401923270": {
+      "date": "2026-11-13",
+      "fav": "164",
+      "line": 23.5,
+      "details": "RUTG -23.5"
+    },
+    "cbb:401909515": {
+      "date": "2026-11-13",
+      "fav": "228",
+      "line": 4.5,
+      "details": "CLEM -4.5"
+    },
+    "cbb:401902278": {
+      "date": "2026-11-13",
+      "fav": "2086",
+      "line": 3.5,
+      "details": "BTLR -3.5"
+    },
+    "cbb:401906772": {
+      "date": "2026-11-13",
+      "fav": "57",
+      "line": 37.5,
+      "details": "FLA -37.5"
+    },
+    "cbb:401913528": {
+      "date": "2026-11-13",
+      "fav": "356",
+      "line": 36.5,
+      "details": "ILL -36.5"
+    },
+    "cbb:401925755": {
+      "date": "2026-11-13",
+      "fav": "127",
+      "line": 29.5,
+      "details": "MSU -29.5"
+    },
+    "cbb:401906850": {
+      "date": "2026-11-13",
+      "fav": "2633",
+      "line": 29.5,
+      "details": "TENN -29.5"
+    },
+    "cbb:401921825": {
+      "date": "2026-11-13",
+      "fav": "238",
+      "line": 37.5,
+      "details": "VAN -37.5"
+    },
+    "cbb:401921803": {
+      "date": "2026-11-13",
+      "fav": "96",
+      "line": 35.5,
+      "details": "UK -35.5"
+    },
+    "cbb:401926133": {
+      "date": "2026-11-13",
+      "fav": "2509",
+      "line": 19.5,
+      "details": "PUR -19.5"
+    },
+    "cbb:401925820": {
+      "date": "2026-11-13",
+      "fav": "2429",
+      "line": 7.5,
+      "details": "CLT -7.5"
+    },
+    "cbb:401924796": {
+      "date": "2026-11-13",
+      "fav": "2329",
+      "line": 1.5,
+      "details": "LEH -1.5"
+    },
+    "cbb:401924704": {
+      "date": "2026-11-13",
+      "fav": "171",
+      "line": 4.5,
+      "details": "COLU -4.5"
+    },
+    "cbb:401922211": {
+      "date": "2026-11-13",
+      "fav": "526",
+      "line": 3.5,
+      "details": "FGCU -3.5"
+    },
+    "cbb:401921191": {
+      "date": "2026-11-13",
+      "fav": "2275",
+      "line": 7.5,
+      "details": "HOF -7.5"
+    },
+    "cbb:401920973": {
+      "date": "2026-11-13",
+      "fav": "2210",
+      "line": 2.5,
+      "details": "ELON -2.5"
+    },
+    "cbb:401920747": {
+      "date": "2026-11-13",
+      "fav": "43",
+      "line": 2.5,
+      "details": "YALE -2.5"
+    },
+    "cbb:401920379": {
+      "date": "2026-11-13",
+      "fav": "259",
+      "line": 28.5,
+      "details": "VT -28.5"
+    },
+    "cbb:401918958": {
+      "date": "2026-11-13",
+      "fav": "152",
+      "line": 22.5,
+      "details": "NCSU -22.5"
+    },
+    "cbb:401911210": {
+      "date": "2026-11-13",
+      "fav": "45",
+      "line": 12.5,
+      "details": "GW -12.5"
+    },
+    "cbb:401911197": {
+      "date": "2026-11-13",
+      "fav": "2230",
+      "line": 12.5,
+      "details": "FOR -12.5"
+    },
+    "cbb:401906782": {
+      "date": "2026-11-13",
+      "fav": "153",
+      "line": 4.5,
+      "details": "UNC -4.5"
+    },
+    "cbb:401916316": {
+      "date": "2026-11-13",
+      "fav": "41",
+      "line": 11.5,
+      "details": "CONN -11.5"
+    },
+    "cbb:401927363": {
+      "date": "2026-11-13",
+      "fav": "2181",
+      "line": 13.5,
+      "details": "DRKE -13.5"
+    },
+    "cbb:401926794": {
+      "date": "2026-11-13",
+      "fav": "2335",
+      "line": 18.5,
+      "details": "LIB -18.5"
+    },
+    "cbb:401926152": {
+      "date": "2026-11-13",
+      "fav": "2393",
+      "line": 5.5,
+      "details": "MTSU -5.5"
+    },
+    "cbb:401909565": {
+      "date": "2026-11-13",
+      "fav": "150",
+      "line": 44.5,
+      "details": "DUKE -44.5"
+    },
+    "cbb:401916297": {
+      "date": "2026-11-13",
+      "fav": "258",
+      "line": 5.5,
+      "details": "UVA -5.5"
+    },
+    "cbb:401917916": {
+      "date": "2026-11-13",
+      "fav": "8",
+      "line": 25.5,
+      "details": "ARK -25.5"
+    },
+    "cbb:401929199": {
+      "date": "2026-11-13",
+      "fav": "326",
+      "line": 11.5,
+      "details": "TXST -11.5"
+    },
+    "cbb:401927380": {
+      "date": "2026-11-13",
+      "fav": "93",
+      "line": 27.5,
+      "details": "MUR -27.5"
+    },
+    "cbb:401927374": {
+      "date": "2026-11-13",
+      "fav": "2287",
+      "line": 2.5,
+      "details": "ILST -2.5"
+    },
+    "cbb:401926117": {
+      "date": "2026-11-13",
+      "fav": "2750",
+      "line": 1.5,
+      "details": "WRST -1.5"
+    },
+    "cbb:401925686": {
+      "date": "2026-11-13",
+      "fav": "2627",
+      "line": 14.5,
+      "details": "TAR -14.5"
+    },
+    "cbb:401921026": {
+      "date": "2026-11-13",
+      "fav": "2116",
+      "line": 23.5,
+      "details": "UCF -23.5"
+    },
+    "cbb:401920123": {
+      "date": "2026-11-13",
+      "fav": "70",
+      "line": 1.5,
+      "details": "IDHO -1.5"
+    },
+    "cbb:401919049": {
+      "date": "2026-11-13",
+      "fav": "2628",
+      "line": 23.5,
+      "details": "TCU -23.5"
+    },
+    "cbb:401906804": {
+      "date": "2026-11-13",
+      "fav": "201",
+      "line": 33.5,
+      "details": "OU -33.5"
+    },
+    "cbb:401929040": {
+      "date": "2026-11-13",
+      "fav": "2437",
+      "line": 4.5,
+      "details": "OMA -4.5"
+    },
+    "cbb:401909741": {
+      "date": "2026-11-13",
+      "fav": "12",
+      "line": 2.5,
+      "details": "ARIZ -2.5"
+    },
+    "cbb:401906760": {
+      "date": "2026-11-13",
+      "fav": "333",
+      "line": 17.5,
+      "details": "ALA -17.5"
+    },
+    "cbb:401921728": {
+      "date": "2026-11-13",
+      "fav": "24",
+      "line": 1.5,
+      "details": "STAN -1.5"
+    },
+    "cbb:401917980": {
+      "date": "2026-11-13",
+      "fav": "9",
+      "line": 32.5,
+      "details": "ASU -32.5"
+    },
+    "cbb:401911014": {
+      "date": "2026-11-13",
+      "fav": "2567",
+      "line": 23.5,
+      "details": "SMU -23.5"
+    },
+    "cbb:401909503": {
+      "date": "2026-11-13",
+      "fav": "305",
+      "line": 1.5,
+      "details": "DEP -1.5"
+    },
+    "cbb:401906794": {
+      "date": "2026-11-13",
+      "fav": "2752",
+      "line": 3.5,
+      "details": "XAV -3.5"
+    },
+    "cbb:401925739": {
+      "date": "2026-11-13",
+      "fav": "204",
+      "line": 33.5,
+      "details": "ORST -33.5"
+    },
+    "cbb:401917526": {
+      "date": "2026-11-13",
+      "fav": "301",
+      "line": 14.5,
+      "details": "USD -14.5"
+    },
+    "cbb:401920372": {
+      "date": "2026-11-13",
+      "fav": "328",
+      "line": 13.5,
+      "details": "USU -13.5"
+    },
+    "cbb:401917525": {
+      "date": "2026-11-13",
+      "fav": "2608",
+      "line": 6.5,
+      "details": "SMC -6.5"
+    },
+    "cbb:401920345": {
+      "date": "2026-11-13",
+      "fav": "2856",
+      "line": 16.5,
+      "details": "CBU -16.5"
     }
   }
 }
