@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-13T00:34:23.943Z",
+  "updated": "2026-11-13T01:20:46.514Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Australian footballers will not be charged after hotel incident, police say",
+          "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-13T01:03:59.000Z"
+        },
         {
           "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
           "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
           "source": "NPR",
           "published": "2026-11-12T23:36:19.000Z"
-        },
-        {
-          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-12T23:34:05.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Donald Trump really wants Tim Cook to run Nvidia",
+          "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+          "source": "The Verge",
+          "published": "2026-11-13T00:46:07.000Z"
+        },
+        {
           "title": "Xbox announces Wolfenstein 3",
           "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
           "source": "The Verge",
           "published": "2026-11-13T00:11:44.000Z"
-        },
-        {
-          "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-          "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-          "source": "The Verge",
-          "published": "2026-11-12T23:43:22.000Z"
         },
         {
           "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
