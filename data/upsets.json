@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T01:20:47.014Z",
+  "updated": "2026-11-13T02:20:48.396Z",
   "minLine": 7,
   "days": [
     "2026-11-11",
@@ -26,6 +26,28 @@
         "abbr": "SEA",
         "rank": null,
         "score": 59
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-12",
+      "id": "401911307",
+      "line": 12.5,
+      "details": "BRWN -12.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911307/canisius-brown",
+      "winner": {
+        "id": "2099",
+        "name": "Canisius",
+        "abbr": "CAN",
+        "rank": null,
+        "score": 86
+      },
+      "loser": {
+        "id": "225",
+        "name": "Brown",
+        "abbr": "BRWN",
+        "rank": null,
+        "score": 81
       }
     },
     {
@@ -676,6 +698,16 @@
       "details": "SJSU -8.5"
     },
     "cbb:401923400": {
+      "date": "2026-11-12",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929447": {
+      "date": "2026-11-12",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926788": {
       "date": "2026-11-12",
       "fav": null,
       "line": null

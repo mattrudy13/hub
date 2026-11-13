@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T01:20:46.514Z",
+  "updated": "2026-11-13T02:20:47.175Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+          "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-13T02:01:35.000Z"
+        },
+        {
+          "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+          "source": "NPR",
+          "published": "2026-11-13T01:26:24.000Z"
+        },
+        {
           "title": "Australian footballers will not be charged after hotel incident, police say",
           "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-13T01:03:59.000Z"
-        },
-        {
-          "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-          "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-13T00:20:24.000Z"
-        },
-        {
-          "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
-          "link": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
-          "source": "NPR",
-          "published": "2026-11-12T23:36:19.000Z"
         }
       ]
     },
