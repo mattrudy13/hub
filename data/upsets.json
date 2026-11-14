@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T05:20:45.271Z",
+  "updated": "2026-11-14T06:43:36.344Z",
   "minLine": 7,
   "days": [
     "2026-11-13",
@@ -26,6 +26,28 @@
         "abbr": "CLT",
         "rank": null,
         "score": 60
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-13",
+      "id": "401917527",
+      "line": 7.5,
+      "details": "PORT -7.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401917527/east-texas-am-portland",
+      "winner": {
+        "id": "2837",
+        "name": "East Texas A&M",
+        "abbr": "ETAM",
+        "rank": null,
+        "score": 94
+      },
+      "loser": {
+        "id": "2501",
+        "name": "Portland",
+        "abbr": "PORT",
+        "rank": null,
+        "score": 88
       }
     }
   ],
@@ -411,8 +433,8 @@
     "cfb:401858296": {
       "date": "2026-11-14",
       "fav": "2390",
-      "line": 13.5,
-      "details": "MIA -13.5"
+      "line": 14,
+      "details": "MIA -14"
     },
     "cfb:401858301": {
       "date": "2026-11-14",
@@ -471,8 +493,8 @@
     "cfb:401862825": {
       "date": "2026-11-14",
       "fav": "151",
-      "line": 11.5,
-      "details": "ECU -11.5"
+      "line": 10.5,
+      "details": "ECU -10.5"
     },
     "cfb:401862829": {
       "date": "2026-11-14",
@@ -831,8 +853,8 @@
     "cbb:401911015": {
       "date": "2026-11-14",
       "fav": "193",
-      "line": 7.5,
-      "details": "M-OH -7.5"
+      "line": 8.5,
+      "details": "M-OH -8.5"
     },
     "cbb:401921038": {
       "date": "2026-11-14",
@@ -849,8 +871,8 @@
     "cbb:401921689": {
       "date": "2026-11-14",
       "fav": "2250",
-      "line": 6.5,
-      "details": "GONZ -6.5"
+      "line": 5.5,
+      "details": "GONZ -5.5"
     },
     "cbb:401911016": {
       "date": "2026-11-14",
@@ -951,8 +973,8 @@
     "cbb:401909534": {
       "date": "2026-11-14",
       "fav": "2507",
-      "line": 11.5,
-      "details": "PROV -11.5"
+      "line": 12.5,
+      "details": "PROV -12.5"
     },
     "cbb:401920193": {
       "date": "2026-11-14",
@@ -1017,8 +1039,8 @@
     "cbb:401911308": {
       "date": "2026-11-14",
       "fav": "2561",
-      "line": 10.5,
-      "details": "SIE -10.5"
+      "line": 11.5,
+      "details": "SIE -11.5"
     },
     "cbb:401920961": {
       "date": "2026-11-14",

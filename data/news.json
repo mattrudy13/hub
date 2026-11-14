@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T05:20:44.967Z",
+  "updated": "2026-11-14T06:43:35.931Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Microsoft says services fully restored after for day-long global outage",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-14T06:42:27.000Z"
+        },
+        {
+          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+          "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-14T05:52:31.000Z"
+        },
+        {
           "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
           "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
           "source": "NPR",
           "published": "2026-11-14T05:12:43.000Z"
-        },
-        {
-          "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-          "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-14T01:47:36.000Z"
-        },
-        {
-          "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-          "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-14T00:03:56.000Z"
         }
       ]
     },
