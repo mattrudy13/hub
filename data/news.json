@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T00:20:45.512Z",
+  "updated": "2026-11-14T01:20:45.973Z",
   "failed": [],
   "sections": [
     {
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+          "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+          "source": "Ars Technica",
+          "published": "2026-11-14T00:49:13.000Z"
+        },
+        {
           "title": "Amazon has a plan to index the world’s online shopping data",
           "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
           "source": "The Verge",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
           "source": "The Verge",
           "published": "2026-11-13T23:47:27.000Z"
-        },
-        {
-          "title": "FAA orders third nationwide ground stop in its history",
-          "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-          "source": "Ars Technica",
-          "published": "2026-11-13T23:17:38.000Z"
         }
       ]
     }
