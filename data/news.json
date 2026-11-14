@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T15:20:45.962Z",
+  "updated": "2026-11-14T16:20:45.509Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-14T15:15:57.000Z"
-        },
-        {
-          "title": "What we know about the ground stop and what to do if you're affected",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-14T14:20:57.000Z"
-        },
-        {
-          "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
+          "title": "Fuel crisis and protests pressure Chile's far-right president",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
           "source": "NPR",
-          "published": "2026-11-14T13:08:05.000Z"
+          "published": "2026-11-14T16:05:12.000Z"
+        },
+        {
+          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+          "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-14T15:53:55.000Z"
+        },
+        {
+          "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+          "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-14T15:42:54.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-          "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+          "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+          "link": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
           "source": "The Verge",
-          "published": "2026-11-14T14:18:36.000Z"
+          "published": "2026-11-14T15:00:00.000Z"
         },
         {
-          "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-          "link": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+          "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+          "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
           "source": "The Verge",
-          "published": "2026-11-14T14:00:00.000Z"
+          "published": "2026-11-14T15:00:00.000Z"
         },
         {
           "title": "James Webb telescope finds ice older than the star it orbits",
