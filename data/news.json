@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T19:20:44.774Z",
+  "updated": "2026-11-14T20:20:54.127Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-          "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-14T19:14:33.000Z"
-        },
-        {
-          "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-          "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-14T19:12:25.000Z"
-        },
-        {
-          "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+          "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
+          "link": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
           "source": "NPR",
-          "published": "2026-11-14T16:53:04.000Z"
+          "published": "2026-11-14T20:12:34.000Z"
+        },
+        {
+          "title": "How telecoms upgrade work sparked US flight chaos",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-14T20:03:48.000Z"
+        },
+        {
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-14T19:21:10.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+          "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+          "source": "The Verge",
+          "published": "2026-11-14T19:47:40.000Z"
+        },
+        {
           "title": "Work to replace old copper wire led to the FAA’s ground stop",
           "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
           "source": "The Verge",
           "published": "2026-11-14T17:44:28.000Z"
-        },
-        {
-          "title": "Here are our favorite deals from REI’s giant Holiday Sale",
-          "link": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-          "source": "The Verge",
-          "published": "2026-11-14T15:00:00.000Z"
         },
         {
           "title": "James Webb telescope finds ice older than the star it orbits",
