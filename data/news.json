@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-14T04:20:48.380Z",
+  "updated": "2026-11-14T05:20:44.967Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+          "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+          "source": "NPR",
+          "published": "2026-11-14T05:12:43.000Z"
+        },
         {
           "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
           "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-14T00:03:56.000Z"
-        },
-        {
-          "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
-          "source": "NPR",
-          "published": "2026-11-13T22:36:46.000Z"
         }
       ]
     },
