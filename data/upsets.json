@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T21:20:46.713Z",
+  "updated": "2026-11-14T21:34:57.274Z",
   "minLine": 7,
   "days": [
     "2026-11-13",
@@ -48,6 +48,28 @@
         "abbr": "GMU",
         "rank": null,
         "score": 61
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-14",
+      "id": "401921096",
+      "line": 9.5,
+      "details": "SFA -9.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921096/rice-sf-austin",
+      "winner": {
+        "id": "242",
+        "name": "Rice",
+        "abbr": "RICE",
+        "rank": null,
+        "score": 81
+      },
+      "loser": {
+        "id": "2617",
+        "name": "SF Austin",
+        "abbr": "SFA",
+        "rank": null,
+        "score": 78
       }
     },
     {
@@ -758,9 +780,9 @@
     },
     "cfb:401869928": {
       "date": "2026-11-14",
-      "fav": "2026",
+      "fav": "276",
       "line": 1.5,
-      "details": "APP -1.5"
+      "details": "MRSH -1.5"
     },
     "cfb:401856884": {
       "date": "2026-11-14",
@@ -807,8 +829,8 @@
     "cfb:401856885": {
       "date": "2026-11-14",
       "fav": "99",
-      "line": 5.5,
-      "details": "LSU -5.5"
+      "line": 4.5,
+      "details": "LSU -4.5"
     },
     "cfb:401858519": {
       "date": "2026-11-14",
