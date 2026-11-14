@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T12:20:49.448Z",
+  "updated": "2026-11-14T13:20:45.044Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
+          "source": "NPR",
+          "published": "2026-11-14T13:08:05.000Z"
+        },
+        {
+          "title": "Perspective: A new kind of White House press secretary",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
+          "source": "NPR",
+          "published": "2026-11-14T13:00:00.000Z"
+        },
+        {
           "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-14T11:41:20.000Z"
-        },
-        {
-          "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-          "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-14T11:30:10.000Z"
-        },
-        {
-          "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
-          "source": "NPR",
-          "published": "2026-11-14T10:00:00.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Retailers are turning to entertainment to win shoppers’ attention",
+          "link": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
+          "source": "CNBC",
+          "published": "2026-11-14T13:00:01.000Z"
+        },
         {
           "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
           "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=878bb17c-a0d8-48f5-b7d2-a35c5cc03ac6&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-14T02:01:16.000Z"
-        },
-        {
-          "title": "My wife has dementia. How do we prepare for long-term memory care?",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=17874329-43c7-43ae-987c-d7d8eac13045&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-14T00:05:58.000Z"
         }
       ]
     },
@@ -54,6 +54,12 @@
       "key": "tech",
       "name": "Tech",
       "items": [
+        {
+          "title": "A gadget to make your dumb house smarter",
+          "link": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+          "source": "The Verge",
+          "published": "2026-11-14T13:00:00.000Z"
+        },
         {
           "title": "James Webb telescope finds ice older than the star it orbits",
           "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
           "source": "Ars Technica",
           "published": "2026-11-14T12:05:51.000Z"
-        },
-        {
-          "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-          "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-          "source": "The Verge",
-          "published": "2026-11-14T01:53:04.000Z"
         }
       ]
     }
