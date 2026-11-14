@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T22:20:45.459Z",
+  "updated": "2026-11-14T23:20:47.047Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-          "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+          "title": "How telecoms upgrade work sparked US flight chaos",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-14T22:09:40.000Z"
-        },
-        {
-          "title": "SpaceX successfully catches Starship and makes history",
-          "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
-          "source": "NPR",
-          "published": "2026-11-14T21:42:41.000Z"
+          "published": "2026-11-14T23:11:27.000Z"
         },
         {
           "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-14T20:41:45.000Z"
+          "published": "2026-11-14T22:37:25.000Z"
+        },
+        {
+          "title": "US has lost measles elimination status, global health authorities say",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+          "source": "NPR",
+          "published": "2026-11-14T22:15:02.000Z"
         }
       ]
     },
