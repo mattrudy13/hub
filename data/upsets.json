@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T06:43:36.344Z",
+  "updated": "2026-11-14T11:20:45.729Z",
   "minLine": 7,
   "days": [
     "2026-11-13",
@@ -26,6 +26,28 @@
         "abbr": "CLT",
         "rank": null,
         "score": 60
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-11-13",
+      "id": "401856860",
+      "line": 7.5,
+      "details": "HOU -7.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401856860/houston-colorado",
+      "winner": {
+        "id": "38",
+        "name": "Colorado",
+        "abbr": "COLO",
+        "rank": null,
+        "score": 42
+      },
+      "loser": {
+        "id": "248",
+        "name": "Houston",
+        "abbr": "HOU",
+        "rank": 14,
+        "score": 32
       }
     },
     {
@@ -841,14 +863,14 @@
     "cbb:401918993": {
       "date": "2026-11-14",
       "fav": "58",
-      "line": 27.5,
-      "details": "USF -27.5"
+      "line": 28.5,
+      "details": "USF -28.5"
     },
     "cbb:401911392": {
       "date": "2026-11-14",
       "fav": "2579",
-      "line": 25.5,
-      "details": "SC -25.5"
+      "line": 26.5,
+      "details": "SC -26.5"
     },
     "cbb:401911015": {
       "date": "2026-11-14",
@@ -967,8 +989,8 @@
     "cbb:401919782": {
       "date": "2026-11-14",
       "fav": "2330",
-      "line": 3.5,
-      "details": "LEM -3.5"
+      "line": 4.5,
+      "details": "LEM -4.5"
     },
     "cbb:401909534": {
       "date": "2026-11-14",
@@ -997,8 +1019,8 @@
     "cbb:401921775": {
       "date": "2026-11-14",
       "fav": "222",
-      "line": 36.5,
-      "details": "VILL -36.5"
+      "line": 35.5,
+      "details": "VILL -35.5"
     },
     "cbb:401921063": {
       "date": "2026-11-14",
@@ -1075,8 +1097,8 @@
     "cbb:401925063": {
       "date": "2026-11-14",
       "fav": "2447",
-      "line": 2.5,
-      "details": "NICH -2.5"
+      "line": 1.5,
+      "details": "NICH -1.5"
     },
     "cbb:401911520": {
       "date": "2026-11-14",
@@ -1087,8 +1109,8 @@
     "cbb:401911347": {
       "date": "2026-11-14",
       "fav": "2253",
-      "line": 32.5,
-      "details": "GCU -32.5"
+      "line": 31.5,
+      "details": "GCU -31.5"
     },
     "cbb:401920760": {
       "date": "2026-11-14",
