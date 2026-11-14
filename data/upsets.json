@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T01:20:46.672Z",
+  "updated": "2026-11-14T02:20:46.965Z",
   "minLine": 7,
   "days": [
     "2026-11-12",
@@ -26,6 +26,28 @@
         "abbr": "BRWN",
         "rank": null,
         "score": 81
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-13",
+      "id": "401925820",
+      "line": 8.5,
+      "details": "CLT -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401925820/app-state-charlotte",
+      "winner": {
+        "id": "2026",
+        "name": "App State",
+        "abbr": "APP",
+        "rank": null,
+        "score": 66
+      },
+      "loser": {
+        "id": "2429",
+        "name": "Charlotte",
+        "abbr": "CLT",
+        "rank": null,
+        "score": 60
       }
     },
     {
@@ -572,8 +594,8 @@
     "cbb:401920345": {
       "date": "2026-11-13",
       "fav": "2856",
-      "line": 15.5,
-      "details": "CBU -15.5"
+      "line": 14.5,
+      "details": "CBU -14.5"
     },
     "cbb:401917527": {
       "date": "2026-11-13",
@@ -582,6 +604,21 @@
       "details": "PORT -7.5"
     },
     "cbb:401928807": {
+      "date": "2026-11-13",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929386": {
+      "date": "2026-11-13",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926732": {
+      "date": "2026-11-13",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926203": {
       "date": "2026-11-13",
       "fav": null,
       "line": null
