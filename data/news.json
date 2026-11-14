@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T11:20:45.216Z",
+  "updated": "2026-11-14T12:20:49.448Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-          "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-14T10:42:20.000Z"
-        },
-        {
           "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-14T10:30:38.000Z"
+          "published": "2026-11-14T11:41:20.000Z"
+        },
+        {
+          "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+          "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-14T11:30:10.000Z"
         },
         {
           "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+          "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+          "source": "CNBC",
+          "published": "2026-11-14T12:00:01.000Z"
+        },
+        {
           "title": "FAA lifts rare nationwide ground stop; flights may take days to recover",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=878bb17c-a0d8-48f5-b7d2-a35c5cc03ac6&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=17874329-43c7-43ae-987c-d7d8eac13045&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-14T00:05:58.000Z"
-        },
-        {
-          "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
-          "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
-          "source": "CNBC",
-          "published": "2026-11-12T22:17:05.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "James Webb telescope finds ice older than the star it orbits",
+          "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+          "source": "Ars Technica",
+          "published": "2026-11-14T12:15:48.000Z"
+        },
+        {
+          "title": "Winemakers are learning that conservation can be good for business",
+          "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+          "source": "Ars Technica",
+          "published": "2026-11-14T12:05:51.000Z"
+        },
+        {
           "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
           "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
           "source": "The Verge",
           "published": "2026-11-14T01:53:04.000Z"
-        },
-        {
-          "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-          "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-          "source": "Ars Technica",
-          "published": "2026-11-14T00:49:13.000Z"
-        },
-        {
-          "title": "Amazon has a plan to index the world’s online shopping data",
-          "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-          "source": "The Verge",
-          "published": "2026-11-13T23:49:11.000Z"
         }
       ]
     }
