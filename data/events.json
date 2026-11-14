@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-14T20:20:57.004Z",
-  "from": "2026-11-14T20:20:56Z",
-  "to": "2026-11-28T20:20:56Z",
+  "updated": "2026-11-14T21:20:49.984Z",
+  "from": "2026-11-14T21:20:49Z",
+  "to": "2026-11-28T21:20:49Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1AA7d8U",
-      "name": "Old Dominion Monarchs Mens Basketball vs. Longwood Lancers Mens Basketball",
-      "date": "2026-11-14",
-      "time": "16:00",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Basketball",
-      "venue": "Chartway Arena at Ted Constant Convocation Center",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7d8U",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv177Z_oGkT5GfGo",
       "name": "K·POP SUPERSTARS LIVE",
