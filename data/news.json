@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T14:20:47.060Z",
+  "updated": "2026-11-14T15:20:45.962Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Second catch attempt for SpaceX Starship rocket",
-          "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-14T14:18:41.000Z"
+          "published": "2026-11-14T15:15:57.000Z"
+        },
+        {
+          "title": "What we know about the ground stop and what to do if you're affected",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-14T14:20:57.000Z"
         },
         {
           "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
           "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
           "source": "NPR",
           "published": "2026-11-14T13:08:05.000Z"
-        },
-        {
-          "title": "Perspective: A new kind of White House press secretary",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
-          "source": "NPR",
-          "published": "2026-11-14T13:00:00.000Z"
         }
       ]
     },
