@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-13T23:41:38.817Z",
-  "from": "2026-11-13T23:41:38Z",
-  "to": "2026-11-27T23:41:38Z",
+  "updated": "2026-11-14T00:20:47.896Z",
+  "from": "2026-11-14T00:20:47Z",
+  "to": "2026-11-28T00:20:47Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -745,6 +745,34 @@
       "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-11-26-2026/event/01006535D8CD8C9D",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1AAvovA",
+      "name": "Lindsey Stirling",
+      "date": "2026-11-27",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Classical",
+      "venue": "Chartway Arena at Ted Constant Convocation Center",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvovA",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/727/e1b0d529-1e0d-4f13-bafa-d51796b64727_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkfAGkdp2zPW",
+      "name": "Norfolk Admirals vs. Greensboro Gargoyles",
+      "date": "2026-11-27",
+      "time": "19:05",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Hockey",
+      "venue": "Scope Arena",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/norfolk-admirals-vs-greensboro-gargoyles-norfolk-virginia-11-27-2026/event/01006505D63F897D",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/a82/1bbe9229-3e86-41b2-89a6-3f9ee9488a82_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }

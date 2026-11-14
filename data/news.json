@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T23:41:36.089Z",
+  "updated": "2026-11-14T00:20:45.512Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-          "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+          "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+          "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-13T23:00:31.000Z"
+          "published": "2026-11-14T00:03:56.000Z"
+        },
+        {
+          "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+          "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-14T00:03:52.000Z"
         },
         {
           "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
           "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
           "source": "NPR",
           "published": "2026-11-13T22:36:46.000Z"
-        },
-        {
-          "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
-          "source": "NPR",
-          "published": "2026-11-13T22:36:45.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "My wife has dementia. How do we prepare for long-term memory care?",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=17874329-43c7-43ae-987c-d7d8eac13045&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-14T00:05:58.000Z"
+        },
+        {
           "title": "Nearly 10,000 flights delayed after FAA orders nationwide airport ground stop",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=296b1b9b-8b6a-4744-8d1e-4c8fb35c65ad&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-13T22:49:59.000Z"
-        },
-        {
-          "title": "FAA declares rare, nationwide ground stop on flights",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ec7dabbe-33f8-48ee-842d-812973ca3947&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-13T22:06:31.000Z"
         },
         {
           "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "FAA orders third nationwide ground stop in its history",
-          "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-          "source": "Ars Technica",
-          "published": "2026-11-13T23:17:38.000Z"
-        },
-        {
-          "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
-          "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
-          "source": "Ars Technica",
-          "published": "2026-11-13T21:59:01.000Z"
+          "title": "Amazon has a plan to index the world’s online shopping data",
+          "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+          "source": "The Verge",
+          "published": "2026-11-13T23:49:11.000Z"
         },
         {
           "title": "FAA ground stop shuts down flights nationwide",
           "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
           "source": "The Verge",
-          "published": "2026-11-13T21:38:25.000Z"
+          "published": "2026-11-13T23:47:27.000Z"
+        },
+        {
+          "title": "FAA orders third nationwide ground stop in its history",
+          "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+          "source": "Ars Technica",
+          "published": "2026-11-13T23:17:38.000Z"
         }
       ]
     }
