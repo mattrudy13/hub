@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-14T13:20:45.044Z",
+  "updated": "2026-11-14T14:20:47.060Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Second catch attempt for SpaceX Starship rocket",
+          "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-14T14:18:41.000Z"
+        },
         {
           "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
           "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
           "source": "NPR",
           "published": "2026-11-14T13:00:00.000Z"
-        },
-        {
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-14T11:41:20.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "U.S. air travel could take days to recover after lifting of FAA ground stop",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=33d31d5c-5642-4214-be85-59ecb023f93c&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-14T14:19:07.000Z"
+        },
         {
           "title": "Retailers are turning to entertainment to win shoppers’ attention",
           "link": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
           "source": "CNBC",
           "published": "2026-11-14T12:00:01.000Z"
-        },
-        {
-          "title": "FAA lifts rare nationwide ground stop; flights may take days to recover",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=878bb17c-a0d8-48f5-b7d2-a35c5cc03ac6&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-14T02:01:16.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "A gadget to make your dumb house smarter",
-          "link": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+          "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+          "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
           "source": "The Verge",
-          "published": "2026-11-14T13:00:00.000Z"
+          "published": "2026-11-14T14:18:36.000Z"
+        },
+        {
+          "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+          "link": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+          "source": "The Verge",
+          "published": "2026-11-14T14:00:00.000Z"
         },
         {
           "title": "James Webb telescope finds ice older than the star it orbits",
           "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
           "source": "Ars Technica",
           "published": "2026-11-14T12:15:48.000Z"
-        },
-        {
-          "title": "Winemakers are learning that conservation can be good for business",
-          "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
-          "source": "Ars Technica",
-          "published": "2026-11-14T12:05:51.000Z"
         }
       ]
     }
