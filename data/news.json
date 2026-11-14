@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T21:34:56.822Z",
+  "updated": "2026-11-14T22:20:45.459Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
-          "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+          "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-14T21:05:14.000Z"
+          "published": "2026-11-14T22:09:40.000Z"
+        },
+        {
+          "title": "SpaceX successfully catches Starship and makes history",
+          "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+          "source": "NPR",
+          "published": "2026-11-14T21:42:41.000Z"
         },
         {
           "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-14T20:41:45.000Z"
-        },
-        {
-          "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
-          "link": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
-          "source": "NPR",
-          "published": "2026-11-14T20:12:34.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+          "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+          "source": "The Verge",
+          "published": "2026-11-14T21:44:44.000Z"
+        },
+        {
           "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
           "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
           "source": "The Verge",
           "published": "2026-11-14T19:47:40.000Z"
-        },
-        {
-          "title": "Work to replace old copper wire led to the FAA’s ground stop",
-          "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
-          "source": "The Verge",
-          "published": "2026-11-14T17:44:28.000Z"
         },
         {
           "title": "James Webb telescope finds ice older than the star it orbits",

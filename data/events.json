@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-14T21:34:59.719Z",
-  "from": "2026-11-14T21:34:59Z",
-  "to": "2026-11-28T21:34:59Z",
+  "updated": "2026-11-14T22:20:47.943Z",
+  "from": "2026-11-14T22:20:47Z",
+  "to": "2026-11-28T22:20:47Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv177Z_oGkT5GfGo",
-      "name": "K·POP SUPERSTARS LIVE",
-      "date": "2026-11-14",
-      "time": "17:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Pop",
-      "venue": "The Dome by Rutter Mills",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/kpop-superstars-live-virginia-beach-virginia-11-14-2026/event/0100651FCB314311",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/e/4e0/016f429d-50d0-4e66-831d-f67e4f0b84e0_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv177Z_oGkRjQvF5",
       "name": "1776 - 7pm - Classic Movie Nights!",

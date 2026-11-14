@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T21:34:57.274Z",
+  "updated": "2026-11-14T22:20:45.894Z",
   "minLine": 7,
   "days": [
     "2026-11-13",
@@ -70,6 +70,28 @@
         "abbr": "SFA",
         "rank": null,
         "score": 78
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-14",
+      "id": "401921038",
+      "line": 9.5,
+      "details": "WIN -9.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921038/jackson-st-winthrop",
+      "winner": {
+        "id": "2296",
+        "name": "Jackson St",
+        "abbr": "JKST",
+        "rank": null,
+        "score": 76
+      },
+      "loser": {
+        "id": "2737",
+        "name": "Winthrop",
+        "abbr": "WIN",
+        "rank": null,
+        "score": 72
       }
     },
     {
@@ -835,8 +857,8 @@
     "cfb:401858519": {
       "date": "2026-11-14",
       "fav": "2294",
-      "line": 17.5,
-      "details": "IOWA -17.5"
+      "line": 18.5,
+      "details": "IOWA -18.5"
     },
     "cfb:401858299": {
       "date": "2026-11-14",
@@ -1135,8 +1157,8 @@
     "cbb:401921063": {
       "date": "2026-11-14",
       "fav": "2539",
-      "line": 7.5,
-      "details": "SF -7.5"
+      "line": 8.5,
+      "details": "SF -8.5"
     },
     "cbb:401920867": {
       "date": "2026-11-14",
@@ -1177,8 +1199,8 @@
     "cbb:401920961": {
       "date": "2026-11-14",
       "fav": "85",
-      "line": 2.5,
-      "details": "IUIN -2.5"
+      "line": 1.5,
+      "details": "IUIN -1.5"
     },
     "cbb:401920568": {
       "date": "2026-11-14",
