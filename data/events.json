@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-14T18:20:49.753Z",
-  "from": "2026-11-14T18:20:49Z",
-  "to": "2026-11-28T18:20:49Z",
+  "updated": "2026-11-14T19:20:48.264Z",
+  "from": "2026-11-14T19:20:47Z",
+  "to": "2026-11-28T19:20:47Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv1AvZkoyGkeWm7Qv",
-      "name": "The Bodyguard (Touring)",
-      "date": "2026-11-14",
-      "time": "14:00",
-      "status": "onsale",
-      "kind": "Arts",
-      "genre": "Theatre",
-      "venue": "Harrison Opera House",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/the-bodyguard-touring-norfolk-virginia-11-14-2026/event/01006479BDB84681",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/c82/88e88dd8-ee10-43c0-af7c-f8e506694c82_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "Z7r9jZ1AA7d8U",
       "name": "Old Dominion Monarchs Mens Basketball vs. Longwood Lancers Mens Basketball",
