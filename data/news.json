@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-15T21:53:59.948Z",
+  "updated": "2026-11-15T22:20:48.259Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Sydney Sweeney has great jeans. Who made them? (Psst: Workers)",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+          "source": "NPR",
+          "published": "2026-11-15T22:07:55.000Z"
+        },
         {
           "title": "Czechs rally against plan to switch funding of public media",
           "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-15T19:32:39.000Z"
-        },
-        {
-          "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
-          "link": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
-          "source": "NPR",
-          "published": "2026-11-15T17:45:27.000Z"
         }
       ]
     },

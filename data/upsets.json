@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T21:54:00.372Z",
+  "updated": "2026-11-15T22:20:48.762Z",
   "minLine": 7,
   "days": [
     "2026-11-14",
@@ -246,6 +246,28 @@
         "abbr": "SF",
         "rank": null,
         "score": 68
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-15",
+      "id": "401911251",
+      "line": 7.5,
+      "details": "SLU -7.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911251/high-point-saint-louis",
+      "winner": {
+        "id": "2272",
+        "name": "High Point",
+        "abbr": "HPU",
+        "rank": null,
+        "score": 68
+      },
+      "loser": {
+        "id": "139",
+        "name": "Saint Louis",
+        "abbr": "SLU",
+        "rank": null,
+        "score": 58
       }
     },
     {
