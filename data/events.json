@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-15T02:20:48.754Z",
-  "from": "2026-11-15T02:20:48Z",
-  "to": "2026-11-29T02:20:48Z",
+  "updated": "2026-11-15T03:20:50.348Z",
+  "from": "2026-11-15T03:20:49Z",
+  "to": "2026-11-29T03:20:49Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -661,6 +661,20 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe3pZ",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/bd6/32e3c503-5c23-4d1b-96fe-887a218c0bd6_1035051_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1A70fGw",
+      "name": "Justin Silva",
+      "date": "2026-11-28",
+      "time": "21:30",
+      "status": "onsale",
+      "kind": "Other",
+      "genre": null,
+      "venue": "Funny Bone Comedy Club - Virginia Beach",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70fGw",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_PORTRAIT_16_9.jpg"
     },
     {
       "id": "Z7r9jZ1A7-yFM",

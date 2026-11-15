@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T02:20:46.171Z",
+  "updated": "2026-11-15T03:20:46.908Z",
   "minLine": 7,
   "days": [
     "2026-11-13",
@@ -971,20 +971,20 @@
     "cfb:401856864": {
       "date": "2026-11-14",
       "fav": "254",
-      "line": 1.5,
-      "details": "UTAH -1.5"
+      "line": 2.5,
+      "details": "UTAH -2.5"
     },
     "cfb:401860917": {
       "date": "2026-11-14",
       "fav": "265",
-      "line": 8.5,
-      "details": "WSU -8.5"
+      "line": 7.5,
+      "details": "WSU -7.5"
     },
     "cfb:401864537": {
       "date": "2026-11-14",
       "fav": "2449",
-      "line": 7,
-      "details": "NDSU -7"
+      "line": 7.5,
+      "details": "NDSU -7.5"
     },
     "cbb:401919004": {
       "date": "2026-11-14",
@@ -1369,6 +1369,16 @@
       "line": null
     },
     "cbb:401927377": {
+      "date": "2026-11-14",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929444": {
+      "date": "2026-11-14",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929400": {
       "date": "2026-11-14",
       "fav": null,
       "line": null
