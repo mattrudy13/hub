@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T22:20:48.259Z",
+  "updated": "2026-11-15T23:20:45.601Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Sydney Sweeney has great jeans. Who made them? (Psst: Workers)",
-          "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+          "title": "'Steering casualty' preceded New Orleans cruise ship collision, says NTSB",
+          "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-15T22:57:27.000Z"
+        },
+        {
+          "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
           "source": "NPR",
-          "published": "2026-11-15T22:07:55.000Z"
+          "published": "2026-11-15T22:41:22.000Z"
         },
         {
-          "title": "Czechs rally against plan to switch funding of public media",
-          "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+          "title": "Police ban protests near 10 schools and five universities in Paris",
+          "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-15T21:03:40.000Z"
-        },
-        {
-          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-          "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-15T19:32:39.000Z"
+          "published": "2026-11-15T22:28:54.000Z"
         }
       ]
     },
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+          "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+          "source": "Ars Technica",
+          "published": "2026-11-15T23:11:54.000Z"
+        },
+        {
           "title": "Listen to this: Armand Hammer’s Snakes & Ladders",
           "link": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
           "source": "The Verge",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
           "source": "The Verge",
           "published": "2026-11-15T21:05:02.000Z"
-        },
-        {
-          "title": "How the world’s fires changed while humanity hit pause",
-          "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
-          "source": "Ars Technica",
-          "published": "2026-11-15T12:07:34.000Z"
         }
       ]
     }
