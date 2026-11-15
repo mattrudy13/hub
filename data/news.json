@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T05:20:53.040Z",
+  "updated": "2026-11-15T09:36:33.222Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+          "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-15T09:26:37.000Z"
+        },
+        {
+          "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-15T08:17:41.000Z"
+        },
+        {
           "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
           "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
           "source": "NPR",
           "published": "2026-11-15T04:28:45.000Z"
-        },
-        {
-          "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-          "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-15T03:21:04.000Z"
-        },
-        {
-          "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-          "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-15T02:49:45.000Z"
         }
       ]
     },

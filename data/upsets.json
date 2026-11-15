@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T05:20:53.781Z",
+  "updated": "2026-11-15T09:36:33.549Z",
   "minLine": 7,
   "days": [
     "2026-11-14",
@@ -158,6 +158,28 @@
         "abbr": "WIN",
         "rank": null,
         "score": 72
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-14",
+      "id": "401911455",
+      "line": 9.5,
+      "details": "NEV -9.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911455/utah-valley-nevada",
+      "winner": {
+        "id": "3084",
+        "name": "Utah Valley",
+        "abbr": "UVU",
+        "rank": null,
+        "score": 73
+      },
+      "loser": {
+        "id": "2440",
+        "name": "Nevada",
+        "abbr": "NEV",
+        "rank": null,
+        "score": 71
       }
     },
     {
@@ -1020,8 +1042,8 @@
     "cbb:401925896": {
       "date": "2026-11-15",
       "fav": "2247",
-      "line": 11.5,
-      "details": "GAST -11.5"
+      "line": 10.5,
+      "details": "GAST -10.5"
     },
     "cbb:401924858": {
       "date": "2026-11-15",
@@ -1038,8 +1060,8 @@
     "cbb:401920235": {
       "date": "2026-11-15",
       "fav": "104",
-      "line": 3.5,
-      "details": "BU -3.5"
+      "line": 2.5,
+      "details": "BU -2.5"
     },
     "cbb:401909774": {
       "date": "2026-11-15",
@@ -1110,8 +1132,8 @@
     "cbb:401911251": {
       "date": "2026-11-15",
       "fav": "139",
-      "line": 6.5,
-      "details": "SLU -6.5"
+      "line": 7.5,
+      "details": "SLU -7.5"
     },
     "cbb:401909493": {
       "date": "2026-11-15",
@@ -1128,8 +1150,8 @@
     "cbb:401917531": {
       "date": "2026-11-15",
       "fav": "2351",
-      "line": 18.5,
-      "details": "LMU -18.5"
+      "line": 17.5,
+      "details": "LMU -17.5"
     },
     "cbb:401917528": {
       "date": "2026-11-15",
@@ -1146,8 +1168,8 @@
     "cbb:401917175": {
       "date": "2026-11-15",
       "fav": "213",
-      "line": 23.5,
-      "details": "PSU -23.5"
+      "line": 24.5,
+      "details": "PSU -24.5"
     },
     "cbb:401926073": {
       "date": "2026-11-15",
@@ -1188,14 +1210,32 @@
     "cbb:401920896": {
       "date": "2026-11-15",
       "fav": "275",
-      "line": 29.5,
-      "details": "WIS -29.5"
+      "line": 28.5,
+      "details": "WIS -28.5"
     },
     "cbb:401911472": {
       "date": "2026-11-15",
       "fav": "23",
       "line": 12.5,
       "details": "SJSU -12.5"
+    },
+    "cbb:401912210": {
+      "date": "2026-11-15",
+      "fav": "44",
+      "line": 1.5,
+      "details": "AMER -1.5"
+    },
+    "cbb:401921168": {
+      "date": "2026-11-15",
+      "fav": "2010",
+      "line": 2.5,
+      "details": "AAMU -2.5"
+    },
+    "cbb:401919825": {
+      "date": "2026-11-15",
+      "fav": "256",
+      "line": 15.5,
+      "details": "JMU -15.5"
     }
   }
 }
