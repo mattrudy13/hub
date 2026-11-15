@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T23:20:47.963Z",
+  "updated": "2026-11-15T00:20:46.073Z",
   "minLine": 7,
   "days": [
     "2026-11-13",
@@ -136,6 +136,28 @@
         "abbr": "CLT",
         "rank": null,
         "score": 60
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-11-14",
+      "id": "401870752",
+      "line": 7.5,
+      "details": "JXST -7.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401870752/jax-state-western-ky",
+      "winner": {
+        "id": "98",
+        "name": "Western KY",
+        "abbr": "WKU",
+        "rank": null,
+        "score": 35
+      },
+      "loser": {
+        "id": "55",
+        "name": "Jax State",
+        "abbr": "JXST",
+        "rank": null,
+        "score": 24
       }
     },
     {
@@ -833,8 +855,8 @@
     "cfb:401864538": {
       "date": "2026-11-14",
       "fav": "2005",
-      "line": 14,
-      "details": "AF -14"
+      "line": 15.5,
+      "details": "AF -15.5"
     },
     "cfb:401871100": {
       "date": "2026-11-14",
@@ -857,8 +879,8 @@
     "cfb:401858519": {
       "date": "2026-11-14",
       "fav": "2294",
-      "line": 18.5,
-      "details": "IOWA -18.5"
+      "line": 19.5,
+      "details": "IOWA -19.5"
     },
     "cfb:401858299": {
       "date": "2026-11-14",
@@ -869,14 +891,14 @@
     "cfb:401864539": {
       "date": "2026-11-14",
       "fav": "167",
-      "line": 17.5,
-      "details": "UNM -17.5"
+      "line": 19.5,
+      "details": "UNM -19.5"
     },
     "cfb:401856882": {
       "date": "2026-11-14",
       "fav": "2579",
-      "line": 7.5,
-      "details": "SC -7.5"
+      "line": 7,
+      "details": "SC -7"
     },
     "cfb:401862827": {
       "date": "2026-11-14",
@@ -1217,8 +1239,8 @@
     "cbb:401911188": {
       "date": "2026-11-14",
       "fav": "2132",
-      "line": 6.5,
-      "details": "CIN -6.5"
+      "line": 5.5,
+      "details": "CIN -5.5"
     },
     "cbb:401925079": {
       "date": "2026-11-14",
@@ -1259,8 +1281,8 @@
     "cbb:401911455": {
       "date": "2026-11-14",
       "fav": "2440",
-      "line": 10.5,
-      "details": "NEV -10.5"
+      "line": 9.5,
+      "details": "NEV -9.5"
     },
     "cbb:401929362": {
       "date": "2026-11-14",

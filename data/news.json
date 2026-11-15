@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T23:20:47.047Z",
+  "updated": "2026-11-15T00:20:45.619Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
+          "source": "NPR",
+          "published": "2026-11-15T00:03:52.000Z"
+        },
+        {
           "title": "How telecoms upgrade work sparked US flight chaos",
           "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-14T23:11:27.000Z"
         },
         {
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-14T22:37:25.000Z"
-        },
-        {
-          "title": "US has lost measles elimination status, global health authorities say",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+          "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
           "source": "NPR",
-          "published": "2026-11-14T22:15:02.000Z"
+          "published": "2026-11-14T22:48:38.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "SpaceX successfully catches Starship rocket, in milestone for the space industry",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d207a64b-a8d1-43ca-8ed3-030683015ffa&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-14T23:55:28.000Z"
+        },
+        {
           "title": "China’s hottest stocks have one thing in common: names that sound like sheep",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=057c3e72-9323-463e-89a9-44d7137c97ef&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-14T18:12:03.000Z"
-        },
-        {
-          "title": "These 6 battered AI stocks could bounce back big, analyst says",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5bf81f4c-cecb-447d-9e50-306c6822e3fe&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-14T17:08:41.000Z"
         },
         {
           "title": "Retailers are turning to entertainment to win shoppers’ attention",

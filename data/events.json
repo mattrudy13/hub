@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-14T23:20:50.694Z",
-  "from": "2026-11-14T23:20:50Z",
-  "to": "2026-11-28T23:20:50Z",
+  "updated": "2026-11-15T00:20:48.821Z",
+  "from": "2026-11-15T00:20:48Z",
+  "to": "2026-11-29T00:20:48Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv177Z_oGkRjQvF5",
-      "name": "1776 - 7pm - Classic Movie Nights!",
-      "date": "2026-11-14",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Other",
-      "genre": "Music",
-      "venue": "American Theatre",
-      "city": "Hampton",
-      "url": "https://www.ticketmaster.com/1776-7pm-classic-movie-nights-hampton-virginia-11-14-2026/event/0100651BDC68120B",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/aae/b503db1a-c908-473b-a218-96d123cd5aae_105501_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv168vPvybgZ7G722",
       "name": "Virginia Arts Festival - Gabriela Allemana",
@@ -675,6 +661,76 @@
       "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-11-27-2026/event/010065350CAE6692",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1A70foY",
+      "name": "Justin Silva",
+      "date": "2026-11-28",
+      "time": "18:30",
+      "status": "onsale",
+      "kind": "Other",
+      "genre": null,
+      "venue": "Funny Bone Comedy Club - Virginia Beach",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70foY",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1A7PkZx",
+      "name": "Gary Owen",
+      "date": "2026-11-28",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": null,
+      "venue": "Rivers Casino Portsmouth Event Center",
+      "city": "Portsmouth",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PkZx",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/abf/6eb4a789-e1f0-4d3c-aa1e-fca35eff7abf_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkfxGkd-Jna2",
+      "name": "Legends on the Block",
+      "date": "2026-11-28",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Comedy",
+      "genre": "Comedy",
+      "venue": "Hampton Coliseum",
+      "city": "Hampton",
+      "url": "https://www.ticketmaster.com/legends-on-the-block-hampton-virginia-11-28-2026/event/01006522E19AA24F",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/651/b641d2ee-f7eb-4d9e-ba65-77ba83785651_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkfAGkdp8IJF",
+      "name": "Norfolk Admirals vs. Greensboro Gargoyles",
+      "date": "2026-11-28",
+      "time": "19:05",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Hockey",
+      "venue": "Scope Arena",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/norfolk-admirals-vs-greensboro-gargoyles-norfolk-virginia-11-28-2026/event/01006505D6428988",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/a82/1bbe9229-3e86-41b2-89a6-3f9ee9488a82_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1A7-yFM",
+      "name": "Old Dominion Monarchs Football vs. Southern Miss Golden Eagles Football",
+      "date": "2026-11-28",
+      "time": null,
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Miscellaneous",
+      "venue": "Kornblau Field at S.B. Ballard Stadium",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-yFM",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/db5/5acfb9a3-4315-40c6-824f-e0fd31bd5db5_723691_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
