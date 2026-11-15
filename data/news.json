@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T21:20:45.551Z",
+  "updated": "2026-11-15T21:53:59.948Z",
   "failed": [],
   "sections": [
     {
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Listen to this: Armand Hammer’s Snakes & Ladders",
+          "link": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+          "source": "The Verge",
+          "published": "2026-11-15T21:49:22.000Z"
+        },
+        {
           "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
           "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
           "source": "The Verge",
           "published": "2026-11-15T21:05:02.000Z"
-        },
-        {
-          "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-          "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-          "source": "The Verge",
-          "published": "2026-11-15T20:43:49.000Z"
         },
         {
           "title": "How the world’s fires changed while humanity hit pause",
