@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-15T04:20:46.847Z",
+  "updated": "2026-11-15T05:20:53.040Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+          "source": "NPR",
+          "published": "2026-11-15T04:28:45.000Z"
+        },
         {
           "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
           "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-15T02:49:45.000Z"
-        },
-        {
-          "title": "FAA ground stop disrupts college football",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
-          "source": "NPR",
-          "published": "2026-11-15T01:13:59.000Z"
         }
       ]
     },
