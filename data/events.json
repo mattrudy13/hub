@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-15T17:20:47.601Z",
-  "from": "2026-11-15T17:20:47Z",
-  "to": "2026-11-29T17:20:47Z",
+  "updated": "2026-11-15T18:20:50.675Z",
+  "from": "2026-11-15T18:20:50Z",
+  "to": "2026-11-29T18:20:50Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv1AvZkoyGkeWm0Q8",
-      "name": "The Bodyguard (Touring)",
-      "date": "2026-11-15",
-      "time": "13:00",
-      "status": "onsale",
-      "kind": "Arts",
-      "genre": "Theatre",
-      "venue": "Harrison Opera House",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/the-bodyguard-touring-norfolk-virginia-11-15-2026/event/01006479BDBA4690",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/c82/88e88dd8-ee10-43c0-af7c-f8e506694c82_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "Z7r9jZ1AA7-16",
       "name": "Old Dominion Monarchs Womens Basketball vs. Virginia Cavaliers Womens Basketball",
