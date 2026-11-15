@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-15T01:59:20.784Z",
-  "from": "2026-11-15T01:59:20Z",
-  "to": "2026-11-29T01:59:20Z",
+  "updated": "2026-11-15T02:20:48.754Z",
+  "from": "2026-11-15T02:20:48Z",
+  "to": "2026-11-29T02:20:48Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1AAZoCA",
-      "name": "Level Up (18 and Over)",
-      "date": "2026-11-14",
-      "time": "21:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": null,
-      "venue": "The Norva",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZoCA",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/7c7/b33e9e76-6d94-47ba-bfe7-ccc7239637c7_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZkoyGkeWm0Q8",
       "name": "The Bodyguard (Touring)",
@@ -661,6 +647,20 @@
       "url": "https://www.ticketmaster.com/wilder-horses-a-tribute-to-the-virginia-beach-virginia-11-28-2026/event/01006528D61CCD9F",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/e/921/39f99cd3-f4fc-4460-8636-3f4db6085921_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1AAe3pZ",
+      "name": "Emo Nite",
+      "date": "2026-11-28",
+      "time": "21:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": null,
+      "venue": "The Norva",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe3pZ",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/bd6/32e3c503-5c23-4d1b-96fe-887a218c0bd6_1035051_RETINA_PORTRAIT_16_9.jpg"
     },
     {
       "id": "Z7r9jZ1A7-yFM",

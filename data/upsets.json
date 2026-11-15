@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T01:59:18.621Z",
+  "updated": "2026-11-15T02:20:46.171Z",
   "minLine": 7,
   "days": [
     "2026-11-13",
@@ -48,6 +48,28 @@
         "abbr": "GMU",
         "rank": null,
         "score": 61
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-14",
+      "id": "401925774",
+      "line": 10.5,
+      "details": "DAV -10.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401925774/howard-davidson",
+      "winner": {
+        "id": "47",
+        "name": "Howard",
+        "abbr": "HOW",
+        "rank": null,
+        "score": 64
+      },
+      "loser": {
+        "id": "2166",
+        "name": "Davidson",
+        "abbr": "DAV",
+        "rank": null,
+        "score": 58
       }
     },
     {
@@ -114,6 +136,28 @@
         "abbr": "WIS",
         "rank": null,
         "score": 21
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-14",
+      "id": "401921063",
+      "line": 8.5,
+      "details": "SF -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921063/portland-st-san-francisco",
+      "winner": {
+        "id": "2502",
+        "name": "Portland St",
+        "abbr": "PRST",
+        "rank": null,
+        "score": 84
+      },
+      "loser": {
+        "id": "2539",
+        "name": "San Francisco",
+        "abbr": "SF",
+        "rank": null,
+        "score": 68
       }
     },
     {
