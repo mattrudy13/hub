@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T00:20:46.073Z",
+  "updated": "2026-11-15T01:20:46.875Z",
   "minLine": 7,
   "days": [
     "2026-11-13",
@@ -150,7 +150,7 @@
         "name": "Western KY",
         "abbr": "WKU",
         "rank": null,
-        "score": 35
+        "score": 34
       },
       "loser": {
         "id": "55",
@@ -909,8 +909,8 @@
     "cfb:401856863": {
       "date": "2026-11-14",
       "fav": "197",
-      "line": 3.5,
-      "details": "OKST -3.5"
+      "line": 4,
+      "details": "OKST -4"
     },
     "cfb:401860915": {
       "date": "2026-11-14",
@@ -1310,6 +1310,16 @@
       "line": null
     },
     "cbb:401934189": {
+      "date": "2026-11-14",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401925948": {
+      "date": "2026-11-14",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401925048": {
       "date": "2026-11-14",
       "fav": null,
       "line": null
