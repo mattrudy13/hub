@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T20:20:45.666Z",
+  "updated": "2026-11-15T21:20:45.551Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Czechs rally against plan to switch funding of public media",
+          "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-15T21:03:40.000Z"
+        },
+        {
           "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
           "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-15T19:32:39.000Z"
-        },
-        {
-          "title": "Ronaldinho makes comeback in Ravenna win",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-15T19:31:48.000Z"
         },
         {
           "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+          "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+          "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
           "source": "The Verge",
-          "published": "2026-11-15T19:15:43.000Z"
+          "published": "2026-11-15T21:05:02.000Z"
         },
         {
-          "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
-          "link": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+          "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+          "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
           "source": "The Verge",
-          "published": "2026-11-15T17:00:00.000Z"
+          "published": "2026-11-15T20:43:49.000Z"
         },
         {
           "title": "How the world’s fires changed while humanity hit pause",
