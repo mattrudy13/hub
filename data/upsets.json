@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T19:20:47.429Z",
+  "updated": "2026-11-15T20:20:46.407Z",
   "minLine": 7,
   "days": [
     "2026-11-14",
@@ -114,6 +114,28 @@
         "abbr": "DAV",
         "rank": null,
         "score": 58
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-15",
+      "id": "401918949",
+      "line": 9.5,
+      "details": "LOU -9.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401918949/louisville-memphis",
+      "winner": {
+        "id": "235",
+        "name": "Memphis",
+        "abbr": "MEM",
+        "rank": null,
+        "score": 98
+      },
+      "loser": {
+        "id": "97",
+        "name": "Louisville",
+        "abbr": "LOU",
+        "rank": 10,
+        "score": 78
       }
     },
     {

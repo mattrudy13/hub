@@ -1,37 +1,9 @@
 {
-  "updated": "2026-11-15T19:20:50.554Z",
-  "from": "2026-11-15T19:20:50Z",
-  "to": "2026-11-29T19:20:50Z",
+  "updated": "2026-11-15T20:20:49.672Z",
+  "from": "2026-11-15T20:20:49Z",
+  "to": "2026-11-29T20:20:49Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv177Z_3Gkn9Rc5k",
-      "name": "Symphonicity: The Long Road: Music in Search of Peace Chapter 2",
-      "date": "2026-11-15",
-      "time": "15:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Classical",
-      "venue": "Sandler Center For The Performing Arts",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/symphonicity-the-long-road-music-in-virginia-beach-virginia-11-15-2026/event/0100652A97BED2C6",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/e/64e/df5e42ad-0823-4179-978a-c4492e5e464e_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "vv177Z_oGkS73qZ3",
-      "name": "UNITY GOSPEL CHOIR",
-      "date": "2026-11-15",
-      "time": "15:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": null,
-      "venue": "American Theatre",
-      "city": "Hampton",
-      "url": "https://www.ticketmaster.com/unity-gospel-choir-hampton-virginia-11-15-2026/event/0100651CC449D012",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZkoyGkeWmVQ3",
       "name": "The Bodyguard (Touring)",
