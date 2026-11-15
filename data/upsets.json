@@ -1,11 +1,55 @@
 {
-  "updated": "2026-11-15T03:20:46.908Z",
+  "updated": "2026-11-15T04:20:47.399Z",
   "minLine": 7,
   "days": [
     "2026-11-13",
     "2026-11-14"
   ],
   "upsets": [
+    {
+      "league": "cfb",
+      "date": "2026-11-14",
+      "id": "401864539",
+      "line": 19.5,
+      "details": "UNM -19.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401864539/unlv-new-mexico",
+      "winner": {
+        "id": "2439",
+        "name": "UNLV",
+        "abbr": "UNLV",
+        "rank": null,
+        "score": 21
+      },
+      "loser": {
+        "id": "167",
+        "name": "New Mexico",
+        "abbr": "UNM",
+        "rank": null,
+        "score": 17
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-11-14",
+      "id": "401858299",
+      "line": 17.5,
+      "details": "VT -17.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858299/stanford-virginia-tech",
+      "winner": {
+        "id": "24",
+        "name": "Stanford",
+        "abbr": "STAN",
+        "rank": null,
+        "score": 40
+      },
+      "loser": {
+        "id": "259",
+        "name": "Virginia Tech",
+        "abbr": "VT",
+        "rank": null,
+        "score": 22
+      }
+    },
     {
       "league": "cfb",
       "date": "2026-11-14",
