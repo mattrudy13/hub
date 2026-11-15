@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T16:20:49.547Z",
+  "updated": "2026-11-15T17:16:11.579Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Czechs rally against plan to switch funding of public media",
+          "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-15T16:36:42.000Z"
+        },
+        {
           "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
           "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-15T15:57:03.000Z"
-        },
-        {
-          "title": "How telecoms upgrade work sparked US flight chaos",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-15T14:57:15.000Z"
         },
         {
           "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
-          "link": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+          "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+          "link": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-15T14:00:00.000Z"
+          "published": "2026-11-15T17:00:00.000Z"
         },
         {
-          "title": "The Sony Aibo was a robot revolution dressed like a dog",
-          "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+          "title": "Apple’s first smart glasses are coming together",
+          "link": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
           "source": "The Verge",
-          "published": "2026-11-15T13:57:30.000Z"
+          "published": "2026-11-15T16:59:16.000Z"
         },
         {
           "title": "How the world’s fires changed while humanity hit pause",
