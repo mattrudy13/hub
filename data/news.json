@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T19:25:23.183Z",
+  "updated": "2026-11-16T20:21:03.688Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+          "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+          "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-16T19:16:52.000Z"
+          "published": "2026-11-16T20:03:30.000Z"
+        },
+        {
+          "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+          "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-16T19:30:30.000Z"
         },
         {
           "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
           "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
           "source": "NPR",
           "published": "2026-11-16T18:49:26.000Z"
-        },
-        {
-          "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-          "source": "NPR",
-          "published": "2026-11-16T18:04:50.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "How will AI shake up the economy? Warsh says Fed is starting to figure it out.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=529caabe-22f3-45fe-84d7-659853a27a3b&mod=mw_rss_bulletins",
+          "title": "Dow down 700 points, S&P 500 and Nasdaq sharply lower in final hour of trading",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c5be318b-40b3-4e77-b22c-2757de6524fe&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-16T17:58:21.000Z"
+          "published": "2026-11-16T20:01:14.000Z"
+        },
+        {
+          "title": "Bond-market volatility is exploding higher. It could be the new normal.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b4747394-bb3f-4084-9cbd-9af8038e675d&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-16T19:42:55.000Z"
         },
         {
           "title": "Robert Pattinson cast as next James Bond",
           "link": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
           "source": "CNBC",
           "published": "2026-11-16T17:25:51.000Z"
-        },
-        {
-          "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-          "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-          "source": "CNBC",
-          "published": "2026-11-16T17:14:13.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "US moves to cut China’s remote access to AI chips",
-          "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+          "title": "Supreme Court keeps injunction against DEI grant defunding in place",
+          "link": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
           "source": "Ars Technica",
-          "published": "2026-11-16T19:10:09.000Z"
+          "published": "2026-11-16T19:54:21.000Z"
         },
         {
-          "title": "Apple is adding face unlock to the iPhone Duo — without new hardware",
-          "link": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta",
+          "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+          "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-16T18:44:16.000Z"
+          "published": "2026-11-16T19:50:47.000Z"
         },
         {
-          "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-          "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+          "title": "Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist",
+          "link": "https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027",
           "source": "The Verge",
-          "published": "2026-11-16T18:43:35.000Z"
+          "published": "2026-11-16T19:49:12.000Z"
         }
       ]
     }
