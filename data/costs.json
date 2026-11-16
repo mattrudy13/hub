@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T21:54:03.582Z",
+  "updated": "2026-11-16T19:21:09.268Z",
   "failed": [],
   "anchors": {
     "groceries": {
@@ -52,966 +52,980 @@
       "payThrough": "2021-Q1",
       "pay": 4458,
       "bills": {
-        "rent": 1423,
+        "rent": 1410,
         "groceries": 345,
         "electricity": 117,
         "insurance": 82,
         "gas": 99
       },
-      "total": 2066,
-      "share": 46.3
+      "total": 2054,
+      "share": 46.1
     },
     {
       "month": "2021-02",
       "payThrough": "2021-Q1",
       "pay": 4458,
       "bills": {
-        "rent": 1430,
+        "rent": 1417,
         "groceries": 347,
         "electricity": 117,
         "insurance": 84,
         "gas": 107
       },
-      "total": 2084,
-      "share": 46.8
+      "total": 2072,
+      "share": 46.5
     },
     {
       "month": "2021-03",
       "payThrough": "2021-Q1",
       "pay": 4458,
       "bills": {
-        "rent": 1442,
+        "rent": 1429,
         "groceries": 348,
         "electricity": 118,
         "insurance": 84,
         "gas": 120
       },
-      "total": 2112,
-      "share": 47.4
+      "total": 2100,
+      "share": 47.1
     },
     {
       "month": "2021-04",
       "payThrough": "2021-Q2",
       "pay": 4496,
       "bills": {
-        "rent": 1455,
+        "rent": 1443,
         "groceries": 349,
         "electricity": 118,
         "insurance": 85,
         "gas": 121
       },
-      "total": 2127,
-      "share": 47.3
+      "total": 2115,
+      "share": 47
     },
     {
       "month": "2021-05",
       "payThrough": "2021-Q2",
       "pay": 4496,
       "bills": {
-        "rent": 1485,
+        "rent": 1473,
         "groceries": 350,
         "electricity": 119,
         "insurance": 85,
         "gas": 127
       },
-      "total": 2165,
-      "share": 48.2
+      "total": 2153,
+      "share": 47.9
     },
     {
       "month": "2021-06",
       "payThrough": "2021-Q2",
       "pay": 4496,
       "bills": {
-        "rent": 1524,
+        "rent": 1512,
         "groceries": 353,
         "electricity": 121,
         "insurance": 85,
         "gas": 129
       },
-      "total": 2213,
-      "share": 49.2
+      "total": 2201,
+      "share": 48.9
     },
     {
       "month": "2021-07",
       "payThrough": "2021-Q3",
       "pay": 4549,
       "bills": {
-        "rent": 1560,
+        "rent": 1547,
         "groceries": 355,
         "electricity": 123,
         "insurance": 85,
         "gas": 131
       },
-      "total": 2253,
-      "share": 49.5
+      "total": 2241,
+      "share": 49.3
     },
     {
       "month": "2021-08",
       "payThrough": "2021-Q3",
       "pay": 4549,
       "bills": {
-        "rent": 1595,
+        "rent": 1582,
         "groceries": 355,
         "electricity": 124,
         "insurance": 84,
         "gas": 132
       },
-      "total": 2291,
-      "share": 50.4
+      "total": 2278,
+      "share": 50.1
     },
     {
       "month": "2021-09",
       "payThrough": "2021-Q3",
       "pay": 4549,
       "bills": {
-        "rent": 1611,
+        "rent": 1598,
         "groceries": 359,
         "electricity": 125,
         "insurance": 84,
         "gas": 134
       },
-      "total": 2314,
-      "share": 50.9
+      "total": 2301,
+      "share": 50.6
     },
     {
       "month": "2021-10",
       "payThrough": "2021-Q4",
       "pay": 4600,
       "bills": {
-        "rent": 1635,
+        "rent": 1620,
         "groceries": 364,
         "electricity": 125,
         "insurance": 84,
         "gas": 140
       },
-      "total": 2348,
-      "share": 51
+      "total": 2333,
+      "share": 50.7
     },
     {
       "month": "2021-11",
       "payThrough": "2021-Q4",
       "pay": 4600,
       "bills": {
-        "rent": 1637,
+        "rent": 1624,
         "groceries": 364,
         "electricity": 124,
         "insurance": 85,
         "gas": 145
       },
-      "total": 2355,
-      "share": 51.2
+      "total": 2342,
+      "share": 50.9
     },
     {
       "month": "2021-12",
       "payThrough": "2021-Q4",
       "pay": 4600,
       "bills": {
-        "rent": 1639,
+        "rent": 1626,
         "groceries": 365,
         "electricity": 124,
         "insurance": 85,
         "gas": 141
       },
-      "total": 2354,
-      "share": 51.2
+      "total": 2341,
+      "share": 50.9
     },
     {
       "month": "2022-01",
       "payThrough": "2022-Q1",
       "pay": 4674,
       "bills": {
-        "rent": 1631,
+        "rent": 1616,
         "groceries": 370,
         "electricity": 127,
         "insurance": 86,
         "gas": 141
       },
-      "total": 2353,
-      "share": 50.4
+      "total": 2339,
+      "share": 50.1
     },
     {
       "month": "2022-02",
       "payThrough": "2022-Q1",
       "pay": 4674,
       "bills": {
-        "rent": 1633,
+        "rent": 1618,
         "groceries": 375,
         "electricity": 128,
         "insurance": 87,
         "gas": 152
       },
-      "total": 2374,
-      "share": 50.8
+      "total": 2359,
+      "share": 50.5
     },
     {
       "month": "2022-03",
       "payThrough": "2022-Q1",
       "pay": 4674,
       "bills": {
-        "rent": 1636,
+        "rent": 1621,
         "groceries": 381,
         "electricity": 128,
         "insurance": 88,
         "gas": 183
       },
-      "total": 2415,
-      "share": 51.7
+      "total": 2400,
+      "share": 51.4
     },
     {
       "month": "2022-04",
       "payThrough": "2022-Q2",
       "pay": 4715,
       "bills": {
-        "rent": 1659,
+        "rent": 1644,
         "groceries": 386,
         "electricity": 130,
         "insurance": 88,
         "gas": 175
       },
-      "total": 2438,
-      "share": 51.7
+      "total": 2423,
+      "share": 51.4
     },
     {
       "month": "2022-05",
       "payThrough": "2022-Q2",
       "pay": 4715,
       "bills": {
-        "rent": 1685,
+        "rent": 1670,
         "groceries": 390,
         "electricity": 133,
         "insurance": 89,
         "gas": 189
       },
-      "total": 2486,
-      "share": 52.7
+      "total": 2471,
+      "share": 52.4
     },
     {
       "month": "2022-06",
       "payThrough": "2022-Q2",
       "pay": 4715,
       "bills": {
-        "rent": 1713,
+        "rent": 1698,
         "groceries": 395,
         "electricity": 139,
         "insurance": 90,
         "gas": 207
       },
-      "total": 2544,
-      "share": 54
+      "total": 2530,
+      "share": 53.7
     },
     {
       "month": "2022-07",
       "payThrough": "2022-Q3",
       "pay": 4827,
       "bills": {
-        "rent": 1726,
+        "rent": 1711,
         "groceries": 401,
         "electricity": 145,
         "insurance": 91,
         "gas": 189
       },
-      "total": 2552,
-      "share": 52.9
+      "total": 2538,
+      "share": 52.6
     },
     {
       "month": "2022-08",
       "payThrough": "2022-Q3",
       "pay": 4827,
       "bills": {
-        "rent": 1733,
+        "rent": 1718,
         "groceries": 403,
         "electricity": 146,
         "insurance": 92,
         "gas": 163
       },
-      "total": 2537,
-      "share": 52.5
+      "total": 2521,
+      "share": 52.2
     },
     {
       "month": "2022-09",
       "payThrough": "2022-Q3",
       "pay": 4827,
       "bills": {
-        "rent": 1741,
+        "rent": 1725,
         "groceries": 407,
         "electricity": 146,
         "insurance": 93,
         "gas": 150
       },
-      "total": 2537,
-      "share": 52.6
+      "total": 2521,
+      "share": 52.2
     },
     {
       "month": "2022-10",
       "payThrough": "2022-Q4",
       "pay": 4820,
       "bills": {
-        "rent": 1747,
+        "rent": 1732,
         "groceries": 410,
         "electricity": 145,
         "insurance": 95,
         "gas": 148
       },
-      "total": 2546,
-      "share": 52.8
+      "total": 2530,
+      "share": 52.5
     },
     {
       "month": "2022-11",
       "payThrough": "2022-Q4",
       "pay": 4820,
       "bills": {
-        "rent": 1736,
+        "rent": 1722,
         "groceries": 410,
         "electricity": 143,
         "insurance": 96,
         "gas": 149
       },
-      "total": 2534,
-      "share": 52.6
+      "total": 2519,
+      "share": 52.3
     },
     {
       "month": "2022-12",
       "payThrough": "2022-Q4",
       "pay": 4820,
       "bills": {
-        "rent": 1729,
+        "rent": 1714,
         "groceries": 411,
         "electricity": 144,
         "insurance": 97,
         "gas": 133
       },
-      "total": 2514,
-      "share": 52.2
+      "total": 2499,
+      "share": 51.8
     },
     {
       "month": "2023-01",
       "payThrough": "2023-Q1",
       "pay": 4931,
       "bills": {
-        "rent": 1723,
+        "rent": 1707,
         "groceries": 414,
         "electricity": 144,
         "insurance": 98,
         "gas": 144
       },
-      "total": 2524,
-      "share": 51.2
+      "total": 2507,
+      "share": 50.8
     },
     {
       "month": "2023-02",
       "payThrough": "2023-Q1",
       "pay": 4931,
       "bills": {
-        "rent": 1734,
+        "rent": 1718,
         "groceries": 415,
         "electricity": 145,
         "insurance": 100,
         "gas": 145
       },
-      "total": 2540,
-      "share": 51.5
+      "total": 2523,
+      "share": 51.2
     },
     {
       "month": "2023-03",
       "payThrough": "2023-Q1",
       "pay": 4931,
       "bills": {
-        "rent": 1742,
+        "rent": 1726,
         "groceries": 414,
         "electricity": 142,
         "insurance": 101,
         "gas": 145
       },
-      "total": 2544,
-      "share": 51.6
+      "total": 2528,
+      "share": 51.3
     },
     {
       "month": "2023-04",
       "payThrough": "2023-Q2",
       "pay": 4951,
       "bills": {
-        "rent": 1758,
+        "rent": 1743,
         "groceries": 416,
         "electricity": 141,
         "insurance": 102,
         "gas": 155
       },
-      "total": 2572,
-      "share": 52
+      "total": 2557,
+      "share": 51.6
     },
     {
       "month": "2023-05",
       "payThrough": "2023-Q2",
       "pay": 4951,
       "bills": {
-        "rent": 1768,
+        "rent": 1753,
         "groceries": 416,
         "electricity": 140,
         "insurance": 104,
         "gas": 149
       },
-      "total": 2578,
-      "share": 52.1
+      "total": 2562,
+      "share": 51.8
     },
     {
       "month": "2023-06",
       "payThrough": "2023-Q2",
       "pay": 4951,
       "bills": {
-        "rent": 1781,
+        "rent": 1764,
         "groceries": 414,
         "electricity": 146,
         "insurance": 105,
         "gas": 148
       },
-      "total": 2594,
-      "share": 52.4
+      "total": 2578,
+      "share": 52.1
     },
     {
       "month": "2023-07",
       "payThrough": "2023-Q3",
       "pay": 4971,
       "bills": {
-        "rent": 1784,
+        "rent": 1767,
         "groceries": 416,
         "electricity": 145,
         "insurance": 107,
         "gas": 151
       },
-      "total": 2603,
-      "share": 52.4
+      "total": 2586,
+      "share": 52
     },
     {
       "month": "2023-08",
       "payThrough": "2023-Q3",
       "pay": 4971,
       "bills": {
-        "rent": 1800,
+        "rent": 1783,
         "groceries": 417,
         "electricity": 146,
         "insurance": 109,
         "gas": 163
       },
-      "total": 2635,
-      "share": 53
+      "total": 2618,
+      "share": 52.7
     },
     {
       "month": "2023-09",
       "payThrough": "2023-Q3",
       "pay": 4971,
       "bills": {
-        "rent": 1805,
+        "rent": 1789,
         "groceries": 417,
         "electricity": 148,
         "insurance": 111,
         "gas": 158
       },
-      "total": 2638,
-      "share": 53.1
+      "total": 2622,
+      "share": 52.7
     },
     {
       "month": "2023-10",
       "payThrough": "2023-Q4",
       "pay": 5043,
       "bills": {
-        "rent": 1814,
+        "rent": 1798,
         "groceries": 419,
         "electricity": 146,
         "insurance": 113,
         "gas": 145
       },
-      "total": 2637,
-      "share": 52.3
+      "total": 2621,
+      "share": 52
     },
     {
       "month": "2023-11",
       "payThrough": "2023-Q4",
       "pay": 5043,
       "bills": {
-        "rent": 1802,
+        "rent": 1786,
         "groceries": 417,
         "electricity": 144,
         "insurance": 115,
         "gas": 134
       },
-      "total": 2612,
-      "share": 51.8
+      "total": 2597,
+      "share": 51.5
     },
     {
       "month": "2023-12",
       "payThrough": "2023-Q4",
       "pay": 5043,
       "bills": {
-        "rent": 1795,
+        "rent": 1779,
         "groceries": 417,
         "electricity": 147,
         "insurance": 116,
         "gas": 134
       },
-      "total": 2609,
-      "share": 51.7
+      "total": 2593,
+      "share": 51.4
     },
     {
       "month": "2024-01",
       "payThrough": "2024-Q1",
       "pay": 5098,
       "bills": {
-        "rent": 1779,
+        "rent": 1763,
         "groceries": 417,
         "electricity": 148,
         "insurance": 118,
         "gas": 133
       },
-      "total": 2596,
-      "share": 50.9
+      "total": 2580,
+      "share": 50.6
     },
     {
       "month": "2024-02",
       "payThrough": "2024-Q1",
       "pay": 5098,
       "bills": {
-        "rent": 1780,
+        "rent": 1765,
         "groceries": 420,
         "electricity": 148,
         "insurance": 120,
         "gas": 140
       },
-      "total": 2608,
-      "share": 51.2
+      "total": 2593,
+      "share": 50.9
     },
     {
       "month": "2024-03",
       "payThrough": "2024-Q1",
       "pay": 5098,
       "bills": {
-        "rent": 1789,
+        "rent": 1773,
         "groceries": 420,
         "electricity": 148,
         "insurance": 123,
         "gas": 148
       },
-      "total": 2628,
-      "share": 51.5
+      "total": 2612,
+      "share": 51.2
     },
     {
       "month": "2024-04",
       "payThrough": "2024-Q2",
       "pay": 5153,
       "bills": {
-        "rent": 1811,
+        "rent": 1794,
         "groceries": 420,
         "electricity": 147,
         "insurance": 125,
         "gas": 153
       },
-      "total": 2655,
-      "share": 51.5
+      "total": 2639,
+      "share": 51.2
     },
     {
       "month": "2024-05",
       "payThrough": "2024-Q2",
       "pay": 5153,
       "bills": {
-        "rent": 1829,
+        "rent": 1812,
         "groceries": 420,
         "electricity": 146,
         "insurance": 125,
         "gas": 153
       },
-      "total": 2673,
-      "share": 51.9
+      "total": 2656,
+      "share": 51.5
     },
     {
       "month": "2024-06",
       "payThrough": "2024-Q2",
       "pay": 5153,
       "bills": {
-        "rent": 1851,
+        "rent": 1833,
         "groceries": 420,
         "electricity": 151,
         "insurance": 126,
         "gas": 147
       },
-      "total": 2695,
-      "share": 52.3
+      "total": 2677,
+      "share": 51.9
     },
     {
       "month": "2024-07",
       "payThrough": "2024-Q3",
       "pay": 5203,
       "bills": {
-        "rent": 1872,
+        "rent": 1854,
         "groceries": 422,
         "electricity": 151,
         "insurance": 127,
         "gas": 150
       },
-      "total": 2722,
-      "share": 52.3
+      "total": 2703,
+      "share": 52
     },
     {
       "month": "2024-08",
       "payThrough": "2024-Q3",
       "pay": 5203,
       "bills": {
-        "rent": 1888,
+        "rent": 1870,
         "groceries": 421,
         "electricity": 149,
         "insurance": 127,
         "gas": 145
       },
-      "total": 2730,
-      "share": 52.5
+      "total": 2713,
+      "share": 52.1
     },
     {
       "month": "2024-09",
       "payThrough": "2024-Q3",
       "pay": 5203,
       "bills": {
-        "rent": 1896,
+        "rent": 1878,
         "groceries": 423,
         "electricity": 151,
         "insurance": 129,
         "gas": 136
       },
-      "total": 2734,
-      "share": 52.5
+      "total": 2716,
+      "share": 52.2
     },
     {
       "month": "2024-10",
       "payThrough": "2024-Q4",
       "pay": 5228,
       "bills": {
-        "rent": 1889,
+        "rent": 1873,
         "groceries": 424,
         "electricity": 150,
         "insurance": 129,
         "gas": 132
       },
-      "total": 2725,
-      "share": 52.1
+      "total": 2709,
+      "share": 51.8
     },
     {
       "month": "2024-11",
       "payThrough": "2024-Q4",
       "pay": 5228,
       "bills": {
-        "rent": 1875,
+        "rent": 1858,
         "groceries": 423,
         "electricity": 148,
         "insurance": 129,
         "gas": 132
       },
-      "total": 2706,
-      "share": 51.8
+      "total": 2690,
+      "share": 51.4
     },
     {
       "month": "2024-12",
       "payThrough": "2024-Q4",
       "pay": 5228,
       "bills": {
-        "rent": 1870,
+        "rent": 1853,
         "groceries": 424,
         "electricity": 148,
         "insurance": 129,
         "gas": 131
       },
-      "total": 2702,
-      "share": 51.7
+      "total": 2685,
+      "share": 51.4
     },
     {
       "month": "2025-01",
       "payThrough": "2025-Q1",
       "pay": 5260,
       "bills": {
-        "rent": 1859,
+        "rent": 1842,
         "groceries": 426,
         "electricity": 150,
         "insurance": 132,
         "gas": 133
       },
-      "total": 2701,
-      "share": 51.4
+      "total": 2684,
+      "share": 51
     },
     {
       "month": "2025-02",
       "payThrough": "2025-Q1",
       "pay": 5260,
       "bills": {
-        "rent": 1874,
+        "rent": 1857,
         "groceries": 427,
         "electricity": 150,
         "insurance": 134,
         "gas": 132
       },
-      "total": 2718,
-      "share": 51.7
+      "total": 2700,
+      "share": 51.3
     },
     {
       "month": "2025-03",
       "payThrough": "2025-Q1",
       "pay": 5260,
       "bills": {
-        "rent": 1882,
+        "rent": 1864,
         "groceries": 428,
         "electricity": 153,
         "insurance": 133,
         "gas": 130
       },
-      "total": 2725,
-      "share": 51.8
+      "total": 2708,
+      "share": 51.5
     },
     {
       "month": "2025-04",
       "payThrough": "2025-Q2",
       "pay": 5300,
       "bills": {
-        "rent": 1900,
+        "rent": 1882,
         "groceries": 428,
         "electricity": 154,
         "insurance": 133,
         "gas": 133
       },
-      "total": 2749,
-      "share": 51.9
+      "total": 2731,
+      "share": 51.5
     },
     {
       "month": "2025-05",
       "payThrough": "2025-Q2",
       "pay": 5300,
       "bills": {
-        "rent": 1912,
+        "rent": 1893,
         "groceries": 429,
         "electricity": 155,
         "insurance": 133,
         "gas": 131
       },
-      "total": 2760,
-      "share": 52.1
+      "total": 2741,
+      "share": 51.7
     },
     {
       "month": "2025-06",
       "payThrough": "2025-Q2",
       "pay": 5300,
       "bills": {
-        "rent": 1933,
+        "rent": 1914,
         "groceries": 429,
         "electricity": 159,
         "insurance": 133,
         "gas": 131
       },
-      "total": 2785,
-      "share": 52.6
+      "total": 2767,
+      "share": 52.2
     },
     {
       "month": "2025-07",
       "payThrough": "2025-Q3",
       "pay": 5348,
       "bills": {
-        "rent": 1957,
+        "rent": 1938,
         "groceries": 430,
         "electricity": 159,
         "insurance": 134,
         "gas": 131
       },
-      "total": 2811,
-      "share": 52.6
+      "total": 2792,
+      "share": 52.2
     },
     {
       "month": "2025-08",
       "payThrough": "2025-Q3",
       "pay": 5348,
       "bills": {
-        "rent": 1961,
+        "rent": 1942,
         "groceries": 431,
         "electricity": 159,
         "insurance": 133,
         "gas": 131
       },
-      "total": 2816,
-      "share": 52.6
+      "total": 2796,
+      "share": 52.3
     },
     {
       "month": "2025-09",
       "payThrough": "2025-Q3",
       "pay": 5348,
       "bills": {
-        "rent": 1958,
+        "rent": 1937,
         "groceries": 434,
         "electricity": 159,
         "insurance": 133,
         "gas": 131
       },
-      "total": 2813,
-      "share": 52.6
+      "total": 2793,
+      "share": 52.2
     },
     {
       "month": "2025-10",
       "payThrough": "2025-Q4",
       "pay": 5393,
       "bills": {
-        "rent": 1947,
+        "rent": 1927,
         "groceries": 434,
         "electricity": 159,
         "insurance": 133,
         "gas": 128
       },
-      "total": 2799,
-      "share": 51.9
+      "total": 2779,
+      "share": 51.5
     },
     {
       "month": "2025-11",
       "payThrough": "2025-Q4",
       "pay": 5393,
       "bills": {
-        "rent": 1948,
+        "rent": 1928,
         "groceries": 432,
         "electricity": 156,
         "insurance": 133,
         "gas": 128
       },
-      "total": 2795,
-      "share": 51.8
+      "total": 2775,
+      "share": 51.5
     },
     {
       "month": "2025-12",
       "payThrough": "2025-Q4",
       "pay": 5393,
       "bills": {
-        "rent": 1957,
+        "rent": 1936,
         "groceries": 435,
         "electricity": 156,
         "insurance": 133,
         "gas": 123
       },
-      "total": 2805,
-      "share": 52
+      "total": 2784,
+      "share": 51.6
     },
     {
       "month": "2026-01",
       "payThrough": "2026-Q1",
       "pay": 5463,
       "bills": {
-        "rent": 1964,
+        "rent": 1941,
         "groceries": 435,
         "electricity": 159,
         "insurance": 133,
         "gas": 121
       },
-      "total": 2812,
-      "share": 51.5
+      "total": 2789,
+      "share": 51.1
     },
     {
       "month": "2026-02",
       "payThrough": "2026-Q1",
       "pay": 5463,
       "bills": {
-        "rent": 1980,
+        "rent": 1957,
         "groceries": 436,
         "electricity": 156,
         "insurance": 134,
         "gas": 124
       },
-      "total": 2829,
-      "share": 51.8
+      "total": 2806,
+      "share": 51.4
     },
     {
       "month": "2026-03",
       "payThrough": "2026-Q1",
       "pay": 5463,
       "bills": {
-        "rent": 1988,
+        "rent": 1967,
         "groceries": 436,
         "electricity": 159,
         "insurance": 134,
         "gas": 155
       },
-      "total": 2872,
-      "share": 52.6
+      "total": 2851,
+      "share": 52.2
     },
     {
       "month": "2026-04",
       "payThrough": "2026-Q1",
       "pay": 5463,
       "bills": {
-        "rent": 2012,
+        "rent": 1992,
         "groceries": 438,
         "electricity": 159,
         "insurance": 133,
         "gas": 174
       },
-      "total": 2916,
-      "share": 53.4
+      "total": 2896,
+      "share": 53
     },
     {
       "month": "2026-05",
       "payThrough": "2026-Q1",
       "pay": 5463,
       "bills": {
-        "rent": 2023,
+        "rent": 2003,
         "groceries": 438,
         "electricity": 160,
         "insurance": 131,
         "gas": 186
       },
-      "total": 2937,
-      "share": 53.8
+      "total": 2918,
+      "share": 53.4
     },
     {
       "month": "2026-06",
       "payThrough": "2026-Q1",
       "pay": 5463,
       "bills": {
-        "rent": 2038,
+        "rent": 2018,
         "groceries": 441,
         "electricity": 163,
         "insurance": 128,
         "gas": 167
       },
-      "total": 2937,
-      "share": 53.8
+      "total": 2917,
+      "share": 53.4
     },
     {
       "month": "2026-07",
       "payThrough": "2026-Q1",
       "pay": 5463,
       "bills": {
-        "rent": 2048,
+        "rent": 2027,
         "groceries": 440,
         "electricity": 162,
         "insurance": 128,
         "gas": 167
       },
-      "total": 2945,
-      "share": 53.9
+      "total": 2924,
+      "share": 53.5
     },
     {
       "month": "2026-08",
       "payThrough": "2026-Q1",
       "pay": 5463,
       "bills": {
-        "rent": 2063,
+        "rent": 2042,
         "groceries": 439,
         "electricity": 163,
         "insurance": 126,
         "gas": 170
       },
-      "total": 2962,
-      "share": 54.2
+      "total": 2940,
+      "share": 53.8
     },
     {
       "month": "2026-09",
       "payThrough": "2026-Q1",
       "pay": 5463,
       "bills": {
-        "rent": 2087,
+        "rent": 2067,
         "groceries": 441,
         "electricity": 162,
         "insurance": 126,
         "gas": 183
       },
-      "total": 2999,
-      "share": 54.9
+      "total": 2978,
+      "share": 54.5
+    },
+    {
+      "month": "2026-10",
+      "payThrough": "2026-Q1",
+      "pay": 5463,
+      "bills": {
+        "rent": 2078,
+        "groceries": 441,
+        "electricity": 161,
+        "insurance": 127,
+        "gas": 175
+      },
+      "total": 2982,
+      "share": 54.6
     }
   ]
 }

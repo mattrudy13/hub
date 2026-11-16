@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T17:20:46.052Z",
+  "updated": "2026-11-16T19:21:05.550Z",
   "failed": [],
   "sections": [
     {
@@ -10,19 +10,19 @@
           "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
           "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-16T17:07:55.000Z"
+          "published": "2026-11-16T19:16:52.000Z"
         },
         {
-          "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
+          "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
           "source": "NPR",
-          "published": "2026-11-16T16:28:19.000Z"
+          "published": "2026-11-16T18:49:26.000Z"
         },
         {
-          "title": "Five EU countries announce migrant deportation centre in Rwanda",
-          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-16T16:27:24.000Z"
+          "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+          "source": "NPR",
+          "published": "2026-11-16T18:04:50.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "How will AI shake up the economy? Warsh says Fed is starting to figure it out.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=529caabe-22f3-45fe-84d7-659853a27a3b&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-16T17:58:21.000Z"
+        },
+        {
+          "title": "Robert Pattinson cast as next James Bond",
+          "link": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
+          "source": "CNBC",
+          "published": "2026-11-16T17:25:51.000Z"
+        },
+        {
           "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
           "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
           "source": "CNBC",
           "published": "2026-11-16T17:14:13.000Z"
-        },
-        {
-          "title": "SpaceX widens its lead in the space race, even amid a tech selloff",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=47f286cf-802f-44a1-be5a-5e86e5efea06&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-16T16:22:32.000Z"
-        },
-        {
-          "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
-          "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-          "source": "CNBC",
-          "published": "2026-11-16T15:56:39.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
-          "link": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
-          "source": "The Verge",
-          "published": "2026-11-16T16:48:01.000Z"
-        },
-        {
-          "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
-          "link": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
-          "source": "The Verge",
-          "published": "2026-11-16T16:39:36.000Z"
-        },
-        {
-          "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
-          "link": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
+          "title": "US moves to cut China’s remote access to AI chips",
+          "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
           "source": "Ars Technica",
-          "published": "2026-11-16T16:39:29.000Z"
+          "published": "2026-11-16T19:10:09.000Z"
+        },
+        {
+          "title": "Apple is adding face unlock to the iPhone Duo — without new hardware",
+          "link": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta",
+          "source": "The Verge",
+          "published": "2026-11-16T18:44:16.000Z"
+        },
+        {
+          "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+          "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+          "source": "The Verge",
+          "published": "2026-11-16T18:43:35.000Z"
         }
       ]
     }
