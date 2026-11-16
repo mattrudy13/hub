@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T11:20:45.835Z",
+  "updated": "2026-11-16T12:20:45.473Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Yemeni forces retreat to defend port city from Houthis",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-16T11:09:38.000Z"
-        },
-        {
-          "title": "Two mass shootings in South Africa leave 17 dead",
-          "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-16T10:57:48.000Z"
-        },
-        {
-          "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+          "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+          "link": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
           "source": "NPR",
-          "published": "2026-11-16T10:00:00.000Z"
+          "published": "2026-11-16T12:08:14.000Z"
+        },
+        {
+          "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-16T11:55:57.000Z"
+        },
+        {
+          "title": "Jensen Huang allies campaign to reinstate the former Nvidia boss",
+          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-16T11:45:40.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Ex-White House economist calculates how far stocks will fall if AI bubble burst",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4ad182ae-afc3-4e55-ae3c-95f1358c596e&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-16T11:11:32.000Z"
-        },
-        {
-          "title": "Morgan Stanley tells investors to go 'max overweight' stocks",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3be16f48-f51e-4bcb-b84b-0d4f82d22415&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-16T10:34:57.000Z"
-        },
-        {
-          "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
-          "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+          "title": "Big-ticket holiday items may be harder to find as shipping costs rise",
+          "link": "https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html",
           "source": "CNBC",
-          "published": "2026-11-15T13:00:02.000Z"
+          "published": "2026-11-16T12:00:01.000Z"
+        },
+        {
+          "title": "Euro falls to lowest point in more than 18 months — live updates",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5b2e0806-c90a-46d4-b545-70dc52bb74d1&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-16T11:44:30.000Z"
+        },
+        {
+          "title": "Nvidia can avoid fate of other stocks that were once the biggest, says JPMorgan",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=70f8da3a-cf10-45a3-9b1a-10cda20ef41e&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-16T11:26:06.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
+          "link": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
+          "source": "Ars Technica",
+          "published": "2026-11-16T12:00:57.000Z"
+        },
+        {
+          "title": "Amazon’s Zoox robotaxis are now available via Uber",
+          "link": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "source": "The Verge",
+          "published": "2026-11-16T12:00:00.000Z"
+        },
+        {
           "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
           "link": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
           "source": "The Verge",
           "published": "2026-11-16T11:00:00.000Z"
-        },
-        {
-          "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-          "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-          "source": "The Verge",
-          "published": "2026-11-16T01:26:56.000Z"
-        },
-        {
-          "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-          "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
-          "source": "Ars Technica",
-          "published": "2026-11-15T23:11:54.000Z"
         }
       ]
     }
