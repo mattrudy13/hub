@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-16T04:20:58.044Z",
-  "from": "2026-11-16T04:20:57Z",
-  "to": "2026-11-30T04:20:57Z",
+  "updated": "2026-11-16T05:20:57.079Z",
+  "from": "2026-11-16T05:20:56Z",
+  "to": "2026-11-30T05:20:56Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -647,6 +647,20 @@
       "url": "https://www.ticketmaster.com/the-stray-cats-virginia-beach-virginia-11-29-2026/event/010064E9AD3B0E6A",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/989/72b3720e-3d5e-4887-813b-b69acd3fe989_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkfUGkendLYV",
+      "name": "BayPort Credit Union Holiday Trail of Lights",
+      "date": "2026-11-29",
+      "time": null,
+      "status": "onsale",
+      "kind": "Other",
+      "genre": "Holiday",
+      "venue": "Virginia Aquarium",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-11-29-2026/event/01006536AA0DFC34",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
