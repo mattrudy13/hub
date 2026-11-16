@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T13:20:48.798Z",
+  "updated": "2026-11-16T14:20:49.812Z",
   "failed": [],
   "sections": [
     {
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
+          "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+          "source": "CNBC",
+          "published": "2026-11-16T14:18:43.000Z"
+        },
+        {
           "title": "Economic calendar: Housing, factory and retail data coming this week",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d1c74555-8fee-4703-89b4-13a5a368955b&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html",
           "source": "CNBC",
           "published": "2026-11-16T12:00:01.000Z"
-        },
-        {
-          "title": "Euro falls to lowest point in more than 18 months — live updates",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5b2e0806-c90a-46d4-b545-70dc52bb74d1&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-16T11:44:30.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The Nvidia scandal isn’t slowing down",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-          "source": "The Verge",
-          "published": "2026-11-16T13:00:00.000Z"
-        },
-        {
-          "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
-          "link": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
+          "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+          "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
           "source": "Ars Technica",
-          "published": "2026-11-16T12:00:57.000Z"
+          "published": "2026-11-16T14:06:16.000Z"
         },
         {
-          "title": "Amazon’s Zoox robotaxis are now available via Uber",
-          "link": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "title": "Mercedes' clever new driving assist handles complex traffic like a champ",
+          "link": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
+          "source": "Ars Technica",
+          "published": "2026-11-16T14:00:05.000Z"
+        },
+        {
+          "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+          "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
           "source": "The Verge",
-          "published": "2026-11-16T12:00:00.000Z"
+          "published": "2026-11-16T14:00:00.000Z"
         }
       ]
     }
