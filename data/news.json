@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T20:34:00.374Z",
+  "updated": "2026-11-16T21:21:02.851Z",
   "failed": [],
   "sections": [
     {
@@ -7,10 +7,10 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+          "title": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
           "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-16T20:03:30.000Z"
+          "published": "2026-11-16T20:33:57.000Z"
         },
         {
           "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Robert Pattinson cast as next James Bond",
+          "link": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
+          "source": "CNBC",
+          "published": "2026-11-16T21:03:36.000Z"
+        },
+        {
+          "title": "Dow closes 700 points down, Nasdaq and S&P 500 slide as tech stocks sell off",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=52042a08-8f14-4307-a654-15dc338934cf&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-16T21:03:35.000Z"
+        },
+        {
           "title": "Jensen Huang’s fans want him back as Nvidia CEO. This is why that’s unlikely.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=49bf0b6e-018b-4c8d-84ad-4d00e0924e76&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-16T20:25:27.000Z"
-        },
-        {
-          "title": "Dow down 700 points, S&P 500 and Nasdaq sharply lower in final hour of trading",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c5be318b-40b3-4e77-b22c-2757de6524fe&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-16T20:01:14.000Z"
-        },
-        {
-          "title": "Robert Pattinson cast as next James Bond",
-          "link": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
-          "source": "CNBC",
-          "published": "2026-11-16T17:25:51.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-          "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-          "source": "The Verge",
-          "published": "2026-11-16T20:29:37.000Z"
-        },
-        {
-          "title": "US data centers now burn more electricity than a midsized country",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-          "source": "The Verge",
-          "published": "2026-11-16T20:27:58.000Z"
-        },
-        {
-          "title": "Comcast falsely advertises cable Internet as \"fiber-powered,\" AT&T lawsuit says",
-          "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+          "title": "Hyperscale data centers use 2% of US electricity",
+          "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
           "source": "Ars Technica",
-          "published": "2026-11-16T20:27:58.000Z"
+          "published": "2026-11-16T20:52:10.000Z"
+        },
+        {
+          "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+          "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+          "source": "Ars Technica",
+          "published": "2026-11-16T20:37:47.000Z"
+        },
+        {
+          "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+          "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+          "source": "The Verge",
+          "published": "2026-11-16T19:24:40.000Z"
         }
       ]
     }
