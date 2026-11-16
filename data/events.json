@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-16T00:20:50.750Z",
-  "from": "2026-11-16T00:20:50Z",
-  "to": "2026-11-30T00:20:50Z",
+  "updated": "2026-11-16T01:20:49.985Z",
+  "from": "2026-11-16T01:20:49Z",
+  "to": "2026-11-30T01:20:49Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -633,6 +633,20 @@
       "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-11-28-2026/event/010065350CB266AC",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vvG17Z_CJcCYyn",
+      "name": "THE STRAY CATS",
+      "date": "2026-11-29",
+      "time": "20:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Rock",
+      "venue": "The Dome by Rutter Mills",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/the-stray-cats-virginia-beach-virginia-11-29-2026/event/010064E9AD3B0E6A",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/989/72b3720e-3d5e-4887-813b-b69acd3fe989_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
