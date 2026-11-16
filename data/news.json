@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-16T22:20:46.686Z",
+  "updated": "2026-11-16T23:20:46.475Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-16T22:21:27.000Z"
+        },
         {
           "title": "California sues OpenAI over hacking risks",
           "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-16T21:40:07.000Z"
-        },
-        {
-          "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-          "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-16T20:33:57.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "United Airlines resolves system outage that affected departing flights",
+          "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+          "source": "CNBC",
+          "published": "2026-11-16T23:08:01.000Z"
+        },
+        {
+          "title": "Families across America are laughing — and crying — over SNL's ‘Sister’ sketch",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a3833188-5902-41f0-8473-fe161a71d2c4&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-16T22:50:55.000Z"
+        },
+        {
           "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
           "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
           "source": "CNBC",
           "published": "2026-11-16T22:14:47.000Z"
-        },
-        {
-          "title": "Nvidia investors will be clamoring for these answers on a historic earnings call",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4c1dc6ec-24e0-41a4-be43-15c1200bb695&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-16T21:49:21.000Z"
-        },
-        {
-          "title": "Robert Pattinson cast as next James Bond",
-          "link": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
-          "source": "CNBC",
-          "published": "2026-11-16T21:03:36.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Three small failures combined to take down Microsoft 365",
-          "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-          "source": "Ars Technica",
-          "published": "2026-11-16T21:56:39.000Z"
-        },
-        {
-          "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
-          "link": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
+          "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+          "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
           "source": "The Verge",
-          "published": "2026-11-16T21:41:57.000Z"
+          "published": "2026-11-16T23:17:34.000Z"
         },
         {
-          "title": "Hyperscale data centers use 2% of US electricity",
-          "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+          "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+          "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
           "source": "Ars Technica",
-          "published": "2026-11-16T20:52:10.000Z"
+          "published": "2026-11-16T22:58:27.000Z"
+        },
+        {
+          "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+          "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+          "source": "The Verge",
+          "published": "2026-11-16T22:54:59.000Z"
         }
       ]
     }
