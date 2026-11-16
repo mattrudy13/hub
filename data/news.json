@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T01:20:45.712Z",
+  "updated": "2026-11-16T02:14:51.915Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-          "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+          "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+          "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-16T01:05:44.000Z"
+          "published": "2026-11-16T01:53:19.000Z"
         },
         {
-          "title": "Russia's mega-rich are already imagining a future after Putin",
-          "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-16T00:13:14.000Z"
+          "published": "2026-11-16T01:47:57.000Z"
         },
         {
-          "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
-          "link": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+          "title": "Flight disruptions expected to last into Monday",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
           "source": "NPR",
-          "published": "2026-11-15T22:41:22.000Z"
+          "published": "2026-11-16T01:19:28.000Z"
         }
       ]
     },
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+          "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+          "source": "The Verge",
+          "published": "2026-11-16T01:26:56.000Z"
+        },
+        {
           "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
           "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
           "source": "Ars Technica",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
           "source": "The Verge",
           "published": "2026-11-15T21:49:22.000Z"
-        },
-        {
-          "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-          "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
-          "source": "The Verge",
-          "published": "2026-11-15T21:05:02.000Z"
         }
       ]
     }
