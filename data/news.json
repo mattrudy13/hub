@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T21:21:02.851Z",
+  "updated": "2026-11-16T22:20:46.686Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
+          "title": "California sues OpenAI over hacking risks",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+          "source": "NPR",
+          "published": "2026-11-16T22:06:22.000Z"
+        },
+        {
+          "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+          "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-16T21:40:07.000Z"
+        },
+        {
+          "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
           "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-16T20:33:57.000Z"
-        },
-        {
-          "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-          "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-16T19:30:30.000Z"
-        },
-        {
-          "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
-          "source": "NPR",
-          "published": "2026-11-16T18:49:26.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+          "source": "CNBC",
+          "published": "2026-11-16T22:14:47.000Z"
+        },
+        {
+          "title": "Nvidia investors will be clamoring for these answers on a historic earnings call",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4c1dc6ec-24e0-41a4-be43-15c1200bb695&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-16T21:49:21.000Z"
+        },
+        {
           "title": "Robert Pattinson cast as next James Bond",
           "link": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
           "source": "CNBC",
           "published": "2026-11-16T21:03:36.000Z"
-        },
-        {
-          "title": "Dow closes 700 points down, Nasdaq and S&P 500 slide as tech stocks sell off",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=52042a08-8f14-4307-a654-15dc338934cf&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-16T21:03:35.000Z"
-        },
-        {
-          "title": "Jensen Huang’s fans want him back as Nvidia CEO. This is why that’s unlikely.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=49bf0b6e-018b-4c8d-84ad-4d00e0924e76&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-16T20:25:27.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Three small failures combined to take down Microsoft 365",
+          "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+          "source": "Ars Technica",
+          "published": "2026-11-16T21:56:39.000Z"
+        },
+        {
+          "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+          "link": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
+          "source": "The Verge",
+          "published": "2026-11-16T21:41:57.000Z"
+        },
+        {
           "title": "Hyperscale data centers use 2% of US electricity",
           "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
           "source": "Ars Technica",
           "published": "2026-11-16T20:52:10.000Z"
-        },
-        {
-          "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
-          "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-          "source": "Ars Technica",
-          "published": "2026-11-16T20:37:47.000Z"
-        },
-        {
-          "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-          "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-          "source": "The Verge",
-          "published": "2026-11-16T19:24:40.000Z"
         }
       ]
     }
