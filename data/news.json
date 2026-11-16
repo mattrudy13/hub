@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T15:21:01.469Z",
+  "updated": "2026-11-16T16:20:47.039Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-          "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+          "title": "Five EU countries announce migrant deportation centre in Rwanda",
+          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-16T14:58:12.000Z"
+          "published": "2026-11-16T16:03:24.000Z"
         },
         {
-          "title": "Raye, Rosalia and Dolly Parton recognised in Grammy nominations",
-          "link": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
+          "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-16T14:48:55.000Z"
+          "published": "2026-11-16T15:31:20.000Z"
         },
         {
           "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
+          "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+          "source": "CNBC",
+          "published": "2026-11-16T15:56:39.000Z"
+        },
+        {
+          "title": "Nvidia’s stock extends declines following harsh words from the U.S. government",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=63825847-49f4-484b-95cd-91f129234d30&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-16T15:32:23.000Z"
+        },
+        {
           "title": "Parents say 'there's no handbook' with kids and sports-gambling addiction",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=97e8972b-a910-457c-94cb-e351dc03280d&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-16T15:10:08.000Z"
-        },
-        {
-          "title": "Novo says Wegovy injection lowers BMI and obesity rates in children in trial",
-          "link": "https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html",
-          "source": "CNBC",
-          "published": "2026-11-16T15:00:01.000Z"
-        },
-        {
-          "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
-          "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-          "source": "CNBC",
-          "published": "2026-11-16T14:52:31.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Apple TV is getting video podcasts you can watch for free",
-          "link": "https://www.theverge.com/entertainment/1034168/apple-tv-video-podcasts",
+          "title": "The Verge’s guide to the best gifts under $100",
+          "link": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
           "source": "The Verge",
-          "published": "2026-11-16T14:45:56.000Z"
+          "published": "2026-11-16T16:00:14.000Z"
         },
         {
-          "title": "America’s air traffic control system couldn’t handle a single bad router",
-          "link": "https://www.theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop",
+          "title": "Why NJ’s governor thinks Republicans are trapped in an X bubble",
+          "link": "https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai",
           "source": "The Verge",
-          "published": "2026-11-16T14:43:48.000Z"
+          "published": "2026-11-16T16:00:00.000Z"
         },
         {
           "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
