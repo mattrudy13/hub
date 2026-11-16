@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-15T23:20:48.108Z",
-  "from": "2026-11-15T23:20:47Z",
-  "to": "2026-11-29T23:20:47Z",
+  "updated": "2026-11-16T00:20:50.750Z",
+  "from": "2026-11-16T00:20:50Z",
+  "to": "2026-11-30T00:20:50Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv1AvZkoyGkeWmVQ3",
-      "name": "The Bodyguard (Touring)",
-      "date": "2026-11-15",
-      "time": "18:30",
-      "status": "onsale",
-      "kind": "Arts",
-      "genre": "Theatre",
-      "venue": "Harrison Opera House",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/the-bodyguard-touring-norfolk-virginia-11-15-2026/event/01006479BDBB4692",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/c82/88e88dd8-ee10-43c0-af7c-f8e506694c82_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "Z7r9jZ1A7Ptxe",
       "name": "Lenny Pearce",
