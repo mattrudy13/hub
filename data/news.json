@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T09:55:09.573Z",
+  "updated": "2026-11-16T11:20:45.835Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6038373/morning-news-brief",
+          "title": "Yemeni forces retreat to defend port city from Houthis",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-16T11:09:38.000Z"
+        },
+        {
+          "title": "Two mass shootings in South Africa leave 17 dead",
+          "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-16T10:57:48.000Z"
+        },
+        {
+          "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
           "source": "NPR",
-          "published": "2026-11-16T09:46:19.000Z"
-        },
-        {
-          "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
-          "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-16T09:21:31.000Z"
-        },
-        {
-          "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
-          "link": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-16T08:56:04.000Z"
+          "published": "2026-11-16T10:00:00.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Yes, the U.S. is turning more socialist. But perhaps not in the way you think.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=70b71c1c-407f-4287-860c-baf42b6c049f&mod=mw_rss_bulletins",
+          "title": "Ex-White House economist calculates how far stocks will fall if AI bubble burst",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4ad182ae-afc3-4e55-ae3c-95f1358c596e&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-15T15:33:37.000Z"
+          "published": "2026-11-16T11:11:32.000Z"
         },
         {
-          "title": "Economic calendar: Markets await Monday speech by Fed chair Kevin Warsh",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c5b4b9d1-73c3-4db0-9141-c50d42e548b5&mod=mw_rss_bulletins",
+          "title": "Morgan Stanley tells investors to go 'max overweight' stocks",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3be16f48-f51e-4bcb-b84b-0d4f82d22415&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-15T15:15:58.000Z"
+          "published": "2026-11-16T10:34:57.000Z"
         },
         {
           "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+          "link": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+          "source": "The Verge",
+          "published": "2026-11-16T11:00:00.000Z"
+        },
+        {
           "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
           "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
           "source": "The Verge",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
           "source": "Ars Technica",
           "published": "2026-11-15T23:11:54.000Z"
-        },
-        {
-          "title": "Listen to this: Armand Hammer’s Snakes & Ladders",
-          "link": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
-          "source": "The Verge",
-          "published": "2026-11-15T21:49:22.000Z"
         }
       ]
     }
