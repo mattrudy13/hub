@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T12:20:45.473Z",
+  "updated": "2026-11-16T13:20:48.798Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-16T12:54:44.000Z"
+        },
+        {
+          "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
+          "link": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-16T12:42:14.000Z"
+        },
+        {
           "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
           "link": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
           "source": "NPR",
           "published": "2026-11-16T12:08:14.000Z"
-        },
-        {
-          "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
-          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-16T11:55:57.000Z"
-        },
-        {
-          "title": "Jensen Huang allies campaign to reinstate the former Nvidia boss",
-          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-16T11:45:40.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Economic calendar: Housing, factory and retail data coming this week",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d1c74555-8fee-4703-89b4-13a5a368955b&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-16T12:47:35.000Z"
+        },
         {
           "title": "Big-ticket holiday items may be harder to find as shipping costs rise",
           "link": "https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5b2e0806-c90a-46d4-b545-70dc52bb74d1&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-16T11:44:30.000Z"
-        },
-        {
-          "title": "Nvidia can avoid fate of other stocks that were once the biggest, says JPMorgan",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=70f8da3a-cf10-45a3-9b1a-10cda20ef41e&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-16T11:26:06.000Z"
         }
       ]
     },
@@ -54,6 +54,12 @@
       "key": "tech",
       "name": "Tech",
       "items": [
+        {
+          "title": "The Nvidia scandal isn’t slowing down",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+          "source": "The Verge",
+          "published": "2026-11-16T13:00:00.000Z"
+        },
         {
           "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
           "link": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
           "source": "The Verge",
           "published": "2026-11-16T12:00:00.000Z"
-        },
-        {
-          "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
-          "link": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
-          "source": "The Verge",
-          "published": "2026-11-16T11:00:00.000Z"
         }
       ]
     }
