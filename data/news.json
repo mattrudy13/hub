@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T01:20:46.507Z",
+  "updated": "2026-11-17T02:20:46.046Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-17T01:49:26.000Z"
+        },
+        {
           "title": "Five EU countries announce migrant deportation centre in Rwanda",
           "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-16T23:20:45.000Z"
-        },
-        {
-          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-16T22:21:27.000Z"
         },
         {
           "title": "California sues OpenAI over hacking risks",
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "The U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=151f8103-9352-4fa9-84ba-8af315fd63b6&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-17T01:25:56.000Z"
+        },
+        {
           "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8237af19-479d-4d7a-9559-23dedc0759f6&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
           "source": "CNBC",
           "published": "2026-11-17T00:00:49.000Z"
-        },
-        {
-          "title": "United Airlines resolves system outage that delayed flights Monday",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=43245934-51fe-4f9f-baae-791f59bd3249&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-16T23:44:22.000Z"
         }
       ]
     },

@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-17T01:20:47.152Z",
+  "updated": "2026-11-17T02:20:46.663Z",
   "minLine": 7,
   "days": [
     "2026-11-15",
     "2026-11-16"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-16",
+      "id": "401928841",
+      "line": 9.5,
+      "details": "KENT -9.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401928841/e-kentucky-kent-state",
+      "winner": {
+        "id": "2198",
+        "name": "E Kentucky",
+        "abbr": "EKU",
+        "rank": null,
+        "score": 65
+      },
+      "loser": {
+        "id": "2309",
+        "name": "Kent State",
+        "abbr": "KENT",
+        "rank": null,
+        "score": 49
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-15",
@@ -456,6 +478,26 @@
       "line": null
     },
     "cbb:401911211": {
+      "date": "2026-11-16",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401927352": {
+      "date": "2026-11-16",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401922240": {
+      "date": "2026-11-16",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401921182": {
+      "date": "2026-11-16",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926153": {
       "date": "2026-11-16",
       "fav": null,
       "line": null
