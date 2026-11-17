@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-17T02:20:46.663Z",
+  "updated": "2026-11-17T03:20:48.062Z",
   "minLine": 7,
   "days": [
     "2026-11-15",
     "2026-11-16"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-16",
+      "id": "401920735",
+      "line": 11.5,
+      "details": "NU -11.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920735/columbia-northwestern",
+      "winner": {
+        "id": "171",
+        "name": "Columbia",
+        "abbr": "COLU",
+        "rank": null,
+        "score": 75
+      },
+      "loser": {
+        "id": "77",
+        "name": "Northwestern",
+        "abbr": "NU",
+        "rank": null,
+        "score": 53
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-16",
@@ -48,6 +70,28 @@
         "abbr": "LOU",
         "rank": 10,
         "score": 78
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-16",
+      "id": "401927364",
+      "line": 8.5,
+      "details": "DRKE -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401927364/tarleton-st-drake",
+      "winner": {
+        "id": "2627",
+        "name": "Tarleton St",
+        "abbr": "TAR",
+        "rank": null,
+        "score": 83
+      },
+      "loser": {
+        "id": "2181",
+        "name": "Drake",
+        "abbr": "DRKE",
+        "rank": null,
+        "score": 79
       }
     },
     {
@@ -498,6 +542,16 @@
       "line": null
     },
     "cbb:401926153": {
+      "date": "2026-11-16",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929411": {
+      "date": "2026-11-16",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401928997": {
       "date": "2026-11-16",
       "fav": null,
       "line": null
