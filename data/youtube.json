@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T12:20:48.404Z",
+  "updated": "2026-11-17T13:20:50.071Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "GuDFtBBlSF8",
+          "title": "I'm afraid to go outside now (Squeex plays Trees Hate You)",
+          "published": "2026-11-17T13:15:21Z",
+          "thumb": "https://i.ytimg.com/vi/GuDFtBBlSF8/mqdefault.jpg",
+          "seen": "2026-11-17T13:20:47.475Z"
+        },
         {
           "id": "6OeHSzWCb0c",
           "title": "We needed help... It was an emergency",
@@ -35,13 +42,6 @@
           "published": "2026-11-07T01:52:43Z",
           "thumb": "https://i.ytimg.com/vi/nnWe6MbohmU/mqdefault.jpg",
           "seen": "2026-11-07T02:20:51.809Z"
-        },
-        {
-          "id": "JWYp3-S-0cM",
-          "title": "Experiencing all that Terraria has to offer (Squeex's First Playthrough)",
-          "published": "2026-11-06T02:29:34Z",
-          "thumb": "https://i.ytimg.com/vi/JWYp3-S-0cM/mqdefault.jpg",
-          "seen": "2026-11-06T03:20:47.004Z"
         }
       ]
     },
