@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T04:20:46.182Z",
+  "updated": "2026-11-17T05:20:45.147Z",
   "failed": [],
   "sections": [
     {
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Here's what to expect when Disney reports earnings before the bell",
+          "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+          "source": "CNBC",
+          "published": "2026-11-17T05:01:01.000Z"
+        },
+        {
           "title": "The U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=151f8103-9352-4fa9-84ba-8af315fd63b6&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8237af19-479d-4d7a-9559-23dedc0759f6&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-17T00:10:08.000Z"
-        },
-        {
-          "title": "United Airlines resolves system outage that affected departing flights",
-          "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
-          "source": "CNBC",
-          "published": "2026-11-17T00:00:49.000Z"
         }
       ]
     },
