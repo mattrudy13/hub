@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T05:20:45.147Z",
+  "updated": "2026-11-17T11:20:46.460Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-17T02:37:53.000Z"
-        },
-        {
-          "title": "Five EU countries announce migrant deportation centre in Rwanda",
-          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-16T23:20:45.000Z"
-        },
-        {
-          "title": "California sues OpenAI over hacking risks",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+          "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
           "source": "NPR",
-          "published": "2026-11-16T22:06:22.000Z"
+          "published": "2026-11-17T11:00:00.000Z"
+        },
+        {
+          "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-17T10:45:55.000Z"
+        },
+        {
+          "title": "Trump arrives in Philippines to kick off Asia trip",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+          "source": "NPR",
+          "published": "2026-11-17T10:43:55.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Nvidia board establishes committee to oversee export controls",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=60eb154b-9905-4400-a4a8-4afc2bbfd660&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-17T10:17:04.000Z"
+        },
+        {
+          "title": "Deutsche Bank shares slump on reports of leaked documents",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=88a44c5c-dc73-47cc-a2eb-b7afeaa95e6d&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-17T09:45:25.000Z"
+        },
+        {
           "title": "Here's what to expect when Disney reports earnings before the bell",
           "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
           "source": "CNBC",
           "published": "2026-11-17T05:01:01.000Z"
-        },
-        {
-          "title": "The U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=151f8103-9352-4fa9-84ba-8af315fd63b6&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-17T01:25:56.000Z"
-        },
-        {
-          "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8237af19-479d-4d7a-9559-23dedc0759f6&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-17T00:10:08.000Z"
         }
       ]
     },
