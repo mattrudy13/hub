@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-16T23:20:46.475Z",
+  "updated": "2026-11-17T00:20:54.838Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Five EU countries announce migrant deportation centre in Rwanda",
+          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-16T23:20:45.000Z"
+        },
         {
           "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
           "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
           "source": "NPR",
           "published": "2026-11-16T22:06:22.000Z"
-        },
-        {
-          "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-          "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-16T21:40:07.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8237af19-479d-4d7a-9559-23dedc0759f6&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-17T00:10:08.000Z"
+        },
+        {
           "title": "United Airlines resolves system outage that affected departing flights",
           "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
           "source": "CNBC",
-          "published": "2026-11-16T23:08:01.000Z"
+          "published": "2026-11-17T00:00:49.000Z"
         },
         {
-          "title": "Families across America are laughing — and crying — over SNL's ‘Sister’ sketch",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a3833188-5902-41f0-8473-fe161a71d2c4&mod=mw_rss_bulletins",
+          "title": "United Airlines resolves system outage that delayed flights Monday",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=43245934-51fe-4f9f-baae-791f59bd3249&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-16T22:50:55.000Z"
-        },
-        {
-          "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-          "source": "CNBC",
-          "published": "2026-11-16T22:14:47.000Z"
+          "published": "2026-11-16T23:44:22.000Z"
         }
       ]
     },
@@ -54,6 +54,12 @@
       "key": "tech",
       "name": "Tech",
       "items": [
+        {
+          "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+          "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+          "source": "The Verge",
+          "published": "2026-11-16T23:35:58.000Z"
+        },
         {
           "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
           "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
           "source": "Ars Technica",
           "published": "2026-11-16T22:58:27.000Z"
-        },
-        {
-          "title": "United Airlines system outage disrupts departures just days after the big ground stop",
-          "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
-          "source": "The Verge",
-          "published": "2026-11-16T22:54:59.000Z"
         }
       ]
     }
