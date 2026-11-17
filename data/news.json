@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T14:20:51.139Z",
+  "updated": "2026-11-17T15:20:46.943Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-          "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+          "title": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
+          "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-17T13:02:17.000Z"
+          "published": "2026-11-17T15:19:19.000Z"
         },
         {
-          "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "title": "How new US chip restrictions on South East Asia will hit China",
+          "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-17T13:01:11.000Z"
+          "published": "2026-11-17T14:25:45.000Z"
         },
         {
           "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Nike lays out financial goals ahead of first investor day in 9 years",
-          "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
-          "source": "CNBC",
-          "published": "2026-11-17T14:19:31.000Z"
-        },
-        {
-          "title": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
-          "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
-          "source": "CNBC",
-          "published": "2026-11-17T14:15:14.000Z"
-        },
-        {
-          "title": "U.S. retail sales slow just ahead of the holiday shopping season",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0dc06a8e-06fc-4b90-bc4d-cb185fa78cf7&mod=mw_rss_bulletins",
+          "title": "These everyday investors are skeptical about Anthropic's IPO",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=486bb645-1ca6-4da1-8d13-fc3b41180493&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-17T13:42:52.000Z"
+          "published": "2026-11-17T15:01:15.000Z"
+        },
+        {
+          "title": "Dow opens 400 points lower ahead of Nvidia earnings",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=248bc0b3-3637-46b3-81a3-88de3b13a109&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-17T14:31:44.000Z"
+        },
+        {
+          "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+          "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+          "source": "CNBC",
+          "published": "2026-11-17T14:29:55.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "The aliens are coming in 3 Body Problem’s first season 2 trailer",
+          "link": "https://www.theverge.com/streaming/1035221/3-body-problem-season-two-trailer-premiere-date-netflix",
+          "source": "The Verge",
+          "published": "2026-11-17T15:04:20.000Z"
+        },
+        {
+          "title": "This E Ink photo frame can double as your family’s digital dashboard",
+          "link": "https://www.theverge.com/tech/1035258/trmnl-e-ink-spectra-6-frame-dashboard-display-poster-photos",
+          "source": "The Verge",
+          "published": "2026-11-17T14:49:21.000Z"
+        },
+        {
           "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
           "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
           "source": "Ars Technica",
           "published": "2026-11-17T14:00:29.000Z"
-        },
-        {
-          "title": "Windows 11 actually runs better on 8GB of RAM now",
-          "link": "https://www.theverge.com/tech/1035159/windows-11-8gb-ram-updates-performance-improvements-surface-laptop-testing",
-          "source": "The Verge",
-          "published": "2026-11-17T14:00:00.000Z"
-        },
-        {
-          "title": "Disney Plus and Hulu’s fully unified app arrives next month",
-          "link": "https://www.theverge.com/streaming/1035226/disney-plus-hulu-app-merger-q4-2026",
-          "source": "The Verge",
-          "published": "2026-11-17T13:46:02.000Z"
         }
       ]
     }
