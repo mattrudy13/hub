@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T13:37:46.495Z",
+  "updated": "2026-11-17T14:20:51.139Z",
   "failed": [],
   "sections": [
     {
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Nike lays out financial goals ahead of first investor day in 9 years",
+          "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
+          "source": "CNBC",
+          "published": "2026-11-17T14:19:31.000Z"
+        },
+        {
           "title": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
           "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
           "source": "CNBC",
-          "published": "2026-11-17T13:14:48.000Z"
+          "published": "2026-11-17T14:15:14.000Z"
         },
         {
-          "title": "Economic calendar: Retail and import-price reports followed by housing data",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a74c9993-8204-4e03-a24f-57db896066b4&mod=mw_rss_bulletins",
+          "title": "U.S. retail sales slow just ahead of the holiday shopping season",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0dc06a8e-06fc-4b90-bc4d-cb185fa78cf7&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-17T12:22:17.000Z"
-        },
-        {
-          "title": "Nike hosts first investor day in 9 years as it tries to rightsize its business",
-          "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
-          "source": "CNBC",
-          "published": "2026-11-17T12:00:01.000Z"
+          "published": "2026-11-17T13:42:52.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Uber and Zipline’s drone delivery service takes flight in Houston",
-          "link": "https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas",
-          "source": "The Verge",
-          "published": "2026-11-17T13:00:00.000Z"
-        },
-        {
-          "title": "The Verge Best of 2026",
-          "link": "https://www.theverge.com/gadgets/1034881/the-verge-best-of-2026",
-          "source": "The Verge",
-          "published": "2026-11-17T13:00:00.000Z"
-        },
-        {
-          "title": "Artist brings old Space Shuttle tank back to life",
-          "link": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
+          "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+          "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
           "source": "Ars Technica",
-          "published": "2026-11-17T12:15:54.000Z"
+          "published": "2026-11-17T14:00:29.000Z"
+        },
+        {
+          "title": "Windows 11 actually runs better on 8GB of RAM now",
+          "link": "https://www.theverge.com/tech/1035159/windows-11-8gb-ram-updates-performance-improvements-surface-laptop-testing",
+          "source": "The Verge",
+          "published": "2026-11-17T14:00:00.000Z"
+        },
+        {
+          "title": "Disney Plus and Hulu’s fully unified app arrives next month",
+          "link": "https://www.theverge.com/streaming/1035226/disney-plus-hulu-app-merger-q4-2026",
+          "source": "The Verge",
+          "published": "2026-11-17T13:46:02.000Z"
         }
       ]
     }
