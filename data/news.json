@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T17:20:47.448Z",
+  "updated": "2026-11-17T18:20:48.784Z",
   "failed": [],
   "sections": [
     {
@@ -10,19 +10,19 @@
           "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
           "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-17T17:19:56.000Z"
+          "published": "2026-11-17T17:42:26.000Z"
         },
         {
-          "title": "US loses measles elimination status after 26 years amid record case numbers",
-          "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+          "title": "UK sanctions firms over Israeli West Bank settlements",
+          "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-17T17:10:03.000Z"
+          "published": "2026-11-17T17:41:49.000Z"
         },
         {
-          "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
-          "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+          "title": "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
           "source": "NPR",
-          "published": "2026-11-17T12:20:57.000Z"
+          "published": "2026-11-17T17:36:31.000Z"
         }
       ]
     },
@@ -34,19 +34,19 @@
           "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
           "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
           "source": "CNBC",
-          "published": "2026-11-17T17:09:09.000Z"
+          "published": "2026-11-17T18:10:16.000Z"
         },
         {
-          "title": "Nike lays out financial goals ahead of first investor day in 9 years",
-          "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
-          "source": "CNBC",
-          "published": "2026-11-17T17:02:34.000Z"
-        },
-        {
-          "title": "These everyday investors are skeptical about Anthropic's IPO",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=486bb645-1ca6-4da1-8d13-fc3b41180493&mod=mw_rss_bulletins",
+          "title": "Jensen Huang now wants to return as Nvidia’s CEO. Why that could be difficult.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b1b2fb6e-82fe-4f63-af3d-80c440154ef0&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-17T15:01:15.000Z"
+          "published": "2026-11-17T17:46:07.000Z"
+        },
+        {
+          "title": "The latest tech failure? The U.S.'s classified national-security comms network.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0f5a8e56-44f2-4e97-b155-8ffb98e66cf4&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-17T17:30:26.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Inside Microsoft’s giant Outlook outage",
-          "link": "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad",
-          "source": "The Verge",
-          "published": "2026-11-17T17:00:00.000Z"
-        },
-        {
-          "title": "Google makes it easier to use Gemini without training AI on your data",
-          "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+          "title": "California sues OpenAI to stop \"public nuisance\" of out-of-control AI agents",
+          "link": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
           "source": "Ars Technica",
-          "published": "2026-11-17T16:50:10.000Z"
+          "published": "2026-11-17T18:13:34.000Z"
         },
         {
-          "title": "The DOJ says it’s investigating Megaspeed",
-          "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+          "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+          "link": "https://arstechnica.com/space/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+          "source": "Ars Technica",
+          "published": "2026-11-17T18:00:51.000Z"
+        },
+        {
+          "title": "YouTube found a new way to inflate view counts",
+          "link": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
           "source": "The Verge",
-          "published": "2026-11-17T16:19:03.000Z"
+          "published": "2026-11-17T17:50:22.000Z"
         }
       ]
     }
