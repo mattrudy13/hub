@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T15:20:46.943Z",
+  "updated": "2026-11-17T16:20:48.254Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
-          "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+          "title": "US loses measles elimination status after 26 years amid record case numbers",
+          "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-17T15:19:19.000Z"
+          "published": "2026-11-17T16:19:30.000Z"
         },
         {
-          "title": "How new US chip restrictions on South East Asia will hit China",
-          "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+          "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-17T14:25:45.000Z"
+          "published": "2026-11-17T16:07:41.000Z"
         },
         {
           "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+          "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+          "source": "CNBC",
+          "published": "2026-11-17T15:27:51.000Z"
+        },
+        {
           "title": "These everyday investors are skeptical about Anthropic's IPO",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=486bb645-1ca6-4da1-8d13-fc3b41180493&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=248bc0b3-3637-46b3-81a3-88de3b13a109&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-17T14:31:44.000Z"
-        },
-        {
-          "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
-          "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
-          "source": "CNBC",
-          "published": "2026-11-17T14:29:55.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The aliens are coming in 3 Body Problem’s first season 2 trailer",
-          "link": "https://www.theverge.com/streaming/1035221/3-body-problem-season-two-trailer-premiere-date-netflix",
+          "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+          "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
           "source": "The Verge",
-          "published": "2026-11-17T15:04:20.000Z"
+          "published": "2026-11-17T16:09:57.000Z"
         },
         {
-          "title": "This E Ink photo frame can double as your family’s digital dashboard",
-          "link": "https://www.theverge.com/tech/1035258/trmnl-e-ink-spectra-6-frame-dashboard-display-poster-photos",
+          "title": "You can now preorder the Flipper One that puts a Linux computer in your pocket",
+          "link": "https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte",
           "source": "The Verge",
-          "published": "2026-11-17T14:49:21.000Z"
+          "published": "2026-11-17T16:00:00.000Z"
         },
         {
-          "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-          "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+          "title": "House Democrats promise a US return to global climate talks",
+          "link": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
           "source": "Ars Technica",
-          "published": "2026-11-17T14:00:29.000Z"
+          "published": "2026-11-17T15:32:43.000Z"
         }
       ]
     }
