@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T16:20:48.254Z",
+  "updated": "2026-11-17T17:20:47.448Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-17T17:19:56.000Z"
+        },
+        {
           "title": "US loses measles elimination status after 26 years amid record case numbers",
           "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-17T16:19:30.000Z"
-        },
-        {
-          "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-17T16:07:41.000Z"
+          "published": "2026-11-17T17:10:03.000Z"
         },
         {
           "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
-          "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+          "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
+          "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
           "source": "CNBC",
-          "published": "2026-11-17T15:27:51.000Z"
+          "published": "2026-11-17T17:09:09.000Z"
+        },
+        {
+          "title": "Nike lays out financial goals ahead of first investor day in 9 years",
+          "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
+          "source": "CNBC",
+          "published": "2026-11-17T17:02:34.000Z"
         },
         {
           "title": "These everyday investors are skeptical about Anthropic's IPO",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=486bb645-1ca6-4da1-8d13-fc3b41180493&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-17T15:01:15.000Z"
-        },
-        {
-          "title": "Dow opens 400 points lower ahead of Nvidia earnings",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=248bc0b3-3637-46b3-81a3-88de3b13a109&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-17T14:31:44.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-          "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+          "title": "Inside Microsoft’s giant Outlook outage",
+          "link": "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad",
           "source": "The Verge",
-          "published": "2026-11-17T16:09:57.000Z"
+          "published": "2026-11-17T17:00:00.000Z"
         },
         {
-          "title": "You can now preorder the Flipper One that puts a Linux computer in your pocket",
-          "link": "https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte",
-          "source": "The Verge",
-          "published": "2026-11-17T16:00:00.000Z"
-        },
-        {
-          "title": "House Democrats promise a US return to global climate talks",
-          "link": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
+          "title": "Google makes it easier to use Gemini without training AI on your data",
+          "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
           "source": "Ars Technica",
-          "published": "2026-11-17T15:32:43.000Z"
+          "published": "2026-11-17T16:50:10.000Z"
+        },
+        {
+          "title": "The DOJ says it’s investigating Megaspeed",
+          "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+          "source": "The Verge",
+          "published": "2026-11-17T16:19:03.000Z"
         }
       ]
     }
