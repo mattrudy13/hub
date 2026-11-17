@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T20:20:47.764Z",
+  "updated": "2026-11-17T21:20:46.748Z",
   "failed": [],
   "sections": [
     {
@@ -10,16 +10,16 @@
           "title": "Russian military plane crashes killing all 19 on board",
           "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-17T19:33:55.000Z"
+          "published": "2026-11-17T21:06:11.000Z"
         },
         {
-          "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
-          "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+          "title": "US loses measles elimination status after 26 years amid record case numbers",
+          "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-17T18:58:57.000Z"
+          "published": "2026-11-17T21:04:00.000Z"
         },
         {
-          "title": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+          "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
           "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
           "source": "NPR",
           "published": "2026-11-17T18:34:31.000Z"
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Dow down 1,000 points in final hour as stocks slide ahead of Nvidia earnings",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ab148237-ecfe-4e2a-bc33-3a6397e46a93&mod=mw_rss_bulletins",
+          "title": "SEC investigating whether Nvidia's disclosures misled investors: WSJ",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=de3ea130-7883-4e57-b24c-13293e008378&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-17T20:04:22.000Z"
+          "published": "2026-11-17T21:17:17.000Z"
         },
         {
-          "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
-          "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
-          "source": "CNBC",
-          "published": "2026-11-17T20:01:12.000Z"
+          "title": "Dow closes 850 points down, tech stocks keep falling ahead of Nvidia’s results",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4eb007bb-f312-47a9-b4f2-6537100fed1c&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-17T21:09:09.000Z"
         },
         {
           "title": "FAA pauses installation of new routers after ground stop",
           "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
           "source": "CNBC",
-          "published": "2026-11-17T19:44:59.000Z"
+          "published": "2026-11-17T20:53:24.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Civilization studio Firaxis Games lays off a third of staff",
-          "link": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
+          "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+          "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+          "source": "The Verge",
+          "published": "2026-11-17T21:00:55.000Z"
+        },
+        {
+          "title": "Instagram is helping creators crack down on copycat videos",
+          "link": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
+          "source": "The Verge",
+          "published": "2026-11-17T20:46:31.000Z"
+        },
+        {
+          "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+          "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
           "source": "Ars Technica",
-          "published": "2026-11-17T19:45:25.000Z"
-        },
-        {
-          "title": "Framework’s better couch keyboard is now available for preorder",
-          "link": "https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open",
-          "source": "The Verge",
-          "published": "2026-11-17T19:38:42.000Z"
-        },
-        {
-          "title": "California just banned Waymo from all state freeways",
-          "link": "https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety",
-          "source": "The Verge",
-          "published": "2026-11-17T19:38:05.000Z"
+          "published": "2026-11-17T20:32:55.000Z"
         }
       ]
     }
