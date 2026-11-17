@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T22:20:50.940Z",
+  "updated": "2026-11-17T22:29:34.326Z",
   "failed": [],
   "sections": [
     {
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+          "link": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
+          "source": "The Verge",
+          "published": "2026-11-17T22:25:41.000Z"
+        },
+        {
           "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
           "link": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
           "source": "The Verge",
           "published": "2026-11-17T22:05:05.000Z"
-        },
-        {
-          "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
-          "link": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-          "source": "The Verge",
-          "published": "2026-11-17T21:46:20.000Z"
         },
         {
           "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
