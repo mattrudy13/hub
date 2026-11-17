@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T18:20:48.784Z",
+  "updated": "2026-11-17T19:20:46.060Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
-          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+          "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+          "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-17T17:42:26.000Z"
+          "published": "2026-11-17T18:58:57.000Z"
+        },
+        {
+          "title": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+          "source": "NPR",
+          "published": "2026-11-17T18:34:31.000Z"
         },
         {
           "title": "UK sanctions firms over Israeli West Bank settlements",
           "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-17T17:41:49.000Z"
-        },
-        {
-          "title": "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
-          "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
-          "source": "NPR",
-          "published": "2026-11-17T17:36:31.000Z"
+          "published": "2026-11-17T18:27:27.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "FAA pauses installation of new routers after ground stop",
+          "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+          "source": "CNBC",
+          "published": "2026-11-17T18:48:33.000Z"
+        },
+        {
+          "title": "Salesforce and other software stocks hit by rising concerns over cybersecurity",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3c74b83d-6e33-43af-ba89-22615c59a274&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-17T18:25:47.000Z"
+        },
+        {
           "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
           "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
           "source": "CNBC",
           "published": "2026-11-17T18:10:16.000Z"
-        },
-        {
-          "title": "Jensen Huang now wants to return as Nvidia’s CEO. Why that could be difficult.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b1b2fb6e-82fe-4f63-af3d-80c440154ef0&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-17T17:46:07.000Z"
-        },
-        {
-          "title": "The latest tech failure? The U.S.'s classified national-security comms network.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0f5a8e56-44f2-4e97-b155-8ffb98e66cf4&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-17T17:30:26.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "California sues OpenAI to stop \"public nuisance\" of out-of-control AI agents",
-          "link": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
-          "source": "Ars Technica",
-          "published": "2026-11-17T18:13:34.000Z"
-        },
-        {
-          "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
-          "link": "https://arstechnica.com/space/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
-          "source": "Ars Technica",
-          "published": "2026-11-17T18:00:51.000Z"
-        },
-        {
-          "title": "YouTube found a new way to inflate view counts",
-          "link": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
+          "title": "JBL’s headphones that are great for in-flight entertainment are 67 percent off",
+          "link": "https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026",
           "source": "The Verge",
-          "published": "2026-11-17T17:50:22.000Z"
+          "published": "2026-11-17T19:19:10.000Z"
+        },
+        {
+          "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+          "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+          "source": "The Verge",
+          "published": "2026-11-17T18:58:01.000Z"
+        },
+        {
+          "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+          "link": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
+          "source": "Ars Technica",
+          "published": "2026-11-17T18:26:26.000Z"
         }
       ]
     }
