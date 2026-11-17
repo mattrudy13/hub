@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T22:29:34.326Z",
+  "updated": "2026-11-17T23:20:47.452Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-17T21:24:35.000Z"
+          "published": "2026-11-17T23:03:39.000Z"
         },
         {
-          "title": "Russian military plane crashes killing all 19 on board",
-          "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+          "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+          "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-17T21:06:11.000Z"
+          "published": "2026-11-17T22:46:30.000Z"
         },
         {
           "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Nvidia chair says board moving 'quickly as possible' but won't rush new CEO hire",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6bacc4f8-0774-4b67-9e0e-3627473d27f7&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-17T22:37:34.000Z"
+        },
+        {
           "title": "Nike lays out financial goals ahead of first investor day in 9 years",
           "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
           "source": "CNBC",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d05b79ea-ed3d-4187-b17a-61d5c2677766&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-17T22:16:11.000Z"
-        },
-        {
-          "title": "Nvidia's blockbuster earnings lift fellow chip stocks, AI plays — follow live",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aa9b3063-c2ad-44c2-98d5-8cf22e1283eb&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-17T22:05:03.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
-          "link": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
-          "source": "The Verge",
-          "published": "2026-11-17T22:25:41.000Z"
-        },
-        {
-          "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
-          "link": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
-          "source": "The Verge",
-          "published": "2026-11-17T22:05:05.000Z"
-        },
-        {
-          "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-          "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+          "title": "San Diego dumps both Flock cameras and smart streetlights",
+          "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
           "source": "Ars Technica",
-          "published": "2026-11-17T20:32:55.000Z"
+          "published": "2026-11-17T23:09:09.000Z"
+        },
+        {
+          "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+          "link": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+          "source": "Ars Technica",
+          "published": "2026-11-17T22:44:46.000Z"
+        },
+        {
+          "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+          "link": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+          "source": "The Verge",
+          "published": "2026-11-17T22:38:41.000Z"
         }
       ]
     }

@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-17T22:29:37.439Z",
-  "from": "2026-11-17T22:29:36Z",
-  "to": "2026-12-01T22:29:36Z",
+  "updated": "2026-11-17T23:20:51.384Z",
+  "from": "2026-11-17T23:20:50Z",
+  "to": "2026-12-01T23:20:50Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1A7Ptxe",
-      "name": "Lenny Pearce",
-      "date": "2026-11-17",
-      "time": "18:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Dance/Electronic",
-      "venue": "The Norva",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ptxe",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/b0f/179e3fee-6a4e-4a3c-8017-de6ba086eb0f_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv177Z_fGkSrHCsl",
       "name": "David Baldacci",

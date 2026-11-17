@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T22:29:36.936Z",
+  "updated": "2026-11-17T23:20:50.871Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "9rEoGV1t5C4",
+          "title": "I'm done... It's over (Deadlock with Masayoshi, Chocobars, and more)",
+          "published": "2026-11-17T22:35:22Z",
+          "thumb": "https://i.ytimg.com/vi/9rEoGV1t5C4/mqdefault.jpg",
+          "seen": "2026-11-17T23:20:48.601Z"
+        },
         {
           "id": "GuDFtBBlSF8",
           "title": "I'm afraid to go outside now (Squeex plays Trees Hate You)",
@@ -35,13 +42,6 @@
           "published": "2026-11-09T06:58:00Z",
           "thumb": "https://i.ytimg.com/vi/jBv83nsOGr0/mqdefault.jpg",
           "seen": "2026-11-09T08:07:24.949Z"
-        },
-        {
-          "id": "nnWe6MbohmU",
-          "title": "I could not be happier about the Ocarina of Time Remake",
-          "published": "2026-11-07T01:52:43Z",
-          "thumb": "https://i.ytimg.com/vi/nnWe6MbohmU/mqdefault.jpg",
-          "seen": "2026-11-07T02:20:51.809Z"
         }
       ]
     },
