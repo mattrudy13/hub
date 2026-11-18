@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-17T23:20:51.384Z",
-  "from": "2026-11-17T23:20:50Z",
-  "to": "2026-12-01T23:20:50Z",
+  "updated": "2026-11-18T00:20:50.174Z",
+  "from": "2026-11-18T00:20:49Z",
+  "to": "2026-12-02T00:20:49Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -661,6 +661,20 @@
       "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-11-30-2026/event/010065341A329E67",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1AA7d8z",
+      "name": "Old Dominion Monarchs Mens Basketball vs. Drexel Dragons Mens Basketball",
+      "date": "2026-12-01",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Basketball",
+      "venue": "Chartway Arena at Ted Constant Convocation Center",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7d8z",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }

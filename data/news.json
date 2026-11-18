@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T23:20:47.452Z",
+  "updated": "2026-11-18T00:20:47.013Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
+          "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
           "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-17T23:03:39.000Z"
         },
         {
-          "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-          "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+          "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+          "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-17T22:46:30.000Z"
+          "published": "2026-11-17T23:02:12.000Z"
         },
         {
           "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Nvidia chair says board moving 'quickly as possible' but won't rush new CEO hire",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6bacc4f8-0774-4b67-9e0e-3627473d27f7&mod=mw_rss_bulletins",
+          "title": "Costco is benefiting from ‘apocalyptic concerns’ as shoppers stock up on goods",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7e62333d-fe63-4f52-885e-2f645fbc293c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-17T22:37:34.000Z"
+          "published": "2026-11-18T00:12:12.000Z"
+        },
+        {
+          "title": "Jeff Bezos's advice for Nvidia's board: Pick an insider to succeed Huang as CEO",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fdf20e6f-4b7d-4a4c-9aa1-52d8ed5b3044&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-17T23:45:19.000Z"
         },
         {
           "title": "Nike lays out financial goals ahead of first investor day in 9 years",
           "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
           "source": "CNBC",
           "published": "2026-11-17T22:17:44.000Z"
-        },
-        {
-          "title": "Nvidia chairman says board doesn't plan to bring back Jensen Huang as CEO — live",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d05b79ea-ed3d-4187-b17a-61d5c2677766&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-17T22:16:11.000Z"
         }
       ]
     },
@@ -54,6 +54,12 @@
       "key": "tech",
       "name": "Tech",
       "items": [
+        {
+          "title": "Satya Nadella says he’s AGI-pilled now",
+          "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+          "source": "The Verge",
+          "published": "2026-11-17T23:41:18.000Z"
+        },
         {
           "title": "San Diego dumps both Flock cameras and smart streetlights",
           "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
           "source": "Ars Technica",
           "published": "2026-11-17T22:44:46.000Z"
-        },
-        {
-          "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
-          "link": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
-          "source": "The Verge",
-          "published": "2026-11-17T22:38:41.000Z"
         }
       ]
     }
