@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-18T11:20:46.759Z",
+  "updated": "2026-11-18T12:20:59.642Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Who to watch in Spain's election race",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-18T11:44:25.000Z"
+        },
         {
           "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
           "link": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
           "source": "NPR",
           "published": "2026-11-18T11:00:00.000Z"
-        },
-        {
-          "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-          "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-18T10:23:57.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Nvidia delay in SEC filing contrasts with its typical practice and Mag 7 peers",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3441f1b5-2d74-49cd-898e-156cc7eefe1f&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-18T10:46:10.000Z"
-        },
-        {
-          "title": "Target is set to report earnings before the bell. Here's what to expect",
+          "title": "Target posts best sales growth in five years, raises guidance",
           "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
           "source": "CNBC",
-          "published": "2026-11-18T05:01:01.000Z"
+          "published": "2026-11-18T12:17:33.000Z"
         },
         {
-          "title": "CoreWeave shares pop — even as Nvidia floats ‘disciplined’ approach to financing",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ba857bd3-ccbb-403d-a6ac-807d52c3d662&mod=mw_rss_bulletins",
+          "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
+          "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-11-18T11:47:59.000Z"
+        },
+        {
+          "title": "Target boosts full-year sales outlook",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=12b3fbf2-873a-4793-9ae7-161d09284a7c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-18T02:01:50.000Z"
+          "published": "2026-11-18T11:46:21.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "NASA’s Voyager 1 probe is now one light-day away",
+          "link": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
+          "source": "The Verge",
+          "published": "2026-11-18T12:03:36.000Z"
+        },
+        {
           "title": "Suno now lets you make AI videos for your AI music",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
           "source": "The Verge",
           "published": "2026-11-18T11:16:53.000Z"
-        },
-        {
-          "title": "Grand Theft Auto VI has arrived",
-          "link": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
-          "source": "The Verge",
-          "published": "2026-11-18T11:06:16.000Z"
         },
         {
           "title": "Grand Theft Auto VI: The Ars Technica review",
