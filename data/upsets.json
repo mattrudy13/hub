@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T03:20:47.068Z",
+  "updated": "2026-11-18T04:20:47.108Z",
   "minLine": 7,
   "days": [
     "2026-11-16",
@@ -26,6 +26,50 @@
         "abbr": "AKR",
         "rank": null,
         "score": 49
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-17",
+      "id": "401911521",
+      "line": 12.5,
+      "details": "UCD -12.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911521/alabama-st-uc-davis",
+      "winner": {
+        "id": "2011",
+        "name": "Alabama St",
+        "abbr": "ALST",
+        "rank": null,
+        "score": 75
+      },
+      "loser": {
+        "id": "302",
+        "name": "UC Davis",
+        "abbr": "UCD",
+        "rank": null,
+        "score": 68
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-17",
+      "id": "401920720",
+      "line": 12.5,
+      "details": "UTAH -12.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920720/e-washington-utah",
+      "winner": {
+        "id": "331",
+        "name": "E Washington",
+        "abbr": "EWU",
+        "rank": null,
+        "score": 71
+      },
+      "loser": {
+        "id": "254",
+        "name": "Utah",
+        "abbr": "UTAH",
+        "rank": null,
+        "score": 67
       }
     },
     {

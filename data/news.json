@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-18T03:20:46.523Z",
+  "updated": "2026-11-18T04:20:46.693Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
+          "link": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
+          "source": "NPR",
+          "published": "2026-11-18T03:27:23.000Z"
+        },
         {
           "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
           "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-17T23:02:12.000Z"
-        },
-        {
-          "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-          "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
-          "source": "NPR",
-          "published": "2026-11-17T18:34:31.000Z"
         }
       ]
     },
