@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T21:20:45.374Z",
+  "updated": "2026-11-18T22:20:45.750Z",
   "failed": [],
   "sections": [
     {
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Dow closes over 550 points down, but Nasdaq gains ahead of Anthropic IPO pricing",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=660a3755-3f8c-4248-8268-114c334889f4&mod=mw_rss_bulletins",
+          "title": "Anthropic IPO: Shares price at $83, with trading set to begin Thursday — live",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9c77baf9-3e1a-4013-a27c-e077a60fa714&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-18T21:07:31.000Z"
+          "published": "2026-11-18T22:08:12.000Z"
         },
         {
-          "title": "Dow off 500 points in final hour, but Nasdaq up ahead of Anthropic IPO pricing",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=735dc84f-cfd5-4063-a7b7-0376d67018ad&mod=mw_rss_bulletins",
+          "title": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=eafdb624-64f5-4c2b-89e2-927ea73ab283&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-18T20:06:54.000Z"
+          "published": "2026-11-18T21:33:25.000Z"
         },
         {
           "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
-          "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+          "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+          "link": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
           "source": "Ars Technica",
-          "published": "2026-11-18T20:41:12.000Z"
+          "published": "2026-11-18T22:08:57.000Z"
         },
         {
-          "title": "Trump’s latest land grab is an AI hub in the Philippines",
-          "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+          "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+          "link": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
           "source": "The Verge",
-          "published": "2026-11-18T19:40:36.000Z"
+          "published": "2026-11-18T22:05:48.000Z"
         },
         {
-          "title": "Best Buy sells Blu-rays online and in-store again",
-          "link": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+          "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+          "link": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
           "source": "Ars Technica",
-          "published": "2026-11-18T19:31:17.000Z"
+          "published": "2026-11-18T21:29:24.000Z"
         }
       ]
     }
