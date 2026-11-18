@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-18T00:20:50.174Z",
-  "from": "2026-11-18T00:20:49Z",
-  "to": "2026-12-02T00:20:49Z",
+  "updated": "2026-11-18T01:20:49.527Z",
+  "from": "2026-11-18T01:20:49Z",
+  "to": "2026-12-02T01:20:49Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv177Z_fGkSrHCsl",
-      "name": "David Baldacci",
-      "date": "2026-11-17",
-      "time": "19:30",
-      "status": "onsale",
-      "kind": "Other",
-      "genre": "Lecture/Seminar",
-      "venue": "Harrison Opera House",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/david-baldacci-norfolk-virginia-11-17-2026/event/0100654CDEF0EC6B",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/e/aca/e27cc982-d4cf-4371-a8a5-1c00990b3aca_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZkfAGkdpCzPu",
       "name": "Norfolk Admirals vs. Trenton Ironhawks",
