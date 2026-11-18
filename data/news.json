@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T14:20:46.248Z",
+  "updated": "2026-11-18T15:21:04.156Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-          "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-18T13:04:48.000Z"
-        },
-        {
-          "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
-          "link": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
+          "title": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
+          "link": "https://www.npr.org/2026/11/18/g-s1-154147/robert-garcia-house-democrats-investigations-trump-administration",
           "source": "NPR",
-          "published": "2026-11-18T13:03:38.000Z"
+          "published": "2026-11-18T15:01:32.000Z"
         },
         {
-          "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-          "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+          "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+          "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-18T12:39:24.000Z"
+          "published": "2026-11-18T14:57:56.000Z"
+        },
+        {
+          "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
+          "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-18T14:30:33.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
-          "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
+          "title": "Target posts best sales growth in five years, raises guidance",
+          "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
           "source": "CNBC",
-          "published": "2026-11-18T14:19:28.000Z"
+          "published": "2026-11-18T15:13:23.000Z"
         },
         {
-          "title": "Hims & Hers launches new peptide treatments — while admitting there's more to learn about efficacy",
-          "link": "https://www.cnbc.com/2026/11/18/hims-hers-peptides-plus-treatments.html",
-          "source": "CNBC",
-          "published": "2026-11-18T14:02:52.000Z"
-        },
-        {
-          "title": "Economic data: Minutes from the Fed’s latest meeting could provide tea leaves",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7ba6535c-61a0-44b1-9eda-3b31f09b808e&mod=mw_rss_bulletins",
+          "title": "Fed’s Waller suggests interest-rate spike to ‘shock’ inflation",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d2c16347-0cea-4fdd-b6fe-b09f990e40c9&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-18T13:31:57.000Z"
+          "published": "2026-11-18T14:48:21.000Z"
+        },
+        {
+          "title": "Nasdaq opens higher as Nvidia results, Anthropic IPO inspire tech investors",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ccd4a8a4-f1f8-4d78-899e-44d24b2c5c29&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-18T14:30:20.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "The Verge’s 2026 holiday gift guide for travelers",
+          "link": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+          "source": "The Verge",
+          "published": "2026-11-18T15:00:00.000Z"
+        },
+        {
+          "title": "Instagram’s ‘school safety’ push was also a way to get more teens on the app",
+          "link": "https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor",
+          "source": "The Verge",
+          "published": "2026-11-18T14:59:05.000Z"
+        },
+        {
           "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
           "link": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
           "source": "Ars Technica",
           "published": "2026-11-18T14:01:45.000Z"
-        },
-        {
-          "title": "How The Verge is picking which Black Friday deals to share",
-          "link": "https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals",
-          "source": "The Verge",
-          "published": "2026-11-18T14:00:00.000Z"
-        },
-        {
-          "title": "Will Wright’s next game uses AI to map your memories",
-          "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-          "source": "The Verge",
-          "published": "2026-11-18T14:00:00.000Z"
         }
       ]
     }
