@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T04:33:15.959Z",
+  "updated": "2026-11-18T05:20:47.920Z",
   "failed": [],
   "sections": [
     {
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Target is set to report earnings before the bell. Here's what to expect",
+          "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-11-18T05:01:01.000Z"
+        },
+        {
           "title": "CoreWeave shares pop — even as Nvidia floats ‘disciplined’ approach to financing",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ba857bd3-ccbb-403d-a6ac-807d52c3d662&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8b8a35cb-78e8-47a2-8492-f13ff7513a99&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-18T01:30:37.000Z"
-        },
-        {
-          "title": "Nike lays out financial goals ahead of first investor day in 9 years",
-          "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
-          "source": "CNBC",
-          "published": "2026-11-17T22:17:44.000Z"
         }
       ]
     },
