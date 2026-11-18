@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T02:20:45.950Z",
+  "updated": "2026-11-18T03:20:47.068Z",
   "minLine": 7,
   "days": [
     "2026-11-16",
@@ -52,6 +52,28 @@
     },
     {
       "league": "cbb",
+      "date": "2026-11-17",
+      "id": "401911020",
+      "line": 10.5,
+      "details": "MASS -10.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911020/bryant-umass",
+      "winner": {
+        "id": "2803",
+        "name": "Bryant",
+        "abbr": "BRY",
+        "rank": null,
+        "score": 83
+      },
+      "loser": {
+        "id": "113",
+        "name": "UMass",
+        "abbr": "MASS",
+        "rank": null,
+        "score": 79
+      }
+    },
+    {
+      "league": "cbb",
       "date": "2026-11-16",
       "id": "401928841",
       "line": 9.5,
@@ -70,6 +92,28 @@
         "abbr": "KENT",
         "rank": null,
         "score": 49
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-17",
+      "id": "401909566",
+      "line": 8.5,
+      "details": "DUKE -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909566/illinois-duke",
+      "winner": {
+        "id": "356",
+        "name": "Illinois",
+        "abbr": "ILL",
+        "rank": 10,
+        "score": 99
+      },
+      "loser": {
+        "id": "150",
+        "name": "Duke",
+        "abbr": "DUKE",
+        "rank": 5,
+        "score": 78
       }
     },
     {
@@ -667,6 +711,21 @@
       "line": null
     },
     "cbb:401925751": {
+      "date": "2026-11-17",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401927867": {
+      "date": "2026-11-17",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401921006": {
+      "date": "2026-11-17",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401917952": {
       "date": "2026-11-17",
       "fav": null,
       "line": null
