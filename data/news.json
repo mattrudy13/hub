@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T18:21:00.946Z",
+  "updated": "2026-11-18T18:54:06.240Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+          "link": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
+          "source": "NPR",
+          "published": "2026-11-18T18:18:16.000Z"
+        },
+        {
+          "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
+          "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+          "source": "NPR",
+          "published": "2026-11-18T18:15:59.000Z"
+        },
+        {
           "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
           "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-18T17:51:47.000Z"
-        },
-        {
-          "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-          "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-18T17:34:25.000Z"
-        },
-        {
-          "title": "Got a canceled flight? 7 clever ways to get rebooked fast",
-          "link": "https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
-          "source": "NPR",
-          "published": "2026-11-18T17:10:44.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Social Security should be shut down, this Republican senator says",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f1e5b6bf-093a-4698-bfd7-834ff9aa93e9&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-18T18:28:05.000Z"
+        },
+        {
+          "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
+          "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-11-18T18:27:52.000Z"
+        },
+        {
           "title": "Investigators make progress in hunt for cause of FAA ground stop",
           "link": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
           "source": "CNBC",
           "published": "2026-11-18T18:13:25.000Z"
-        },
-        {
-          "title": "Target shares rise 7% as retailer posts best sales growth in five years, hikes guidance",
-          "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-          "source": "CNBC",
-          "published": "2026-11-18T17:56:50.000Z"
-        },
-        {
-          "title": "Fed’s Waller suggests interest-rate spike to ‘shock’ inflation",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d2c16347-0cea-4fdd-b6fe-b09f990e40c9&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-18T14:48:21.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Our favorite accessories to level up your gaming setup ahead of GTA VI",
-          "link": "https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs",
-          "source": "The Verge",
-          "published": "2026-11-18T18:19:15.000Z"
-        },
-        {
-          "title": "Will Wright's next simulation will use AI to mine content from your memories",
-          "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+          "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
+          "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
           "source": "Ars Technica",
-          "published": "2026-11-18T18:10:33.000Z"
+          "published": "2026-11-18T18:46:08.000Z"
         },
         {
-          "title": "Google is forcing Android app developers to properly support foldables",
-          "link": "https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support",
+          "title": "The best early Black Friday deals you can already shop",
+          "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
           "source": "The Verge",
-          "published": "2026-11-18T18:00:00.000Z"
+          "published": "2026-11-18T18:44:27.000Z"
+        },
+        {
+          "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
+          "link": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
+          "source": "The Verge",
+          "published": "2026-11-18T18:34:55.000Z"
         }
       ]
     }
