@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T16:20:47.176Z",
+  "updated": "2026-11-18T17:20:46.426Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-          "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-18T16:10:44.000Z"
+          "title": "Got a canceled flight? 7 clever ways to get rebooked fast",
+          "link": "https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
+          "source": "NPR",
+          "published": "2026-11-18T17:10:44.000Z"
         },
         {
           "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
           "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-18T16:05:32.000Z"
+          "published": "2026-11-18T17:09:02.000Z"
         },
         {
-          "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
-          "link": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
-          "source": "NPR",
-          "published": "2026-11-18T15:56:30.000Z"
+          "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+          "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-18T17:00:40.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions",
+          "link": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
+          "source": "CNBC",
+          "published": "2026-11-18T17:02:53.000Z"
+        },
+        {
           "title": "Target shares rise 5% as retailer posts best sales growth in five years, hikes guidance",
           "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
           "source": "CNBC",
-          "published": "2026-11-18T15:47:44.000Z"
-        },
-        {
-          "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
-          "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
-          "source": "CNBC",
-          "published": "2026-11-18T15:39:06.000Z"
+          "published": "2026-11-18T16:34:33.000Z"
         },
         {
           "title": "Fed’s Waller suggests interest-rate spike to ‘shock’ inflation",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
+          "link": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
+          "source": "Ars Technica",
+          "published": "2026-11-18T16:58:32.000Z"
+        },
+        {
+          "title": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
+          "link": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
+          "source": "Ars Technica",
+          "published": "2026-11-18T16:24:34.000Z"
+        },
+        {
           "title": "Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood",
           "link": "https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off",
           "source": "The Verge",
           "published": "2026-11-18T16:00:00.000Z"
-        },
-        {
-          "title": "8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird",
-          "link": "https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird",
-          "source": "The Verge",
-          "published": "2026-11-18T16:00:00.000Z"
-        },
-        {
-          "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
-          "link": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
-          "source": "Ars Technica",
-          "published": "2026-11-18T14:01:45.000Z"
         }
       ]
     }
