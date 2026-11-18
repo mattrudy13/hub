@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T19:20:46.468Z",
+  "updated": "2026-11-18T20:20:47.302Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+          "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-18T20:14:57.000Z"
+        },
+        {
+          "title": "William and Kate meet PM Modi as they wrap up India tour",
+          "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-18T20:07:08.000Z"
+        },
+        {
           "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
           "link": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
           "source": "NPR",
           "published": "2026-11-18T18:18:16.000Z"
-        },
-        {
-          "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
-          "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
-          "source": "NPR",
-          "published": "2026-11-18T18:15:59.000Z"
-        },
-        {
-          "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
-          "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-18T17:51:47.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Dow off 500 points in final hour, but Nasdaq up ahead of Anthropic IPO pricing",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=735dc84f-cfd5-4063-a7b7-0376d67018ad&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-18T20:06:54.000Z"
+        },
+        {
           "title": "Fed minutes show growing unease about the outlook for inflation",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=caf867bb-e3c1-4591-8080-f6e90cc41592&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-18T19:14:56.000Z"
-        },
-        {
-          "title": "Social Security should be shut down, this Republican senator says",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f1e5b6bf-093a-4698-bfd7-834ff9aa93e9&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-18T18:28:05.000Z"
         },
         {
           "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-          "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+          "title": "Trump’s latest land grab is an AI hub in the Philippines",
+          "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+          "source": "The Verge",
+          "published": "2026-11-18T19:40:36.000Z"
+        },
+        {
+          "title": "Best Buy sells Blu-rays online and in-store again",
+          "link": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
           "source": "Ars Technica",
-          "published": "2026-11-18T19:19:33.000Z"
+          "published": "2026-11-18T19:31:17.000Z"
         },
         {
-          "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
-          "link": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
+          "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+          "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
           "source": "The Verge",
-          "published": "2026-11-18T19:11:50.000Z"
-        },
-        {
-          "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-          "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
-          "source": "The Verge",
-          "published": "2026-11-18T19:07:29.000Z"
+          "published": "2026-11-18T19:30:00.000Z"
         }
       ]
     }
