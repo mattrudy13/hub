@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T15:21:04.156Z",
+  "updated": "2026-11-18T16:20:47.176Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
-          "link": "https://www.npr.org/2026/11/18/g-s1-154147/robert-garcia-house-democrats-investigations-trump-administration",
+          "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+          "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-18T16:10:44.000Z"
+        },
+        {
+          "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+          "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-18T16:05:32.000Z"
+        },
+        {
+          "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
+          "link": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
           "source": "NPR",
-          "published": "2026-11-18T15:01:32.000Z"
-        },
-        {
-          "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-          "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-18T14:57:56.000Z"
-        },
-        {
-          "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
-          "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-18T14:30:33.000Z"
+          "published": "2026-11-18T15:56:30.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Target posts best sales growth in five years, raises guidance",
+          "title": "Target shares rise 5% as retailer posts best sales growth in five years, hikes guidance",
           "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
           "source": "CNBC",
-          "published": "2026-11-18T15:13:23.000Z"
+          "published": "2026-11-18T15:47:44.000Z"
+        },
+        {
+          "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
+          "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-11-18T15:39:06.000Z"
         },
         {
           "title": "Fed’s Waller suggests interest-rate spike to ‘shock’ inflation",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d2c16347-0cea-4fdd-b6fe-b09f990e40c9&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-18T14:48:21.000Z"
-        },
-        {
-          "title": "Nasdaq opens higher as Nvidia results, Anthropic IPO inspire tech investors",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ccd4a8a4-f1f8-4d78-899e-44d24b2c5c29&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-18T14:30:20.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The Verge’s 2026 holiday gift guide for travelers",
-          "link": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+          "title": "Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood",
+          "link": "https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off",
           "source": "The Verge",
-          "published": "2026-11-18T15:00:00.000Z"
+          "published": "2026-11-18T16:00:00.000Z"
         },
         {
-          "title": "Instagram’s ‘school safety’ push was also a way to get more teens on the app",
-          "link": "https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor",
+          "title": "8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird",
+          "link": "https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird",
           "source": "The Verge",
-          "published": "2026-11-18T14:59:05.000Z"
+          "published": "2026-11-18T16:00:00.000Z"
         },
         {
           "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
