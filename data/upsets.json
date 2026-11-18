@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-18T01:20:46.802Z",
+  "updated": "2026-11-18T02:20:45.950Z",
   "minLine": 7,
   "days": [
     "2026-11-16",
     "2026-11-17"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-17",
+      "id": "401924941",
+      "line": 15.5,
+      "details": "AKR -15.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401924941/akron-bucknell",
+      "winner": {
+        "id": "2083",
+        "name": "Bucknell",
+        "abbr": "BUCK",
+        "rank": null,
+        "score": 53
+      },
+      "loser": {
+        "id": "2006",
+        "name": "Akron",
+        "abbr": "AKR",
+        "rank": null,
+        "score": 49
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-16",
@@ -564,8 +586,8 @@
     "cbb:401909787": {
       "date": "2026-11-17",
       "fav": "2305",
-      "line": 16.5,
-      "details": "KU -16.5"
+      "line": 15.5,
+      "details": "KU -15.5"
     },
     "cbb:401921729": {
       "date": "2026-11-17",
@@ -587,9 +609,9 @@
     },
     "cbb:401920512": {
       "date": "2026-11-17",
-      "fav": "277",
+      "fav": "2",
       "line": 1.5,
-      "details": "WVU -1.5"
+      "details": "AUB -1.5"
     },
     "cbb:401922251": {
       "date": "2026-11-17",
@@ -620,6 +642,31 @@
       "line": null
     },
     "cbb:401926834": {
+      "date": "2026-11-17",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401922221": {
+      "date": "2026-11-17",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401920236": {
+      "date": "2026-11-17",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401930568": {
+      "date": "2026-11-17",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401927342": {
+      "date": "2026-11-17",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401925751": {
       "date": "2026-11-17",
       "fav": null,
       "line": null
