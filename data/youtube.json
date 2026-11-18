@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T05:20:50.965Z",
+  "updated": "2026-11-18T11:20:49.403Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,20 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "1NAO7APG-K0",
+          "title": "This year's Game Awards are going to be a mess",
+          "published": "2026-11-18T09:36:23Z",
+          "thumb": "https://i.ytimg.com/vi/1NAO7APG-K0/mqdefault.jpg",
+          "seen": "2026-11-18T11:20:47.517Z"
+        },
+        {
+          "id": "kZ3VGa8eeW4",
+          "title": "Checking out the NEW Cobblestone with Chiblee!",
+          "published": "2026-11-18T08:38:57Z",
+          "thumb": "https://i.ytimg.com/vi/kZ3VGa8eeW4/mqdefault.jpg",
+          "seen": "2026-11-18T11:20:47.517Z"
+        },
         {
           "id": "9rEoGV1t5C4",
           "title": "I'm done... It's over (Deadlock with Masayoshi, Chocobars, and more)",
@@ -28,20 +42,6 @@
           "published": "2026-11-14T00:32:29Z",
           "thumb": "https://i.ytimg.com/vi/6OeHSzWCb0c/mqdefault.jpg",
           "seen": "2026-11-14T01:20:46.715Z"
-        },
-        {
-          "id": "8VBLjBybTcM",
-          "title": "It's not nostalgia slop... it's a MASTERPIECE.",
-          "published": "2026-11-11T19:17:08Z",
-          "thumb": "https://i.ytimg.com/vi/8VBLjBybTcM/mqdefault.jpg",
-          "seen": "2026-11-11T19:20:46.229Z"
-        },
-        {
-          "id": "jBv83nsOGr0",
-          "title": "I Am Her.",
-          "published": "2026-11-09T06:58:00Z",
-          "thumb": "https://i.ytimg.com/vi/jBv83nsOGr0/mqdefault.jpg",
-          "seen": "2026-11-09T08:07:24.949Z"
         }
       ]
     },
