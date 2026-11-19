@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T11:20:47.266Z",
+  "updated": "2026-11-19T12:20:46.677Z",
   "failed": [],
   "sections": [
     {
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Walmart raises sales and earnings outlook as e-commerce sales jump again",
+          "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-11-19T12:02:06.000Z"
+        },
+        {
           "title": "Anthropic stock trading over $100 on overseas derivatives markets",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5c0d48ca-8b02-4fec-a1ee-6f52fd430a4c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ace81779-4f5e-41a4-af1c-bdef0ee1c384&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-19T09:45:54.000Z"
-        },
-        {
-          "title": "Walmart is set to report earnings before the bell. Here's what to expect",
-          "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-          "source": "CNBC",
-          "published": "2026-11-19T05:01:01.000Z"
         }
       ]
     },
@@ -54,6 +54,12 @@
       "key": "tech",
       "name": "Tech",
       "items": [
+        {
+          "title": "Roblox money is pushing a controversial anorexia treatment",
+          "link": "https://www.theverge.com/features/1034740/ketogenic-diet-anorexia-roblox-medical-funding",
+          "source": "The Verge",
+          "published": "2026-11-19T12:00:00.000Z"
+        },
         {
           "title": "How to tell a cyberattack from a plain old outage",
           "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
           "source": "The Verge",
           "published": "2026-11-19T01:39:45.000Z"
-        },
-        {
-          "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
-          "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
-          "source": "Ars Technica",
-          "published": "2026-11-18T23:25:04.000Z"
         }
       ]
     }
