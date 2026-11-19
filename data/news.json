@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T22:20:46.706Z",
+  "updated": "2026-11-19T23:20:54.060Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+          "title": "California probing whether China improperly acquired Nvidia technology",
+          "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-19T22:09:04.000Z"
+          "published": "2026-11-19T23:04:30.000Z"
         },
         {
-          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+          "title": "From premature baby to social media star - Famed hippo Fiona dies",
+          "link": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-19T21:38:42.000Z"
+          "published": "2026-11-19T22:54:03.000Z"
         },
         {
           "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5862f89a-0447-45e6-b76b-86f064a02486&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-19T23:13:44.000Z"
+        },
+        {
           "title": "Markets are sending troubling signals about the state of the economy",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e0f73b8e-8b5d-4729-8262-66a007fd05f5&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
           "source": "CNBC",
           "published": "2026-11-19T21:22:23.000Z"
-        },
-        {
-          "title": "Anthropic’s stock closes 17% higher as AI company completes largest-ever IPO",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a02fb71e-07cb-4461-8a07-baed66400a9b&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-19T21:17:10.000Z"
         }
       ]
     },
@@ -55,7 +55,13 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Amazon takes its fight against NYC delivery bill to shoppers with in-app pop-up",
+          "title": "Apple is hiring engineers to build its own AI agent",
+          "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+          "source": "The Verge",
+          "published": "2026-11-19T22:31:41.000Z"
+        },
+        {
+          "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
           "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
           "source": "Ars Technica",
           "published": "2026-11-19T22:16:37.000Z"
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
           "source": "The Verge",
           "published": "2026-11-19T21:59:35.000Z"
-        },
-        {
-          "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-          "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
-          "source": "Ars Technica",
-          "published": "2026-11-19T21:19:12.000Z"
         }
       ]
     }
