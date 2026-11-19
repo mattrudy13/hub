@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T16:20:47.782Z",
+  "updated": "2026-11-19T17:20:47.627Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "The midterms were the largest win for either party in 50 years",
-          "link": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
+          "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+          "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-19T17:03:23.000Z"
+        },
+        {
+          "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
+          "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
           "source": "NPR",
-          "published": "2026-11-19T15:55:05.000Z"
+          "published": "2026-11-19T17:03:11.000Z"
         },
         {
-          "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-          "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+          "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+          "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-19T15:52:26.000Z"
-        },
-        {
-          "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-          "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-19T15:23:34.000Z"
+          "published": "2026-11-19T16:55:57.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Anthropic’s stock pops more than 30% in trading debut: live updates",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c2f2c5f7-640c-4be1-a604-0eb283928b06&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-19T16:56:49.000Z"
+        },
+        {
           "title": "Anthropic’s stock starts trading soon. Here’s what to know.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ca6a9a7a-5ddf-4f5f-a23a-7a72d0bcf091&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-19T15:41:30.000Z"
-        },
-        {
-          "title": "Why Micron, Intel and other AI stocks are getting a lift on Thursday",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9f2819cc-afda-430c-88de-a42ca3ef39dc&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-19T15:03:19.000Z"
         },
         {
           "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "You can grab two months of Paramount Plus for just $2.99 for Black Friday",
-          "link": "https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale",
+          "title": "Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June",
+          "link": "https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-19T16:15:01.000Z"
+          "published": "2026-11-19T17:15:00.000Z"
         },
         {
-          "title": "JPMorgan Chase reveals data breach, but says it’s unrelated to this week’s banking outage",
-          "link": "https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack",
+          "title": "Anthropic starts trading on Wall Street",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
           "source": "The Verge",
-          "published": "2026-11-19T16:14:23.000Z"
+          "published": "2026-11-19T16:52:01.000Z"
         },
         {
           "title": "Mouse fight club might explain why we like to watch violent things",
