@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-19T15:20:50.201Z",
-  "from": "2026-11-19T15:20:49Z",
-  "to": "2026-12-03T15:20:49Z",
+  "updated": "2026-11-19T16:20:52.311Z",
+  "from": "2026-11-19T16:20:51Z",
+  "to": "2026-12-03T16:20:51Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -103,6 +103,20 @@
       "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
     },
     {
+      "id": "Z7r9jZ1A7x8JF",
+      "name": "Norfolk State Spartans Football vs. Howard University Bison Football",
+      "date": "2026-11-21",
+      "time": "12:00",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Miscellaneous",
+      "venue": "William Price Stadium",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x8JF",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/db5/5acfb9a3-4315-40c6-824f-e0fd31bd5db5_723691_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
       "id": "vv1AvZkfKGkeizoMM",
       "name": "Mannheim Steamroller Christmas",
       "date": "2026-11-21",
@@ -185,20 +199,6 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P0bz",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/f02/33a32096-d2fb-45cf-9d95-b71260f94f02_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "Z7r9jZ1A7x8JF",
-      "name": "Norfolk State Spartans Football vs. Howard University Bison Football",
-      "date": "2026-11-21",
-      "time": null,
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Miscellaneous",
-      "venue": "William Price Stadium",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x8JF",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/db5/5acfb9a3-4315-40c6-824f-e0fd31bd5db5_723691_RETINA_PORTRAIT_16_9.jpg"
     },
     {
       "id": "vv1AvZkfgGkdbRzsx",
