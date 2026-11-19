@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T01:20:47.683Z",
+  "updated": "2026-11-19T02:20:50.573Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Crimean Bridge attacked again, Russian official says",
-          "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+          "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-19T01:05:03.000Z"
+          "published": "2026-11-19T02:20:15.000Z"
         },
         {
-          "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-          "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+          "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+          "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-19T00:49:19.000Z"
+          "published": "2026-11-19T01:56:28.000Z"
         },
         {
           "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+          "link": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+          "source": "The Verge",
+          "published": "2026-11-19T01:39:45.000Z"
+        },
+        {
           "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
           "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
           "source": "Ars Technica",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
           "source": "The Verge",
           "published": "2026-11-18T23:18:35.000Z"
-        },
-        {
-          "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
-          "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
-          "source": "Ars Technica",
-          "published": "2026-11-18T23:10:39.000Z"
         }
       ]
     }

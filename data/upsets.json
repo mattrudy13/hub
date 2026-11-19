@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T01:20:48.315Z",
+  "updated": "2026-11-19T02:20:51.766Z",
   "minLine": 7,
   "days": [
     "2026-11-17",
@@ -908,6 +908,36 @@
       "fav": "2",
       "line": 9.5,
       "details": "AUB -9.5"
+    },
+    "cbb:401928829": {
+      "date": "2026-11-18",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929014": {
+      "date": "2026-11-18",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401928843": {
+      "date": "2026-11-18",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401924763": {
+      "date": "2026-11-18",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401920772": {
+      "date": "2026-11-18",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401917902": {
+      "date": "2026-11-18",
+      "fav": null,
+      "line": null
     }
   }
 }
