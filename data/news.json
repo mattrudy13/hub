@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T21:20:52.535Z",
+  "updated": "2026-11-19T22:20:46.706Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-          "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+          "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-19T21:16:12.000Z"
+          "published": "2026-11-19T22:09:04.000Z"
         },
         {
-          "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-          "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-19T20:07:02.000Z"
+          "published": "2026-11-19T21:38:42.000Z"
         },
         {
           "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Anthropic’s stock closes 17% higher as AI company completes largest-ever IPO",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a02fb71e-07cb-4461-8a07-baed66400a9b&mod=mw_rss_bulletins",
+          "title": "Markets are sending troubling signals about the state of the economy",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e0f73b8e-8b5d-4729-8262-66a007fd05f5&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-19T21:17:10.000Z"
+          "published": "2026-11-19T22:04:52.000Z"
         },
         {
           "title": "Gap names new Athleta CEO, lowers full-year guidance",
           "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
           "source": "CNBC",
-          "published": "2026-11-19T21:15:38.000Z"
+          "published": "2026-11-19T21:22:23.000Z"
         },
         {
-          "title": "Dow ends 1,100 points down, S&P 500 and Nasdaq slide after Anthropic goes public",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fa6d8e6f-85c6-45e6-9477-7f2f95ffef4f&mod=mw_rss_bulletins",
+          "title": "Anthropic’s stock closes 17% higher as AI company completes largest-ever IPO",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a02fb71e-07cb-4461-8a07-baed66400a9b&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-19T21:03:05.000Z"
+          "published": "2026-11-19T21:17:10.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Amazon takes its fight against NYC delivery bill to shoppers with in-app pop-up",
+          "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+          "source": "Ars Technica",
+          "published": "2026-11-19T22:16:37.000Z"
+        },
+        {
+          "title": "A brief history of Nvidia’s recent stock fluctuations",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+          "source": "The Verge",
+          "published": "2026-11-19T21:59:35.000Z"
+        },
+        {
           "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
           "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
           "source": "Ars Technica",
           "published": "2026-11-19T21:19:12.000Z"
-        },
-        {
-          "title": "Meta now sells 3D movies on Quest VR headsets",
-          "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
-          "source": "The Verge",
-          "published": "2026-11-19T21:12:06.000Z"
-        },
-        {
-          "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-          "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
-          "source": "Ars Technica",
-          "published": "2026-11-19T20:29:46.000Z"
         }
       ]
     }
