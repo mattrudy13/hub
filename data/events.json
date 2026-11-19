@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-19T00:20:50.275Z",
-  "from": "2026-11-19T00:20:49Z",
-  "to": "2026-12-03T00:20:49Z",
+  "updated": "2026-11-19T01:17:32.506Z",
+  "from": "2026-11-19T01:17:31Z",
+  "to": "2026-12-03T01:17:31Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vvG17Z_2NxMthU",
-      "name": "Jesse Cook: Forever Live",
-      "date": "2026-11-18",
-      "time": "19:30",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Pop",
-      "venue": "Attucks Theatre",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/jesse-cook-forever-live-norfolk-virginia-11-18-2026/event/010064F8E2DE96F6",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/b24/ab3ddc19-f5e6-44a9-98e0-f65de194bb24_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "Z7r9jZ1AA7-1F",
       "name": "Old Dominion Monarchs Womens Basketball vs. William and Mary Tribe Womens Basketball",
@@ -661,6 +647,20 @@
       "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-12-01-2026/event/01006535D8D08CAB",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv177Z_fGkVpDV-F",
+      "name": "Crazy Chester: Tribute To The Band & The Last Waltz 50th Anniversary",
+      "date": "2026-12-02",
+      "time": "19:30",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Rock",
+      "venue": "Elevation 27",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/crazy-chester-tribute-to-the-band-virginia-beach-virginia-12-02-2026/event/0100654D16EF4848",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/874/c276c941-6905-42df-bdaf-c779ba93f874_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }

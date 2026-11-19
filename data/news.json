@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T00:20:46.488Z",
+  "updated": "2026-11-19T01:17:29.756Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Crimean Bridge attacked again, Russian official says",
+          "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-19T01:05:03.000Z"
+        },
+        {
+          "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+          "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-19T00:49:19.000Z"
+        },
+        {
           "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
           "link": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
           "source": "NPR",
           "published": "2026-11-18T23:54:56.000Z"
-        },
-        {
-          "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-18T23:44:27.000Z"
-        },
-        {
-          "title": "The seven Anthropic founders who are about to become multi-billionaires",
-          "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-18T23:42:07.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Stock market being rocked by biggest shake-up in a generation as tech falters",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b611d40e-f691-4beb-9dff-fc10142aea41&mod=mw_rss_bulletins",
+          "title": "‘GTA 6’ is the biggest game of all time. What it means for Take-Two’s stock.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2db35b31-7900-4305-b9cd-5ed5cd1c3625&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-18T23:26:35.000Z"
+          "published": "2026-11-19T00:50:14.000Z"
         },
         {
-          "title": "Anthropic IPO: Shares price at $83, with trading set to begin Thursday — live",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9c77baf9-3e1a-4013-a27c-e077a60fa714&mod=mw_rss_bulletins",
+          "title": "Google turns to volcano and rock-melting technology in wild new bid to power AI",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f8b4825c-94dd-4455-9f16-ea7248370123&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-18T22:08:12.000Z"
+          "published": "2026-11-19T00:21:25.000Z"
         },
         {
           "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
