@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T08:54:46.536Z",
+  "updated": "2026-11-19T11:20:47.266Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Crimean Bridge attacked again, Russia says",
-          "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+          "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+          "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-19T07:32:06.000Z"
+          "published": "2026-11-19T11:07:37.000Z"
         },
         {
-          "title": "Win a trip to go behind the news with NPR",
-          "link": "https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway",
+          "title": "Anthropic raises $81bn in record-breaking stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-19T10:48:04.000Z"
+        },
+        {
+          "title": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
+          "link": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
           "source": "NPR",
-          "published": "2026-11-19T05:01:00.000Z"
-        },
-        {
-          "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-          "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-19T04:42:52.000Z"
+          "published": "2026-11-19T10:00:00.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Anthropic stock trading over $100 on overseas derivatives markets",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5c0d48ca-8b02-4fec-a1ee-6f52fd430a4c&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-19T10:23:12.000Z"
+        },
+        {
+          "title": "Here's when Bridgewater says cyberattacks started increasing exponentially",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ace81779-4f5e-41a4-af1c-bdef0ee1c384&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-19T09:45:54.000Z"
+        },
+        {
           "title": "Walmart is set to report earnings before the bell. Here's what to expect",
           "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
           "source": "CNBC",
           "published": "2026-11-19T05:01:01.000Z"
-        },
-        {
-          "title": "‘GTA 6’ is the biggest game of all time. What it means for Take-Two’s stock.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2db35b31-7900-4305-b9cd-5ed5cd1c3625&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-19T00:50:14.000Z"
-        },
-        {
-          "title": "Google turns to volcano and rock-melting technology in wild new bid to power AI",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f8b4825c-94dd-4455-9f16-ea7248370123&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-19T00:21:25.000Z"
         }
       ]
     },
@@ -54,6 +54,12 @@
       "key": "tech",
       "name": "Tech",
       "items": [
+        {
+          "title": "How to tell a cyberattack from a plain old outage",
+          "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+          "source": "Ars Technica",
+          "published": "2026-11-19T11:13:01.000Z"
+        },
         {
           "title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
           "link": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
           "source": "Ars Technica",
           "published": "2026-11-18T23:25:04.000Z"
-        },
-        {
-          "title": "The nation’s largest school districts consider ditching Google Search",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-          "source": "The Verge",
-          "published": "2026-11-18T23:18:35.000Z"
         }
       ]
     }
