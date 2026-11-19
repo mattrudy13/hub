@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-19T05:20:45.379Z",
+  "updated": "2026-11-19T08:54:46.536Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Crimean Bridge attacked again, Russia says",
+          "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-19T07:32:06.000Z"
+        },
         {
           "title": "Win a trip to go behind the news with NPR",
           "link": "https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-19T04:42:52.000Z"
-        },
-        {
-          "title": "Crimean Bridge attacked again, Russian official says",
-          "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-19T04:37:17.000Z"
         }
       ]
     },
