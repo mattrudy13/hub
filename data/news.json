@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T14:20:47.582Z",
+  "updated": "2026-11-19T15:20:46.876Z",
   "failed": [],
   "sections": [
     {
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Why Micron, Intel and other AI stocks are getting a lift on Thursday",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9f2819cc-afda-430c-88de-a42ca3ef39dc&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-19T15:03:19.000Z"
+        },
+        {
+          "title": "Dow, S&P 500, Nasdaq open higher after Anthropic prices IPO",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e5b73baf-f87b-4472-a48e-10ee6fc19165&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-19T14:31:25.000Z"
+        },
+        {
           "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
           "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
           "source": "CNBC",
           "published": "2026-11-19T13:23:50.000Z"
-        },
-        {
-          "title": "Economic calendar: jobless claims, leading indicators and ‘Fedspeak’",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=66714a67-78d6-4734-901b-f68f60f2235c&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-19T12:50:52.000Z"
-        },
-        {
-          "title": "Anthropic stock trading over $100 on overseas derivatives markets",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5c0d48ca-8b02-4fec-a1ee-6f52fd430a4c&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-19T10:23:12.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Watching mouse fight club teaches the critters how to fight",
+          "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+          "source": "The Verge",
+          "published": "2026-11-19T15:16:45.000Z"
+        },
+        {
+          "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
+          "link": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election",
+          "source": "The Verge",
+          "published": "2026-11-19T15:00:00.000Z"
+        },
+        {
+          "title": "Mouse fight club might explain why we like to watch violent things",
           "link": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
           "source": "Ars Technica",
           "published": "2026-11-19T14:04:38.000Z"
-        },
-        {
-          "title": "The wait begins for GTA VI on PC",
-          "link": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
-          "source": "The Verge",
-          "published": "2026-11-19T14:00:00.000Z"
-        },
-        {
-          "title": "Blue Origin will launch Google’s AI server satellites in 2029",
-          "link": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-          "source": "The Verge",
-          "published": "2026-11-19T13:53:38.000Z"
         }
       ]
     }
