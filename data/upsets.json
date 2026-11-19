@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T02:20:51.766Z",
+  "updated": "2026-11-19T03:20:46.456Z",
   "minLine": 7,
   "days": [
     "2026-11-17",
@@ -92,6 +92,28 @@
         "abbr": "MASS",
         "rank": null,
         "score": 79
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-18",
+      "id": "401919808",
+      "line": 8.5,
+      "details": "UNCW -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401919808/unc-wilmington-long-island",
+      "winner": {
+        "id": "112358",
+        "name": "Long Island",
+        "abbr": "LIU",
+        "rank": null,
+        "score": 115
+      },
+      "loser": {
+        "id": "350",
+        "name": "UNC Wilmington",
+        "abbr": "UNCW",
+        "rank": null,
+        "score": 114
       }
     },
     {
@@ -935,6 +957,21 @@
       "line": null
     },
     "cbb:401917902": {
+      "date": "2026-11-18",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401925109": {
+      "date": "2026-11-18",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401920761": {
+      "date": "2026-11-18",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401923394": {
       "date": "2026-11-18",
       "fav": null,
       "line": null

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T02:20:50.573Z",
+  "updated": "2026-11-19T03:20:45.587Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
-          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-19T02:20:15.000Z"
-        },
-        {
           "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
           "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-19T01:56:28.000Z"
+          "published": "2026-11-19T02:59:06.000Z"
+        },
+        {
+          "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-19T02:20:15.000Z"
         },
         {
           "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
