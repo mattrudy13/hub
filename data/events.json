@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-19T04:21:00.967Z",
-  "from": "2026-11-19T04:21:00Z",
-  "to": "2026-12-03T04:21:00Z",
+  "updated": "2026-11-19T05:20:48.428Z",
+  "from": "2026-11-19T05:20:47Z",
+  "to": "2026-12-03T05:20:47Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -661,6 +661,20 @@
       "url": "https://www.ticketmaster.com/crazy-chester-tribute-to-the-band-virginia-beach-virginia-12-02-2026/event/0100654D16EF4848",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/e/874/c276c941-6905-42df-bdaf-c779ba93f874_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkfgGkdbgbwX",
+      "name": "BayPort Credit Union Holiday Trail of Lights",
+      "date": "2026-12-02",
+      "time": null,
+      "status": "onsale",
+      "kind": "Other",
+      "genre": "Holiday",
+      "venue": "Virginia Aquarium",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-12-02-2026/event/01006535D8D58CBE",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }

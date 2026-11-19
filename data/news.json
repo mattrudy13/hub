@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T04:20:57.827Z",
+  "updated": "2026-11-19T05:20:45.379Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-          "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-19T02:59:06.000Z"
-        },
-        {
-          "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-19T02:20:15.000Z"
-        },
-        {
-          "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
-          "link": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+          "title": "Win a trip to go behind the news with NPR",
+          "link": "https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway",
           "source": "NPR",
-          "published": "2026-11-18T23:54:56.000Z"
+          "published": "2026-11-19T05:01:00.000Z"
+        },
+        {
+          "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+          "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-19T04:42:52.000Z"
+        },
+        {
+          "title": "Crimean Bridge attacked again, Russian official says",
+          "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-19T04:37:17.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Walmart is set to report earnings before the bell. Here's what to expect",
+          "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-11-19T05:01:01.000Z"
+        },
         {
           "title": "‘GTA 6’ is the biggest game of all time. What it means for Take-Two’s stock.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2db35b31-7900-4305-b9cd-5ed5cd1c3625&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f8b4825c-94dd-4455-9f16-ea7248370123&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-19T00:21:25.000Z"
-        },
-        {
-          "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
-          "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
-          "source": "CNBC",
-          "published": "2026-11-18T18:27:52.000Z"
         }
       ]
     },
