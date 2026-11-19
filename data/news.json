@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T13:20:47.324Z",
+  "updated": "2026-11-19T14:20:47.582Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+          "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-19T13:31:23.000Z"
+        },
+        {
           "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
           "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-19T13:07:35.000Z"
-        },
-        {
-          "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
-          "link": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-19T12:56:30.000Z"
         },
         {
           "title": "Top U.N. court rules Myanmar committed genocide against the Rohingya",
@@ -31,10 +31,10 @@
       "name": "Business",
       "items": [
         {
-          "title": "Walmart hikes outlook, as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
+          "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
           "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
           "source": "CNBC",
-          "published": "2026-11-19T13:06:09.000Z"
+          "published": "2026-11-19T13:23:50.000Z"
         },
         {
           "title": "Economic calendar: jobless claims, leading indicators and ‘Fedspeak’",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "I let Apple’s always-listening AI summarize my life for two weeks",
-          "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-          "source": "The Verge",
-          "published": "2026-11-19T13:00:00.000Z"
-        },
-        {
-          "title": "Canva adds an AI ‘off’ button",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-          "source": "The Verge",
-          "published": "2026-11-19T12:30:00.000Z"
-        },
-        {
-          "title": "How to tell a cyberattack from a plain old outage",
-          "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+          "title": "Watching mouse fight club teaches the critters how to fight",
+          "link": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
           "source": "Ars Technica",
-          "published": "2026-11-19T11:13:01.000Z"
+          "published": "2026-11-19T14:04:38.000Z"
+        },
+        {
+          "title": "The wait begins for GTA VI on PC",
+          "link": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
+          "source": "The Verge",
+          "published": "2026-11-19T14:00:00.000Z"
+        },
+        {
+          "title": "Blue Origin will launch Google’s AI server satellites in 2029",
+          "link": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+          "source": "The Verge",
+          "published": "2026-11-19T13:53:38.000Z"
         }
       ]
     }
