@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T03:20:46.456Z",
+  "updated": "2026-11-19T04:20:58.817Z",
   "minLine": 7,
   "days": [
     "2026-11-17",
@@ -26,6 +26,28 @@
         "abbr": "AKR",
         "rank": null,
         "score": 49
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-18",
+      "id": "401909762",
+      "line": 14.5,
+      "details": "COLO -14.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909762/portland-colorado",
+      "winner": {
+        "id": "2501",
+        "name": "Portland",
+        "abbr": "PORT",
+        "rank": null,
+        "score": 77
+      },
+      "loser": {
+        "id": "38",
+        "name": "Colorado",
+        "abbr": "COLO",
+        "rank": null,
+        "score": 74
       }
     },
     {
@@ -972,6 +994,11 @@
       "line": null
     },
     "cbb:401923394": {
+      "date": "2026-11-18",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401917965": {
       "date": "2026-11-18",
       "fav": null,
       "line": null
