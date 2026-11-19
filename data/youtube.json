@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T19:20:49.634Z",
+  "updated": "2026-11-19T20:20:48.616Z",
   "failed": [],
   "channels": [
     {
@@ -95,6 +95,13 @@
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_nfDvwu14-iN5YZcaLIomwno1_3oFcYTmG5_kn7SMj_nec=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "t0n0oHvPbu4",
+          "title": "I Almost Killed Ethan with a Giant Peanut",
+          "published": "2026-11-19T20:00:28Z",
+          "thumb": "https://i.ytimg.com/vi/t0n0oHvPbu4/mqdefault.jpg",
+          "seen": "2026-11-19T20:20:46.595Z"
+        },
+        {
           "id": "30vlk0TqCVg",
           "title": "FINAL WITNESS",
           "published": "2026-11-18T21:35:57Z",
@@ -121,13 +128,6 @@
           "published": "2026-11-08T17:00:15Z",
           "thumb": "https://i.ytimg.com/vi/k9jfDVoM1GU/mqdefault.jpg",
           "seen": "2026-11-08T17:20:45.723Z"
-        },
-        {
-          "id": "D9imslSDsOg",
-          "title": "I Can Smell You From Here",
-          "published": "2026-11-07T22:19:05Z",
-          "thumb": "https://i.ytimg.com/vi/D9imslSDsOg/mqdefault.jpg",
-          "seen": "2026-11-07T22:20:48.032Z"
         }
       ]
     },

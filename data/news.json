@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T19:20:46.918Z",
+  "updated": "2026-11-19T20:20:46.166Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "The 'Magic Six': How to strengthen your marriage in midlife",
-          "link": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
+          "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+          "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-19T20:07:02.000Z"
+        },
+        {
+          "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
+          "link": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
           "source": "NPR",
-          "published": "2026-11-19T18:28:23.000Z"
+          "published": "2026-11-19T19:46:27.000Z"
         },
         {
-          "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-          "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+          "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-19T17:38:22.000Z"
-        },
-        {
-          "title": "Rohingya genocide: What was said in court and what happens now?",
-          "link": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-19T17:35:05.000Z"
+          "published": "2026-11-19T19:16:21.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Dow down 1,000 points, S&P 500 and Nasdaq slide as Anthropic goes public — live",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2438a995-47f5-48c5-b3da-cfb80cde18fb&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-19T20:02:36.000Z"
+        },
+        {
           "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
           "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
           "source": "CNBC",
-          "published": "2026-11-19T19:19:25.000Z"
+          "published": "2026-11-19T19:58:30.000Z"
         },
         {
-          "title": "As Anthropic goes public, AI is becoming a bigger part of your retirement plan",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4c5f4fd9-7ead-4aae-81f4-22d3410b7598&mod=mw_rss_bulletins",
+          "title": "The surprising reason the economy is speeding up — and may have more room to run",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3d1d749e-1970-41d4-af12-ac0b974aea16&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-19T18:16:51.000Z"
-        },
-        {
-          "title": "With home sales at a record low, buyers are now calling the shots",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=37c8c451-31a1-4316-a55b-d948b1e49860&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-19T17:44:20.000Z"
+          "published": "2026-11-19T19:22:35.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Some creators are skeptical of Instagram’s new affiliate program",
-          "link": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+          "title": "Google is putting AI chats right on the homepage",
+          "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
           "source": "The Verge",
-          "published": "2026-11-19T19:12:30.000Z"
+          "published": "2026-11-19T20:05:06.000Z"
         },
         {
-          "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
-          "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+          "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+          "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
           "source": "Ars Technica",
-          "published": "2026-11-19T18:44:39.000Z"
+          "published": "2026-11-19T19:52:54.000Z"
         },
         {
-          "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
-          "link": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+          "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+          "link": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
           "source": "The Verge",
-          "published": "2026-11-19T18:33:08.000Z"
+          "published": "2026-11-19T19:40:28.000Z"
         }
       ]
     }
