@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-19T18:20:51.977Z",
+  "updated": "2026-11-19T19:03:08.837Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "The 'Magic Six': How to strengthen your marriage in midlife",
+          "link": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
+          "source": "NPR",
+          "published": "2026-11-19T18:28:23.000Z"
+        },
         {
           "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
           "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-19T17:35:05.000Z"
-        },
-        {
-          "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
-          "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
-          "source": "NPR",
-          "published": "2026-11-19T17:03:11.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Leaked images reveal Motorola’s wide foldable",
-          "link": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
-          "source": "The Verge",
-          "published": "2026-11-19T18:19:03.000Z"
-        },
-        {
-          "title": "Oh, Elon Musk is ‘moderate’ now, is he?",
-          "link": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
-          "source": "The Verge",
-          "published": "2026-11-19T18:15:00.000Z"
-        },
-        {
-          "title": "Google will launch Android app verification requirement globally in January 2027",
-          "link": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+          "title": "LLMs will provide accurate climate info, except when they won’t",
+          "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
           "source": "Ars Technica",
-          "published": "2026-11-19T18:00:33.000Z"
+          "published": "2026-11-19T18:44:39.000Z"
+        },
+        {
+          "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+          "link": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+          "source": "The Verge",
+          "published": "2026-11-19T18:33:08.000Z"
+        },
+        {
+          "title": "Gemini on Mac can now use your computer",
+          "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+          "source": "The Verge",
+          "published": "2026-11-19T18:21:13.000Z"
         }
       ]
     }
