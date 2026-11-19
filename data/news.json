@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T23:20:48.949Z",
+  "updated": "2026-11-19T00:20:46.488Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-          "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-18T23:04:06.000Z"
-        },
-        {
-          "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-          "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-18T22:34:56.000Z"
-        },
-        {
-          "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
-          "link": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
+          "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
+          "link": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
           "source": "NPR",
-          "published": "2026-11-18T18:18:16.000Z"
+          "published": "2026-11-18T23:54:56.000Z"
+        },
+        {
+          "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-18T23:44:27.000Z"
+        },
+        {
+          "title": "The seven Anthropic founders who are about to become multi-billionaires",
+          "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-18T23:42:07.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Stock market being rocked by biggest shake-up in a generation as tech falters",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b611d40e-f691-4beb-9dff-fc10142aea41&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-18T23:26:35.000Z"
+        },
+        {
           "title": "Anthropic IPO: Shares price at $83, with trading set to begin Thursday — live",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9c77baf9-3e1a-4013-a27c-e077a60fa714&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-18T22:08:12.000Z"
-        },
-        {
-          "title": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=eafdb624-64f5-4c2b-89e2-927ea73ab283&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-18T21:33:25.000Z"
         },
         {
           "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+          "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+          "source": "Ars Technica",
+          "published": "2026-11-18T23:25:04.000Z"
+        },
+        {
           "title": "The nation’s largest school districts consider ditching Google Search",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
           "source": "The Verge",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
           "source": "Ars Technica",
           "published": "2026-11-18T23:10:39.000Z"
-        },
-        {
-          "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-          "link": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
-          "source": "Ars Technica",
-          "published": "2026-11-18T22:08:57.000Z"
         }
       ]
     }

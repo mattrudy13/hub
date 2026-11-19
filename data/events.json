@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-18T23:20:52.911Z",
-  "from": "2026-11-18T23:20:52Z",
-  "to": "2026-12-02T23:20:52Z",
+  "updated": "2026-11-19T00:20:50.275Z",
+  "from": "2026-11-19T00:20:49Z",
+  "to": "2026-12-03T00:20:49Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv1AvZkfAGkdpCzPu",
-      "name": "Norfolk Admirals vs. Trenton Ironhawks",
-      "date": "2026-11-18",
-      "time": "19:05",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Hockey",
-      "venue": "Scope Arena",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/norfolk-admirals-vs-trenton-ironhawks-norfolk-virginia-11-18-2026/event/01006505D63B894D",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/a82/1bbe9229-3e86-41b2-89a6-3f9ee9488a82_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vvG17Z_2NxMthU",
       "name": "Jesse Cook: Forever Live",
