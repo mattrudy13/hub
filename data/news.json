@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T19:03:08.837Z",
+  "updated": "2026-11-19T19:20:46.918Z",
   "failed": [],
   "sections": [
     {
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
+          "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-11-19T19:19:25.000Z"
+        },
+        {
           "title": "As Anthropic goes public, AI is becoming a bigger part of your retirement plan",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4c5f4fd9-7ead-4aae-81f4-22d3410b7598&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=37c8c451-31a1-4316-a55b-d948b1e49860&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-19T17:44:20.000Z"
-        },
-        {
-          "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
-          "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-          "source": "CNBC",
-          "published": "2026-11-19T13:23:50.000Z"
         }
       ]
     },
@@ -55,7 +55,13 @@
       "name": "Tech",
       "items": [
         {
-          "title": "LLMs will provide accurate climate info, except when they won’t",
+          "title": "Some creators are skeptical of Instagram’s new affiliate program",
+          "link": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+          "source": "The Verge",
+          "published": "2026-11-19T19:12:30.000Z"
+        },
+        {
+          "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
           "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
           "source": "Ars Technica",
           "published": "2026-11-19T18:44:39.000Z"
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
           "source": "The Verge",
           "published": "2026-11-19T18:33:08.000Z"
-        },
-        {
-          "title": "Gemini on Mac can now use your computer",
-          "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-          "source": "The Verge",
-          "published": "2026-11-19T18:21:13.000Z"
         }
       ]
     }
