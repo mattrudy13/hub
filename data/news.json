@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-19T20:20:46.166Z",
+  "updated": "2026-11-19T21:20:52.535Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+          "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-19T21:16:12.000Z"
+        },
         {
           "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
           "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
           "source": "NPR",
           "published": "2026-11-19T19:46:27.000Z"
-        },
-        {
-          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-          "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-19T19:16:21.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Dow down 1,000 points, S&P 500 and Nasdaq slide as Anthropic goes public — live",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2438a995-47f5-48c5-b3da-cfb80cde18fb&mod=mw_rss_bulletins",
+          "title": "Anthropic’s stock closes 17% higher as AI company completes largest-ever IPO",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a02fb71e-07cb-4461-8a07-baed66400a9b&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-19T20:02:36.000Z"
+          "published": "2026-11-19T21:17:10.000Z"
         },
         {
-          "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
-          "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+          "title": "Gap names new Athleta CEO, lowers full-year guidance",
+          "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
           "source": "CNBC",
-          "published": "2026-11-19T19:58:30.000Z"
+          "published": "2026-11-19T21:15:38.000Z"
         },
         {
-          "title": "The surprising reason the economy is speeding up — and may have more room to run",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3d1d749e-1970-41d4-af12-ac0b974aea16&mod=mw_rss_bulletins",
+          "title": "Dow ends 1,100 points down, S&P 500 and Nasdaq slide after Anthropic goes public",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fa6d8e6f-85c6-45e6-9477-7f2f95ffef4f&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-19T19:22:35.000Z"
+          "published": "2026-11-19T21:03:05.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Google is putting AI chats right on the homepage",
-          "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-          "source": "The Verge",
-          "published": "2026-11-19T20:05:06.000Z"
-        },
-        {
-          "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-          "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+          "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+          "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
           "source": "Ars Technica",
-          "published": "2026-11-19T19:52:54.000Z"
+          "published": "2026-11-19T21:19:12.000Z"
         },
         {
-          "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
-          "link": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+          "title": "Meta now sells 3D movies on Quest VR headsets",
+          "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
           "source": "The Verge",
-          "published": "2026-11-19T19:40:28.000Z"
+          "published": "2026-11-19T21:12:06.000Z"
+        },
+        {
+          "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+          "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+          "source": "Ars Technica",
+          "published": "2026-11-19T20:29:46.000Z"
         }
       ]
     }
