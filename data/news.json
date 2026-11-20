@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T18:20:47.799Z",
+  "updated": "2026-11-20T18:40:00.748Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+          "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+          "source": "NPR",
+          "published": "2026-11-20T18:25:09.000Z"
+        },
+        {
           "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
           "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-20T17:54:37.000Z"
         },
         {
-          "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+          "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-20T17:36:29.000Z"
-        },
-        {
-          "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
-          "source": "NPR",
-          "published": "2026-11-20T17:00:00.000Z"
+          "published": "2026-11-20T17:49:48.000Z"
         }
       ]
     },
