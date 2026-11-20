@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T15:20:50.173Z",
+  "updated": "2026-11-20T16:20:48.803Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "quBHZyzLwDs",
+          "title": "This is the most fun I've had in 100 years (Squeex plays Grand Theft Auto VI)",
+          "published": "2026-11-20T15:33:57Z",
+          "thumb": "https://i.ytimg.com/vi/quBHZyzLwDs/mqdefault.jpg",
+          "seen": "2026-11-20T16:20:47.355Z"
+        },
         {
           "id": "wYCrpMKyzTQ",
           "title": "I didn't understand the GTA 6 hype... until now",
@@ -35,13 +42,6 @@
           "published": "2026-11-18T08:38:57Z",
           "thumb": "https://i.ytimg.com/vi/kZ3VGa8eeW4/mqdefault.jpg",
           "seen": "2026-11-18T11:20:47.517Z"
-        },
-        {
-          "id": "9rEoGV1t5C4",
-          "title": "I'm done... It's over (Deadlock with Masayoshi, Chocobars, and more)",
-          "published": "2026-11-17T22:35:22Z",
-          "thumb": "https://i.ytimg.com/vi/9rEoGV1t5C4/mqdefault.jpg",
-          "seen": "2026-11-17T23:20:48.601Z"
         }
       ]
     },
