@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-20T18:40:00.748Z",
+  "updated": "2026-11-20T19:20:47.307Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "White House removes cyber-security chief after series of tech outages",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-20T19:03:56.000Z"
+        },
         {
           "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
           "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-20T17:54:37.000Z"
-        },
-        {
-          "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-          "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-20T17:49:48.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-          "link": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+          "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
+          "link": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-20T18:00:00.000Z"
+          "published": "2026-11-20T19:15:00.000Z"
         },
         {
-          "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
-          "link": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+          "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+          "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
           "source": "The Verge",
-          "published": "2026-11-20T17:33:59.000Z"
+          "published": "2026-11-20T18:50:19.000Z"
         },
         {
           "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
