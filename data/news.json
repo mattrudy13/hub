@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T16:20:46.875Z",
+  "updated": "2026-11-20T17:20:47.703Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "How Orchestra Noir turned classical music into a cultural movement",
-          "link": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
+          "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+          "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
           "source": "NPR",
-          "published": "2026-11-20T16:12:18.000Z"
+          "published": "2026-11-20T17:00:00.000Z"
         },
         {
-          "title": "Nearly 600 women killed in South Africa within three months",
-          "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-20T15:55:16.000Z"
+          "published": "2026-11-20T16:54:29.000Z"
         },
         {
-          "title": "Trump to hold press conference after meeting with Xi and Putin",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-          "source": "NPR",
-          "published": "2026-11-20T15:00:00.000Z"
+          "title": "Cost of living protests sweep across Europe",
+          "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-20T16:45:34.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Gap stock soars as retailer says Old Navy turnaround shows signs of improvement",
+          "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+          "source": "CNBC",
+          "published": "2026-11-20T17:20:29.000Z"
+        },
+        {
+          "title": "This proposed Social Security fix could add trillions to the national debt",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6fe4a0e2-ebef-48c6-8eec-3bfb4fd04b24&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-20T16:33:04.000Z"
+        },
+        {
           "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
           "link": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
           "source": "CNBC",
           "published": "2026-11-20T15:50:27.000Z"
-        },
-        {
-          "title": "S&P 500 and Nasdaq open lower, on pace for worst week since April 2025",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=560dc1cc-6c82-4e98-9150-9d9e6a471b16&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-20T14:33:14.000Z"
-        },
-        {
-          "title": "Anthropic’s stock slides closer to IPO price, dragging the AI trade",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c739630e-74bb-492d-91d9-53c530667e07&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-20T13:46:11.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "source": "The Verge",
+          "published": "2026-11-20T16:34:13.000Z"
+        },
+        {
+          "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
+          "link": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
+          "source": "The Verge",
+          "published": "2026-11-20T16:22:15.000Z"
+        },
+        {
           "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
           "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
           "source": "Ars Technica",
           "published": "2026-11-20T16:11:21.000Z"
-        },
-        {
-          "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
-          "link": "https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un",
-          "source": "The Verge",
-          "published": "2026-11-20T15:02:13.000Z"
-        },
-        {
-          "title": "Let’s talk about GTA VI",
-          "link": "https://www.theverge.com/entertainment/1037545/gta-6-discussion",
-          "source": "The Verge",
-          "published": "2026-11-20T15:00:00.000Z"
         }
       ]
     }
