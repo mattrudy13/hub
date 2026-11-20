@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T17:20:47.703Z",
+  "updated": "2026-11-20T18:20:47.799Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+          "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-20T17:54:37.000Z"
+        },
+        {
+          "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-20T17:36:29.000Z"
+        },
+        {
           "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
           "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
           "source": "NPR",
           "published": "2026-11-20T17:00:00.000Z"
-        },
-        {
-          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-20T16:54:29.000Z"
-        },
-        {
-          "title": "Cost of living protests sweep across Europe",
-          "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-20T16:45:34.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4844649e-b874-4033-b895-8b6174b4217f&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-20T17:36:01.000Z"
+        },
         {
           "title": "Gap stock soars as retailer says Old Navy turnaround shows signs of improvement",
           "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6fe4a0e2-ebef-48c6-8eec-3bfb4fd04b24&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-20T16:33:04.000Z"
-        },
-        {
-          "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
-          "link": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
-          "source": "CNBC",
-          "published": "2026-11-20T15:50:27.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+          "link": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
           "source": "The Verge",
-          "published": "2026-11-20T16:34:13.000Z"
+          "published": "2026-11-20T18:00:00.000Z"
         },
         {
-          "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
-          "link": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
+          "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+          "link": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
           "source": "The Verge",
-          "published": "2026-11-20T16:22:15.000Z"
+          "published": "2026-11-20T17:33:59.000Z"
         },
         {
           "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
