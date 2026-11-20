@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T13:20:47.266Z",
+  "updated": "2026-11-20T14:20:45.798Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-          "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-20T13:01:16.000Z"
-        },
-        {
           "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
           "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-20T12:56:48.000Z"
+          "published": "2026-11-20T13:52:04.000Z"
+        },
+        {
+          "title": "White House removes cyber-security chief after series of tech outages",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-20T13:28:32.000Z"
         },
         {
           "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Anthropic’s stock slides closer to IPO price, dragging the AI trade",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c739630e-74bb-492d-91d9-53c530667e07&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-20T13:46:11.000Z"
+        },
+        {
           "title": "Economic calendar: University of Michigan's consumer-sentiment survey",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8d3f72d5-a9cd-47d3-9ce4-d4987e7b6ef6&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html",
           "source": "CNBC",
           "published": "2026-11-20T12:00:02.000Z"
-        },
-        {
-          "title": "A24 is having a great year at the box office. That could give HBO Max a streaming edge",
-          "link": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html",
-          "source": "CNBC",
-          "published": "2026-11-20T12:00:02.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+          "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+          "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+          "source": "Ars Technica",
+          "published": "2026-11-20T14:15:21.000Z"
+        },
+        {
+          "title": "The week everything fell apart",
+          "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
           "source": "The Verge",
-          "published": "2026-11-20T12:30:47.000Z"
+          "published": "2026-11-20T14:06:59.000Z"
         },
         {
-          "title": "Only the Seminole tribe can offer online gambling in Florida—and they're furious at DraftKings",
-          "link": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
+          "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+          "link": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
           "source": "Ars Technica",
-          "published": "2026-11-20T12:30:29.000Z"
-        },
-        {
-          "title": "Science has a home here at Ars—please help keep it that way",
-          "link": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
-          "source": "Ars Technica",
-          "published": "2026-11-20T12:15:36.000Z"
+          "published": "2026-11-20T13:35:45.000Z"
         }
       ]
     }
