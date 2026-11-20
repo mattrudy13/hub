@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-20T20:20:54.063Z",
+  "updated": "2026-11-20T21:20:47.186Z",
   "minLine": 7,
   "days": [
     "2026-11-19",
     "2026-11-20"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-20",
+      "id": "401919019",
+      "line": 8.5,
+      "details": "GW -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401919019/uab-g-washington",
+      "winner": {
+        "id": "5",
+        "name": "UAB",
+        "abbr": "UAB",
+        "rank": null,
+        "score": 81
+      },
+      "loser": {
+        "id": "45",
+        "name": "G Washington",
+        "abbr": "GW",
+        "rank": null,
+        "score": 76
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-19",
@@ -249,8 +271,8 @@
     "cfb:401858303": {
       "date": "2026-11-20",
       "fav": "150",
-      "line": 12.5,
-      "details": "DUKE -12.5"
+      "line": 11.5,
+      "details": "DUKE -11.5"
     },
     "cfb:401866468": {
       "date": "2026-11-20",
@@ -267,8 +289,8 @@
     "cfb:401864545": {
       "date": "2026-11-20",
       "fav": "2005",
-      "line": 21.5,
-      "details": "AF -21.5"
+      "line": 22.5,
+      "details": "AF -22.5"
     },
     "cfb:401864542": {
       "date": "2026-11-20",
@@ -470,8 +492,8 @@
     "cbb:401925865": {
       "date": "2026-11-20",
       "fav": "344",
-      "line": 7.5,
-      "details": "MSST -7.5"
+      "line": 6.5,
+      "details": "MSST -6.5"
     },
     "cbb:401925080": {
       "date": "2026-11-20",
@@ -542,8 +564,8 @@
     "cbb:401913529": {
       "date": "2026-11-20",
       "fav": "356",
-      "line": 48.5,
-      "details": "ILL -48.5"
+      "line": 47.5,
+      "details": "ILL -47.5"
     },
     "cbb:401928795": {
       "date": "2026-11-20",
