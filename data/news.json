@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T22:20:46.905Z",
+  "updated": "2026-11-20T23:20:45.376Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-          "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+          "title": "US declassifies more UFO footage filmed in the Middle East",
+          "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-20T22:14:17.000Z"
+          "published": "2026-11-20T23:15:20.000Z"
+        },
+        {
+          "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+          "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-20T23:08:57.000Z"
         },
         {
           "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
           "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
           "source": "NPR",
           "published": "2026-11-20T22:11:29.000Z"
-        },
-        {
-          "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-          "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-20T21:57:07.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c66bdc9a-18b0-4231-bc4e-15f30deb93e8&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-20T22:50:37.000Z"
+        },
+        {
           "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=54dd3b49-790c-43e8-aaf4-92d291d9f8d4&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-20T22:16:29.000Z"
-        },
-        {
-          "title": "The tech wreck is one stock trade Trump can’t ‘TACO’ away",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b3ba621e-78f5-4b70-b3e0-a09bb91856b6&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-20T21:40:05.000Z"
         },
         {
           "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Incoming House chair threatens SpaceX funding over Ukraine controversy",
+          "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+          "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+          "source": "Ars Technica",
+          "published": "2026-11-20T22:28:24.000Z"
+        },
+        {
+          "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
           "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
           "source": "Ars Technica",
           "published": "2026-11-20T22:16:51.000Z"
-        },
-        {
-          "title": "Google rolls out new search homepage with AI chat history and no search button",
-          "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-          "source": "Ars Technica",
-          "published": "2026-11-20T21:58:29.000Z"
         },
         {
           "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
