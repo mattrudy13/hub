@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T21:20:46.712Z",
+  "updated": "2026-11-20T22:20:46.905Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Trump threatens ban on US firms building AI data centres overseas",
-          "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+          "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+          "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-20T20:54:12.000Z"
+          "published": "2026-11-20T22:14:17.000Z"
         },
         {
-          "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-20T20:00:53.000Z"
-        },
-        {
-          "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+          "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+          "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
           "source": "NPR",
-          "published": "2026-11-20T18:25:09.000Z"
+          "published": "2026-11-20T22:11:29.000Z"
+        },
+        {
+          "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+          "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-20T21:57:07.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Dow and S&P 500 close in correction, Nasdaq slides 5.3% to erase 2026 gains",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7584d1dd-3ec7-43fa-8e57-63eae6a76eed&mod=mw_rss_bulletins",
+          "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=54dd3b49-790c-43e8-aaf4-92d291d9f8d4&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-20T21:07:33.000Z"
+          "published": "2026-11-20T22:16:29.000Z"
+        },
+        {
+          "title": "The tech wreck is one stock trade Trump can’t ‘TACO’ away",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b3ba621e-78f5-4b70-b3e0-a09bb91856b6&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-20T21:40:05.000Z"
         },
         {
           "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
           "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
           "source": "CNBC",
           "published": "2026-11-20T21:04:48.000Z"
-        },
-        {
-          "title": "Dow, S&P 500 in correction territory in final hour; Nasdaq wipes out 2026 gains",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=637c4718-e771-4db0-99c7-f2407a3cc48b&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-20T20:08:57.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-          "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "title": "Incoming House chair threatens SpaceX funding over Ukraine controversy",
+          "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
           "source": "Ars Technica",
-          "published": "2026-11-20T20:59:08.000Z"
+          "published": "2026-11-20T22:16:51.000Z"
+        },
+        {
+          "title": "Google rolls out new search homepage with AI chat history and no search button",
+          "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+          "source": "Ars Technica",
+          "published": "2026-11-20T21:58:29.000Z"
         },
         {
           "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
           "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
           "source": "The Verge",
           "published": "2026-11-20T20:43:52.000Z"
-        },
-        {
-          "title": "Watching as a giant star swallowed its neighbor and exploded",
-          "link": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
-          "source": "Ars Technica",
-          "published": "2026-11-20T20:41:17.000Z"
         }
       ]
     }
