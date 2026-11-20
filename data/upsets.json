@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T02:20:55.021Z",
+  "updated": "2026-11-20T03:20:46.285Z",
   "minLine": 7,
   "days": [
     "2026-11-18",
@@ -26,6 +26,28 @@
         "abbr": "COLO",
         "rank": null,
         "score": 74
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-19",
+      "id": "401923304",
+      "line": 8.5,
+      "details": "QUIN -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401923304/maine-quinnipiac",
+      "winner": {
+        "id": "311",
+        "name": "Maine",
+        "abbr": "ME",
+        "rank": null,
+        "score": 69
+      },
+      "loser": {
+        "id": "2514",
+        "name": "Quinnipiac",
+        "abbr": "QUIN",
+        "rank": null,
+        "score": 67
       }
     },
     {
@@ -671,6 +693,21 @@
       "line": null
     },
     "cbb:401912211": {
+      "date": "2026-11-19",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929373": {
+      "date": "2026-11-19",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929409": {
+      "date": "2026-11-19",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401927375": {
       "date": "2026-11-19",
       "fav": null,
       "line": null
