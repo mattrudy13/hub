@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-20T14:20:45.798Z",
+  "updated": "2026-11-20T15:20:45.946Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Trump to hold press conference after meeting with Xi and Putin",
+          "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+          "source": "NPR",
+          "published": "2026-11-20T15:00:00.000Z"
+        },
         {
           "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
           "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-20T13:28:32.000Z"
-        },
-        {
-          "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
-          "source": "NPR",
-          "published": "2026-11-20T12:24:40.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
+          "link": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
+          "source": "CNBC",
+          "published": "2026-11-20T15:17:24.000Z"
+        },
+        {
+          "title": "S&P 500 and Nasdaq open lower, on pace for worst week since April 2025",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=560dc1cc-6c82-4e98-9150-9d9e6a471b16&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-20T14:33:14.000Z"
+        },
+        {
           "title": "Anthropic’s stock slides closer to IPO price, dragging the AI trade",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c739630e-74bb-492d-91d9-53c530667e07&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-20T13:46:11.000Z"
-        },
-        {
-          "title": "Economic calendar: University of Michigan's consumer-sentiment survey",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8d3f72d5-a9cd-47d3-9ce4-d4987e7b6ef6&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-20T12:14:52.000Z"
-        },
-        {
-          "title": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes",
-          "link": "https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html",
-          "source": "CNBC",
-          "published": "2026-11-20T12:00:02.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
-          "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
-          "source": "Ars Technica",
-          "published": "2026-11-20T14:15:21.000Z"
-        },
-        {
-          "title": "The week everything fell apart",
-          "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+          "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
+          "link": "https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un",
           "source": "The Verge",
-          "published": "2026-11-20T14:06:59.000Z"
+          "published": "2026-11-20T15:02:13.000Z"
         },
         {
-          "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
-          "link": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+          "title": "Let’s talk about GTA VI",
+          "link": "https://www.theverge.com/entertainment/1037545/gta-6-discussion",
+          "source": "The Verge",
+          "published": "2026-11-20T15:00:00.000Z"
+        },
+        {
+          "title": "US will soon announce root cause behind FAA nationwide ground stop",
+          "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
           "source": "Ars Technica",
-          "published": "2026-11-20T13:35:45.000Z"
+          "published": "2026-11-20T14:52:51.000Z"
         }
       ]
     }
