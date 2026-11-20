@@ -1,37 +1,9 @@
 {
-  "updated": "2026-11-19T23:20:56.985Z",
-  "from": "2026-11-19T23:20:56Z",
-  "to": "2026-12-03T23:20:56Z",
+  "updated": "2026-11-20T00:20:48.990Z",
+  "from": "2026-11-20T00:20:48Z",
+  "to": "2026-12-04T00:20:48Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1AA7-1F",
-      "name": "Old Dominion Monarchs Womens Basketball vs. William and Mary Tribe Womens Basketball",
-      "date": "2026-11-19",
-      "time": "18:30",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Miscellaneous",
-      "venue": "Chartway Arena at Ted Constant Convocation Center",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7-1F",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/093/c74cfd95-af21-4e64-9f85-47677b951093_105651_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "vv177Z_oGkwkU1Go",
-      "name": "IT'S A WONDERFUL LIFE - 7pm - Classic Movie Nights!",
-      "date": "2026-11-19",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Other",
-      "genre": "Miscellaneous",
-      "venue": "American Theatre",
-      "city": "Hampton",
-      "url": "https://www.ticketmaster.com/its-a-wonderful-life-7pm-classic-hampton-virginia-11-19-2026/event/0100651C86D8A311",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/523/f2bada7e-b9e4-488b-b6dc-b188330dc523_105571_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZkfAGkdp2bPc",
       "name": "Norfolk Admirals vs. Trenton Ironhawks",
