@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-20T00:20:48.990Z",
-  "from": "2026-11-20T00:20:48Z",
-  "to": "2026-12-04T00:20:48Z",
+  "updated": "2026-11-20T01:20:26.401Z",
+  "from": "2026-11-20T01:20:25Z",
+  "to": "2026-12-04T01:20:25Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -647,6 +647,20 @@
       "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-12-02-2026/event/01006535D8D58CBE",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vvG17Z_2Ko_X8R",
+      "name": "Virginia Symphony: Classical Christmas",
+      "date": "2026-12-03",
+      "time": "19:30",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": "Classical",
+      "venue": "Harrison Opera House",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/virginia-symphony-classical-christmas-norfolk-virginia-12-03-2026/event/010064F4D167E42F",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/322/8a677df3-208a-4b11-8fbd-ac4965a62322_844551_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
