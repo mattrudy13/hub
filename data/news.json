@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T19:20:47.307Z",
+  "updated": "2026-11-20T20:20:53.485Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "White House removes cyber-security chief after series of tech outages",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+          "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-20T19:03:56.000Z"
+          "published": "2026-11-20T20:00:53.000Z"
+        },
+        {
+          "title": "Trump threatens ban on US firms building AI data centres overseas",
+          "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-20T19:51:52.000Z"
         },
         {
           "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
           "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
           "source": "NPR",
           "published": "2026-11-20T18:25:09.000Z"
-        },
-        {
-          "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-          "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-20T17:54:37.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4844649e-b874-4033-b895-8b6174b4217f&mod=mw_rss_bulletins",
+          "title": "Dow, S&P 500 in correction territory in final hour; Nasdaq wipes out 2026 gains",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=637c4718-e771-4db0-99c7-f2407a3cc48b&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-20T17:36:01.000Z"
+          "published": "2026-11-20T20:08:57.000Z"
+        },
+        {
+          "title": "Trump is trying to stop Big Tech’s push to build data centers outside the U.S.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0609ce20-a8d3-41b3-a1b1-ac4d39e8806f&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-20T19:33:49.000Z"
         },
         {
           "title": "Gap stock soars as retailer says Old Navy turnaround shows signs of improvement",
           "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
           "source": "CNBC",
           "published": "2026-11-20T17:20:29.000Z"
-        },
-        {
-          "title": "This proposed Social Security fix could add trillions to the national debt",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6fe4a0e2-ebef-48c6-8eec-3bfb4fd04b24&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-20T16:33:04.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-          "link": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
-          "source": "The Verge",
-          "published": "2026-11-20T19:15:00.000Z"
-        },
-        {
-          "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-          "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-          "source": "The Verge",
-          "published": "2026-11-20T18:50:19.000Z"
-        },
-        {
-          "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
-          "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+          "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+          "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
           "source": "Ars Technica",
-          "published": "2026-11-20T16:11:21.000Z"
+          "published": "2026-11-20T19:52:59.000Z"
+        },
+        {
+          "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+          "link": "https://www.theverge.com/games/1036279/gta-vi-sales",
+          "source": "The Verge",
+          "published": "2026-11-20T19:35:06.000Z"
+        },
+        {
+          "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+          "link": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
+          "source": "Ars Technica",
+          "published": "2026-11-20T19:21:50.000Z"
         }
       ]
     }

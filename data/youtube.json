@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T19:20:50.485Z",
+  "updated": "2026-11-20T20:20:55.817Z",
   "failed": [],
   "channels": [
     {
@@ -95,6 +95,13 @@
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_nfDvwu14-iN5YZcaLIomwno1_3oFcYTmG5_kn7SMj_nec=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "zGhJeLMIhbk",
+          "title": "3 IDIOTS TRY TO CHEAT DEATH | The Cabin Game",
+          "published": "2026-11-20T19:48:22Z",
+          "thumb": "https://i.ytimg.com/vi/zGhJeLMIhbk/mqdefault.jpg",
+          "seen": "2026-11-20T20:20:54.108Z"
+        },
+        {
           "id": "t0n0oHvPbu4",
           "title": "I Almost Killed Ethan with a Giant Peanut",
           "published": "2026-11-19T20:00:28Z",
@@ -121,13 +128,6 @@
           "published": "2026-11-15T21:52:41Z",
           "thumb": "https://i.ytimg.com/vi/5K49xpvMYyo/mqdefault.jpg",
           "seen": "2026-11-15T21:54:00.426Z"
-        },
-        {
-          "id": "k9jfDVoM1GU",
-          "title": "THE WELL | REANIMAL - Part 5 (Ending)",
-          "published": "2026-11-08T17:00:15Z",
-          "thumb": "https://i.ytimg.com/vi/k9jfDVoM1GU/mqdefault.jpg",
-          "seen": "2026-11-08T17:20:45.723Z"
         }
       ]
     },
