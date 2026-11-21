@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-21T22:20:46.325Z",
+  "updated": "2026-11-21T23:20:46.541Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Trump orders federal contractors to check with White House before responding to Congress",
+          "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+          "source": "NPR",
+          "published": "2026-11-21T22:40:36.000Z"
+        },
         {
           "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
           "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-21T22:01:19.000Z"
-        },
-        {
-          "title": "Bayer reaches Roundup settlement that could cost the company billions",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
-          "source": "NPR",
-          "published": "2026-11-21T20:37:35.000Z"
         }
       ]
     },
@@ -55,7 +55,7 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Review: Godzilla Minus Zero is everything we could want in a sequel",
+          "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
           "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
           "source": "Ars Technica",
           "published": "2026-11-21T22:12:41.000Z"

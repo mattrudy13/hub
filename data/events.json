@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-21T22:20:49.497Z",
-  "from": "2026-11-21T22:20:48Z",
-  "to": "2026-12-05T22:20:48Z",
+  "updated": "2026-11-21T23:20:49.996Z",
+  "from": "2026-11-21T23:20:49Z",
+  "to": "2026-12-05T23:20:49Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1AAAFZy",
-      "name": "Norfolk State Spartans Mens Basketball vs. UNC Wilmington Seahawks Mens Basketball",
-      "date": "2026-11-21",
-      "time": "18:00",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Basketball",
-      "venue": "Joseph G Echols Hall",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAFZy",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv177Z_FGknPYGQg",
       "name": "Zach Williams With Cochren & Co. And Christian Hohn: Revival Nights",

@@ -1,8 +1,6 @@
 {
-  "updated": "2026-11-21T01:21:00.701Z",
-  "failed": [
-    "cpi"
-  ],
+  "updated": "2026-11-21T23:20:50.102Z",
+  "failed": [],
   "anchors": {
     "groceries": {
       "value": 440.87999999999994,
