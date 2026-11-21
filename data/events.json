@@ -1,37 +1,9 @@
 {
-  "updated": "2026-11-21T00:51:42.694Z",
-  "from": "2026-11-21T00:51:42Z",
-  "to": "2026-12-05T00:51:42Z",
+  "updated": "2026-11-21T01:20:59.618Z",
+  "from": "2026-11-21T01:20:58Z",
+  "to": "2026-12-05T01:20:58Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv1AvZkfNGkdDr1z-",
-      "name": "Pandora's Box: Tribute to Aerosmith",
-      "date": "2026-11-20",
-      "time": "20:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": null,
-      "venue": "Elevation 27",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/pandoras-box-tribute-to-aerosmith-virginia-beach-virginia-11-20-2026/event/01006523FB78AE21",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/d04/ee80b6c8-5d39-4f68-a49f-a88205a0dd04_RETINA_PORTRAIT_16_9.jpg"
-    },
-    {
-      "id": "vv1F7Z_KG64FZdudG",
-      "name": "Trippie Redd - The Non-disclosure Agreement Tour",
-      "date": "2026-11-20",
-      "time": "20:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Hip-Hop/Rap",
-      "venue": "The Dome by Rutter Mills",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/trippie-redd-the-nondisclosure-agreement-tour-virginia-beach-virginia-11-20-2026/event/0100653307548C2B",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/f79/c44c3f4b-390c-47c3-901c-525346cb5f79_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZkfgGkdbmzsu",
       "name": "BayPort Credit Union Holiday Trail of Lights",
@@ -661,6 +633,34 @@
       "url": "https://www.ticketmaster.com/the-nutcracker-norfolk-virginia-12-04-2026/event/01006498E941855B",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/e/b04/b6bb7e16-a52e-4c06-a9a8-471e5a543b04_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vvG17Z_uQg6mub",
+      "name": "Virginia Musical Theatre-Million Dollar Quartet Christmas",
+      "date": "2026-12-04",
+      "time": "20:00",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": "Theatre",
+      "venue": "Sandler Center For The Performing Arts",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/virginia-musical-theatremillion-dollar-quartet-christmas-virginia-beach-virginia-12-04-2026/event/010064D6B51EE358",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/96a/47883b1d-0611-4e37-a216-073fc7ba496a_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkfaGkd5q-0F",
+      "name": "Tab Benoit with Bonerama: Blues and Brass Winter Tour",
+      "date": "2026-12-04",
+      "time": "20:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Blues",
+      "venue": "Elevation 27",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/tab-benoit-with-bonerama-blues-and-virginia-beach-virginia-12-04-2026/event/01006509CB761908",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/036/22d8b630-4bdc-4514-8abf-ae33a0a29036_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
