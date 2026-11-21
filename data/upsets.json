@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T01:20:57.268Z",
+  "updated": "2026-11-21T02:20:46.730Z",
   "minLine": 7,
   "days": [
     "2026-11-19",
@@ -30,6 +30,28 @@
     },
     {
       "league": "cbb",
+      "date": "2026-11-20",
+      "id": "401921107",
+      "line": 8.5,
+      "details": "EKU -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921107/bellarmine-e-kentucky",
+      "winner": {
+        "id": "91",
+        "name": "Bellarmine",
+        "abbr": "BELL",
+        "rank": null,
+        "score": 79
+      },
+      "loser": {
+        "id": "2198",
+        "name": "E Kentucky",
+        "abbr": "EKU",
+        "rank": null,
+        "score": 76
+      }
+    },
+    {
+      "league": "cbb",
       "date": "2026-11-19",
       "id": "401923304",
       "line": 8.5,
@@ -48,6 +70,28 @@
         "abbr": "QUIN",
         "rank": null,
         "score": 67
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-20",
+      "id": "401920298",
+      "line": 7.5,
+      "details": "CSUN -7.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920298/delaware-csu-northridge",
+      "winner": {
+        "id": "48",
+        "name": "Delaware",
+        "abbr": "DEL",
+        "rank": null,
+        "score": 97
+      },
+      "loser": {
+        "id": "2463",
+        "name": "CSU Northridge",
+        "abbr": "CSUN",
+        "rank": null,
+        "score": 92
       }
     }
   ],
@@ -625,6 +669,11 @@
       "line": null
     },
     "cbb:401928834": {
+      "date": "2026-11-20",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929353": {
       "date": "2026-11-20",
       "fav": null,
       "line": null
