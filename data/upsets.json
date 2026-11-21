@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T03:20:47.108Z",
+  "updated": "2026-11-21T04:20:45.574Z",
   "minLine": 7,
   "days": [
     "2026-11-19",
@@ -26,6 +26,28 @@
         "abbr": "KSU",
         "rank": null,
         "score": 70
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-11-20",
+      "id": "401858303",
+      "line": 11.5,
+      "details": "DUKE -11.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858303/clemson-duke",
+      "winner": {
+        "id": "228",
+        "name": "Clemson",
+        "abbr": "CLEM",
+        "rank": null,
+        "score": 20
+      },
+      "loser": {
+        "id": "150",
+        "name": "Duke",
+        "abbr": "DUKE",
+        "rank": null,
+        "score": 10
       }
     },
     {
