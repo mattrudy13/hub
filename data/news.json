@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T14:20:45.916Z",
+  "updated": "2026-11-21T15:20:51.010Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-21T14:54:24.000Z"
+        },
+        {
+          "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+          "source": "NPR",
+          "published": "2026-11-21T14:18:17.000Z"
+        },
+        {
           "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
           "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
           "source": "NPR",
           "published": "2026-11-21T13:58:33.000Z"
-        },
-        {
-          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-          "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-21T13:17:38.000Z"
-        },
-        {
-          "title": "Perspective: Defining 'human'",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
-          "source": "NPR",
-          "published": "2026-11-21T13:00:00.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Finding your edge in a market and economy dominated by AI: Barron’s Roundtable",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a62375af-d903-4733-9192-735e87bcccb5&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-21T14:31:53.000Z"
+        },
         {
           "title": "Yes, the U.S. is rich enough to fix Social Security. Medicare, too. Here’s how.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8f940f38-8cf9-42b1-9cce-67f9d60c0c3c&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
           "source": "CNBC",
           "published": "2026-11-21T12:00:01.000Z"
-        },
-        {
-          "title": "One thing Thanksgiving travelers can be thankful for: lower gas prices",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6bb78ea4-00af-4916-8720-0d396222d337&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-21T00:31:55.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-          "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+          "title": "Can Anthropic afford to put safety first?",
+          "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
           "source": "The Verge",
-          "published": "2026-11-21T14:00:00.000Z"
+          "published": "2026-11-21T15:00:00.000Z"
         },
         {
-          "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-          "link": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+          "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+          "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-21T13:00:00.000Z"
+          "published": "2026-11-21T14:55:28.000Z"
         },
         {
           "title": "“Race realism” isn’t realistic—and it isn’t good science",
