@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:20:54.667Z",
+  "updated": "2026-11-21T20:20:46.126Z",
   "minLine": 7,
   "days": [
     "2026-11-20",
@@ -114,6 +114,28 @@
         "abbr": "EKU",
         "rank": null,
         "score": 76
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-11-21",
+      "id": "401862835",
+      "line": 7.5,
+      "details": "UNT -7.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401862835/north-texas-tulane",
+      "winner": {
+        "id": "2655",
+        "name": "Tulane",
+        "abbr": "TULN",
+        "rank": null,
+        "score": 28
+      },
+      "loser": {
+        "id": "249",
+        "name": "North Texas",
+        "abbr": "UNT",
+        "rank": null,
+        "score": 24
       }
     },
     {
@@ -723,8 +745,8 @@
     "cfb:401858532": {
       "date": "2026-11-21",
       "fav": "213",
-      "line": 25.5,
-      "details": "PSU -25.5"
+      "line": 24.5,
+      "details": "PSU -24.5"
     },
     "cfb:401861968": {
       "date": "2026-11-21",
@@ -747,8 +769,8 @@
     "cfb:401869953": {
       "date": "2026-11-21",
       "fav": "290",
-      "line": 9.5,
-      "details": "GASO -9.5"
+      "line": 8.5,
+      "details": "GASO -8.5"
     },
     "cfb:401869958": {
       "date": "2026-11-21",
@@ -759,8 +781,8 @@
     "cfb:401871101": {
       "date": "2026-11-21",
       "fav": "6",
-      "line": 5.5,
-      "details": "USA -5.5"
+      "line": 4.5,
+      "details": "USA -4.5"
     },
     "cfb:401860920": {
       "date": "2026-11-21",
@@ -819,8 +841,8 @@
     "cfb:401858306": {
       "date": "2026-11-21",
       "fav": "97",
-      "line": 12.5,
-      "details": "LOU -12.5"
+      "line": 11.5,
+      "details": "LOU -11.5"
     },
     "cfb:401858308": {
       "date": "2026-11-21",
@@ -1065,8 +1087,8 @@
     "cbb:401925897": {
       "date": "2026-11-21",
       "fav": "350",
-      "line": 12.5,
-      "details": "UNCW -12.5"
+      "line": 11.5,
+      "details": "UNCW -11.5"
     },
     "cbb:401911023": {
       "date": "2026-11-21",
@@ -1083,8 +1105,8 @@
     "cbb:401921776": {
       "date": "2026-11-21",
       "fav": "130",
-      "line": 4.5,
-      "details": "MICH -4.5"
+      "line": 3.5,
+      "details": "MICH -3.5"
     },
     "cbb:401920975": {
       "date": "2026-11-21",

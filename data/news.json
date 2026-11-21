@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-21T19:20:53.864Z",
+  "updated": "2026-11-21T20:20:45.666Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-21T19:33:49.000Z"
+        },
         {
           "title": "Russia-bound ship attacked in Gulf of Finland",
           "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
           "source": "NPR",
           "published": "2026-11-21T18:22:46.000Z"
-        },
-        {
-          "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
-          "source": "NPR",
-          "published": "2026-11-21T18:08:55.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "The UN fails to agree on rules regulating ‘killer robots’",
+          "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+          "source": "The Verge",
+          "published": "2026-11-21T20:03:37.000Z"
+        },
+        {
           "title": "The FBI and USDA were reportedly hacked",
           "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
           "source": "The Verge",
           "published": "2026-11-21T17:42:27.000Z"
-        },
-        {
-          "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-          "link": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
-          "source": "The Verge",
-          "published": "2026-11-21T16:00:00.000Z"
         },
         {
           "title": "“Race realism” isn’t realistic—and it isn’t good science",

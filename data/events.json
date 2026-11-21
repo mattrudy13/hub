@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-21T19:20:56.092Z",
-  "from": "2026-11-21T19:20:55Z",
-  "to": "2026-12-05T19:20:55Z",
+  "updated": "2026-11-21T20:20:48.349Z",
+  "from": "2026-11-21T20:20:47Z",
+  "to": "2026-12-05T20:20:47Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv1AvZkfKGkeizoMM",
-      "name": "Mannheim Steamroller Christmas",
-      "date": "2026-11-21",
-      "time": "15:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "New Age",
-      "venue": "Sandler Center For The Performing Arts",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/mannheim-steamroller-christmas-virginia-beach-virginia-11-21-2026/event/01006513ACE11DF7",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/6ba/48487f5a-ab2b-4208-90bc-d3bbaf7696ba_1121721_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "Z7r9jZ1AAAFZy",
       "name": "Norfolk State Spartans Mens Basketball vs. UNC Wilmington Seahawks Mens Basketball",
