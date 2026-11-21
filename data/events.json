@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-21T16:20:48.108Z",
-  "from": "2026-11-21T16:20:47Z",
-  "to": "2026-12-05T16:20:47Z",
+  "updated": "2026-11-21T17:20:48.352Z",
+  "from": "2026-11-21T17:20:47Z",
+  "to": "2026-12-05T17:20:47Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1A7x8JF",
-      "name": "Norfolk State Spartans Football vs. Howard University Bison Football",
-      "date": "2026-11-21",
-      "time": "12:00",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Miscellaneous",
-      "venue": "William Price Stadium",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x8JF",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/c/db5/5acfb9a3-4315-40c6-824f-e0fd31bd5db5_723691_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZkfKGkeizoMM",
       "name": "Mannheim Steamroller Christmas",

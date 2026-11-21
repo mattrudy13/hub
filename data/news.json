@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-21T16:20:45.336Z",
+  "updated": "2026-11-21T17:20:45.740Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-21T16:35:15.000Z"
+        },
         {
           "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
           "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
           "source": "NPR",
           "published": "2026-11-21T14:18:17.000Z"
-        },
-        {
-          "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-          "source": "NPR",
-          "published": "2026-11-21T13:58:33.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Grocery stores have ‘staggering deals’ for Thanksgiving—but don’t get used to it",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=865dc883-dffb-42c2-b118-5705742a222f&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-21T16:21:01.000Z"
+        },
+        {
           "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=51a347e8-6c56-44bf-9ec5-6b13a5e01c7e&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-21T15:37:46.000Z"
-        },
-        {
-          "title": "Finding your edge in a market and economy dominated by AI: Barron’s Roundtable",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a62375af-d903-4733-9192-735e87bcccb5&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-21T14:31:53.000Z"
         },
         {
           "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
