@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-21T17:38:29.333Z",
+  "updated": "2026-11-21T18:20:45.274Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+          "source": "NPR",
+          "published": "2026-11-21T18:08:55.000Z"
+        },
         {
           "title": "FBI reportedly investigating apparent hack of its criminal database",
           "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-21T14:54:24.000Z"
-        },
-        {
-          "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-          "source": "NPR",
-          "published": "2026-11-21T14:18:17.000Z"
         }
       ]
     },
@@ -55,14 +55,14 @@
       "name": "Tech",
       "items": [
         {
-          "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-          "link": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+          "title": "The FBI and USDA were reportedly hacked",
+          "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
           "source": "The Verge",
-          "published": "2026-11-21T16:00:00.000Z"
+          "published": "2026-11-21T17:42:27.000Z"
         },
         {
-          "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
-          "link": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+          "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+          "link": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
           "source": "The Verge",
           "published": "2026-11-21T16:00:00.000Z"
         },
