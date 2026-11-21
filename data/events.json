@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-21T04:20:48.503Z",
-  "from": "2026-11-21T04:20:48Z",
-  "to": "2026-12-05T04:20:48Z",
+  "updated": "2026-11-21T05:20:49.868Z",
+  "from": "2026-11-21T05:20:49Z",
+  "to": "2026-12-05T05:20:49Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv1AvZkfgGkdbmzsu",
-      "name": "BayPort Credit Union Holiday Trail of Lights",
-      "date": "2026-11-20",
-      "time": null,
-      "status": "offsale",
-      "kind": "Other",
-      "genre": "Holiday",
-      "venue": "Virginia Aquarium",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-11-20-2026/event/01006535D8BB8C4D",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "Z7r9jZ1A7x8JF",
       "name": "Norfolk State Spartans Football vs. Howard University Bison Football",
@@ -661,6 +647,20 @@
       "url": "https://www.ticketmaster.com/tab-benoit-with-bonerama-blues-and-virginia-beach-virginia-12-04-2026/event/01006509CB761908",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/e/036/22d8b630-4bdc-4514-8abf-ae33a0a29036_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1A8vPu8GAGmkQD",
+      "name": "BayPort Credit Union Holiday Trail of Lights",
+      "date": "2026-12-04",
+      "time": null,
+      "status": "onsale",
+      "kind": "Other",
+      "genre": "Holiday",
+      "venue": "Virginia Aquarium",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-12-04-2026/event/010065350CB866BB",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
