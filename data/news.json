@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T11:20:45.261Z",
+  "updated": "2026-11-21T12:20:46.972Z",
   "failed": [],
   "sections": [
     {
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+          "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+          "source": "CNBC",
+          "published": "2026-11-21T12:00:01.000Z"
+        },
+        {
           "title": "One thing Thanksgiving travelers can be thankful for: lower gas prices",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6bb78ea4-00af-4916-8720-0d396222d337&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3c6fd2fb-0107-49a9-b380-9254239822bd&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-20T23:28:48.000Z"
-        },
-        {
-          "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
-          "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-          "source": "CNBC",
-          "published": "2026-11-20T21:04:48.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "“Race realism” isn’t realistic—and it isn’t good science",
+          "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+          "source": "Ars Technica",
+          "published": "2026-11-21T12:01:13.000Z"
+        },
+        {
+          "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+          "link": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+          "source": "The Verge",
+          "published": "2026-11-21T12:00:00.000Z"
+        },
+        {
           "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
           "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
           "source": "Ars Technica",
           "published": "2026-11-20T22:28:24.000Z"
-        },
-        {
-          "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-          "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-          "source": "Ars Technica",
-          "published": "2026-11-20T22:16:51.000Z"
-        },
-        {
-          "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-          "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-          "source": "The Verge",
-          "published": "2026-11-20T20:43:52.000Z"
         }
       ]
     }
