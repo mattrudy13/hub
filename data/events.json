@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-20T23:20:48.123Z",
-  "from": "2026-11-20T23:20:47Z",
-  "to": "2026-12-04T23:20:47Z",
+  "updated": "2026-11-21T00:20:51.571Z",
+  "from": "2026-11-21T00:20:51Z",
+  "to": "2026-12-05T00:20:51Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv1AvZkfAGkdp2bPc",
-      "name": "Norfolk Admirals vs. Trenton Ironhawks",
-      "date": "2026-11-20",
-      "time": "19:05",
-      "status": "onsale",
-      "kind": "Sports",
-      "genre": "Hockey",
-      "venue": "Scope Arena",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/norfolk-admirals-vs-trenton-ironhawks-norfolk-virginia-11-20-2026/event/01006505D63D896D",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/a82/1bbe9229-3e86-41b2-89a6-3f9ee9488a82_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv177Z_oGkm_PiSj",
       "name": "Musicians of the Virginia Symphony Orchestra",
@@ -675,6 +661,20 @@
       "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-12-03-2026/event/01006535D8D88CCD",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZk3bGkdt8b4h",
+      "name": "The Nutcracker",
+      "date": "2026-12-04",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": "Dance",
+      "venue": "Harrison Opera House",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/the-nutcracker-norfolk-virginia-12-04-2026/event/01006498E941855B",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/b04/b6bb7e16-a52e-4c06-a9a8-471e5a543b04_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
