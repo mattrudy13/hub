@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T12:20:46.972Z",
+  "updated": "2026-11-21T13:20:46.827Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-          "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-21T10:26:36.000Z"
+          "published": "2026-11-21T13:17:38.000Z"
         },
         {
-          "title": "5 ways to turn off your 'work brain' after the day ends",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
+          "title": "Perspective: Defining 'human'",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
           "source": "NPR",
-          "published": "2026-11-21T10:01:00.000Z"
+          "published": "2026-11-21T13:00:00.000Z"
         },
         {
-          "title": "The AI boom had a really bad week — and it's raising loud alarms",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+          "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
           "source": "NPR",
-          "published": "2026-11-21T10:00:00.000Z"
+          "published": "2026-11-21T12:40:17.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+          "link": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+          "source": "The Verge",
+          "published": "2026-11-21T13:00:00.000Z"
+        },
+        {
+          "title": "The game of the year is finally here",
+          "link": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+          "source": "The Verge",
+          "published": "2026-11-21T13:00:00.000Z"
+        },
+        {
           "title": "“Race realism” isn’t realistic—and it isn’t good science",
           "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
           "source": "Ars Technica",
           "published": "2026-11-21T12:01:13.000Z"
-        },
-        {
-          "title": "Harbinger is building the unsexy EVs that keep the economy moving",
-          "link": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
-          "source": "The Verge",
-          "published": "2026-11-21T12:00:00.000Z"
-        },
-        {
-          "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
-          "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-          "source": "Ars Technica",
-          "published": "2026-11-20T22:28:24.000Z"
         }
       ]
     }
