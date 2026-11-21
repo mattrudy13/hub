@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T20:20:45.666Z",
+  "updated": "2026-11-21T21:20:46.389Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-21T21:05:29.000Z"
+        },
+        {
+          "title": "Bayer reaches Roundup settlement that could cost the company billions",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+          "source": "NPR",
+          "published": "2026-11-21T20:37:35.000Z"
+        },
+        {
           "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
           "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-21T19:33:49.000Z"
-        },
-        {
-          "title": "Russia-bound ship attacked in Gulf of Finland",
-          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-21T19:20:22.000Z"
-        },
-        {
-          "title": "Storms expected on both coasts threatens Thanksgiving travel",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
-          "source": "NPR",
-          "published": "2026-11-21T18:22:46.000Z"
         }
       ]
     },
