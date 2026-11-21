@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T21:20:46.389Z",
+  "updated": "2026-11-21T22:20:46.325Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-          "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-21T21:05:29.000Z"
+          "published": "2026-11-21T22:19:43.000Z"
+        },
+        {
+          "title": "Lock of former US President George Washington's hair sells for $4,000",
+          "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-21T22:01:19.000Z"
         },
         {
           "title": "Bayer reaches Roundup settlement that could cost the company billions",
           "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
           "source": "NPR",
           "published": "2026-11-21T20:37:35.000Z"
-        },
-        {
-          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-21T19:33:49.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Review: Godzilla Minus Zero is everything we could want in a sequel",
+          "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+          "source": "Ars Technica",
+          "published": "2026-11-21T22:12:41.000Z"
+        },
+        {
+          "title": "Amazon is complaining about NYC Council on shipping labels, too",
+          "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+          "source": "The Verge",
+          "published": "2026-11-21T21:59:31.000Z"
+        },
+        {
           "title": "The UN fails to agree on rules regulating ‘killer robots’",
           "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
           "source": "The Verge",
           "published": "2026-11-21T20:03:37.000Z"
-        },
-        {
-          "title": "The FBI and USDA were reportedly hacked",
-          "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
-          "source": "The Verge",
-          "published": "2026-11-21T17:42:27.000Z"
-        },
-        {
-          "title": "“Race realism” isn’t realistic—and it isn’t good science",
-          "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
-          "source": "Ars Technica",
-          "published": "2026-11-21T12:01:13.000Z"
         }
       ]
     }
