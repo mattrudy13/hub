@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-21T00:20:51.571Z",
-  "from": "2026-11-21T00:20:51Z",
-  "to": "2026-12-05T00:20:51Z",
+  "updated": "2026-11-21T00:51:42.694Z",
+  "from": "2026-11-21T00:51:42Z",
+  "to": "2026-12-05T00:51:42Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv177Z_oGkm_PiSj",
-      "name": "Musicians of the Virginia Symphony Orchestra",
-      "date": "2026-11-20",
-      "time": "19:30",
-      "status": "onsale",
-      "kind": "Arts",
-      "genre": "Cultural",
-      "venue": "Harrison Opera House",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/musicians-of-the-virginia-symphony-orchestra-norfolk-virginia-11-20-2026/event/0100651B9996CCDC",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/59e/03c8a32b-dd2d-4c58-8d41-4ba446f0f59e_1861191_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZkfNGkdDr1z-",
       "name": "Pandora's Box: Tribute to Aerosmith",

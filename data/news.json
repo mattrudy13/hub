@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T00:20:47.016Z",
+  "updated": "2026-11-21T00:51:39.740Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "ANC fights to keep control of South Africa's key cities after election setback",
+          "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-21T00:34:51.000Z"
+        },
+        {
           "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
           "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-21T00:01:39.000Z"
-        },
-        {
-          "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
-          "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-20T23:28:17.000Z"
         },
         {
           "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "One thing Thanksgiving travelers can be thankful for: lower gas prices",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6bb78ea4-00af-4916-8720-0d396222d337&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-21T00:31:55.000Z"
+        },
+        {
           "title": "These stocks were crushed the most this week as the tech wreck accelerated",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3c6fd2fb-0107-49a9-b380-9254239822bd&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-20T23:28:48.000Z"
-        },
-        {
-          "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c66bdc9a-18b0-4231-bc4e-15f30deb93e8&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-20T22:50:37.000Z"
         },
         {
           "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
