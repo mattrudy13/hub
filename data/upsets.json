@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T05:20:45.959Z",
+  "updated": "2026-11-22T07:05:55.780Z",
   "minLine": 7,
   "days": [
     "2026-11-21",
@@ -26,6 +26,28 @@
         "abbr": "PSU",
         "rank": null,
         "score": 24
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-11-21",
+      "id": "401860925",
+      "line": 20.5,
+      "details": "BOIS -20.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401860925/san-diego-st-boise-st",
+      "winner": {
+        "id": "21",
+        "name": "San Diego St",
+        "abbr": "SDSU",
+        "rank": null,
+        "score": 22
+      },
+      "loser": {
+        "id": "68",
+        "name": "Boise St",
+        "abbr": "BOIS",
+        "rank": 17,
+        "score": 20
       }
     },
     {
@@ -851,8 +873,8 @@
     "cbb:401919809": {
       "date": "2026-11-22",
       "fav": "112358",
-      "line": 2.5,
-      "details": "LIU -2.5"
+      "line": 3.5,
+      "details": "LIU -3.5"
     },
     "cbb:401912212": {
       "date": "2026-11-22",
@@ -923,8 +945,8 @@
     "cbb:401925066": {
       "date": "2026-11-22",
       "fav": "2653",
-      "line": 5.5,
-      "details": "TROY -5.5"
+      "line": 6.5,
+      "details": "TROY -6.5"
     },
     "cbb:401922252": {
       "date": "2026-11-22",
@@ -935,8 +957,8 @@
     "cbb:401929202": {
       "date": "2026-11-22",
       "fav": "326",
-      "line": 2.5,
-      "details": "TXST -2.5"
+      "line": 1.5,
+      "details": "TXST -1.5"
     },
     "cbb:401923323": {
       "date": "2026-11-22",
@@ -1001,8 +1023,8 @@
     "cbb:401928999": {
       "date": "2026-11-22",
       "fav": "2674",
-      "line": 7.5,
-      "details": "VAL -7.5"
+      "line": 8.5,
+      "details": "VAL -8.5"
     },
     "cbb:401921420": {
       "date": "2026-11-22",
