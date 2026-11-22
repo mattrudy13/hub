@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-22T17:54:15.819Z",
-  "from": "2026-11-22T17:54:15Z",
-  "to": "2026-12-06T17:54:15Z",
+  "updated": "2026-11-22T18:20:46.767Z",
+  "from": "2026-11-22T18:20:46Z",
+  "to": "2026-12-06T18:20:46Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv177Z_oGkTuM0yY",
-      "name": "Mutts Gone Nuts",
-      "date": "2026-11-22",
-      "time": "13:00",
-      "status": "onsale",
-      "kind": "Family",
-      "genre": "Family",
-      "venue": "American Theatre",
-      "city": "Hampton",
-      "url": "https://www.ticketmaster.com/mutts-gone-nuts-hampton-virginia-11-22-2026/event/0100651FCDDE4E70",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/7cb/310d442f-26fa-49d9-8b5c-580bf46437cb_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "Z7r9jZ1A7PK7f",
       "name": "Wage War w/ We Came As Romans",

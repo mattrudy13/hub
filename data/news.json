@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-22T17:54:13.207Z",
+  "updated": "2026-11-22T18:20:44.971Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+          "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-22T17:57:43.000Z"
+        },
         {
           "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
           "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
           "source": "NPR",
           "published": "2026-11-22T17:34:20.000Z"
-        },
-        {
-          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-22T17:18:26.000Z"
         }
       ]
     },
