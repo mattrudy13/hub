@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T16:20:47.788Z",
+  "updated": "2026-11-22T17:20:49.853Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
+          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-22T17:18:26.000Z"
+        },
+        {
+          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
           "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-22T16:05:25.000Z"
+          "published": "2026-11-22T17:16:47.000Z"
         },
         {
-          "title": "Three killed and dozens missing after fire at Indonesian factory",
-          "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-22T14:05:20.000Z"
-        },
-        {
-          "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
-          "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+          "title": "International climate talks end in disappointment",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
           "source": "NPR",
-          "published": "2026-11-22T13:11:04.000Z"
+          "published": "2026-11-22T16:33:22.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Protesters storm Meta offices in India",
-          "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+          "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+          "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-22T15:15:07.000Z"
+          "published": "2026-11-22T17:00:00.000Z"
         },
         {
-          "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
-          "link": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+          "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+          "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
           "source": "The Verge",
-          "published": "2026-11-22T14:00:00.000Z"
+          "published": "2026-11-22T16:33:29.000Z"
         },
         {
           "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
