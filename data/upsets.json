@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T01:20:47.239Z",
+  "updated": "2026-11-22T02:20:48.939Z",
   "minLine": 7,
   "days": [
     "2026-11-20",
@@ -158,6 +158,28 @@
         "abbr": "NE",
         "rank": null,
         "score": 82
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-21",
+      "id": "401920975",
+      "line": 8.5,
+      "details": "UTC -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920975/radford-chattanooga",
+      "winner": {
+        "id": "2515",
+        "name": "Radford",
+        "abbr": "RAD",
+        "rank": null,
+        "score": 73
+      },
+      "loser": {
+        "id": "236",
+        "name": "Chattanooga",
+        "abbr": "UTC",
+        "rank": null,
+        "score": 65
       }
     },
     {
@@ -953,8 +975,8 @@
     "cfb:401856872": {
       "date": "2026-11-21",
       "fav": "254",
-      "line": 7.5,
-      "details": "UTAH -7.5"
+      "line": 9.5,
+      "details": "UTAH -9.5"
     },
     "cfb:401860925": {
       "date": "2026-11-21",
