@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-22T13:20:56.242Z",
+  "updated": "2026-11-22T14:20:49.508Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Three killed and dozens missing after fire at Indonesian factory",
+          "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-22T14:05:20.000Z"
+        },
         {
           "title": "It's Medicare open enrollment time. Here's what you need to know",
           "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-22T11:25:14.000Z"
-        },
-        {
-          "title": "He expected a small-business loan. It turned out to be a trap",
-          "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
-          "source": "NPR",
-          "published": "2026-11-22T10:00:00.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "How Tamagotchis got us hooked on digital pets",
-          "link": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+          "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+          "link": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
           "source": "The Verge",
-          "published": "2026-11-22T13:15:27.000Z"
+          "published": "2026-11-22T14:00:00.000Z"
         },
         {
-          "title": "Your questions about Apple HomeView’s audio, answered",
-          "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+          "title": "‘The show is starting soon. Please turn on your headphones.’",
+          "link": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
           "source": "The Verge",
-          "published": "2026-11-22T13:00:00.000Z"
+          "published": "2026-11-22T14:00:00.000Z"
         },
         {
           "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
