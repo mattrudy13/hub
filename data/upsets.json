@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-21T23:28:29.279Z",
+  "updated": "2026-11-22T00:20:47.184Z",
   "minLine": 7,
   "days": [
     "2026-11-20",
     "2026-11-21"
   ],
   "upsets": [
+    {
+      "league": "cfb",
+      "date": "2026-11-21",
+      "id": "401858532",
+      "line": 24.5,
+      "details": "PSU -24.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858532/rutgers-penn-state",
+      "winner": {
+        "id": "164",
+        "name": "Rutgers",
+        "abbr": "RUTG",
+        "rank": null,
+        "score": 25
+      },
+      "loser": {
+        "id": "213",
+        "name": "Penn State",
+        "abbr": "PSU",
+        "rank": null,
+        "score": 24
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-20",
@@ -70,6 +92,72 @@
         "abbr": "DUKE",
         "rank": null,
         "score": 10
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-11-21",
+      "id": "401858304",
+      "line": 10.5,
+      "details": "FSU -10.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858304/nc-state-florida-st",
+      "winner": {
+        "id": "152",
+        "name": "NC State",
+        "abbr": "NCSU",
+        "rank": null,
+        "score": 28
+      },
+      "loser": {
+        "id": "52",
+        "name": "Florida St",
+        "abbr": "FSU",
+        "rank": null,
+        "score": 10
+      }
+    },
+    {
+      "league": "cfb",
+      "date": "2026-11-21",
+      "id": "401858535",
+      "line": 9.5,
+      "details": "IU -9.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401858535/indiana-washington",
+      "winner": {
+        "id": "264",
+        "name": "Washington",
+        "abbr": "WASH",
+        "rank": null,
+        "score": 27
+      },
+      "loser": {
+        "id": "84",
+        "name": "Indiana",
+        "abbr": "IU",
+        "rank": 8,
+        "score": 24
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-21",
+      "id": "401919849",
+      "line": 9.5,
+      "details": "NE -9.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401919849/northeastern-stonehill",
+      "winner": {
+        "id": "284",
+        "name": "Stonehill",
+        "abbr": "STO",
+        "rank": null,
+        "score": 95
+      },
+      "loser": {
+        "id": "111",
+        "name": "Northeastern",
+        "abbr": "NE",
+        "rank": null,
+        "score": 82
       }
     },
     {

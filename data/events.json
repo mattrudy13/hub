@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-21T23:28:32.093Z",
-  "from": "2026-11-21T23:28:31Z",
-  "to": "2026-12-05T23:28:31Z",
+  "updated": "2026-11-22T00:20:50.006Z",
+  "from": "2026-11-22T00:20:49Z",
+  "to": "2026-12-06T00:20:49Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv177Z_FGknPYGQg",
-      "name": "Zach Williams With Cochren & Co. And Christian Hohn: Revival Nights",
-      "date": "2026-11-21",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Rock",
-      "venue": "The Dome by Rutter Mills",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/zach-williams-with-cochren-co-and-virginia-beach-virginia-11-21-2026/event/0100648AA5C0C6B5",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/82e/a67a24ce-b7b1-4e00-857a-ff008b6cf82e_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vvG17Z_urnqCJT",
       "name": "Mannheim Steamroller Christmas",
@@ -65,7 +51,7 @@
       "name": "BayPort Credit Union Holiday Trail of Lights",
       "date": "2026-11-21",
       "time": null,
-      "status": "onsale",
+      "status": "offsale",
       "kind": "Other",
       "genre": "Holiday",
       "venue": "Virginia Aquarium",
@@ -647,6 +633,48 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7d8y",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZk3bGkdtoF4E",
+      "name": "The Nutcracker",
+      "date": "2026-12-05",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": "Dance",
+      "venue": "Harrison Opera House",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/the-nutcracker-norfolk-virginia-12-05-2026/event/01006498E9448567",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/793/47405ccc-f08f-4706-b264-019365b21793_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1AAZAvM",
+      "name": "Bumpin Uglies w/ Passafire",
+      "date": "2026-12-05",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Other",
+      "genre": null,
+      "venue": "The Norva",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZAvM",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv177ZbwGklINzLe",
+      "name": "Sabaton: Legends on Tour",
+      "date": "2026-12-05",
+      "time": "19:00",
+      "status": "rescheduled",
+      "kind": "Music",
+      "genre": "Metal",
+      "venue": "The Dome by Rutter Mills",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/sabaton-legends-on-tour-virginia-beach-virginia-12-05-2026/event/0100632AE88F87C2",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/6af/faa2c053-7247-49f9-9cd2-9dd6512986af_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }

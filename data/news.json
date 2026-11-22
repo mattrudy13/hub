@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T23:28:28.874Z",
+  "updated": "2026-11-22T00:20:46.678Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-22T00:10:44.000Z"
+        },
+        {
+          "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+          "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-22T00:10:37.000Z"
+        },
+        {
           "title": "Trump orders federal contractors to check with White House before responding to Congress",
           "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
           "source": "NPR",
           "published": "2026-11-21T22:40:36.000Z"
-        },
-        {
-          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-21T22:19:43.000Z"
-        },
-        {
-          "title": "Lock of former US President George Washington's hair sells for $4,000",
-          "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-21T22:01:19.000Z"
         }
       ]
     },
