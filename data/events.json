@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-22T19:20:52.303Z",
-  "from": "2026-11-22T19:20:51Z",
-  "to": "2026-12-06T19:20:51Z",
+  "updated": "2026-11-22T20:20:48.231Z",
+  "from": "2026-11-22T20:20:47Z",
+  "to": "2026-12-06T20:20:47Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -675,6 +675,20 @@
       "url": "https://www.ticketmaster.com/the-nutcracker-norfolk-virginia-12-06-2026/event/01006498E946856D",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/e/d91/eaca2187-cca9-4abb-adf7-0d99d1a14d91_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vvG17Z_uQgFXuc",
+      "name": "Virginia Musical Theatre-Million Dollar Quartet Christmas",
+      "date": "2026-12-06",
+      "time": "14:30",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": "Theatre",
+      "venue": "Sandler Center For The Performing Arts",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/virginia-musical-theatremillion-dollar-quartet-christmas-virginia-beach-virginia-12-06-2026/event/010064D6B523E36D",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/a6e/81c4fbef-54f9-4473-9abe-1c9e83ed1a6e_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
