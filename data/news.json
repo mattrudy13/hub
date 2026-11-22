@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T17:20:49.853Z",
+  "updated": "2026-11-22T17:54:13.207Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+          "source": "NPR",
+          "published": "2026-11-22T17:44:52.000Z"
+        },
+        {
+          "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+          "link": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+          "source": "NPR",
+          "published": "2026-11-22T17:34:20.000Z"
+        },
+        {
           "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
           "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-22T17:18:26.000Z"
-        },
-        {
-          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-22T17:16:47.000Z"
-        },
-        {
-          "title": "International climate talks end in disappointment",
-          "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
-          "source": "NPR",
-          "published": "2026-11-22T16:33:22.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-          "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+          "title": "Delta flights in and out of Atlanta delayed due to system outage",
+          "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
           "source": "The Verge",
-          "published": "2026-11-22T17:00:00.000Z"
+          "published": "2026-11-22T17:46:44.000Z"
         },
         {
-          "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
-          "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+          "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+          "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
           "source": "The Verge",
-          "published": "2026-11-22T16:33:29.000Z"
+          "published": "2026-11-22T17:25:20.000Z"
         },
         {
           "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
