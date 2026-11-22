@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-22T11:20:48.949Z",
+  "updated": "2026-11-22T12:20:44.646Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-22T11:25:14.000Z"
+        },
         {
           "title": "NPR's Senior Podcast Challenge: Early entries we love",
           "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
           "source": "NPR",
           "published": "2026-11-22T10:00:00.000Z"
-        },
-        {
-          "title": "South Korea education minister resigns over exam cheating scandal",
-          "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-22T09:20:45.000Z"
         }
       ]
     },
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+          "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "source": "Ars Technica",
+          "published": "2026-11-22T12:07:41.000Z"
+        },
+        {
           "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
           "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
           "source": "Ars Technica",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
           "source": "The Verge",
           "published": "2026-11-21T21:59:31.000Z"
-        },
-        {
-          "title": "The UN fails to agree on rules regulating ‘killer robots’",
-          "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-          "source": "The Verge",
-          "published": "2026-11-21T20:03:37.000Z"
         }
       ]
     }
