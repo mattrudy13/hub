@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T12:20:44.646Z",
+  "updated": "2026-11-22T13:20:56.242Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "It's Medicare open enrollment time. Here's what you need to know",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+          "source": "NPR",
+          "published": "2026-11-22T13:11:04.000Z"
+        },
+        {
           "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
           "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-22T11:25:14.000Z"
-        },
-        {
-          "title": "NPR's Senior Podcast Challenge: Early entries we love",
-          "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
-          "source": "NPR",
-          "published": "2026-11-22T10:00:00.000Z"
         },
         {
           "title": "He expected a small-business loan. It turned out to be a trap",
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
+          "link": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
+          "source": "CNBC",
+          "published": "2026-11-22T13:00:01.000Z"
+        },
+        {
           "title": "Grocery stores have ‘staggering deals’ for Thanksgiving—but don’t get used to it",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=865dc883-dffb-42c2-b118-5705742a222f&mod=mw_rss_bulletins",
           "source": "MarketWatch",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=51a347e8-6c56-44bf-9ec5-6b13a5e01c7e&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-21T15:37:46.000Z"
-        },
-        {
-          "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
-          "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
-          "source": "CNBC",
-          "published": "2026-11-21T12:00:01.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "How Tamagotchis got us hooked on digital pets",
+          "link": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+          "source": "The Verge",
+          "published": "2026-11-22T13:15:27.000Z"
+        },
+        {
+          "title": "Your questions about Apple HomeView’s audio, answered",
+          "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+          "source": "The Verge",
+          "published": "2026-11-22T13:00:00.000Z"
+        },
+        {
           "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
           "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
           "source": "Ars Technica",
           "published": "2026-11-22T12:07:41.000Z"
-        },
-        {
-          "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
-          "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-          "source": "Ars Technica",
-          "published": "2026-11-21T22:12:41.000Z"
-        },
-        {
-          "title": "Amazon is complaining about NYC Council on shipping labels, too",
-          "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-          "source": "The Verge",
-          "published": "2026-11-21T21:59:31.000Z"
         }
       ]
     }
