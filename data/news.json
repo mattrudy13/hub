@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T22:20:49.714Z",
+  "updated": "2026-11-22T23:20:47.166Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-          "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-22T21:22:40.000Z"
-        },
-        {
-          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-22T20:28:09.000Z"
-        },
-        {
-          "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
-          "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+          "title": "What it's like at a climate conference as talks collapse",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
           "source": "NPR",
-          "published": "2026-11-22T17:44:52.000Z"
+          "published": "2026-11-22T22:40:23.000Z"
+        },
+        {
+          "title": "Philly festival-goers say pickles are a real big dill",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+          "source": "NPR",
+          "published": "2026-11-22T22:40:19.000Z"
+        },
+        {
+          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+          "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-22T22:37:43.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "We haven’t seen the last of the major tech outages",
+          "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+          "source": "The Verge",
+          "published": "2026-11-22T22:48:02.000Z"
+        },
+        {
           "title": "Delta flights in and out of Atlanta delayed due to system outage",
           "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
           "source": "The Verge",
           "published": "2026-11-22T17:46:44.000Z"
-        },
-        {
-          "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-          "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-          "source": "The Verge",
-          "published": "2026-11-22T17:25:20.000Z"
         },
         {
           "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
