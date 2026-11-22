@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T07:05:55.453Z",
+  "updated": "2026-11-22T11:20:48.949Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "New draft deal aims to avert collapse of talks at climate summit",
-          "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-22T06:54:06.000Z"
-        },
-        {
-          "title": "Dozens missing after fire at Indonesian factory",
-          "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-22T06:05:00.000Z"
-        },
-        {
-          "title": "Trump orders federal contractors to check with White House before responding to Congress",
-          "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+          "title": "NPR's Senior Podcast Challenge: Early entries we love",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
           "source": "NPR",
-          "published": "2026-11-21T22:40:36.000Z"
+          "published": "2026-11-22T10:00:00.000Z"
+        },
+        {
+          "title": "He expected a small-business loan. It turned out to be a trap",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+          "source": "NPR",
+          "published": "2026-11-22T10:00:00.000Z"
+        },
+        {
+          "title": "South Korea education minister resigns over exam cheating scandal",
+          "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-22T09:20:45.000Z"
         }
       ]
     },
