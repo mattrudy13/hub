@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T18:20:44.971Z",
+  "updated": "2026-11-22T19:20:48.730Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-          "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+          "title": "What's next after no deal at COP31 climate talks?",
+          "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-22T17:57:43.000Z"
+          "published": "2026-11-22T18:57:24.000Z"
+        },
+        {
+          "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+          "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-22T18:29:46.000Z"
         },
         {
           "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
           "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
           "source": "NPR",
           "published": "2026-11-22T17:44:52.000Z"
-        },
-        {
-          "title": "Meet the young authors! A literacy program inspires kids in South Africa",
-          "link": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
-          "source": "NPR",
-          "published": "2026-11-22T17:34:20.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+          "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+          "source": "CNBC",
+          "published": "2026-11-22T18:55:05.000Z"
+        },
         {
           "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
           "link": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=865dc883-dffb-42c2-b118-5705742a222f&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-21T16:21:01.000Z"
-        },
-        {
-          "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=51a347e8-6c56-44bf-9ec5-6b13a5e01c7e&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-21T15:37:46.000Z"
         }
       ]
     },

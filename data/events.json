@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-22T18:20:46.767Z",
-  "from": "2026-11-22T18:20:46Z",
-  "to": "2026-12-06T18:20:46Z",
+  "updated": "2026-11-22T19:20:52.303Z",
+  "from": "2026-11-22T19:20:51Z",
+  "to": "2026-12-06T19:20:51Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -661,6 +661,20 @@
       "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-12-05-2026/event/010065350CBC66C5",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZk3bGkdtoI4c",
+      "name": "The Nutcracker",
+      "date": "2026-12-06",
+      "time": "14:00",
+      "status": "onsale",
+      "kind": "Arts",
+      "genre": "Dance",
+      "venue": "Harrison Opera House",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/the-nutcracker-norfolk-virginia-12-06-2026/event/01006498E946856D",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/d91/eaca2187-cca9-4abb-adf7-0d99d1a14d91_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
