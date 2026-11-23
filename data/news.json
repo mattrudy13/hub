@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T02:20:50.525Z",
+  "updated": "2026-11-23T03:20:50.912Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-23T02:59:35.000Z"
+        },
+        {
+          "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+          "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-23T02:37:02.000Z"
+        },
+        {
           "title": "Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.",
           "link": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly",
           "source": "NPR",
           "published": "2026-11-23T01:53:48.000Z"
-        },
-        {
-          "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-          "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-23T01:23:43.000Z"
-        },
-        {
-          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-23T00:50:35.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+          "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+          "source": "The Verge",
+          "published": "2026-11-23T03:00:00.000Z"
+        },
+        {
           "title": "We haven’t seen the last of the major tech outages",
           "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
           "source": "The Verge",
           "published": "2026-11-22T22:48:02.000Z"
-        },
-        {
-          "title": "Delta flights in and out of Atlanta delayed due to system outage",
-          "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
-          "source": "The Verge",
-          "published": "2026-11-22T17:46:44.000Z"
         },
         {
           "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
