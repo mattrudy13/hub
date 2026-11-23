@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T16:20:47.869Z",
+  "updated": "2026-11-23T17:20:56.035Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+          "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-23T17:07:25.000Z"
+        },
+        {
+          "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+          "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-23T16:49:51.000Z"
+        },
+        {
           "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
           "link": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
           "source": "NPR",
           "published": "2026-11-23T16:00:49.000Z"
-        },
-        {
-          "title": "The rise and fall and rise again of Jensen Huang",
-          "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-23T15:49:52.000Z"
-        },
-        {
-          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-23T15:41:23.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Tech stocks are up 10%. So are luxury-linked ones. Ongoing live coverage.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4c24908a-9876-4e06-9e89-4c8ad86553d2&mod=mw_rss_bulletins",
+          "title": "Jensen Huang's return saves the stock market — for now. Why that may not last.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e967a5a2-c0b7-4093-a15c-bcb4b9cda38b&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-23T15:30:42.000Z"
+          "published": "2026-11-23T16:58:46.000Z"
         },
         {
-          "title": "That was the biggest opening gain for the Nasdaq since at least 1991",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=17b8f39d-8d88-47e4-b91d-b26f55f6e2ea&mod=mw_rss_bulletins",
+          "title": "A surprising reason businesses can’t keep up with customer demand",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ad8dedff-933a-4a2f-8cd2-5ff75e1556b6&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-23T15:10:55.000Z"
+          "published": "2026-11-23T16:38:48.000Z"
         },
         {
           "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+          "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+          "source": "The Verge",
+          "published": "2026-11-23T16:30:11.000Z"
+        },
+        {
           "title": "Tech leaders are celebrating Jensen Huang’s return",
           "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
           "source": "The Verge",
           "published": "2026-11-23T16:14:04.000Z"
-        },
-        {
-          "title": "My trusty 27-inch Alienware QD-OLED gaming monitor is just $280",
-          "link": "https://www.theverge.com/gadgets/1039999/alienware-aw2726dm-qdoled-gaming-monitor-black-friday-2026-deal-sale",
-          "source": "The Verge",
-          "published": "2026-11-23T16:00:00.000Z"
         },
         {
           "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
