@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T22:05:46.885Z",
+  "updated": "2026-11-23T22:20:45.332Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+          "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-23T22:15:26.000Z"
+        },
+        {
+          "title": "Some women in tech have concerns about Huang's return",
+          "link": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
+          "source": "NPR",
+          "published": "2026-11-23T22:03:57.000Z"
+        },
+        {
           "title": "Mending relationships over the holidays? Considering a truce? NPR wants to know",
           "link": "https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute",
           "source": "NPR",
           "published": "2026-11-23T20:53:12.000Z"
-        },
-        {
-          "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-          "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-23T20:48:35.000Z"
-        },
-        {
-          "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-          "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-23T18:04:20.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Trump is open to capping credit-card interest rates. But don't bank on it.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a4f1ebae-17bf-495e-a06d-21c4d132e172&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-23T22:18:12.000Z"
+        },
         {
           "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
           "link": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1ae855e5-decc-41a1-8791-a22413ea01b9&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-23T21:26:33.000Z"
-        },
-        {
-          "title": "U.S. stocks book best day since April 2025 as Huang's Nvidia return sparks rally",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=22e77dfe-cf2c-438d-a1c4-a1fa9fe67451&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-23T21:09:09.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "source": "The Verge",
+          "published": "2026-11-23T22:10:32.000Z"
+        },
+        {
+          "title": "Welcome to elite impunity, Jensen Huang",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+          "source": "The Verge",
+          "published": "2026-11-23T22:09:26.000Z"
+        },
+        {
           "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
           "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
           "source": "Ars Technica",
           "published": "2026-11-23T21:58:34.000Z"
-        },
-        {
-          "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-          "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
-          "source": "Ars Technica",
-          "published": "2026-11-23T21:30:44.000Z"
-        },
-        {
-          "title": "AI data centers throw another wrench into chaotic UN climate talks",
-          "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-          "source": "The Verge",
-          "published": "2026-11-23T21:09:37.000Z"
         }
       ]
     }
