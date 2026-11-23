@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T07:53:06.747Z",
+  "updated": "2026-11-23T11:20:46.512Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-          "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-23T07:01:31.000Z"
-        },
-        {
-          "title": "What's next after no deal at COP31 climate talks?",
-          "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-23T05:34:39.000Z"
-        },
-        {
-          "title": "Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.",
-          "link": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly",
+          "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
+          "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
           "source": "NPR",
-          "published": "2026-11-23T01:53:48.000Z"
+          "published": "2026-11-23T10:16:33.000Z"
+        },
+        {
+          "title": "Seniors embrace Tesla automated driving technology despite questions about safety",
+          "link": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
+          "source": "NPR",
+          "published": "2026-11-23T10:00:00.000Z"
+        },
+        {
+          "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+          "link": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-23T08:53:01.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "The Fed risks a recession if it raises interest rates: Bill Ackman",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9ba83848-30c5-4771-b8ea-16e8a2e90822&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-23T11:09:26.000Z"
+        },
         {
           "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
           "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
           "source": "CNBC",
           "published": "2026-11-22T13:00:01.000Z"
-        },
-        {
-          "title": "Grocery stores have ‘staggering deals’ for Thanksgiving—but don’t get used to it",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=865dc883-dffb-42c2-b118-5705742a222f&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-21T16:21:01.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Meta Muse can now do your Black Friday shopping at Walmart",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+          "source": "The Verge",
+          "published": "2026-11-23T11:00:00.000Z"
+        },
+        {
           "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
           "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
           "source": "The Verge",
           "published": "2026-11-23T03:00:00.000Z"
-        },
-        {
-          "title": "We haven’t seen the last of the major tech outages",
-          "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
-          "source": "The Verge",
-          "published": "2026-11-22T22:48:02.000Z"
         },
         {
           "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
