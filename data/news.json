@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T20:20:46.687Z",
+  "updated": "2026-11-23T21:20:59.093Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Mending relationships over the holidays? Considering a truce? NPR wants to know",
+          "link": "https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute",
+          "source": "NPR",
+          "published": "2026-11-23T20:53:12.000Z"
+        },
+        {
+          "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+          "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-23T20:48:35.000Z"
+        },
+        {
           "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
           "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-23T18:04:20.000Z"
-        },
-        {
-          "title": "What failure of COP31 reveals about a divided world",
-          "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-23T17:24:25.000Z"
-        },
-        {
-          "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
-          "link": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
-          "source": "NPR",
-          "published": "2026-11-23T16:00:49.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "These stocks are Monday's biggest gainers after Jensen Huang’s return to Nvidia",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=628fa666-69c5-4876-b13b-8ea2254e5cdf&mod=mw_rss_bulletins",
+          "title": "U.S. stocks book best day since April 2025 as Huang's Nvidia return sparks rally",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=22e77dfe-cf2c-438d-a1c4-a1fa9fe67451&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-23T19:48:10.000Z"
+          "published": "2026-11-23T21:09:09.000Z"
+        },
+        {
+          "title": "Dow up 1,500 points, Nasdaq soaring nearly 7% after Huang returns as Nvidia CEO",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=dfc9ffff-098d-4c6f-9ea1-4cb1a9374960&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-23T20:32:18.000Z"
         },
         {
           "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
           "link": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
           "source": "CNBC",
           "published": "2026-11-23T19:08:37.000Z"
-        },
-        {
-          "title": "Trump’s push to reinstate Jensen Huang signals Nvidia’s CEO is too big to fail",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4ed84d49-f0f0-47a8-864f-9c85dbc6084c&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-23T18:45:55.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Surveillance pricing uses our personal data to make us pay more",
-          "link": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
+          "title": "AI data centers throw another wrench into chaotic UN climate talks",
+          "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+          "source": "The Verge",
+          "published": "2026-11-23T21:09:37.000Z"
+        },
+        {
+          "title": "Apple renews Ted Lasso for season 5",
+          "link": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+          "source": "The Verge",
+          "published": "2026-11-23T20:56:00.000Z"
+        },
+        {
+          "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
+          "link": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
           "source": "Ars Technica",
-          "published": "2026-11-23T20:11:43.000Z"
-        },
-        {
-          "title": "Claude AI can review pull requests and ship fixes on its own now",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-          "source": "The Verge",
-          "published": "2026-11-23T20:00:00.000Z"
-        },
-        {
-          "title": "Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return",
-          "link": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return",
-          "source": "The Verge",
-          "published": "2026-11-23T19:58:27.000Z"
+          "published": "2026-11-23T20:34:51.000Z"
         }
       ]
     }
