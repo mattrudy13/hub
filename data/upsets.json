@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T01:20:45.889Z",
+  "updated": "2026-11-23T02:20:51.502Z",
   "minLine": 7,
   "days": [
     "2026-11-21",
@@ -158,6 +158,28 @@
         "abbr": "UTC",
         "rank": null,
         "score": 65
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-22",
+      "id": "401917541",
+      "line": 7.5,
+      "details": "PORT -7.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401917541/portland-ca-baptist",
+      "winner": {
+        "id": "2856",
+        "name": "CA Baptist",
+        "abbr": "CBU",
+        "rank": null,
+        "score": 79
+      },
+      "loser": {
+        "id": "2501",
+        "name": "Portland",
+        "abbr": "PORT",
+        "rank": null,
+        "score": 71
       }
     },
     {
@@ -1086,9 +1108,9 @@
     },
     "cbb:401917542": {
       "date": "2026-11-22",
-      "fav": "28",
+      "fav": "2547",
       "line": 1.5,
-      "details": "UCSD -1.5"
+      "details": "SEA -1.5"
     },
     "cbb:401911233": {
       "date": "2026-11-22",
