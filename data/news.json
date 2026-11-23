@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T11:20:46.512Z",
+  "updated": "2026-11-23T12:20:45.821Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+          "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-23T11:57:33.000Z"
+        },
+        {
+          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-23T11:40:01.000Z"
+        },
+        {
           "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
           "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
           "source": "NPR",
           "published": "2026-11-23T10:16:33.000Z"
-        },
-        {
-          "title": "Seniors embrace Tesla automated driving technology despite questions about safety",
-          "link": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
-          "source": "NPR",
-          "published": "2026-11-23T10:00:00.000Z"
-        },
-        {
-          "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
-          "link": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-23T08:53:01.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Meta Muse can now do your Black Friday shopping at Walmart",
+          "title": "A triple-screen portable monitor means more pixels—and more bulk",
+          "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
+          "source": "Ars Technica",
+          "published": "2026-11-23T12:15:16.000Z"
+        },
+        {
+          "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+          "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+          "source": "Ars Technica",
+          "published": "2026-11-23T12:00:00.000Z"
+        },
+        {
+          "title": "Meta Muse can do your Black Friday shopping at Walmart",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
           "source": "The Verge",
           "published": "2026-11-23T11:00:00.000Z"
-        },
-        {
-          "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
-          "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
-          "source": "The Verge",
-          "published": "2026-11-23T03:00:00.000Z"
-        },
-        {
-          "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-          "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
-          "source": "Ars Technica",
-          "published": "2026-11-22T12:07:41.000Z"
         }
       ]
     }
