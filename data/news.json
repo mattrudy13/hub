@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T21:20:59.093Z",
+  "updated": "2026-11-23T22:05:46.885Z",
   "failed": [],
   "sections": [
     {
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
+          "link": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+          "source": "CNBC",
+          "published": "2026-11-23T21:55:27.000Z"
+        },
+        {
+          "title": "Short sellers get smoked as Nvidia shares tally biggest one-day gain in history",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1ae855e5-decc-41a1-8791-a22413ea01b9&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-23T21:26:33.000Z"
+        },
+        {
           "title": "U.S. stocks book best day since April 2025 as Huang's Nvidia return sparks rally",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=22e77dfe-cf2c-438d-a1c4-a1fa9fe67451&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-23T21:09:09.000Z"
-        },
-        {
-          "title": "Dow up 1,500 points, Nasdaq soaring nearly 7% after Huang returns as Nvidia CEO",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=dfc9ffff-098d-4c6f-9ea1-4cb1a9374960&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-23T20:32:18.000Z"
-        },
-        {
-          "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
-          "link": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
-          "source": "CNBC",
-          "published": "2026-11-23T19:08:37.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+          "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+          "source": "Ars Technica",
+          "published": "2026-11-23T21:58:34.000Z"
+        },
+        {
+          "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+          "source": "Ars Technica",
+          "published": "2026-11-23T21:30:44.000Z"
+        },
+        {
           "title": "AI data centers throw another wrench into chaotic UN climate talks",
           "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
           "source": "The Verge",
           "published": "2026-11-23T21:09:37.000Z"
-        },
-        {
-          "title": "Apple renews Ted Lasso for season 5",
-          "link": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
-          "source": "The Verge",
-          "published": "2026-11-23T20:56:00.000Z"
-        },
-        {
-          "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
-          "link": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
-          "source": "Ars Technica",
-          "published": "2026-11-23T20:34:51.000Z"
         }
       ]
     }

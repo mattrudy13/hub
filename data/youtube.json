@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T21:21:02.790Z",
+  "updated": "2026-11-23T22:05:48.413Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "u3BEPL1AQtU",
+          "title": "GTA VI is completely absurd and I love it (Squeex plays Grand Theft Auto VI) [4]",
+          "published": "2026-11-23T22:00:18Z",
+          "thumb": "https://i.ytimg.com/vi/u3BEPL1AQtU/mqdefault.jpg",
+          "seen": "2026-11-23T22:05:47.246Z"
+        },
         {
           "id": "xpY9FcNUVuc",
           "title": "Yep, this game rules (Squeex plays Grand Theft Auto VI) [3]",
@@ -35,13 +42,6 @@
           "published": "2026-11-19T12:30:11Z",
           "thumb": "https://i.ytimg.com/vi/rY_G-gux5hg/mqdefault.jpg",
           "seen": "2026-11-19T13:20:48.166Z"
-        },
-        {
-          "id": "1NAO7APG-K0",
-          "title": "The Game Awards are gonna be cooked (Squeex 2026 TGA Voting)",
-          "published": "2026-11-18T09:36:23Z",
-          "thumb": "https://i.ytimg.com/vi/1NAO7APG-K0/mqdefault.jpg",
-          "seen": "2026-11-18T11:20:47.517Z"
         }
       ]
     },
