@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T00:20:47.309Z",
+  "updated": "2026-11-23T01:20:45.889Z",
   "minLine": 7,
   "days": [
     "2026-11-21",
@@ -114,6 +114,28 @@
         "abbr": "NE",
         "rank": null,
         "score": 82
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-22",
+      "id": "401928999",
+      "line": 8.5,
+      "details": "VAL -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401928999/southern-miss-valparaiso",
+      "winner": {
+        "id": "2572",
+        "name": "Southern Miss",
+        "abbr": "USM",
+        "rank": null,
+        "score": 99
+      },
+      "loser": {
+        "id": "2674",
+        "name": "Valparaiso",
+        "abbr": "VAL",
+        "rank": null,
+        "score": 89
       }
     },
     {
@@ -1064,7 +1086,7 @@
     },
     "cbb:401917542": {
       "date": "2026-11-22",
-      "fav": "2547",
+      "fav": "28",
       "line": 1.5,
       "details": "UCSD -1.5"
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T00:20:46.690Z",
+  "updated": "2026-11-23T01:20:45.532Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-23T00:50:35.000Z"
+        },
+        {
+          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+          "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-23T00:33:36.000Z"
+        },
+        {
           "title": "What it's like at a climate conference as talks collapse",
           "link": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
           "source": "NPR",
           "published": "2026-11-22T22:40:23.000Z"
-        },
-        {
-          "title": "Philly festival-goers say pickles are a real big dill",
-          "link": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
-          "source": "NPR",
-          "published": "2026-11-22T22:40:19.000Z"
-        },
-        {
-          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-          "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-22T22:37:43.000Z"
         }
       ]
     },
