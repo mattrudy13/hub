@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T19:20:46.647Z",
+  "updated": "2026-11-23T20:20:46.687Z",
   "failed": [],
   "sections": [
     {
@@ -31,6 +31,12 @@
       "name": "Business",
       "items": [
         {
+          "title": "These stocks are Monday's biggest gainers after Jensen Huang’s return to Nvidia",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=628fa666-69c5-4876-b13b-8ea2254e5cdf&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-23T19:48:10.000Z"
+        },
+        {
           "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
           "link": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
           "source": "CNBC",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4ed84d49-f0f0-47a8-864f-9c85dbc6084c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-23T18:45:55.000Z"
-        },
-        {
-          "title": "Jensen Huang's shock return as Nvidia CEO sends the stock soaring 30% — live",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7301f612-f1a3-402b-b98e-36e232dd3668&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-23T17:31:23.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "New magical shows worth watching instead of Harry Potter",
-          "link": "https://www.theverge.com/entertainment/1038020/shows-to-stream-instead-of-harry-potter",
-          "source": "The Verge",
-          "published": "2026-11-23T19:17:11.000Z"
-        },
-        {
-          "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-          "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-          "source": "The Verge",
-          "published": "2026-11-23T19:04:52.000Z"
-        },
-        {
-          "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
-          "link": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
+          "title": "Surveillance pricing uses our personal data to make us pay more",
+          "link": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
           "source": "Ars Technica",
-          "published": "2026-11-23T15:55:12.000Z"
+          "published": "2026-11-23T20:11:43.000Z"
+        },
+        {
+          "title": "Claude AI can review pull requests and ship fixes on its own now",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+          "source": "The Verge",
+          "published": "2026-11-23T20:00:00.000Z"
+        },
+        {
+          "title": "Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return",
+          "link": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return",
+          "source": "The Verge",
+          "published": "2026-11-23T19:58:27.000Z"
         }
       ]
     }
