@@ -1,29 +1,15 @@
 {
-  "updated": "2026-11-22T23:40:01.490Z",
-  "from": "2026-11-22T23:40:00Z",
-  "to": "2026-12-06T23:40:00Z",
+  "updated": "2026-11-23T00:20:52.020Z",
+  "from": "2026-11-23T00:20:51Z",
+  "to": "2026-12-07T00:20:51Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1A7PK7f",
-      "name": "Wage War w/ We Came As Romans",
-      "date": "2026-11-22",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": null,
-      "venue": "The Norva",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PK7f",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/762/707b5aed-2537-4fc0-9f79-57789bbcd762_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZkfgGkdbYIsi",
       "name": "BayPort Credit Union Holiday Trail of Lights",
       "date": "2026-11-22",
       "time": null,
-      "status": "onsale",
+      "status": "offsale",
       "kind": "Other",
       "genre": "Holiday",
       "venue": "Virginia Aquarium",
