@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T15:20:54.206Z",
+  "updated": "2026-11-23T16:20:47.869Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Mexican soldiers attacked in wake of drug lord's arrest",
-          "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-23T14:54:03.000Z"
-        },
-        {
-          "title": "Nvidia's board of directors brings Jensen Huang back as CEO",
-          "link": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
+          "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
+          "link": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
           "source": "NPR",
-          "published": "2026-11-23T14:53:41.000Z"
+          "published": "2026-11-23T16:00:49.000Z"
         },
         {
-          "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
-          "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+          "title": "The rise and fall and rise again of Jensen Huang",
+          "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-23T14:26:33.000Z"
+          "published": "2026-11-23T15:49:52.000Z"
+        },
+        {
+          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-23T15:41:23.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Tech stocks are up 10%. So are luxury-linked ones. Ongoing live coverage.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4c24908a-9876-4e06-9e89-4c8ad86553d2&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-23T15:30:42.000Z"
+        },
+        {
           "title": "That was the biggest opening gain for the Nasdaq since at least 1991",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=17b8f39d-8d88-47e4-b91d-b26f55f6e2ea&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-23T15:10:55.000Z"
-        },
-        {
-          "title": "Nvidia shares rocket more than 30% ahead of opening bell following CEO shocker",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a65ca62a-ff57-4bee-96ea-01a499ea9017&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-23T14:27:21.000Z"
         },
         {
           "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Apple’s AirPods Pro 3 are 40 percent off ahead of Black Friday",
-          "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
+          "title": "Tech leaders are celebrating Jensen Huang’s return",
+          "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
           "source": "The Verge",
-          "published": "2026-11-23T15:00:44.000Z"
+          "published": "2026-11-23T16:14:04.000Z"
         },
         {
-          "title": "The Verge’s favorite holiday gifts that cost $50 or less",
-          "link": "https://www.theverge.com/gadgets/1023471/best-gifts-under-50-2026",
+          "title": "My trusty 27-inch Alienware QD-OLED gaming monitor is just $280",
+          "link": "https://www.theverge.com/gadgets/1039999/alienware-aw2726dm-qdoled-gaming-monitor-black-friday-2026-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-23T15:00:00.000Z"
+          "published": "2026-11-23T16:00:00.000Z"
         },
         {
-          "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
-          "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+          "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
+          "link": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
           "source": "Ars Technica",
-          "published": "2026-11-23T14:10:18.000Z"
+          "published": "2026-11-23T15:55:12.000Z"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T15:20:56.377Z",
+  "updated": "2026-11-23T16:20:49.578Z",
   "failed": [],
   "channels": [
     {
@@ -8,6 +8,13 @@
       "name": "Squeex VODs",
       "thumb": "https://yt3.ggpht.com/wKlKj0Xf1dGiQX6cdNQ4GYlTi_Mkkq-fT3s3Pqd2Qy_PKAKB2V6hROocAQHfLtXsI8puC_Aorg=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "xpY9FcNUVuc",
+          "title": "Yep, this game rules (Squeex plays Grand Theft Auto VI) [3]",
+          "published": "2026-11-23T15:57:04Z",
+          "thumb": "https://i.ytimg.com/vi/xpY9FcNUVuc/mqdefault.jpg",
+          "seen": "2026-11-23T16:20:48.610Z"
+        },
         {
           "id": "quBHZyzLwDs",
           "title": "This is the most fun I've had in 100 years (Squeex plays Grand Theft Auto VI)",
@@ -34,13 +41,6 @@
           "title": "The Game Awards are gonna be cooked (Squeex 2026 TGA Voting)",
           "published": "2026-11-18T09:36:23Z",
           "thumb": "https://i.ytimg.com/vi/1NAO7APG-K0/mqdefault.jpg",
-          "seen": "2026-11-18T11:20:47.517Z"
-        },
-        {
-          "id": "kZ3VGa8eeW4",
-          "title": "Checking out the NEW Cobblestone with Chiblee!",
-          "published": "2026-11-18T08:38:57Z",
-          "thumb": "https://i.ytimg.com/vi/kZ3VGa8eeW4/mqdefault.jpg",
           "seen": "2026-11-18T11:20:47.517Z"
         }
       ]
