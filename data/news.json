@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T18:20:47.089Z",
+  "updated": "2026-11-23T19:20:46.647Z",
   "failed": [],
   "sections": [
     {
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
+          "link": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+          "source": "CNBC",
+          "published": "2026-11-23T19:08:37.000Z"
+        },
+        {
+          "title": "Trump’s push to reinstate Jensen Huang signals Nvidia’s CEO is too big to fail",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4ed84d49-f0f0-47a8-864f-9c85dbc6084c&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-23T18:45:55.000Z"
+        },
+        {
           "title": "Jensen Huang's shock return as Nvidia CEO sends the stock soaring 30% — live",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7301f612-f1a3-402b-b98e-36e232dd3668&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-23T17:31:23.000Z"
-        },
-        {
-          "title": "Jensen Huang's return saves the stock market — for now. Why that may not last.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e967a5a2-c0b7-4093-a15c-bcb4b9cda38b&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-23T16:58:46.000Z"
-        },
-        {
-          "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-          "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-          "source": "CNBC",
-          "published": "2026-11-22T18:55:05.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The best Black Friday deals we’ve already found",
-          "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+          "title": "New magical shows worth watching instead of Harry Potter",
+          "link": "https://www.theverge.com/entertainment/1038020/shows-to-stream-instead-of-harry-potter",
           "source": "The Verge",
-          "published": "2026-11-23T17:14:20.000Z"
+          "published": "2026-11-23T19:17:11.000Z"
         },
         {
-          "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
-          "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+          "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+          "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
           "source": "The Verge",
-          "published": "2026-11-23T16:30:11.000Z"
+          "published": "2026-11-23T19:04:52.000Z"
         },
         {
           "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
