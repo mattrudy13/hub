@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T22:20:45.332Z",
+  "updated": "2026-11-23T23:20:46.315Z",
   "failed": [],
   "sections": [
     {
@@ -10,19 +10,19 @@
           "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
           "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-23T22:15:26.000Z"
+          "published": "2026-11-23T23:16:08.000Z"
         },
         {
-          "title": "Some women in tech have concerns about Huang's return",
-          "link": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
+          "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+          "link": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
           "source": "NPR",
-          "published": "2026-11-23T22:03:57.000Z"
+          "published": "2026-11-23T22:29:53.000Z"
         },
         {
-          "title": "Mending relationships over the holidays? Considering a truce? NPR wants to know",
-          "link": "https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute",
+          "title": "They attended Trump's controversial meme coin dinner. It didn't go well",
+          "link": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
           "source": "NPR",
-          "published": "2026-11-23T20:53:12.000Z"
+          "published": "2026-11-23T22:17:59.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "HPE just posted its strongest growth ever — but its stock is wavering",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3b46e602-2bd8-452b-9b3d-d2d390a867e2&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-23T22:19:25.000Z"
+        },
         {
           "title": "Trump is open to capping credit-card interest rates. But don't bank on it.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a4f1ebae-17bf-495e-a06d-21c4d132e172&mod=mw_rss_bulletins",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
           "source": "CNBC",
           "published": "2026-11-23T21:55:27.000Z"
-        },
-        {
-          "title": "Short sellers get smoked as Nvidia shares tally biggest one-day gain in history",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1ae855e5-decc-41a1-8791-a22413ea01b9&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-23T21:26:33.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "title": "Ladybird, the first new browser engine in years, is now available to test",
+          "link": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
           "source": "The Verge",
-          "published": "2026-11-23T22:10:32.000Z"
+          "published": "2026-11-23T22:38:09.000Z"
         },
         {
-          "title": "Welcome to elite impunity, Jensen Huang",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+          "title": "Trump engineered a risky comeback for Jensen Huang",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
           "source": "The Verge",
-          "published": "2026-11-23T22:09:26.000Z"
+          "published": "2026-11-23T22:25:12.000Z"
         },
         {
           "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
