@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T12:20:45.821Z",
+  "updated": "2026-11-23T13:20:46.374Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-          "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+          "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+          "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-23T11:57:33.000Z"
+          "published": "2026-11-23T13:02:05.000Z"
         },
         {
-          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-23T11:40:01.000Z"
-        },
-        {
-          "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
-          "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+          "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+          "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
           "source": "NPR",
-          "published": "2026-11-23T10:16:33.000Z"
+          "published": "2026-11-23T12:42:03.000Z"
+        },
+        {
+          "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
+          "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-23T12:33:44.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "The Fed risks a recession if it raises interest rates: Bill Ackman",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9ba83848-30c5-4771-b8ea-16e8a2e90822&mod=mw_rss_bulletins",
+          "title": "Economic calendar: Week opens with manufacturing and service-sector data",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0891f9ad-efbc-4ce0-bb45-6d3e232f07b9&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-23T11:09:26.000Z"
+          "published": "2026-11-23T12:59:43.000Z"
+        },
+        {
+          "title": "Dow points to 900-point gain at open as Wall Street maps rebound — live updates",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c41f49fd-0f54-40fc-a731-c14ee917f8f5&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-23T12:36:22.000Z"
         },
         {
           "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
           "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
           "source": "CNBC",
           "published": "2026-11-22T18:55:05.000Z"
-        },
-        {
-          "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
-          "link": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
-          "source": "CNBC",
-          "published": "2026-11-22T13:00:01.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "A triple-screen portable monitor means more pixels—and more bulk",
+          "title": "Amazon is taking orders for the Moto Tag 3 before it’s even been announced",
+          "link": "https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak",
+          "source": "The Verge",
+          "published": "2026-11-23T13:09:32.000Z"
+        },
+        {
+          "title": "Samsung’s absurd 1,100Hz gaming monitor hits shelves next month for $899.99",
+          "link": "https://www.theverge.com/games/1039838/samsungs-odyssey-g6-1100hz-gaming-monitor",
+          "source": "The Verge",
+          "published": "2026-11-23T13:00:00.000Z"
+        },
+        {
+          "title": "Tri-screen portable monitors aren’t for the faint of heart",
           "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
           "source": "Ars Technica",
           "published": "2026-11-23T12:15:16.000Z"
-        },
-        {
-          "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
-          "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
-          "source": "Ars Technica",
-          "published": "2026-11-23T12:00:00.000Z"
-        },
-        {
-          "title": "Meta Muse can do your Black Friday shopping at Walmart",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-          "source": "The Verge",
-          "published": "2026-11-23T11:00:00.000Z"
         }
       ]
     }
