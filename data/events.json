@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-23T04:20:48.085Z",
-  "from": "2026-11-23T04:20:47Z",
-  "to": "2026-12-07T04:20:47Z",
+  "updated": "2026-11-23T05:20:53.635Z",
+  "from": "2026-11-23T05:20:53Z",
+  "to": "2026-12-07T05:20:53Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv1AvZkfgGkdbYIsi",
-      "name": "BayPort Credit Union Holiday Trail of Lights",
-      "date": "2026-11-22",
-      "time": null,
-      "status": "offsale",
-      "kind": "Other",
-      "genre": "Holiday",
-      "venue": "Virginia Aquarium",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-11-22-2026/event/01006535D8C28C6C",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1A8vPuvGA15tyL",
       "name": "BayPort Credit Union Holiday Trail of Lights",
@@ -689,6 +675,20 @@
       "url": "https://www.ticketmaster.com/maria-bamford-norfolk-virginia-12-06-2026/event/0100643FA153C573",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/1bb/27e1dbf1-1e21-42f3-b3c3-0ff8dddcd1bb_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkfUGken72YX",
+      "name": "BayPort Credit Union Holiday Trail of Lights",
+      "date": "2026-12-06",
+      "time": null,
+      "status": "onsale",
+      "kind": "Other",
+      "genre": "Holiday",
+      "venue": "Virginia Aquarium",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-12-06-2026/event/01006536AA10FC3E",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
