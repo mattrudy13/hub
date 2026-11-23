@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T14:20:51.980Z",
+  "updated": "2026-11-23T15:20:54.206Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Flights and train services cancelled in Belgium due to strike",
-          "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-23T13:34:02.000Z"
-        },
-        {
           "title": "Mexican soldiers attacked in wake of drug lord's arrest",
           "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-23T13:26:36.000Z"
+          "published": "2026-11-23T14:54:03.000Z"
         },
         {
-          "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-          "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+          "title": "Nvidia's board of directors brings Jensen Huang back as CEO",
+          "link": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
           "source": "NPR",
-          "published": "2026-11-23T12:42:03.000Z"
+          "published": "2026-11-23T14:53:41.000Z"
+        },
+        {
+          "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
+          "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-23T14:26:33.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
-          "title": "Stock-market rebound accelerates as Nvidia reinstates CEO Huang — live updates",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=72e2d797-3e89-4b6e-8d67-343c20454565&mod=mw_rss_bulletins",
+          "title": "That was the biggest opening gain for the Nasdaq since at least 1991",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=17b8f39d-8d88-47e4-b91d-b26f55f6e2ea&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-23T14:15:15.000Z"
+          "published": "2026-11-23T15:10:55.000Z"
         },
         {
-          "title": "Economic calendar: Week opens with manufacturing and service-sector data",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0891f9ad-efbc-4ce0-bb45-6d3e232f07b9&mod=mw_rss_bulletins",
+          "title": "Nvidia shares rocket more than 30% ahead of opening bell following CEO shocker",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a65ca62a-ff57-4bee-96ea-01a499ea9017&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-23T12:59:43.000Z"
+          "published": "2026-11-23T14:27:21.000Z"
         },
         {
           "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Tesla’s FSD v15 turns driving visuals into Grand Theft Auto",
-          "link": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "title": "Apple’s AirPods Pro 3 are 40 percent off ahead of Black Friday",
+          "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-23T14:12:28.000Z"
+          "published": "2026-11-23T15:00:44.000Z"
+        },
+        {
+          "title": "The Verge’s favorite holiday gifts that cost $50 or less",
+          "link": "https://www.theverge.com/gadgets/1023471/best-gifts-under-50-2026",
+          "source": "The Verge",
+          "published": "2026-11-23T15:00:00.000Z"
         },
         {
           "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
           "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
           "source": "Ars Technica",
           "published": "2026-11-23T14:10:18.000Z"
-        },
-        {
-          "title": "Jensen Huang is back as Nvidia’s CEO",
-          "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
-          "source": "The Verge",
-          "published": "2026-11-23T14:04:24.000Z"
         }
       ]
     }
