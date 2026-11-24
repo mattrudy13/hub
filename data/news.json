@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T23:20:46.315Z",
+  "updated": "2026-11-24T00:20:46.744Z",
   "failed": [],
   "sections": [
     {
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "HPE just posted its strongest growth ever — but its stock is wavering",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3b46e602-2bd8-452b-9b3d-d2d390a867e2&mod=mw_rss_bulletins",
+          "title": "I’ve paid for long-term-care insurance for 20 years. Is it still worth it?",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f0451c86-49f6-4fae-b2fa-e3f8edbc165c&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-23T22:19:25.000Z"
+          "published": "2026-11-24T00:18:30.000Z"
         },
         {
-          "title": "Trump is open to capping credit-card interest rates. But don't bank on it.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a4f1ebae-17bf-495e-a06d-21c4d132e172&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-23T22:18:12.000Z"
-        },
-        {
-          "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
-          "link": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+          "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+          "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
           "source": "CNBC",
-          "published": "2026-11-23T21:55:27.000Z"
+          "published": "2026-11-23T23:28:19.000Z"
+        },
+        {
+          "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6a532d28-7ac8-4a28-addf-90b57aea80f4&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-23T23:23:15.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Ladybird, the first new browser engine in years, is now available to test",
-          "link": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+          "title": "Google alternative Kagi launches an email service",
+          "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
           "source": "The Verge",
-          "published": "2026-11-23T22:38:09.000Z"
+          "published": "2026-11-24T00:02:52.000Z"
         },
         {
-          "title": "Trump engineered a risky comeback for Jensen Huang",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+          "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
+          "link": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
           "source": "The Verge",
-          "published": "2026-11-23T22:25:12.000Z"
+          "published": "2026-11-23T23:25:01.000Z"
         },
         {
           "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",

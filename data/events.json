@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-23T23:20:50.656Z",
-  "from": "2026-11-23T23:20:50Z",
-  "to": "2026-12-07T23:20:50Z",
+  "updated": "2026-11-24T00:20:50.895Z",
+  "from": "2026-11-24T00:20:50Z",
+  "to": "2026-12-08T00:20:50Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -9,7 +9,7 @@
       "name": "BayPort Credit Union Holiday Trail of Lights",
       "date": "2026-11-23",
       "time": null,
-      "status": "onsale",
+      "status": "offsale",
       "kind": "Other",
       "genre": "Holiday",
       "venue": "Virginia Aquarium",
