@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T13:20:46.454Z",
+  "updated": "2026-11-24T14:20:46.179Z",
   "failed": [],
   "sections": [
     {
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
-          "link": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
+          "title": "Harman Kardon’s classic, see-through SoundSticks 4 are half off",
+          "link": "https://www.theverge.com/gadgets/1040300/harman-kardon-soundsticks-4-speakers-black-friday-2026-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-24T13:00:00.000Z"
+          "published": "2026-11-24T14:13:22.000Z"
+        },
+        {
+          "title": "Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected",
+          "link": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date",
+          "source": "The Verge",
+          "published": "2026-11-24T14:00:00.000Z"
         },
         {
           "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
           "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
           "source": "Ars Technica",
           "published": "2026-11-24T12:30:05.000Z"
-        },
-        {
-          "title": "One terminal command gave my forgotten Android device a desk job",
-          "link": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
-          "source": "Ars Technica",
-          "published": "2026-11-24T12:15:38.000Z"
         }
       ]
     }
