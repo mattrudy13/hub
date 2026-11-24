@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T02:20:46.573Z",
+  "updated": "2026-11-24T03:20:50.337Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-          "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+          "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+          "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-23T23:16:08.000Z"
+          "published": "2026-11-24T01:21:41.000Z"
+        },
+        {
+          "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+          "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-24T01:11:54.000Z"
         },
         {
           "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
           "link": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
           "source": "NPR",
           "published": "2026-11-23T22:29:53.000Z"
-        },
-        {
-          "title": "They attended Trump's controversial meme coin dinner. It didn't go well",
-          "link": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
-          "source": "NPR",
-          "published": "2026-11-23T22:17:59.000Z"
         }
       ]
     },
