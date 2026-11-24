@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-24T14:20:46.179Z",
+  "updated": "2026-11-24T15:20:51.018Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Who really owns the land in Albania that Jared Kushner wants to develop?",
+          "link": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+          "source": "NPR",
+          "published": "2026-11-24T14:24:04.000Z"
+        },
         {
           "title": "Russian governor detained in rare criminal case against regional leader",
           "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-24T12:12:48.000Z"
-        },
-        {
-          "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
-          "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
-          "source": "NPR",
-          "published": "2026-11-24T12:12:25.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+          "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+          "source": "CNBC",
+          "published": "2026-11-24T14:51:58.000Z"
+        },
+        {
+          "title": "Nasdaq opens lower, a day after a historic rally led by Nvidia’s 30% surge",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b05b7e27-175c-45f6-932a-b981ba88abf3&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-24T14:32:10.000Z"
+        },
+        {
           "title": "The billionaire who bet on Jensen Huang's return has a warning about the S&P 500",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b31bd7b8-1129-49b3-a476-d1eee757a53d&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-24T13:07:06.000Z"
-        },
-        {
-          "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
-          "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
-          "source": "CNBC",
-          "published": "2026-11-24T12:57:35.000Z"
-        },
-        {
-          "title": "Economic calendar: data on home prices, consumer confidence",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3c79de5e-99ef-45c6-bee1-ca52331907e4&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-24T12:34:08.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Wyze’s new window feeder records birds from a camera inside your home",
+          "link": "https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification",
+          "source": "The Verge",
+          "published": "2026-11-24T15:14:05.000Z"
+        },
+        {
+          "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+          "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+          "source": "Ars Technica",
+          "published": "2026-11-24T14:56:50.000Z"
+        },
+        {
           "title": "Harman Kardon’s classic, see-through SoundSticks 4 are half off",
           "link": "https://www.theverge.com/gadgets/1040300/harman-kardon-soundsticks-4-speakers-black-friday-2026-deal-sale",
           "source": "The Verge",
           "published": "2026-11-24T14:13:22.000Z"
-        },
-        {
-          "title": "Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected",
-          "link": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date",
-          "source": "The Verge",
-          "published": "2026-11-24T14:00:00.000Z"
-        },
-        {
-          "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-          "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-          "source": "Ars Technica",
-          "published": "2026-11-24T12:30:05.000Z"
         }
       ]
     }
