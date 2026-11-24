@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T20:20:46.820Z",
+  "updated": "2026-11-24T20:42:47.763Z",
   "failed": [],
   "sections": [
     {
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "What's going on with the Riemann hypothesis?",
+          "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+          "source": "Ars Technica",
+          "published": "2026-11-24T20:34:53.000Z"
+        },
+        {
+          "title": "TikTok is down",
+          "link": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+          "source": "The Verge",
+          "published": "2026-11-24T20:27:27.000Z"
+        },
+        {
           "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
           "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
           "source": "The Verge",
           "published": "2026-11-24T20:02:03.000Z"
-        },
-        {
-          "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
-          "link": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
-          "source": "Ars Technica",
-          "published": "2026-11-24T20:00:18.000Z"
-        },
-        {
-          "title": "The clock is running out for America’s most contentious spying law",
-          "link": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
-          "source": "The Verge",
-          "published": "2026-11-24T20:00:00.000Z"
         }
       ]
     }
