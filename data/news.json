@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T20:42:47.763Z",
+  "updated": "2026-11-24T21:20:48.632Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-          "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+          "title": "US attorney general dodges questions about Nvidia investigation",
+          "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-24T19:27:23.000Z"
+          "published": "2026-11-24T21:19:42.000Z"
         },
         {
-          "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-          "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+          "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+          "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-24T19:10:31.000Z"
+          "published": "2026-11-24T21:16:41.000Z"
         },
         {
-          "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
-          "link": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+          "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+          "link": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
           "source": "NPR",
-          "published": "2026-11-24T14:24:04.000Z"
+          "published": "2026-11-24T21:09:29.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Dow up 250 points in final hour, but Nasdaq and S&P 500 down as Nvidia retreats",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e86cf291-0047-40d4-aa03-30ad7e6329ee&mod=mw_rss_bulletins",
+          "title": "Dow closes back above 50K, but Nasdaq and S&P 500 retreat as Nvidia shares fall",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d9218b66-a40d-42c8-a0a3-c8b9a02794a5&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-24T20:06:24.000Z"
+          "published": "2026-11-24T21:03:55.000Z"
+        },
+        {
+          "title": "A bipartisan backlash is hitting Nvidia after Trump’s push for Huang’s return",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=406aecf7-a59f-422c-946a-84d4b730944e&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-24T20:48:25.000Z"
         },
         {
           "title": "Retail turnarounds are taking hold just in time for the holiday season",
           "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
           "source": "CNBC",
           "published": "2026-11-24T19:26:39.000Z"
-        },
-        {
-          "title": "The AI debt market isn’t convinced the worst is over for investors",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a7e788e3-e346-47a8-8c33-9e68a374d531&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-24T19:15:30.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "The Verge’s 2026 holiday gift guide for moms",
+          "link": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+          "source": "The Verge",
+          "published": "2026-11-24T21:09:59.000Z"
+        },
+        {
           "title": "What's going on with the Riemann hypothesis?",
           "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
           "source": "Ars Technica",
           "published": "2026-11-24T20:34:53.000Z"
         },
         {
-          "title": "TikTok is down",
+          "title": "TikTok was down",
           "link": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
           "source": "The Verge",
           "published": "2026-11-24T20:27:27.000Z"
-        },
-        {
-          "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-          "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-          "source": "The Verge",
-          "published": "2026-11-24T20:02:03.000Z"
         }
       ]
     }

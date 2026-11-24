@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T20:42:48.430Z",
+  "updated": "2026-11-24T21:20:49.031Z",
   "minLine": 7,
   "days": [
     "2026-11-23",
@@ -26,6 +26,28 @@
         "abbr": "IONA",
         "rank": null,
         "score": 46
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-24",
+      "id": "401928859",
+      "line": 7.5,
+      "details": "UIC -7.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401928859/uic-rice",
+      "winner": {
+        "id": "242",
+        "name": "Rice",
+        "abbr": "RICE",
+        "rank": null,
+        "score": 68
+      },
+      "loser": {
+        "id": "82",
+        "name": "UIC",
+        "abbr": "UIC",
+        "rank": null,
+        "score": 67
       }
     }
   ],
@@ -555,8 +577,8 @@
     "cbb:401920695": {
       "date": "2026-11-24",
       "fav": "2561",
-      "line": 3.5,
-      "details": "SIE -3.5"
+      "line": 4.5,
+      "details": "SIE -4.5"
     },
     "cbb:401920358": {
       "date": "2026-11-24",
@@ -639,8 +661,8 @@
     "cbb:401929421": {
       "date": "2026-11-24",
       "fav": "6",
-      "line": 18.5,
-      "details": "USA -18.5"
+      "line": 17.5,
+      "details": "USA -17.5"
     },
     "cbb:401929359": {
       "date": "2026-11-24",
