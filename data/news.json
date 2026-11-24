@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T15:20:51.018Z",
+  "updated": "2026-11-24T16:20:47.035Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-24T15:35:53.000Z"
+        },
+        {
+          "title": "Land mine casualties soar in Syria, two years after war",
+          "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-24T15:17:28.000Z"
+        },
+        {
           "title": "Who really owns the land in Albania that Jared Kushner wants to develop?",
           "link": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
           "source": "NPR",
           "published": "2026-11-24T14:24:04.000Z"
-        },
-        {
-          "title": "Russian governor detained in rare criminal case against regional leader",
-          "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-24T12:45:43.000Z"
-        },
-        {
-          "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-24T12:12:48.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d8e35a26-32b5-45d0-95f9-7957aed2cecf&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-24T16:00:53.000Z"
+        },
+        {
+          "title": "Anthropic’s stock just broke below its IPO price for the first time",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d526c9bb-40a8-4a28-9ab5-a2c61638f61d&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-24T15:27:28.000Z"
+        },
+        {
           "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
           "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
           "source": "CNBC",
           "published": "2026-11-24T14:51:58.000Z"
-        },
-        {
-          "title": "Nasdaq opens lower, a day after a historic rally led by Nvidia’s 30% surge",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b05b7e27-175c-45f6-932a-b981ba88abf3&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-24T14:32:10.000Z"
-        },
-        {
-          "title": "The billionaire who bet on Jensen Huang's return has a warning about the S&P 500",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b31bd7b8-1129-49b3-a476-d1eee757a53d&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-24T13:07:06.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Wyze’s new window feeder records birds from a camera inside your home",
-          "link": "https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification",
-          "source": "The Verge",
-          "published": "2026-11-24T15:14:05.000Z"
-        },
-        {
-          "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-          "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+          "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
+          "link": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
           "source": "Ars Technica",
-          "published": "2026-11-24T14:56:50.000Z"
+          "published": "2026-11-24T16:12:46.000Z"
         },
         {
-          "title": "Harman Kardon’s classic, see-through SoundSticks 4 are half off",
-          "link": "https://www.theverge.com/gadgets/1040300/harman-kardon-soundsticks-4-speakers-black-friday-2026-deal-sale",
+          "title": "The New York Times warns photographers not to update Photoshop over AI features",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
           "source": "The Verge",
-          "published": "2026-11-24T14:13:22.000Z"
+          "published": "2026-11-24T16:09:23.000Z"
+        },
+        {
+          "title": "Homo erectus lived in the rainforest alongside Denisovans",
+          "link": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
+          "source": "Ars Technica",
+          "published": "2026-11-24T16:01:19.000Z"
         }
       ]
     }
