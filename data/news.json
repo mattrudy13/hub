@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T17:20:47.489Z",
+  "updated": "2026-11-24T18:20:45.946Z",
   "failed": [],
   "sections": [
     {
@@ -7,19 +7,19 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-24T17:04:00.000Z"
-        },
-        {
           "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
           "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-24T16:37:04.000Z"
+          "published": "2026-11-24T18:07:46.000Z"
         },
         {
-          "title": "Who really owns the land in Albania that Jared Kushner wants to develop?",
+          "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+          "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-24T17:04:20.000Z"
+        },
+        {
+          "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
           "link": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
           "source": "NPR",
           "published": "2026-11-24T14:24:04.000Z"
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Americans don’t like Trump’s tariffs. He’s reportedly doubling down this week.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=614f7cc4-75e0-4279-a919-4e531bb975ad&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-24T17:37:56.000Z"
+        },
+        {
           "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d8e35a26-32b5-45d0-95f9-7957aed2cecf&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-24T16:00:53.000Z"
-        },
-        {
-          "title": "Anthropic’s stock just broke below its IPO price for the first time",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d526c9bb-40a8-4a28-9ab5-a2c61638f61d&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-24T15:27:28.000Z"
         },
         {
           "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
-          "link": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
+          "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+          "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+          "source": "The Verge",
+          "published": "2026-11-24T18:15:00.000Z"
+        },
+        {
+          "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
+          "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
           "source": "Ars Technica",
-          "published": "2026-11-24T16:58:20.000Z"
+          "published": "2026-11-24T18:03:58.000Z"
         },
         {
-          "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
-          "link": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
-          "source": "The Verge",
-          "published": "2026-11-24T16:37:03.000Z"
-        },
-        {
-          "title": "Jensen Huang deepfakes are the hot new AI slop",
-          "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-          "source": "The Verge",
-          "published": "2026-11-24T16:30:00.000Z"
+          "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+          "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+          "source": "Ars Technica",
+          "published": "2026-11-24T17:34:34.000Z"
         }
       ]
     }
