@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T22:21:00.628Z",
+  "updated": "2026-11-24T23:20:45.544Z",
   "failed": [],
   "sections": [
     {
@@ -10,7 +10,7 @@
           "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
           "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-24T22:12:44.000Z"
+          "published": "2026-11-24T22:24:23.000Z"
         },
         {
           "title": "US attorney general dodges questions about Nvidia investigation",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "What to do if your Thanksgiving flight gets delayed",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=62547414-4798-46ea-914b-bfe2ca7d8664&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-24T22:41:25.000Z"
+        },
+        {
           "title": "Dell shares rise on earnings report, as the AI boom helps sales more than double",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6fe21887-6f4a-4ae4-91ba-9f1f8fe6a227&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-24T21:22:08.000Z"
-        },
-        {
-          "title": "Dow closes back above 50K, but Nasdaq and S&P 500 retreat as Nvidia shares fall",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d9218b66-a40d-42c8-a0a3-c8b9a02794a5&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-24T21:03:55.000Z"
         },
         {
           "title": "Retail turnarounds are taking hold just in time for the holiday season",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "GTA VI PC recompilation project shut down by Take-Two",
-          "link": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
-          "source": "The Verge",
-          "published": "2026-11-24T21:39:14.000Z"
-        },
-        {
-          "title": "The Verge’s 2026 holiday gift guide for moms",
-          "link": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
-          "source": "The Verge",
-          "published": "2026-11-24T21:09:59.000Z"
-        },
-        {
-          "title": "What's going on with the Riemann hypothesis?",
-          "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+          "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+          "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
           "source": "Ars Technica",
-          "published": "2026-11-24T20:34:53.000Z"
+          "published": "2026-11-24T22:50:11.000Z"
+        },
+        {
+          "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+          "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+          "source": "Ars Technica",
+          "published": "2026-11-24T22:36:28.000Z"
+        },
+        {
+          "title": "Huawei found guilty of stealing trade secrets",
+          "link": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "source": "The Verge",
+          "published": "2026-11-24T22:23:27.000Z"
         }
       ]
     }
