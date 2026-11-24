@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T16:20:47.035Z",
+  "updated": "2026-11-24T17:20:47.489Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+          "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-24T15:35:53.000Z"
+          "published": "2026-11-24T17:04:00.000Z"
         },
         {
-          "title": "Land mine casualties soar in Syria, two years after war",
-          "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+          "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-24T15:17:28.000Z"
+          "published": "2026-11-24T16:37:04.000Z"
         },
         {
           "title": "Who really owns the land in Albania that Jared Kushner wants to develop?",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
-          "link": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
+          "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
+          "link": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
           "source": "Ars Technica",
-          "published": "2026-11-24T16:12:46.000Z"
+          "published": "2026-11-24T16:58:20.000Z"
         },
         {
-          "title": "The New York Times warns photographers not to update Photoshop over AI features",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+          "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
+          "link": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
           "source": "The Verge",
-          "published": "2026-11-24T16:09:23.000Z"
+          "published": "2026-11-24T16:37:03.000Z"
         },
         {
-          "title": "Homo erectus lived in the rainforest alongside Denisovans",
-          "link": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
-          "source": "Ars Technica",
-          "published": "2026-11-24T16:01:19.000Z"
+          "title": "Jensen Huang deepfakes are the hot new AI slop",
+          "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+          "source": "The Verge",
+          "published": "2026-11-24T16:30:00.000Z"
         }
       ]
     }
