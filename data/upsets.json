@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-24T01:21:00.723Z",
+  "updated": "2026-11-24T02:20:47.370Z",
   "minLine": 7,
   "days": [
     "2026-11-22",
     "2026-11-23"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-23",
+      "id": "401919761",
+      "line": 9.5,
+      "details": "IONA -9.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401919761/fdu-iona",
+      "winner": {
+        "id": "161",
+        "name": "FDU",
+        "abbr": "FDU",
+        "rank": null,
+        "score": 49
+      },
+      "loser": {
+        "id": "314",
+        "name": "Iona",
+        "abbr": "IONA",
+        "rank": null,
+        "score": 46
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-22",
@@ -510,6 +532,41 @@
       "line": null
     },
     "cbb:401928389": {
+      "date": "2026-11-23",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401932055": {
+      "date": "2026-11-23",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401927353": {
+      "date": "2026-11-23",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401911025": {
+      "date": "2026-11-23",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401928838": {
+      "date": "2026-11-23",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926106": {
+      "date": "2026-11-23",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401925813": {
+      "date": "2026-11-23",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401919785": {
       "date": "2026-11-23",
       "fav": null,
       "line": null
