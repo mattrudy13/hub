@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T18:20:45.946Z",
+  "updated": "2026-11-24T19:20:46.427Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "US attorney general dodges questions about Nvidia investigation",
+          "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-24T18:55:59.000Z"
+        },
+        {
           "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
           "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-24T18:07:46.000Z"
-        },
-        {
-          "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-          "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-24T17:04:20.000Z"
         },
         {
           "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "The AI debt market isn’t convinced the worst is over for investors",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a7e788e3-e346-47a8-8c33-9e68a374d531&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-24T19:15:30.000Z"
+        },
+        {
+          "title": "Retail turnarounds are taking hold just in time for the holiday season",
+          "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+          "source": "CNBC",
+          "published": "2026-11-24T18:21:35.000Z"
+        },
+        {
           "title": "Americans don’t like Trump’s tariffs. He’s reportedly doubling down this week.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=614f7cc4-75e0-4279-a919-4e531bb975ad&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-24T17:37:56.000Z"
-        },
-        {
-          "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d8e35a26-32b5-45d0-95f9-7957aed2cecf&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-24T16:00:53.000Z"
-        },
-        {
-          "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
-          "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
-          "source": "CNBC",
-          "published": "2026-11-24T14:51:58.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-          "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+          "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+          "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+          "source": "Ars Technica",
+          "published": "2026-11-24T18:47:57.000Z"
+        },
+        {
+          "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
+          "link": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
           "source": "The Verge",
-          "published": "2026-11-24T18:15:00.000Z"
+          "published": "2026-11-24T18:44:57.000Z"
         },
         {
-          "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
-          "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
+          "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+          "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
           "source": "Ars Technica",
-          "published": "2026-11-24T18:03:58.000Z"
-        },
-        {
-          "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-          "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-          "source": "Ars Technica",
-          "published": "2026-11-24T17:34:34.000Z"
+          "published": "2026-11-24T18:30:36.000Z"
         }
       ]
     }
