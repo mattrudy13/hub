@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-24T00:20:50.895Z",
-  "from": "2026-11-24T00:20:50Z",
-  "to": "2026-12-08T00:20:50Z",
+  "updated": "2026-11-24T01:21:03.646Z",
+  "from": "2026-11-24T01:21:03Z",
+  "to": "2026-12-08T01:21:03Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -689,6 +689,20 @@
       "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-12-06-2026/event/01006536AA10FC3E",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkftGkdQDLQq",
+      "name": "Jason Bonham's Led Zeppelin Evening",
+      "date": "2026-12-07",
+      "time": "20:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": null,
+      "venue": "The Dome by Rutter Mills",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/jason-bonhams-led-zeppelin-evening-virginia-beach-virginia-12-07-2026/event/01006529DAEDF69D",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/2dd/442cd707-df65-4781-9aa8-eec39540d2dd_1619761_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
