@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T06:09:33.960Z",
+  "updated": "2026-11-24T11:20:47.117Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
-          "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+          "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-24T05:33:07.000Z"
+          "published": "2026-11-24T10:58:51.000Z"
         },
         {
           "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
           "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-24T04:36:31.000Z"
+          "published": "2026-11-24T10:53:37.000Z"
         },
         {
-          "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
-          "link": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+          "title": "Doctors struggle to save babies after parents refuse vitamin K",
+          "link": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
           "source": "NPR",
-          "published": "2026-11-23T22:29:53.000Z"
+          "published": "2026-11-24T10:00:00.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "I’ve paid for long-term-care insurance for 20 years. Is it still worth it?",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f0451c86-49f6-4fae-b2fa-e3f8edbc165c&mod=mw_rss_bulletins",
+          "title": "The history of next-day moves after a big S&P 500 gain isn't good: live updates",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ecb6fdbb-1e0c-42aa-83fd-775d976deabd&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-24T00:18:30.000Z"
+          "published": "2026-11-24T11:17:53.000Z"
+        },
+        {
+          "title": "Nasdaq futures slump and Nvidia shares fall 6% premarket: live updates",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4aecfe42-8a50-4d9c-9781-448be322ee5c&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-24T10:58:20.000Z"
         },
         {
           "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
           "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
           "source": "CNBC",
           "published": "2026-11-23T23:28:19.000Z"
-        },
-        {
-          "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6a532d28-7ac8-4a28-addf-90b57aea80f4&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-23T23:23:15.000Z"
         }
       ]
     },
