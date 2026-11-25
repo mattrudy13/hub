@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T19:20:45.892Z",
+  "updated": "2026-11-25T19:58:39.578Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
-          "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+          "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+          "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-25T18:41:33.000Z"
+          "published": "2026-11-25T19:54:52.000Z"
         },
         {
-          "title": "US stocks fall further as fears over AI intensify",
-          "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+          "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+          "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-25T17:48:09.000Z"
+          "published": "2026-11-25T19:47:39.000Z"
         },
         {
           "title": "Group of Senate Democrats push to add freshman to leadership",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Fed says inflation hasn’t gotten any better ahead of key December vote on rates",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9c1a90f8-948c-4f54-b8df-e4b29931f037&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-25T19:49:47.000Z"
+        },
+        {
           "title": "Why this stock-market selloff will probably get worse before it gets better",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=37d5b1a0-e24e-4ef0-b107-915f97d852fb&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-25T17:44:50.000Z"
-        },
-        {
-          "title": "Nvidia’s stock is giving back more than half of Monday’s rally",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aa7bec7d-3ade-46f3-91a7-da9946c220a4&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-25T16:37:37.000Z"
         },
         {
           "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+          "link": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+          "source": "The Verge",
+          "published": "2026-11-25T19:45:51.000Z"
+        },
+        {
           "title": "1Password breach leaked customer names and emails, but not passwords",
           "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
           "source": "The Verge",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
           "source": "Ars Technica",
           "published": "2026-11-25T18:38:29.000Z"
-        },
-        {
-          "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
-          "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
-          "source": "Ars Technica",
-          "published": "2026-11-25T18:22:38.000Z"
         }
       ]
     }
