@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T17:20:48.864Z",
+  "updated": "2026-11-25T18:20:46.411Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-          "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+          "title": "US stocks fall further as fears over AI intensify",
+          "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-25T16:20:14.000Z"
+          "published": "2026-11-25T17:48:09.000Z"
         },
         {
-          "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-          "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-25T15:42:50.000Z"
-        },
-        {
-          "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+          "title": "Group of Senate Democrats push to add freshman to leadership",
+          "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
           "source": "NPR",
-          "published": "2026-11-25T14:14:34.000Z"
+          "published": "2026-11-25T17:30:47.000Z"
+        },
+        {
+          "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+          "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-25T17:30:16.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Why this stock-market selloff will probably get worse before it gets better",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=37d5b1a0-e24e-4ef0-b107-915f97d852fb&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-25T17:44:50.000Z"
+        },
+        {
           "title": "Nvidia’s stock is giving back more than half of Monday’s rally",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aa7bec7d-3ade-46f3-91a7-da9946c220a4&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-25T16:37:37.000Z"
-        },
-        {
-          "title": "Dow, S&P 500 and Nasdaq open with sharp losses",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2f92d12e-9193-4dc2-a798-8d5314a27384&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-25T14:30:47.000Z"
         },
         {
           "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Etsy clarifies AI terms after seller backlash",
-          "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
-          "source": "Ars Technica",
-          "published": "2026-11-25T17:12:57.000Z"
-        },
-        {
-          "title": "The Verge’s guide to the best gifts under $100",
-          "link": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
+          "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+          "link": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-25T17:00:00.000Z"
+          "published": "2026-11-25T18:00:00.000Z"
         },
         {
-          "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
-          "link": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+          "title": "The loneliest peptide party in New York",
+          "link": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
+          "source": "The Verge",
+          "published": "2026-11-25T18:00:00.000Z"
+        },
+        {
+          "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+          "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
           "source": "Ars Technica",
-          "published": "2026-11-25T16:47:14.000Z"
+          "published": "2026-11-25T17:33:30.000Z"
         }
       ]
     }
