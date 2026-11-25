@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-25T20:20:45.475Z",
+  "updated": "2026-11-25T21:20:58.543Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+          "link": "https://www.npr.org/2026/11/25/nx-s1-6005522/at-this-little-free-bakery-in-austin-neighbors-come-for-the-pastries-and-stay-for-community-connection",
+          "source": "NPR",
+          "published": "2026-11-25T21:02:58.000Z"
+        },
         {
           "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
           "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-25T19:47:39.000Z"
-        },
-        {
-          "title": "Group of Senate Democrats push to add freshman to leadership",
-          "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
-          "source": "NPR",
-          "published": "2026-11-25T17:30:47.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Dow up 200 points, S&P 500 and Nasdaq pare back losses as stocks bounce off lows",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8729df74-1dfa-472b-a24a-3dbbd60045df&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-25T20:07:30.000Z"
-        },
-        {
-          "title": "Fed says inflation hasn’t gotten any better ahead of key December vote on rates",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9c1a90f8-948c-4f54-b8df-e4b29931f037&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-25T19:49:47.000Z"
-        },
-        {
-          "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
-          "link": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
+          "title": "Macy's postpones Thanksgiving parade due to severe weather",
+          "link": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
           "source": "CNBC",
-          "published": "2026-11-25T14:17:01.000Z"
+          "published": "2026-11-25T21:14:56.000Z"
+        },
+        {
+          "title": "Dow closes higher after big comeback; S&P 500, Nasdaq fall but end well off lows",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3e0785ac-4ee8-482e-96ea-bb9b37898ccd&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-25T21:02:45.000Z"
+        },
+        {
+          "title": "Nvidia heading for first ‘death cross’ since March 2025 as the stock struggles",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=792b6c57-7eb1-45a0-9bf0-d84258507eea&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-25T20:42:10.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Google search alternative Kagi launches Gmail rival",
+          "link": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+          "source": "Ars Technica",
+          "published": "2026-11-25T20:57:09.000Z"
+        },
+        {
+          "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+          "link": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+          "source": "The Verge",
+          "published": "2026-11-25T20:31:48.000Z"
+        },
+        {
           "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
           "link": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
           "source": "The Verge",
           "published": "2026-11-25T19:45:51.000Z"
-        },
-        {
-          "title": "1Password breach leaked customer names and emails, but not passwords",
-          "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
-          "source": "The Verge",
-          "published": "2026-11-25T19:10:15.000Z"
-        },
-        {
-          "title": "Backblaze explains why it's sharing customer information with advertisers",
-          "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
-          "source": "Ars Technica",
-          "published": "2026-11-25T18:38:29.000Z"
         }
       ]
     }

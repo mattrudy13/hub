@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T20:20:45.910Z",
+  "updated": "2026-11-25T21:20:59.722Z",
   "minLine": 7,
   "days": [
     "2026-11-24",
@@ -70,6 +70,28 @@
         "abbr": "LEH",
         "rank": null,
         "score": 83
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-25",
+      "id": "401917967",
+      "line": 7.5,
+      "details": "SDST -7.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401917967/abilene-chrstn-s-dakota-st",
+      "winner": {
+        "id": "2000",
+        "name": "Abilene Chrstn",
+        "abbr": "ACU",
+        "rank": null,
+        "score": 101
+      },
+      "loser": {
+        "id": "2571",
+        "name": "S Dakota St",
+        "abbr": "SDST",
+        "rank": null,
+        "score": 95
       }
     },
     {
@@ -768,8 +790,8 @@
     "cbb:401921670": {
       "date": "2026-11-25",
       "fav": "30",
-      "line": 10.5,
-      "details": "USC -10.5"
+      "line": 9.5,
+      "details": "USC -9.5"
     },
     "cbb:401926065": {
       "date": "2026-11-25",
@@ -792,14 +814,14 @@
     "cbb:401925688": {
       "date": "2026-11-25",
       "fav": "326",
-      "line": 26.5,
-      "details": "TXST -26.5"
+      "line": 27.5,
+      "details": "TXST -27.5"
     },
     "cbb:401920237": {
       "date": "2026-11-25",
       "fav": "159",
-      "line": 12.5,
-      "details": "DART -12.5"
+      "line": 11.5,
+      "details": "DART -11.5"
     },
     "cbb:401921716": {
       "date": "2026-11-25",
@@ -828,8 +850,8 @@
     "cbb:401909720": {
       "date": "2026-11-25",
       "fav": "183",
-      "line": 25.5,
-      "details": "SYR -25.5"
+      "line": 24.5,
+      "details": "SYR -24.5"
     },
     "cbb:401909568": {
       "date": "2026-11-25",
@@ -846,8 +868,8 @@
     "cbb:401921108": {
       "date": "2026-11-25",
       "fav": "94",
-      "line": 7.5,
-      "details": "NKU -7.5"
+      "line": 6.5,
+      "details": "NKU -6.5"
     },
     "cbb:401920916": {
       "date": "2026-11-25",
@@ -876,8 +898,8 @@
     "cbb:401918960": {
       "date": "2026-11-25",
       "fav": "152",
-      "line": 27.5,
-      "details": "NCSU -27.5"
+      "line": 28.5,
+      "details": "NCSU -28.5"
     },
     "cbb:401911028": {
       "date": "2026-11-25",
@@ -985,6 +1007,26 @@
       "line": null
     },
     "cbb:401920067": {
+      "date": "2026-11-25",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401928850": {
+      "date": "2026-11-25",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401926207": {
+      "date": "2026-11-25",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401922223": {
+      "date": "2026-11-25",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401911311": {
       "date": "2026-11-25",
       "fav": null,
       "line": null
