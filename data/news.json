@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T15:20:46.155Z",
+  "updated": "2026-11-25T16:20:48.510Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+          "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+          "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-25T14:46:41.000Z"
+          "published": "2026-11-25T16:20:14.000Z"
+        },
+        {
+          "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+          "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-25T15:42:50.000Z"
         },
         {
           "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
           "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
           "source": "NPR",
           "published": "2026-11-25T14:14:34.000Z"
-        },
-        {
-          "title": "What to know before using AI agents for Black Friday shopping",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
-          "source": "NPR",
-          "published": "2026-11-25T13:51:56.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Nothing offers a full look at its AI earbuds and charging case",
+          "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+          "source": "The Verge",
+          "published": "2026-11-25T16:00:59.000Z"
+        },
+        {
+          "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+          "link": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+          "source": "Ars Technica",
+          "published": "2026-11-25T15:35:17.000Z"
+        },
+        {
           "title": "The Verge’s guide to affordable holiday gifts under $25",
           "link": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
           "source": "The Verge",
           "published": "2026-11-25T15:00:00.000Z"
-        },
-        {
-          "title": "A familiar Iranian hacking group has found a new way to cause chaos",
-          "link": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
-          "source": "Ars Technica",
-          "published": "2026-11-25T14:29:43.000Z"
-        },
-        {
-          "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-          "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-          "source": "The Verge",
-          "published": "2026-11-25T14:12:33.000Z"
         }
       ]
     }
