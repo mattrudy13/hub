@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T11:20:45.587Z",
+  "updated": "2026-11-25T12:20:45.840Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+          "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-25T12:20:17.000Z"
+        },
+        {
+          "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+          "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-25T11:45:16.000Z"
+        },
+        {
           "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
           "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
           "source": "NPR",
           "published": "2026-11-25T11:00:00.000Z"
-        },
-        {
-          "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-          "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-25T10:52:09.000Z"
-        },
-        {
-          "title": "Buying new things feels wonderful. But it can also be a trap",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle",
-          "source": "NPR",
-          "published": "2026-11-25T10:02:00.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Futures point to ugly Wall Street start, with Nasdaq seen down 2%: live updates",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4d73bd15-7732-4d31-90bf-98c7697e1199&mod=mw_rss_bulletins",
+          "title": "Nasdaq futures are down 3% as Nvidia, AMD shares slump",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4b1fd77c-bc03-4fd5-8495-991e6a205fe6&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-25T10:20:41.000Z"
+          "published": "2026-11-25T12:19:45.000Z"
         },
         {
-          "title": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=49f7e7c5-811f-4dff-97d4-71bec056c156&mod=mw_rss_bulletins",
+          "title": "Economic calendar: Data highlights are PCE inflation, Fed ‘beige book’",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3d24283f-a15b-49cd-ba0b-aedfbfad62bd&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-24T23:54:39.000Z"
+          "published": "2026-11-25T12:02:50.000Z"
         },
         {
-          "title": "Retail turnarounds are taking hold just in time for the holiday season",
-          "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+          "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
+          "link": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
           "source": "CNBC",
-          "published": "2026-11-24T19:26:39.000Z"
+          "published": "2026-11-25T12:00:01.000Z"
         }
       ]
     },
@@ -54,6 +54,12 @@
       "key": "tech",
       "name": "Tech",
       "items": [
+        {
+          "title": "AI may soon change what it means to be a theoretical physicist",
+          "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+          "source": "Ars Technica",
+          "published": "2026-11-25T12:00:28.000Z"
+        },
         {
           "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
           "link": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
           "source": "The Verge",
           "published": "2026-11-25T01:00:00.000Z"
-        },
-        {
-          "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
-          "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
-          "source": "Ars Technica",
-          "published": "2026-11-24T22:50:11.000Z"
         }
       ]
     }
