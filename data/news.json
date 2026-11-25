@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-25T18:20:46.411Z",
+  "updated": "2026-11-25T19:20:45.892Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+          "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-25T18:41:33.000Z"
+        },
         {
           "title": "US stocks fall further as fears over AI intensify",
           "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
           "source": "NPR",
           "published": "2026-11-25T17:30:47.000Z"
-        },
-        {
-          "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-          "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-25T17:30:16.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
-          "link": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
+          "title": "1Password breach leaked customer names and emails, but not passwords",
+          "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
           "source": "The Verge",
-          "published": "2026-11-25T18:00:00.000Z"
+          "published": "2026-11-25T19:10:15.000Z"
         },
         {
-          "title": "The loneliest peptide party in New York",
-          "link": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
-          "source": "The Verge",
-          "published": "2026-11-25T18:00:00.000Z"
-        },
-        {
-          "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
-          "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+          "title": "Backblaze explains why it's sharing customer information with advertisers",
+          "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
           "source": "Ars Technica",
-          "published": "2026-11-25T17:33:30.000Z"
+          "published": "2026-11-25T18:38:29.000Z"
+        },
+        {
+          "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+          "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+          "source": "Ars Technica",
+          "published": "2026-11-25T18:22:38.000Z"
         }
       ]
     }
