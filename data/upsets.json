@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-25T01:20:46.383Z",
+  "updated": "2026-11-25T02:20:46.613Z",
   "minLine": 7,
   "days": [
     "2026-11-23",
     "2026-11-24"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-24",
+      "id": "401920309",
+      "line": 10.5,
+      "details": "GT -10.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920309/samford-georgia-tech",
+      "winner": {
+        "id": "2535",
+        "name": "Samford",
+        "abbr": "SAM",
+        "rank": null,
+        "score": 92
+      },
+      "loser": {
+        "id": "59",
+        "name": "Georgia Tech",
+        "abbr": "GT",
+        "rank": null,
+        "score": 81
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-24",
@@ -48,6 +70,28 @@
         "abbr": "IONA",
         "rank": null,
         "score": 46
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-24",
+      "id": "401911279",
+      "line": 8.5,
+      "details": "LEH -8.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911279/binghamton-lehigh",
+      "winner": {
+        "id": "2066",
+        "name": "Binghamton",
+        "abbr": "BING",
+        "rank": null,
+        "score": 90
+      },
+      "loser": {
+        "id": "2329",
+        "name": "Lehigh",
+        "abbr": "LEH",
+        "rank": null,
+        "score": 83
       }
     },
     {
@@ -815,8 +859,8 @@
     "cbb:401921712": {
       "date": "2026-11-24",
       "fav": "2670",
-      "line": 5.5,
-      "details": "VCU -5.5"
+      "line": 6.5,
+      "details": "VCU -6.5"
     },
     "cbb:401919850": {
       "date": "2026-11-24",
@@ -834,6 +878,21 @@
       "line": null
     },
     "cbb:401926061": {
+      "date": "2026-11-24",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401928348": {
+      "date": "2026-11-24",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401919829": {
+      "date": "2026-11-24",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401929351": {
       "date": "2026-11-24",
       "fav": null,
       "line": null
