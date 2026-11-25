@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-25T00:20:49.969Z",
-  "from": "2026-11-25T00:20:49Z",
-  "to": "2026-12-09T00:20:49Z",
+  "updated": "2026-11-25T01:20:48.763Z",
+  "from": "2026-11-25T01:20:48Z",
+  "to": "2026-12-09T01:20:48Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "Z7r9jZ1A7P-8J",
-      "name": "Pouya w/ Fat Nick",
-      "date": "2026-11-24",
-      "time": "19:30",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "World",
-      "venue": "The Norva",
-      "city": "Norfolk",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P-8J",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/9fd/12d38709-d7b1-4f7b-9a55-a583f16c99fd_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZkfgGkdbsIsz",
       "name": "BayPort Credit Union Holiday Trail of Lights",
@@ -689,6 +675,20 @@
       "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-12-07-2026/event/010065341A359E6F",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1A7J8_a",
+      "name": "Dave Koz Christmas",
+      "date": "2026-12-08",
+      "time": "19:30",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Jazz",
+      "venue": "Ferguson Center for the Arts Concert Hall",
+      "city": "Newport News",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J8_a",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/eef/cfcd3db8-e60e-4ca6-a1e7-3f71758d6eef_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }

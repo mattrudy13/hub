@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-25T00:20:46.983Z",
+  "updated": "2026-11-25T01:20:46.383Z",
   "minLine": 7,
   "days": [
     "2026-11-23",
     "2026-11-24"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-24",
+      "id": "401921707",
+      "line": 9.5,
+      "details": "WYO -9.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921707/kent-state-wyoming",
+      "winner": {
+        "id": "2309",
+        "name": "Kent State",
+        "abbr": "KENT",
+        "rank": null,
+        "score": 78
+      },
+      "loser": {
+        "id": "2751",
+        "name": "Wyoming",
+        "abbr": "WYO",
+        "rank": null,
+        "score": 75
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-23",
