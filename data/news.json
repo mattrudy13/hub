@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T12:20:45.840Z",
+  "updated": "2026-11-25T13:20:45.956Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-          "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+          "title": "US announces new tariffs on host of countries including China",
+          "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-25T12:20:17.000Z"
+          "published": "2026-11-25T13:19:41.000Z"
         },
         {
-          "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-          "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+          "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+          "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-25T11:45:16.000Z"
+          "published": "2026-11-25T12:42:11.000Z"
         },
         {
-          "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+          "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+          "link": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
           "source": "NPR",
-          "published": "2026-11-25T11:00:00.000Z"
+          "published": "2026-11-25T12:18:09.000Z"
         }
       ]
     },
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Has vibe coding made open source the new normal for synths?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+          "source": "The Verge",
+          "published": "2026-11-25T13:00:00.000Z"
+        },
+        {
           "title": "AI may soon change what it means to be a theoretical physicist",
           "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
           "source": "Ars Technica",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
           "source": "The Verge",
           "published": "2026-11-25T11:12:42.000Z"
-        },
-        {
-          "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
-          "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
-          "source": "The Verge",
-          "published": "2026-11-25T01:00:00.000Z"
         }
       ]
     }
