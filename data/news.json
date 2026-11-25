@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T05:20:49.341Z",
+  "updated": "2026-11-25T11:20:45.587Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-          "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-25T04:49:55.000Z"
-        },
-        {
-          "title": "US attorney general dodges questions about Nvidia investigation",
-          "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-25T03:44:07.000Z"
-        },
-        {
-          "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-          "link": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+          "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+          "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
           "source": "NPR",
-          "published": "2026-11-24T21:09:29.000Z"
+          "published": "2026-11-25T11:00:00.000Z"
+        },
+        {
+          "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+          "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-25T10:52:09.000Z"
+        },
+        {
+          "title": "Buying new things feels wonderful. But it can also be a trap",
+          "link": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle",
+          "source": "NPR",
+          "published": "2026-11-25T10:02:00.000Z"
         }
       ]
     },
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Futures point to ugly Wall Street start, with Nasdaq seen down 2%: live updates",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4d73bd15-7732-4d31-90bf-98c7697e1199&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-25T10:20:41.000Z"
+        },
+        {
           "title": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=49f7e7c5-811f-4dff-97d4-71bec056c156&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-24T23:54:39.000Z"
-        },
-        {
-          "title": "What to do if your Thanksgiving flight gets delayed",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=62547414-4798-46ea-914b-bfe2ca7d8664&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-24T22:41:25.000Z"
         },
         {
           "title": "Retail turnarounds are taking hold just in time for the holiday season",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+          "link": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "source": "The Verge",
+          "published": "2026-11-25T11:12:42.000Z"
+        },
+        {
           "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
           "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
           "source": "The Verge",
           "published": "2026-11-25T01:00:00.000Z"
-        },
-        {
-          "title": "The Verge’s 2026 gift guide for dads",
-          "link": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-          "source": "The Verge",
-          "published": "2026-11-24T23:59:29.000Z"
         },
         {
           "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
