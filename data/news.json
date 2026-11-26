@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T16:20:45.886Z",
+  "updated": "2026-11-26T17:20:47.283Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
-          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-26T15:57:26.000Z"
-        },
-        {
-          "title": "Two Italians killed after Iranian strike in Kuwait",
+          "title": "Italy says two citizens killed in Iranian strike in Kuwait",
           "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-26T15:36:08.000Z"
+          "published": "2026-11-26T16:39:30.000Z"
+        },
+        {
+          "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
+          "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-26T16:21:19.000Z"
         },
         {
           "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "How hedge funds have been navigating stock-market volatility",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=81da3ea0-76aa-43a0-b9cb-21ff0b219994&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-26T16:49:38.000Z"
+        },
+        {
           "title": "Stock-index futures and global equity markets point to Friday gains on Wall St.",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aff11f9b-12f2-46e0-9667-35960dd0d790&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-26T16:15:45.000Z"
-        },
-        {
-          "title": "Is the U.S. stock market closed for Thanksgiving? Yes and no.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2b2f2a55-9284-48db-a2d5-e4dd24c62c0e&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-26T15:37:07.000Z"
         },
         {
           "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
-          "link": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+          "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+          "link": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-26T16:00:00.000Z"
+          "published": "2026-11-26T17:07:00.000Z"
         },
         {
-          "title": "GTA VI developers vote against unionization",
-          "link": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+          "title": "Android app developers will soon have to share their address publicly",
+          "link": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
           "source": "The Verge",
-          "published": "2026-11-26T15:55:24.000Z"
+          "published": "2026-11-26T17:06:24.000Z"
         },
         {
           "title": "Draining peatlands is responsible for a few percent of our global warming",
