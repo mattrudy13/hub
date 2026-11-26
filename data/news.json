@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T12:20:46.567Z",
+  "updated": "2026-11-26T12:51:53.322Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+          "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-26T12:33:23.000Z"
+        },
+        {
+          "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+          "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+          "source": "NPR",
+          "published": "2026-11-26T12:24:29.000Z"
+        },
+        {
           "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
           "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-26T11:27:42.000Z"
-        },
-        {
-          "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
-          "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-26T11:21:50.000Z"
-        },
-        {
-          "title": "'Memories of a Good Meal': How food made a difference during WWII",
-          "link": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
-          "source": "NPR",
-          "published": "2026-11-26T10:00:00.000Z"
         }
       ]
     },
@@ -67,10 +67,10 @@
           "published": "2026-11-26T12:00:14.000Z"
         },
         {
-          "title": "X is finally getting its first parental controls",
-          "link": "https://www.theverge.com/news/1043078/x-parental-controls-features",
+          "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
+          "link": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
           "source": "The Verge",
-          "published": "2026-11-26T10:45:50.000Z"
+          "published": "2026-11-26T12:00:00.000Z"
         }
       ]
     }
