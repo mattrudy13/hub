@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T19:20:45.312Z",
+  "updated": "2026-11-26T20:20:45.829Z",
   "failed": [],
   "sections": [
     {
@@ -10,13 +10,13 @@
           "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
           "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-26T17:54:22.000Z"
+          "published": "2026-11-26T19:27:45.000Z"
         },
         {
-          "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
-          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+          "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+          "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-26T17:38:56.000Z"
+          "published": "2026-11-26T19:26:16.000Z"
         },
         {
           "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+          "link": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+          "source": "The Verge",
+          "published": "2026-11-26T19:00:00.000Z"
+        },
+        {
           "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
           "link": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
           "source": "Ars Technica",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
           "source": "The Verge",
           "published": "2026-11-26T17:07:00.000Z"
-        },
-        {
-          "title": "Android app developers will soon have to share their address publicly",
-          "link": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
-          "source": "The Verge",
-          "published": "2026-11-26T17:06:24.000Z"
         }
       ]
     }
