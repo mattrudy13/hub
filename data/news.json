@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T13:20:45.774Z",
+  "updated": "2026-11-26T14:20:46.243Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Miami runway incident disrupts flights on Thanksgiving eve",
-          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+          "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
+          "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-26T13:09:15.000Z"
+          "published": "2026-11-26T14:00:42.000Z"
         },
         {
-          "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-          "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-26T12:33:23.000Z"
-        },
-        {
-          "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
-          "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+          "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+          "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
           "source": "NPR",
-          "published": "2026-11-26T12:24:29.000Z"
+          "published": "2026-11-26T13:47:09.000Z"
+        },
+        {
+          "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+          "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+          "source": "NPR",
+          "published": "2026-11-26T13:31:28.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
+          "link": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
+          "source": "The Verge",
+          "published": "2026-11-26T14:00:00.000Z"
+        },
+        {
+          "title": "Samsung’s R95H TV shows what RGB LED is capable of",
+          "link": "https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review",
+          "source": "The Verge",
+          "published": "2026-11-26T14:00:00.000Z"
+        },
+        {
           "title": "Draining peatlands is responsible for a few percent of our global warming",
           "link": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
           "source": "Ars Technica",
           "published": "2026-11-26T12:15:42.000Z"
-        },
-        {
-          "title": "From minimalist to maximalist: Ars staffers show off their home offices",
-          "link": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
-          "source": "Ars Technica",
-          "published": "2026-11-26T12:00:14.000Z"
-        },
-        {
-          "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
-          "link": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
-          "source": "The Verge",
-          "published": "2026-11-26T12:00:00.000Z"
         }
       ]
     }
