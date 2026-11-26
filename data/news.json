@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T23:20:44.874Z",
+  "updated": "2026-11-26T00:20:45.604Z",
   "failed": [],
   "sections": [
     {
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+          "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+          "source": "The Verge",
+          "published": "2026-11-25T23:56:44.000Z"
+        },
+        {
           "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
           "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
           "source": "Ars Technica",
@@ -65,12 +71,6 @@
           "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
           "source": "The Verge",
           "published": "2026-11-25T21:51:26.000Z"
-        },
-        {
-          "title": "The Verge’s 2026 holiday gift guide for travelers",
-          "link": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
-          "source": "The Verge",
-          "published": "2026-11-25T21:48:00.000Z"
         }
       ]
     }

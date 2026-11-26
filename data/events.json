@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-25T23:20:47.378Z",
-  "from": "2026-11-25T23:20:46Z",
-  "to": "2026-12-09T23:20:46Z",
+  "updated": "2026-11-26T00:20:48.736Z",
+  "from": "2026-11-26T00:20:48Z",
+  "to": "2026-12-10T00:20:48Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv177Z_FGkUN7HBx",
-      "name": "NUTCRACKER! Magical Christmas Ballet",
-      "date": "2026-11-25",
-      "time": "19:00",
-      "status": "onsale",
-      "kind": "Arts",
-      "genre": "Dance",
-      "venue": "Sandler Center For The Performing Arts",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/nutcracker-magical-christmas-ballet-virginia-beach-virginia-11-25-2026/event/0100648DA313CEA2",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/a/cc1/0e35525a-c00e-494a-b080-a31c3deaccc1_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1k7Z_9J4G7cABM",
       "name": "DJ Gabe Niles Dance Party: Disco & Beyond (Ages 21 & Up)",
@@ -661,6 +647,20 @@
       "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-12-08-2026/event/01006535D8DC8CEB",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1AAAFvZ",
+      "name": "Norfolk State Spartans Mens Basketball vs. The Apprentice School Builders Mens Basketball",
+      "date": "2026-12-09",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Sports",
+      "genre": "Basketball",
+      "venue": "Joseph G Echols Hall",
+      "city": "Norfolk",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAFvZ",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }

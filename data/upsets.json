@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-25T23:20:45.398Z",
+  "updated": "2026-11-26T00:20:46.200Z",
   "minLine": 7,
   "days": [
     "2026-11-24",
     "2026-11-25"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-25",
+      "id": "401920237",
+      "line": 11.5,
+      "details": "DART -11.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920237/holy-cross-dartmouth",
+      "winner": {
+        "id": "107",
+        "name": "Holy Cross",
+        "abbr": "HC",
+        "rank": null,
+        "score": 67
+      },
+      "loser": {
+        "id": "159",
+        "name": "Dartmouth",
+        "abbr": "DART",
+        "rank": null,
+        "score": 65
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-24",
@@ -988,8 +1010,8 @@
     "cbb:401921672": {
       "date": "2026-11-25",
       "fav": "139",
-      "line": 4.5,
-      "details": "SLU -4.5"
+      "line": 3.5,
+      "details": "SLU -3.5"
     },
     "cbb:401911201": {
       "date": "2026-11-25",
