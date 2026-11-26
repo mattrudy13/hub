@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T00:20:45.604Z",
+  "updated": "2026-11-26T01:20:46.845Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-          "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+          "title": "California warned of potential Thanksgiving flooding as storms threaten US coasts",
+          "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-25T22:18:06.000Z"
+          "published": "2026-11-26T01:05:47.000Z"
         },
         {
-          "title": "North Korea expels Swiss diplomat in sanctions row",
-          "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+          "title": "US announces new tariffs on host of countries including China",
+          "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-25T21:51:17.000Z"
+          "published": "2026-11-26T01:00:06.000Z"
         },
         {
           "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+          "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+          "source": "The Verge",
+          "published": "2026-11-26T00:04:34.000Z"
+        },
+        {
           "title": "Amazon loses its latest attempt to get out of handling more recall notices",
           "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
           "source": "The Verge",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
           "source": "Ars Technica",
           "published": "2026-11-25T22:36:45.000Z"
-        },
-        {
-          "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-          "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-          "source": "The Verge",
-          "published": "2026-11-25T21:51:26.000Z"
         }
       ]
     }

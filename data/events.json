@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-26T00:20:48.736Z",
-  "from": "2026-11-26T00:20:48Z",
-  "to": "2026-12-10T00:20:48Z",
+  "updated": "2026-11-26T01:20:50.024Z",
+  "from": "2026-11-26T01:20:49Z",
+  "to": "2026-12-10T01:20:49Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -661,6 +661,34 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAFvZ",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkfIGkd8MD6Q",
+      "name": "Men Without Hats",
+      "date": "2026-12-09",
+      "time": "19:30",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Pop",
+      "venue": "Elevation 27",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/men-without-hats-virginia-beach-virginia-12-09-2026/event/01006528D0DFB1DA",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/179/70b76f09-6fd9-48c4-98a4-acf8b78f1179_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "Z7r9jZ1AAvoof",
+      "name": "Chris Tomlin",
+      "date": "2026-12-09",
+      "time": "19:30",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "Pop",
+      "venue": "Ferguson Center for the Arts Concert Hall",
+      "city": "Newport News",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvoof",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/ad6/46848aab-c22d-4f38-b4ac-ac82dc156ad6_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
