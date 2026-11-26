@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T15:20:46.131Z",
+  "updated": "2026-11-26T16:20:45.886Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-          "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+          "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
+          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-26T15:17:18.000Z"
+          "published": "2026-11-26T15:57:26.000Z"
         },
         {
-          "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-          "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+          "title": "Two Italians killed after Iranian strike in Kuwait",
+          "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-26T14:44:26.000Z"
+          "published": "2026-11-26T15:36:08.000Z"
         },
         {
           "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Stock-index futures and global equity markets point to Friday gains on Wall St.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aff11f9b-12f2-46e0-9667-35960dd0d790&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-26T16:15:45.000Z"
+        },
+        {
+          "title": "Is the U.S. stock market closed for Thanksgiving? Yes and no.",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2b2f2a55-9284-48db-a2d5-e4dd24c62c0e&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-26T15:37:07.000Z"
+        },
+        {
           "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
           "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
           "source": "CNBC",
           "published": "2026-11-26T12:00:01.000Z"
-        },
-        {
-          "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
-          "link": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
-          "source": "CNBC",
-          "published": "2026-11-25T22:26:56.000Z"
-        },
-        {
-          "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=da6056d5-2e1b-4c22-a143-43b3b2515d6b&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-25T22:08:15.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Why GTA VI’s version of Florida feels so real",
-          "link": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
+          "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+          "link": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
           "source": "The Verge",
-          "published": "2026-11-26T15:00:00.000Z"
+          "published": "2026-11-26T16:00:00.000Z"
         },
         {
-          "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
-          "link": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
+          "title": "GTA VI developers vote against unionization",
+          "link": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
           "source": "The Verge",
-          "published": "2026-11-26T14:00:00.000Z"
+          "published": "2026-11-26T15:55:24.000Z"
         },
         {
           "title": "Draining peatlands is responsible for a few percent of our global warming",
