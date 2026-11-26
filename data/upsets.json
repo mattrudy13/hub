@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-26T18:20:51.940Z",
+  "updated": "2026-11-26T19:20:45.682Z",
   "minLine": 7,
   "days": [
     "2026-11-25",
     "2026-11-26"
   ],
   "upsets": [
+    {
+      "league": "cbb",
+      "date": "2026-11-26",
+      "id": "401912231",
+      "line": 11.5,
+      "details": "UTSA -11.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401912231/army-utsa",
+      "winner": {
+        "id": "349",
+        "name": "Army",
+        "abbr": "ARMY",
+        "rank": null,
+        "score": 79
+      },
+      "loser": {
+        "id": "2636",
+        "name": "UTSA",
+        "abbr": "UTSA",
+        "rank": null,
+        "score": 61
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-25",
