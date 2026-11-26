@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T05:20:51.894Z",
+  "updated": "2026-11-26T11:20:45.511Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "US announces new tariffs on host of countries including China",
-          "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+          "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+          "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-26T04:10:58.000Z"
+          "published": "2026-11-26T10:38:35.000Z"
         },
         {
-          "title": "Macy's postpones Thanksgiving parade due to severe weather",
-          "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-26T04:04:14.000Z"
-        },
-        {
-          "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+          "title": "'Memories of a Good Meal': How food made a difference during WWII",
+          "link": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
           "source": "NPR",
-          "published": "2026-11-25T21:02:58.000Z"
+          "published": "2026-11-26T10:00:00.000Z"
+        },
+        {
+          "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
+          "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
+          "source": "NPR",
+          "published": "2026-11-26T10:00:00.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-          "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+          "title": "X is finally getting its first parental controls",
+          "link": "https://www.theverge.com/news/1043078/x-parental-controls-features",
           "source": "The Verge",
-          "published": "2026-11-26T00:04:34.000Z"
+          "published": "2026-11-26T10:45:50.000Z"
         },
         {
-          "title": "Amazon loses its latest attempt to get out of handling more recall notices",
-          "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+          "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+          "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
           "source": "The Verge",
-          "published": "2026-11-25T23:56:44.000Z"
+          "published": "2026-11-26T09:54:40.000Z"
         },
         {
           "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
