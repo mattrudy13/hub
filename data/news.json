@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-26T12:51:53.322Z",
+  "updated": "2026-11-26T13:20:45.774Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Miami runway incident disrupts flights on Thanksgiving eve",
+          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-26T13:09:15.000Z"
+        },
         {
           "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
           "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
           "source": "NPR",
           "published": "2026-11-26T12:24:29.000Z"
-        },
-        {
-          "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
-          "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-26T11:27:42.000Z"
         }
       ]
     },
