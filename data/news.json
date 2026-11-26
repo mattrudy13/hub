@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T14:20:46.243Z",
+  "updated": "2026-11-26T15:20:46.131Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
+          "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
           "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-26T14:00:42.000Z"
+          "published": "2026-11-26T15:17:18.000Z"
+        },
+        {
+          "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-26T14:44:26.000Z"
         },
         {
           "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
           "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
           "source": "NPR",
           "published": "2026-11-26T13:47:09.000Z"
-        },
-        {
-          "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-          "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
-          "source": "NPR",
-          "published": "2026-11-26T13:31:28.000Z"
         }
       ]
     },
@@ -55,14 +55,14 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
-          "link": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
+          "title": "Why GTA VI’s version of Florida feels so real",
+          "link": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
           "source": "The Verge",
-          "published": "2026-11-26T14:00:00.000Z"
+          "published": "2026-11-26T15:00:00.000Z"
         },
         {
-          "title": "Samsung’s R95H TV shows what RGB LED is capable of",
-          "link": "https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review",
+          "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
+          "link": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
           "source": "The Verge",
           "published": "2026-11-26T14:00:00.000Z"
         },
