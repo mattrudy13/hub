@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T11:20:45.511Z",
+  "updated": "2026-11-26T12:20:46.567Z",
   "failed": [],
   "sections": [
     {
@@ -7,20 +7,20 @@
       "name": "US & World",
       "items": [
         {
-          "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-          "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+          "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
+          "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-26T10:38:35.000Z"
+          "published": "2026-11-26T11:27:42.000Z"
+        },
+        {
+          "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+          "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-26T11:21:50.000Z"
         },
         {
           "title": "'Memories of a Good Meal': How food made a difference during WWII",
           "link": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
-          "source": "NPR",
-          "published": "2026-11-26T10:00:00.000Z"
-        },
-        {
-          "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
-          "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
           "source": "NPR",
           "published": "2026-11-26T10:00:00.000Z"
         }
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+          "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+          "source": "CNBC",
+          "published": "2026-11-26T12:00:01.000Z"
+        },
         {
           "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
           "link": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=da6056d5-2e1b-4c22-a143-43b3b2515d6b&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-25T22:08:15.000Z"
-        },
-        {
-          "title": "Dow closes higher after big comeback; S&P 500, Nasdaq fall but end well off lows",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3e0785ac-4ee8-482e-96ea-bb9b37898ccd&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-25T21:02:45.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Draining peatlands is responsible for a few percent of our global warming",
+          "link": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+          "source": "Ars Technica",
+          "published": "2026-11-26T12:15:42.000Z"
+        },
+        {
+          "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+          "link": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+          "source": "Ars Technica",
+          "published": "2026-11-26T12:00:14.000Z"
+        },
+        {
           "title": "X is finally getting its first parental controls",
           "link": "https://www.theverge.com/news/1043078/x-parental-controls-features",
           "source": "The Verge",
           "published": "2026-11-26T10:45:50.000Z"
-        },
-        {
-          "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-          "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-          "source": "The Verge",
-          "published": "2026-11-26T09:54:40.000Z"
-        },
-        {
-          "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
-          "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-          "source": "Ars Technica",
-          "published": "2026-11-25T22:36:45.000Z"
         }
       ]
     }
