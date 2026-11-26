@@ -1,23 +1,9 @@
 {
-  "updated": "2026-11-26T01:20:50.024Z",
-  "from": "2026-11-26T01:20:49Z",
-  "to": "2026-12-10T01:20:49Z",
+  "updated": "2026-11-26T02:21:01.797Z",
+  "from": "2026-11-26T02:21:01Z",
+  "to": "2026-12-10T02:21:01Z",
   "radiusMiles": 25,
   "events": [
-    {
-      "id": "vv1k7Z_9J4G7cABM",
-      "name": "DJ Gabe Niles Dance Party: Disco & Beyond (Ages 21 & Up)",
-      "date": "2026-11-25",
-      "time": "21:00",
-      "status": "onsale",
-      "kind": "Music",
-      "genre": "Pop",
-      "venue": "Elevation 27",
-      "city": "Virginia Beach",
-      "url": "https://www.ticketmaster.com/dj-gabe-niles-dance-party-disco-virginia-beach-virginia-11-25-2026/event/0100657995B45EB7",
-      "priceMin": null,
-      "image": "https://s1.ticketm.net/dam/e/3fc/89b08ee5-d389-4778-84bd-2c55a48733fc_RETINA_PORTRAIT_16_9.jpg"
-    },
     {
       "id": "vv1AvZkfgGkdbSbwq",
       "name": "BayPort Credit Union Holiday Trail of Lights",
