@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T00:20:48.912Z",
+  "updated": "2026-11-27T01:20:50.334Z",
   "minLine": 7,
   "days": [
     "2026-11-25",
@@ -48,6 +48,28 @@
         "abbr": "DART",
         "rank": null,
         "score": 65
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-26",
+      "id": "401917547",
+      "line": 7.5,
+      "details": "UCLA -7.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401917547/ucla-saint-marys",
+      "winner": {
+        "id": "2608",
+        "name": "Saint Mary's",
+        "abbr": "SMC",
+        "rank": null,
+        "score": 85
+      },
+      "loser": {
+        "id": "26",
+        "name": "UCLA",
+        "abbr": "UCLA",
+        "rank": 6,
+        "score": 70
       }
     },
     {
@@ -606,8 +628,8 @@
     "cbb:401920540": {
       "date": "2026-11-26",
       "fav": "2250",
-      "line": 3.5,
-      "details": "GONZ -3.5"
+      "line": 2.5,
+      "details": "GONZ -2.5"
     }
   }
 }

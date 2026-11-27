@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-27T00:20:50.608Z",
-  "from": "2026-11-27T00:20:50Z",
-  "to": "2026-12-11T00:20:50Z",
+  "updated": "2026-11-27T01:20:52.871Z",
+  "from": "2026-11-27T01:20:52Z",
+  "to": "2026-12-11T01:20:52Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -703,6 +703,20 @@
       "url": "https://www.ticketmaster.com/disney-on-ice-presents-magic-in-hampton-virginia-12-10-2026/event/010064E6E5219ABA",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/654/b07e2979-e523-483b-a209-ba7c1c04a654_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv177Z_KGkSFZwkH",
+      "name": "Bobby Nsenga",
+      "date": "2026-12-10",
+      "time": "20:00",
+      "status": "onsale",
+      "kind": "Music",
+      "genre": "R&B",
+      "venue": "Elevation 27",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/bobby-nsenga-virginia-beach-virginia-12-10-2026/event/0100653CC80321BC",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/e/81b/1c296664-3b09-4104-85b6-8f5412a3a81b_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
