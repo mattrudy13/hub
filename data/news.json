@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-27T13:20:48.171Z",
+  "updated": "2026-11-27T14:20:45.684Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "Rare turtles found inside baggage at Amsterdam airport",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-27T13:38:07.000Z"
+        },
         {
           "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
           "link": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
@@ -17,12 +23,6 @@
           "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
           "source": "NPR",
           "published": "2026-11-27T11:49:50.000Z"
-        },
-        {
-          "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-          "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-27T11:44:40.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Grand Theft Auto VI is a different kind of GTA — so it needed a different kind of ending",
-          "link": "https://www.theverge.com/entertainment/1043362/grand-theft-auto-6-ending",
+          "title": "The absolute best Black Friday deals we’ve found (so far)",
+          "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
           "source": "The Verge",
-          "published": "2026-11-27T13:00:00.000Z"
+          "published": "2026-11-27T14:19:44.000Z"
         },
         {
-          "title": "Some of our favorite Sony, LG, and TCL TVs are over 50 percent off for Black Friday",
-          "link": "https://www.theverge.com/gadgets/1042744/best-black-friday-tv-deals-2026",
+          "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+          "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
           "source": "The Verge",
-          "published": "2026-11-27T12:30:00.000Z"
+          "published": "2026-11-27T14:00:00.000Z"
         },
         {
           "title": "Intel faced a choice: Give Trump 10% or face the consequences",
