@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-27T04:20:47.796Z",
-  "from": "2026-11-27T04:20:47Z",
-  "to": "2026-12-11T04:20:47Z",
+  "updated": "2026-11-27T05:09:19.160Z",
+  "from": "2026-11-27T05:09:18Z",
+  "to": "2026-12-11T05:09:18Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -717,6 +717,20 @@
       "url": "https://www.ticketmaster.com/bobby-nsenga-virginia-beach-virginia-12-10-2026/event/0100653CC80321BC",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/e/81b/1c296664-3b09-4104-85b6-8f5412a3a81b_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv1AvZkfgGkdbzIVq",
+      "name": "BayPort Credit Union Holiday Trail of Lights",
+      "date": "2026-12-10",
+      "time": null,
+      "status": "onsale",
+      "kind": "Other",
+      "genre": "Holiday",
+      "venue": "Virginia Aquarium",
+      "city": "Virginia Beach",
+      "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-12-10-2026/event/01006535D8E28D1D",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
