@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-26T23:20:47.339Z",
-  "from": "2026-11-26T23:20:46Z",
-  "to": "2026-12-10T23:20:46Z",
+  "updated": "2026-11-27T00:20:50.608Z",
+  "from": "2026-11-27T00:20:50Z",
+  "to": "2026-12-11T00:20:50Z",
   "radiusMiles": 25,
   "events": [
     {
@@ -675,6 +675,34 @@
       "url": "https://www.ticketmaster.com/bayport-credit-union-holiday-trail-of-virginia-beach-virginia-12-09-2026/event/01006535D8DF8D01",
       "priceMin": null,
       "image": "https://s1.ticketm.net/dam/a/cfd/a9f98386-edad-4051-94f7-f1d811ea1cfd_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vv177Z_oGkRx0N2_",
+      "name": "White Christmas - 7pm - Classic Movie Nights!",
+      "date": "2026-12-10",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Other",
+      "genre": "Music",
+      "venue": "American Theatre",
+      "city": "Hampton",
+      "url": "https://www.ticketmaster.com/white-christmas-7pm-classic-movie-nights-hampton-virginia-12-10-2026/event/0100651BE29233D9",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/c/aae/b503db1a-c908-473b-a218-96d123cd5aae_105501_RETINA_PORTRAIT_16_9.jpg"
+    },
+    {
+      "id": "vvG17Z_ChPF_nB",
+      "name": "Disney On Ice presents Magic in the Stars",
+      "date": "2026-12-10",
+      "time": "19:00",
+      "status": "onsale",
+      "kind": "Other",
+      "genre": "Ice Shows",
+      "venue": "Hampton Coliseum",
+      "city": "Hampton",
+      "url": "https://www.ticketmaster.com/disney-on-ice-presents-magic-in-hampton-virginia-12-10-2026/event/010064E6E5219ABA",
+      "priceMin": null,
+      "image": "https://s1.ticketm.net/dam/a/654/b07e2979-e523-483b-a209-ba7c1c04a654_RETINA_PORTRAIT_16_9.jpg"
     }
   ]
 }
