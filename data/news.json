@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T11:20:45.455Z",
+  "updated": "2026-11-27T12:20:47.311Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
-          "link": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+          "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+          "link": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
           "source": "NPR",
-          "published": "2026-11-27T10:59:36.000Z"
+          "published": "2026-11-27T11:59:02.000Z"
         },
         {
-          "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
-          "link": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-27T10:39:31.000Z"
+          "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+          "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+          "source": "NPR",
+          "published": "2026-11-27T11:49:50.000Z"
         },
         {
           "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
           "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-27T10:28:35.000Z"
+          "published": "2026-11-27T11:44:40.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Economic calendar: wholesale and retail inventories, U.S. trade balance",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=42d1a4e9-5f16-465e-b293-f57dfaa54feb&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-27T12:07:31.000Z"
+        },
         {
           "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
           "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
@@ -41,12 +47,6 @@
           "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
           "source": "CNBC",
           "published": "2026-11-26T18:27:43.000Z"
-        },
-        {
-          "title": "How hedge funds have been navigating stock-market volatility",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=81da3ea0-76aa-43a0-b9cb-21ff0b219994&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-26T16:49:38.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Our favorite headphones and earbuds are cheaper than ever for Black Friday",
-          "link": "https://www.theverge.com/gadgets/1040292/best-black-friday-headphone-earbud-deals-2026",
-          "source": "The Verge",
-          "published": "2026-11-27T10:30:00.000Z"
+          "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+          "link": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+          "source": "Ars Technica",
+          "published": "2026-11-27T12:05:01.000Z"
         },
         {
           "title": "The absolute best Black Friday deals we’ve found (so far)",
           "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
           "source": "The Verge",
-          "published": "2026-11-27T09:35:30.000Z"
+          "published": "2026-11-27T11:52:34.000Z"
         },
         {
-          "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
-          "link": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+          "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
+          "link": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
           "source": "Ars Technica",
-          "published": "2026-11-27T08:00:53.000Z"
+          "published": "2026-11-27T11:30:04.000Z"
         }
       ]
     }
