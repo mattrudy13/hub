@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T12:20:47.311Z",
+  "updated": "2026-11-27T13:20:48.171Z",
   "failed": [],
   "sections": [
     {
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Grand Theft Auto VI is a different kind of GTA — so it needed a different kind of ending",
+          "link": "https://www.theverge.com/entertainment/1043362/grand-theft-auto-6-ending",
+          "source": "The Verge",
+          "published": "2026-11-27T13:00:00.000Z"
+        },
+        {
+          "title": "Some of our favorite Sony, LG, and TCL TVs are over 50 percent off for Black Friday",
+          "link": "https://www.theverge.com/gadgets/1042744/best-black-friday-tv-deals-2026",
+          "source": "The Verge",
+          "published": "2026-11-27T12:30:00.000Z"
+        },
+        {
           "title": "Intel faced a choice: Give Trump 10% or face the consequences",
           "link": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
           "source": "Ars Technica",
           "published": "2026-11-27T12:05:01.000Z"
-        },
-        {
-          "title": "The absolute best Black Friday deals we’ve found (so far)",
-          "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
-          "source": "The Verge",
-          "published": "2026-11-27T11:52:34.000Z"
-        },
-        {
-          "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
-          "link": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
-          "source": "Ars Technica",
-          "published": "2026-11-27T11:30:04.000Z"
         }
       ]
     }
