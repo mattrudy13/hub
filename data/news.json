@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T16:20:46.228Z",
+  "updated": "2026-11-27T17:20:47.158Z",
   "failed": [],
   "sections": [
     {
@@ -10,13 +10,13 @@
           "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
           "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-27T16:06:37.000Z"
+          "published": "2026-11-27T17:19:31.000Z"
         },
         {
-          "title": "Brazil pushes back on Macron calling its meat 'doped'",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+          "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+          "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-27T15:54:15.000Z"
+          "published": "2026-11-27T16:53:46.000Z"
         },
         {
           "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "The artificial-intelligence trade is breaking a foundational rule of economics",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4c739c92-c54a-45fa-b6c2-c097bffefee1&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-27T17:02:29.000Z"
+        },
+        {
           "title": "Here's how to spot Black Friday shopping scams",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5455d023-a5b5-42c7-9e1a-b5d81111b221&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-27T15:18:08.000Z"
-        },
-        {
-          "title": "Dow, S&P 500 and Nasdaq open sharply higher as gains broaden beyond tech",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=dfd0d4d5-dd98-400f-9983-2edc6fe37841&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-27T14:31:09.000Z"
         },
         {
           "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
-          "link": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale",
+          "title": "The absolute best Black Friday deals we’ve found (so far)",
+          "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
           "source": "The Verge",
-          "published": "2026-11-27T15:30:00.000Z"
+          "published": "2026-11-27T17:07:08.000Z"
         },
         {
-          "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
-          "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
-          "source": "The Verge",
-          "published": "2026-11-27T15:15:28.000Z"
-        },
-        {
-          "title": "Intel faced a choice: Give Trump 10% or face the consequences",
-          "link": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+          "title": "The best Black Friday deals Ars could find",
+          "link": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
           "source": "Ars Technica",
-          "published": "2026-11-27T12:05:01.000Z"
+          "published": "2026-11-27T17:05:37.000Z"
+        },
+        {
+          "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
+          "link": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+          "source": "The Verge",
+          "published": "2026-11-27T16:30:37.000Z"
         }
       ]
     }
