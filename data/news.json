@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T05:09:16.584Z",
+  "updated": "2026-11-27T05:20:44.760Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-27T05:15:26.000Z"
+        },
+        {
           "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
           "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-27T03:28:15.000Z"
-        },
-        {
-          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-27T00:52:11.000Z"
         },
         {
           "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
