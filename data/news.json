@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T17:20:47.158Z",
+  "updated": "2026-11-27T18:20:45.914Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+          "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-27T18:00:40.000Z"
+        },
+        {
           "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
           "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-27T17:19:31.000Z"
-        },
-        {
-          "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-          "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-27T16:53:46.000Z"
         },
         {
           "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
@@ -31,16 +31,16 @@
       "name": "Business",
       "items": [
         {
+          "title": "Dow, S&P 500 clinch best weekly gains of the year",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e1eacab1-b5ac-4df2-b12a-4dcad71d6731&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-27T18:02:49.000Z"
+        },
+        {
           "title": "The artificial-intelligence trade is breaking a foundational rule of economics",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4c739c92-c54a-45fa-b6c2-c097bffefee1&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-27T17:02:29.000Z"
-        },
-        {
-          "title": "Here's how to spot Black Friday shopping scams",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5455d023-a5b5-42c7-9e1a-b5d81111b221&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-27T15:18:08.000Z"
         },
         {
           "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
@@ -55,6 +55,12 @@
       "name": "Tech",
       "items": [
         {
+          "title": "Here are the best Black Friday deals you can grab for $30 or less",
+          "link": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+          "source": "The Verge",
+          "published": "2026-11-27T17:30:00.000Z"
+        },
+        {
           "title": "The absolute best Black Friday deals we’ve found (so far)",
           "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
           "source": "The Verge",
@@ -65,12 +71,6 @@
           "link": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
           "source": "Ars Technica",
           "published": "2026-11-27T17:05:37.000Z"
-        },
-        {
-          "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
-          "link": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
-          "source": "The Verge",
-          "published": "2026-11-27T16:30:37.000Z"
         }
       ]
     }
