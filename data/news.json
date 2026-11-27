@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T14:20:45.684Z",
+  "updated": "2026-11-27T15:20:46.259Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Rare turtles found inside baggage at Amsterdam airport",
-          "link": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+          "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+          "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-27T13:38:07.000Z"
+          "published": "2026-11-27T14:55:15.000Z"
+        },
+        {
+          "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+          "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-27T14:49:59.000Z"
         },
         {
           "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
           "link": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
           "source": "NPR",
           "published": "2026-11-27T11:59:02.000Z"
-        },
-        {
-          "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
-          "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
-          "source": "NPR",
-          "published": "2026-11-27T11:49:50.000Z"
         }
       ]
     },
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
-          "title": "Economic calendar: wholesale and retail inventories, U.S. trade balance",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=42d1a4e9-5f16-465e-b293-f57dfaa54feb&mod=mw_rss_bulletins",
+          "title": "Here's how to spot Black Friday shopping scams",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5455d023-a5b5-42c7-9e1a-b5d81111b221&mod=mw_rss_bulletins",
           "source": "MarketWatch",
-          "published": "2026-11-27T12:07:31.000Z"
+          "published": "2026-11-27T15:18:08.000Z"
+        },
+        {
+          "title": "Dow, S&P 500 and Nasdaq open sharply higher as gains broaden beyond tech",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=dfd0d4d5-dd98-400f-9983-2edc6fe37841&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-27T14:31:09.000Z"
         },
         {
           "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
           "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
           "source": "CNBC",
           "published": "2026-11-27T11:00:01.000Z"
-        },
-        {
-          "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-          "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
-          "source": "CNBC",
-          "published": "2026-11-26T18:27:43.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The absolute best Black Friday deals we’ve found (so far)",
-          "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+          "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
+          "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
           "source": "The Verge",
-          "published": "2026-11-27T14:19:44.000Z"
+          "published": "2026-11-27T15:15:28.000Z"
         },
         {
-          "title": "Android’s DIY widgets are a bit of vibe-coding fun",
-          "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+          "title": "Buying a laptop right now is rough, but these Black Friday deals help",
+          "link": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
           "source": "The Verge",
-          "published": "2026-11-27T14:00:00.000Z"
+          "published": "2026-11-27T14:30:00.000Z"
         },
         {
           "title": "Intel faced a choice: Give Trump 10% or face the consequences",
