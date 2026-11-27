@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T05:20:44.760Z",
+  "updated": "2026-11-27T11:20:45.455Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-27T05:15:26.000Z"
-        },
-        {
-          "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-          "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-27T03:28:15.000Z"
-        },
-        {
-          "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-          "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+          "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+          "link": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
           "source": "NPR",
-          "published": "2026-11-26T13:47:09.000Z"
+          "published": "2026-11-27T10:59:36.000Z"
+        },
+        {
+          "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+          "link": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-27T10:39:31.000Z"
+        },
+        {
+          "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+          "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-27T10:28:35.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+          "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+          "source": "CNBC",
+          "published": "2026-11-27T11:00:01.000Z"
+        },
         {
           "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
           "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=81da3ea0-76aa-43a0-b9cb-21ff0b219994&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-26T16:49:38.000Z"
-        },
-        {
-          "title": "Stock-index futures and global equity markets point to Friday gains on Wall St.",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aff11f9b-12f2-46e0-9667-35960dd0d790&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-26T16:15:45.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Netflix’s coziest show has made a very quiet return",
-          "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+          "title": "Our favorite headphones and earbuds are cheaper than ever for Black Friday",
+          "link": "https://www.theverge.com/gadgets/1040292/best-black-friday-headphone-earbud-deals-2026",
           "source": "The Verge",
-          "published": "2026-11-26T21:00:00.000Z"
+          "published": "2026-11-27T10:30:00.000Z"
         },
         {
-          "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
-          "link": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+          "title": "The absolute best Black Friday deals we’ve found (so far)",
+          "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
           "source": "The Verge",
-          "published": "2026-11-26T19:00:00.000Z"
+          "published": "2026-11-27T09:35:30.000Z"
         },
         {
-          "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
-          "link": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+          "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+          "link": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
           "source": "Ars Technica",
-          "published": "2026-11-26T18:00:29.000Z"
+          "published": "2026-11-27T08:00:53.000Z"
         }
       ]
     }
