@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T21:20:48.532Z",
+  "updated": "2026-11-27T22:20:45.577Z",
   "failed": [],
   "sections": [
     {
@@ -7,16 +7,16 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-27T22:03:46.000Z"
+        },
+        {
           "title": "Spanish PM and rivals rally supporters in final pitch for votes",
           "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-27T20:57:04.000Z"
-        },
-        {
-          "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-          "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-27T20:34:45.000Z"
+          "published": "2026-11-27T21:55:53.000Z"
         },
         {
           "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
@@ -31,22 +31,22 @@
       "name": "Business",
       "items": [
         {
+          "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+          "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+          "source": "CNBC",
+          "published": "2026-11-27T22:00:57.000Z"
+        },
+        {
+          "title": "These stocks soared the most during the wild week on Wall Street",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d9baf9af-37f0-4df3-8934-42c904ceaf6a&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-27T21:26:25.000Z"
+        },
+        {
           "title": "Dow, S&P 500 clinch best weekly gains of the year",
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e1eacab1-b5ac-4df2-b12a-4dcad71d6731&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-27T18:02:49.000Z"
-        },
-        {
-          "title": "The artificial-intelligence trade is breaking a foundational rule of economics",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4c739c92-c54a-45fa-b6c2-c097bffefee1&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-27T17:02:29.000Z"
-        },
-        {
-          "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
-          "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
-          "source": "CNBC",
-          "published": "2026-11-27T11:00:01.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The absolute best Black Friday deals we’ve found (so far)",
-          "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+          "title": "Allstate has been suffering an outage since Monday",
+          "link": "https://www.theverge.com/tech/1044612/allstate-has-been-suffering-an-outage-since-monday",
           "source": "The Verge",
-          "published": "2026-11-27T21:09:43.000Z"
+          "published": "2026-11-27T21:52:42.000Z"
         },
         {
-          "title": "My favorite MPC beat maker is ready for your vibe-coded firmware and effects",
-          "link": "https://www.theverge.com/gadgets/1044485/mpc-sample-firmware-sdk",
+          "title": "The 25 best gaming deals we’ve found so far for Black Friday",
+          "link": "https://www.theverge.com/gadgets/1042951/best-black-friday-gaming-deals-ps5-nintendo-2026-sale",
           "source": "The Verge",
-          "published": "2026-11-27T20:48:04.000Z"
+          "published": "2026-11-27T21:50:00.000Z"
         },
         {
           "title": "The best Black Friday deals Ars could find",
