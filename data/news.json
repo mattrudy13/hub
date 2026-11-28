@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T13:20:45.618Z",
+  "updated": "2026-11-28T14:20:46.938Z",
   "failed": [],
   "sections": [
     {
@@ -7,22 +7,22 @@
       "name": "US & World",
       "items": [
         {
+          "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+          "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-28T14:10:01.000Z"
+        },
+        {
           "title": "Argentina's bid to stop Falklands oil drilling rejected",
           "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "published": "2026-11-28T13:02:39.000Z"
+          "published": "2026-11-28T13:36:36.000Z"
         },
         {
           "title": "Perspective: A hero's name lives on",
           "link": "https://www.npr.org/2026/11/28/nx-s1-6045586/perspective-a-heros-name-lives-on",
           "source": "NPR",
           "published": "2026-11-28T13:00:00.000Z"
-        },
-        {
-          "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
-          "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-28T12:49:44.000Z"
         }
       ]
     },
@@ -30,6 +30,12 @@
       "key": "business",
       "name": "Business",
       "items": [
+        {
+          "title": "These tech stocks may let you play defense without giving up on AI",
+          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e2c5b1c4-3da2-4a87-923e-a80dd280bd48&mod=mw_rss_bulletins",
+          "source": "MarketWatch",
+          "published": "2026-11-28T14:13:16.000Z"
+        },
         {
           "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
           "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
@@ -41,12 +47,6 @@
           "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d9baf9af-37f0-4df3-8934-42c904ceaf6a&mod=mw_rss_bulletins",
           "source": "MarketWatch",
           "published": "2026-11-27T21:26:25.000Z"
-        },
-        {
-          "title": "Dow, S&P 500 clinch best weekly gains of the year",
-          "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e1eacab1-b5ac-4df2-b12a-4dcad71d6731&mod=mw_rss_bulletins",
-          "source": "MarketWatch",
-          "published": "2026-11-27T18:02:49.000Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Here’s how to make that new Black Friday TV look its best",
-          "link": "https://www.theverge.com/tech/1042700/change-these-tv-settings",
+          "title": "The Alexa Photo Frame is the Echo Show without the bits you hate",
+          "link": "https://www.theverge.com/tech/1043764/amazon-alexa-photo-frame-review",
           "source": "The Verge",
-          "published": "2026-11-28T13:00:00.000Z"
+          "published": "2026-11-28T14:00:00.000Z"
+        },
+        {
+          "title": "Almost every great Black Friday deal is still happening this weekend",
+          "link": "https://www.theverge.com/gadgets/1045110/best-black-friday-still-happening-2026-deals-tech-gadgets-gift-ideas",
+          "source": "The Verge",
+          "published": "2026-11-28T13:57:03.000Z"
         },
         {
           "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
           "link": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
           "source": "Ars Technica",
           "published": "2026-11-28T12:00:20.000Z"
-        },
-        {
-          "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
-          "link": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
-          "source": "The Verge",
-          "published": "2026-11-28T03:30:00.000Z"
         }
       ]
     }
