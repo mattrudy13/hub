@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T01:20:47.176Z",
+  "updated": "2026-11-28T02:20:45.802Z",
   "minLine": 7,
   "days": [
     "2026-11-26",
@@ -48,6 +48,28 @@
         "abbr": "UTSA",
         "rank": null,
         "score": 61
+      }
+    },
+    {
+      "league": "cbb",
+      "date": "2026-11-27",
+      "id": "401911380",
+      "line": 9.5,
+      "details": "ETSU -9.5",
+      "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911380/charleston-so-etsu",
+      "winner": {
+        "id": "2127",
+        "name": "Charleston So",
+        "abbr": "CHSO",
+        "rank": null,
+        "score": 76
+      },
+      "loser": {
+        "id": "2193",
+        "name": "ETSU",
+        "abbr": "ETSU",
+        "rank": null,
+        "score": 67
       }
     },
     {
@@ -594,6 +616,11 @@
       "line": null
     },
     "cbb:401933055": {
+      "date": "2026-11-27",
+      "fav": null,
+      "line": null
+    },
+    "cbb:401918980": {
       "date": "2026-11-27",
       "fav": null,
       "line": null
