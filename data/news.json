@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-28T15:20:47.088Z",
+  "updated": "2026-11-28T16:20:45.059Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested",
+          "link": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "published": "2026-11-28T16:18:58.000Z"
+        },
         {
           "title": "COP31 climate talks fail to reach an agreement on fossil fuel language",
           "link": "https://www.npr.org/2026/11/28/nx-s1-6050187/cop31-talks-fall-apart",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-28T14:10:01.000Z"
-        },
-        {
-          "title": "Argentina's bid to stop Falklands oil drilling rejected",
-          "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "published": "2026-11-28T13:36:36.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "Almost every great Black Friday deal is still happening this weekend",
-          "link": "https://www.theverge.com/gadgets/1045110/best-black-friday-still-happening-2026-deals-tech-gadgets-gift-ideas",
+          "title": "Here’s what other Verge readers bought during Black Friday",
+          "link": "https://www.theverge.com/gadgets/1045251/what-verge-readers-bought-black-friday",
           "source": "The Verge",
-          "published": "2026-11-28T15:17:57.000Z"
+          "published": "2026-11-28T16:17:05.000Z"
         },
         {
-          "title": "Kodak’s ultra-cute Charmera keychain camera is on sale for just $30",
-          "link": "https://www.theverge.com/gadgets/1044917/kodak-charmera-keychain-digital-camera-black-friday-deal-sale-2026",
+          "title": "Police reportedly turn water cannons on protesters outside Meta offices in India",
+          "link": "https://www.theverge.com/tech/1045256/indian-police-reportedly-turn-water-cannons-on-protesters-outside-meta-offices",
           "source": "The Verge",
-          "published": "2026-11-28T15:13:51.000Z"
+          "published": "2026-11-28T16:04:47.000Z"
         },
         {
           "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
