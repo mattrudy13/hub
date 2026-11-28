@@ -1,11 +1,33 @@
 {
-  "updated": "2026-11-27T23:20:49.026Z",
+  "updated": "2026-11-28T00:20:56.540Z",
   "minLine": 7,
   "days": [
     "2026-11-26",
     "2026-11-27"
   ],
   "upsets": [
+    {
+      "league": "cfb",
+      "date": "2026-11-27",
+      "id": "401862838",
+      "line": 19.5,
+      "details": "MEM -19.5",
+      "link": "https://www.espn.com/college-football/game/_/gameId/401862838/temple-memphis",
+      "winner": {
+        "id": "218",
+        "name": "Temple",
+        "abbr": "TEM",
+        "rank": null,
+        "score": 35
+      },
+      "loser": {
+        "id": "235",
+        "name": "Memphis",
+        "abbr": "MEM",
+        "rank": null,
+        "score": 31
+      }
+    },
     {
       "league": "cbb",
       "date": "2026-11-26",
@@ -247,14 +269,14 @@
     "cfb:401856756": {
       "date": "2026-11-27",
       "fav": "251",
-      "line": 10.5,
-      "details": "TEX -10.5"
+      "line": 10,
+      "details": "TEX -10"
     },
     "cfb:401858544": {
       "date": "2026-11-27",
       "fav": "275",
-      "line": 9.5,
-      "details": "WIS -9.5"
+      "line": 8.5,
+      "details": "WIS -8.5"
     },
     "cfb:401856880": {
       "date": "2026-11-27",
