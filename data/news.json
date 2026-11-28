@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-28T14:20:46.938Z",
+  "updated": "2026-11-28T15:20:47.088Z",
   "failed": [],
   "sections": [
     {
       "key": "world",
       "name": "US & World",
       "items": [
+        {
+          "title": "COP31 climate talks fail to reach an agreement on fossil fuel language",
+          "link": "https://www.npr.org/2026/11/28/nx-s1-6050187/cop31-talks-fall-apart",
+          "source": "NPR",
+          "published": "2026-11-28T14:28:45.000Z"
+        },
         {
           "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
           "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-28T13:36:36.000Z"
-        },
-        {
-          "title": "Perspective: A hero's name lives on",
-          "link": "https://www.npr.org/2026/11/28/nx-s1-6045586/perspective-a-heros-name-lives-on",
-          "source": "NPR",
-          "published": "2026-11-28T13:00:00.000Z"
         }
       ]
     },
@@ -55,16 +55,16 @@
       "name": "Tech",
       "items": [
         {
-          "title": "The Alexa Photo Frame is the Echo Show without the bits you hate",
-          "link": "https://www.theverge.com/tech/1043764/amazon-alexa-photo-frame-review",
-          "source": "The Verge",
-          "published": "2026-11-28T14:00:00.000Z"
-        },
-        {
           "title": "Almost every great Black Friday deal is still happening this weekend",
           "link": "https://www.theverge.com/gadgets/1045110/best-black-friday-still-happening-2026-deals-tech-gadgets-gift-ideas",
           "source": "The Verge",
-          "published": "2026-11-28T13:57:03.000Z"
+          "published": "2026-11-28T15:17:57.000Z"
+        },
+        {
+          "title": "Kodak’s ultra-cute Charmera keychain camera is on sale for just $30",
+          "link": "https://www.theverge.com/gadgets/1044917/kodak-charmera-keychain-digital-camera-black-friday-deal-sale-2026",
+          "source": "The Verge",
+          "published": "2026-11-28T15:13:51.000Z"
         },
         {
           "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
