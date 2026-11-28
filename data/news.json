@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T11:20:45.270Z",
+  "updated": "2026-11-28T11:59:26.486Z",
   "failed": [],
   "sections": [
     {
@@ -7,7 +7,13 @@
       "name": "US & World",
       "items": [
         {
-          "title": "Ten students killed and over 100 injured in explosion in Afghanistan, official says",
+          "title": "Explosion at a school in eastern Afghanistan kills 7, wounds more than 90",
+          "link": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
+          "source": "NPR",
+          "published": "2026-11-28T11:32:37.000Z"
+        },
+        {
+          "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
           "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-28T11:18:37.000Z"
@@ -17,12 +23,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "published": "2026-11-28T10:34:58.000Z"
-        },
-        {
-          "title": "New wave of Democratic attorneys general may reshape the justice system",
-          "link": "https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas",
-          "source": "NPR",
-          "published": "2026-11-28T10:00:00.000Z"
         }
       ]
     },
